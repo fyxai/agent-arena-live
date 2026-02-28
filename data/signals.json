@@ -12,55 +12,44 @@
       "full_name": "zhayujie/chatgpt-on-wechat",
       "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
       "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-      "stars": 41594,
-      "forks": 9775,
+      "stars": 41613,
+      "forks": 9777,
       "language": "Python",
-      "pushed_at": "2026-02-28T02:53:28Z",
-      "updated_at": "2026-02-28T04:50:22Z"
+      "pushed_at": "2026-02-28T08:47:06Z",
+      "updated_at": "2026-02-28T08:48:44Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40366,
-      "forks": 3722,
+      "stars": 40383,
+      "forks": 3721,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T05:21:36Z",
-      "updated_at": "2026-02-28T05:49:53Z"
+      "pushed_at": "2026-02-28T07:20:47Z",
+      "updated_at": "2026-02-28T08:54:14Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 20988,
-      "forks": 3339,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend for Agents & Generative UI. React + Angular",
+      "stars": 29078,
+      "forks": 3781,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T02:32:55Z",
-      "updated_at": "2026-02-28T05:17:04Z"
+      "pushed_at": "2026-02-28T06:14:47Z",
+      "updated_at": "2026-02-28T08:42:11Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17285,
-      "forks": 1319,
+      "stars": 17321,
+      "forks": 1321,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T04:28:14Z",
-      "updated_at": "2026-02-28T05:41:17Z"
-    },
-    {
-      "id": 609539715,
-      "full_name": "e2b-dev/E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 11062,
-      "forks": 785,
-      "language": "MDX",
-      "pushed_at": "2026-02-28T02:33:02Z",
-      "updated_at": "2026-02-28T03:29:53Z"
+      "pushed_at": "2026-02-28T08:38:07Z",
+      "updated_at": "2026-02-28T08:56:16Z"
     },
     {
       "id": 900577388,
@@ -70,96 +59,63 @@
       "stars": 6487,
       "forks": 699,
       "language": "Python",
-      "pushed_at": "2026-02-28T03:20:44Z",
-      "updated_at": "2026-02-28T03:20:20Z"
+      "pushed_at": "2026-02-28T07:00:12Z",
+      "updated_at": "2026-02-28T07:00:17Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4175,
-      "forks": 816,
-      "language": "HTML",
-      "pushed_at": "2026-02-28T03:26:16Z",
-      "updated_at": "2026-02-28T03:26:21Z"
-    },
-    {
-      "id": 1020834440,
-      "full_name": "memodb-io/Acontext",
-      "html_url": "https://github.com/memodb-io/Acontext",
-      "description": "The Agent Memory Stack",
-      "stars": 3073,
-      "forks": 280,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T04:15:23Z",
-      "updated_at": "2026-02-28T04:15:27Z"
-    },
-    {
-      "id": 114540126,
-      "full_name": "SciSharp/BotSharp",
-      "html_url": "https://github.com/SciSharp/BotSharp",
-      "description": "AI Multi-Agent Framework in .NET",
-      "stars": 3017,
-      "forks": 616,
-      "language": "C#",
-      "pushed_at": "2026-02-28T04:45:31Z",
-      "updated_at": "2026-02-28T04:45:35Z"
-    },
-    {
-      "id": 1145420469,
-      "full_name": "moltis-org/moltis",
-      "html_url": "https://github.com/moltis-org/moltis",
-      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1627,
-      "forks": 161,
-      "language": "Rust",
-      "pushed_at": "2026-02-28T05:50:11Z",
-      "updated_at": "2026-02-28T05:47:57Z"
+      "id": 1142423471,
+      "full_name": "mindfold-ai/Trellis",
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "All-in-one AI framework & toolkit",
+      "stars": 2851,
+      "forks": 146,
+      "language": "Python",
+      "pushed_at": "2026-02-28T07:12:47Z",
+      "updated_at": "2026-02-28T08:28:18Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 1580,
-      "forks": 117,
+      "stars": 1639,
+      "forks": 120,
       "language": "Python",
       "pushed_at": "2026-02-28T05:43:35Z",
-      "updated_at": "2026-02-28T05:49:17Z"
+      "updated_at": "2026-02-28T08:55:39Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 1637,
+      "forks": 160,
+      "language": "Rust",
+      "pushed_at": "2026-02-28T08:02:50Z",
+      "updated_at": "2026-02-28T08:55:30Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1507,
+      "stars": 1509,
       "forks": 113,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T05:36:29Z",
-      "updated_at": "2026-02-28T05:36:28Z"
+      "updated_at": "2026-02-28T08:14:18Z"
     },
     {
-      "id": 1141706975,
-      "full_name": "yohey-w/multi-agent-shogun",
-      "html_url": "https://github.com/yohey-w/multi-agent-shogun",
-      "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
-      "stars": 986,
-      "forks": 218,
-      "language": "Shell",
-      "pushed_at": "2026-02-28T03:35:55Z",
-      "updated_at": "2026-02-28T03:16:39Z"
-    },
-    {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 964,
-      "forks": 101,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T04:16:47Z",
-      "updated_at": "2026-02-28T04:04:08Z"
+      "id": 901554449,
+      "full_name": "stakpak/agent",
+      "html_url": "https://github.com/stakpak/agent",
+      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+      "stars": 1035,
+      "forks": 103,
+      "language": "Rust",
+      "pushed_at": "2026-02-28T05:52:54Z",
+      "updated_at": "2026-02-28T05:52:57Z"
     },
     {
       "id": 1129412343,
@@ -171,6 +127,50 @@
       "language": "TypeScript",
       "pushed_at": "2026-02-28T05:36:25Z",
       "updated_at": "2026-02-28T05:36:29Z"
+    },
+    {
+      "id": 796089121,
+      "full_name": "SAILResearch/awesome-foundation-model-leaderboards",
+      "html_url": "https://github.com/SAILResearch/awesome-foundation-model-leaderboards",
+      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "stars": 317,
+      "forks": 36,
+      "language": "Unknown",
+      "pushed_at": "2026-02-28T06:12:10Z",
+      "updated_at": "2026-02-28T06:12:03Z"
+    },
+    {
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
+      "stars": 247,
+      "forks": 76,
+      "language": "Go",
+      "pushed_at": "2026-02-28T08:45:39Z",
+      "updated_at": "2026-02-28T08:45:43Z"
+    },
+    {
+      "id": 1122681704,
+      "full_name": "team9ai/team9",
+      "html_url": "https://github.com/team9ai/team9",
+      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
+      "stars": 168,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T08:55:23Z",
+      "updated_at": "2026-02-28T08:55:26Z"
+    },
+    {
+      "id": 1124639648,
+      "full_name": "adnaan-worker/Adnify",
+      "html_url": "https://github.com/adnaan-worker/Adnify",
+      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
+      "stars": 145,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T07:37:39Z",
+      "updated_at": "2026-02-28T07:37:42Z"
     }
   ]
 }
