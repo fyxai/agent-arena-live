@@ -1,0 +1,9 @@
+{
+  "project": "Agent Arena Live",
+  "description": "Tracks active open-source AI agent repositories from GitHub signals.",
+  "source": {
+    "type": "github-search",
+    "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
+  },
+  "items": []
+}

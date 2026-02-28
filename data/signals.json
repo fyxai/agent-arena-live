@@ -1,0 +1,176 @@
+{
+  "project": "Agent Arena Live",
+  "description": "Tracks active open-source AI agent repositories from GitHub signals.",
+  "source": {
+    "type": "github-search",
+    "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
+  },
+  "total_found": 265,
+  "items": [
+    {
+      "id": 522158088,
+      "full_name": "zhayujie/chatgpt-on-wechat",
+      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
+      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
+      "stars": 41590,
+      "forks": 9773,
+      "language": "Python",
+      "pushed_at": "2026-02-28T02:53:28Z",
+      "updated_at": "2026-02-28T02:53:34Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 40351,
+      "forks": 3719,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T02:11:30Z",
+      "updated_at": "2026-02-28T03:08:24Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend for Agents & Generative UI. React + Angular",
+      "stars": 29070,
+      "forks": 3780,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-27T23:24:58Z",
+      "updated_at": "2026-02-28T02:33:00Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 20986,
+      "forks": 3338,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T02:32:55Z",
+      "updated_at": "2026-02-28T01:09:13Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11062,
+      "forks": 785,
+      "language": "MDX",
+      "pushed_at": "2026-02-28T02:33:02Z",
+      "updated_at": "2026-02-28T02:12:30Z"
+    },
+    {
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 4175,
+      "forks": 816,
+      "language": "HTML",
+      "pushed_at": "2026-02-27T23:52:16Z",
+      "updated_at": "2026-02-28T00:07:55Z"
+    },
+    {
+      "id": 1006251566,
+      "full_name": "zebbern/claude-code-guide",
+      "html_url": "https://github.com/zebbern/claude-code-guide",
+      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+      "stars": 3482,
+      "forks": 325,
+      "language": "Unknown",
+      "pushed_at": "2026-02-28T00:44:54Z",
+      "updated_at": "2026-02-28T01:52:46Z"
+    },
+    {
+      "id": 1142423471,
+      "full_name": "mindfold-ai/Trellis",
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "All-in-one AI framework & toolkit",
+      "stars": 2811,
+      "forks": 142,
+      "language": "Python",
+      "pushed_at": "2026-02-28T02:27:14Z",
+      "updated_at": "2026-02-28T03:04:48Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 1624,
+      "forks": 160,
+      "language": "Rust",
+      "pushed_at": "2026-02-28T02:54:07Z",
+      "updated_at": "2026-02-28T02:47:46Z"
+    },
+    {
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "stars": 1533,
+      "forks": 114,
+      "language": "Python",
+      "pushed_at": "2026-02-28T02:19:20Z",
+      "updated_at": "2026-02-28T03:08:49Z"
+    },
+    {
+      "id": 901554449,
+      "full_name": "stakpak/agent",
+      "html_url": "https://github.com/stakpak/agent",
+      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+      "stars": 1034,
+      "forks": 103,
+      "language": "Rust",
+      "pushed_at": "2026-02-28T02:12:46Z",
+      "updated_at": "2026-02-28T02:12:48Z"
+    },
+    {
+      "id": 1141706975,
+      "full_name": "yohey-w/multi-agent-shogun",
+      "html_url": "https://github.com/yohey-w/multi-agent-shogun",
+      "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
+      "stars": 986,
+      "forks": 218,
+      "language": "Shell",
+      "pushed_at": "2026-02-28T02:53:08Z",
+      "updated_at": "2026-02-28T02:53:10Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 963,
+      "forks": 101,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T03:06:36Z",
+      "updated_at": "2026-02-28T01:32:58Z"
+    },
+    {
+      "id": 987112345,
+      "full_name": "Alchemyst-ai/awesome-saas",
+      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
+      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
+      "stars": 411,
+      "forks": 60,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T02:31:59Z",
+      "updated_at": "2026-02-28T02:32:02Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 317,
+      "forks": 16,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-27T21:44:53Z",
+      "updated_at": "2026-02-28T03:09:44Z"
+    }
+  ]
+}

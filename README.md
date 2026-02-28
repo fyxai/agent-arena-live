@@ -1,12 +1,27 @@
 # Agent Arena Live
 
-A live benchmark arena where multiple AI agents solve the same real-world tasks (debugging, planning, coding) and are ranked by speed, cost, and correctness.
+Tracks active open-source AI agent repositories from GitHub signals.
 
-## Why interesting
-- Trending: multi-agent + eval + leaderboard
-- Useful: transparent agent performance comparison
+## Quick start
 
-## Next milestone
-- Task runner
-- Unified scoring schema
-- Public leaderboard API
+```bash
+npm ci
+npm run update-data
+npm run build
+npm run start
+```
+
+## Scripts
+
+- `npm run update-data` — fetches public GitHub signals and updates `data/signals.json`
+- `npm run build` — validates generated JSON
+- `npm run start` — prints a concise top-list view in the terminal
+
+## Automation
+
+A GitHub Actions workflow at `.github/workflows/update.yml` runs every 4 hours:
+
+- cron: `0 */4 * * *`
+- runs `npm ci`
+- runs `npm run update-data`
+- commits and pushes only when `data/signals.json` changed
