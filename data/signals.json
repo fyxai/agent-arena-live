@@ -12,66 +12,77 @@
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40406,
+      "stars": 40412,
       "forks": 3726,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T15:55:52Z",
-      "updated_at": "2026-02-28T16:48:51Z"
+      "updated_at": "2026-02-28T20:39:58Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17389,
+      "stars": 17397,
       "forks": 1328,
       "language": "TypeScript",
       "pushed_at": "2026-02-28T15:13:45Z",
-      "updated_at": "2026-02-28T16:38:15Z"
+      "updated_at": "2026-02-28T20:03:41Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 12766,
-      "forks": 781,
-      "language": "Python",
-      "pushed_at": "2026-02-28T13:51:46Z",
-      "updated_at": "2026-02-28T16:43:37Z"
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11071,
+      "forks": 786,
+      "language": "MDX",
+      "pushed_at": "2026-02-28T19:09:08Z",
+      "updated_at": "2026-02-28T19:09:11Z"
+    },
+    {
+      "id": 1006251566,
+      "full_name": "zebbern/claude-code-guide",
+      "html_url": "https://github.com/zebbern/claude-code-guide",
+      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+      "stars": 3485,
+      "forks": 325,
+      "language": "Unknown",
+      "pushed_at": "2026-02-28T20:45:02Z",
+      "updated_at": "2026-02-28T20:45:05Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 1731,
-      "forks": 128,
+      "stars": 1801,
+      "forks": 137,
       "language": "Python",
       "pushed_at": "2026-02-28T14:19:44Z",
-      "updated_at": "2026-02-28T16:52:05Z"
+      "updated_at": "2026-02-28T20:48:52Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1657,
+      "stars": 1664,
       "forks": 161,
       "language": "Rust",
-      "pushed_at": "2026-02-28T15:28:19Z",
-      "updated_at": "2026-02-28T16:39:46Z"
+      "pushed_at": "2026-02-28T19:40:30Z",
+      "updated_at": "2026-02-28T20:29:18Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1520,
+      "stars": 1525,
       "forks": 116,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T15:16:36Z",
-      "updated_at": "2026-02-28T16:07:03Z"
+      "pushed_at": "2026-02-28T20:34:34Z",
+      "updated_at": "2026-02-28T20:44:58Z"
     },
     {
       "id": 1096175506,
@@ -81,8 +92,8 @@
       "stars": 1019,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T16:38:40Z",
-      "updated_at": "2026-02-28T16:30:38Z"
+      "pushed_at": "2026-02-28T17:46:39Z",
+      "updated_at": "2026-02-28T17:37:10Z"
     },
     {
       "id": 952999410,
@@ -103,30 +114,41 @@
       "stars": 705,
       "forks": 65,
       "language": "Python",
-      "pushed_at": "2026-02-28T16:48:14Z",
-      "updated_at": "2026-02-28T16:48:19Z"
+      "pushed_at": "2026-02-28T19:33:12Z",
+      "updated_at": "2026-02-28T19:33:16Z"
+    },
+    {
+      "id": 1133660268,
+      "full_name": "OpenCoworkAI/open-cowork",
+      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
+      "description": "Open Cowork - Opensource Claude Cowork for Windows & macOS.",
+      "stars": 388,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-02-28T15:34:46Z",
+      "updated_at": "2026-02-28T20:25:34Z"
     },
     {
       "id": 1164376059,
       "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
       "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
       "description": "🇨🇳 OpenClaw（AI 智能体）新手入门+中文最佳用例大全 | 29 个真实场景：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 331,
+      "stars": 334,
       "forks": 39,
       "language": "Unknown",
       "pushed_at": "2026-02-28T15:15:37Z",
-      "updated_at": "2026-02-28T16:35:32Z"
+      "updated_at": "2026-02-28T19:35:29Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 259,
-      "forks": 80,
+      "stars": 262,
+      "forks": 81,
       "language": "Go",
       "pushed_at": "2026-02-28T16:39:59Z",
-      "updated_at": "2026-02-28T16:44:39Z"
+      "updated_at": "2026-02-28T20:33:51Z"
     },
     {
       "id": 1122681704,
@@ -147,30 +169,8 @@
       "stars": 161,
       "forks": 14,
       "language": "Go",
-      "pushed_at": "2026-02-28T16:05:52Z",
-      "updated_at": "2026-02-28T16:05:56Z"
-    },
-    {
-      "id": 1124639648,
-      "full_name": "adnaan-worker/Adnify",
-      "html_url": "https://github.com/adnaan-worker/Adnify",
-      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
-      "stars": 145,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T14:16:10Z",
-      "updated_at": "2026-02-28T13:33:32Z"
-    },
-    {
-      "id": 778951389,
-      "full_name": "olasunkanmi-SE/codebuddy",
-      "html_url": "https://github.com/olasunkanmi-SE/codebuddy",
-      "description": "An Autonomous AI Software Engineer",
-      "stars": 106,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T13:23:49Z",
-      "updated_at": "2026-02-28T13:23:53Z"
+      "pushed_at": "2026-02-28T19:44:04Z",
+      "updated_at": "2026-02-28T19:38:16Z"
     }
   ]
 }
