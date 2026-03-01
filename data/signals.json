@@ -5,84 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 268,
+  "total_found": 270,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40412,
-      "forks": 3726,
+      "stars": 40420,
+      "forks": 3731,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T15:55:52Z",
-      "updated_at": "2026-02-28T20:39:58Z"
+      "pushed_at": "2026-03-01T00:38:17Z",
+      "updated_at": "2026-03-01T05:09:15Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend for Agents & Generative UI. React + Angular",
+      "stars": 29098,
+      "forks": 3785,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T05:12:01Z",
+      "updated_at": "2026-03-01T05:08:44Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21006,
+      "forks": 3351,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T00:56:33Z",
+      "updated_at": "2026-03-01T03:37:26Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17397,
-      "forks": 1328,
+      "stars": 17432,
+      "forks": 1332,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T15:13:45Z",
-      "updated_at": "2026-02-28T20:03:41Z"
-    },
-    {
-      "id": 609539715,
-      "full_name": "e2b-dev/E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 11071,
-      "forks": 786,
-      "language": "MDX",
-      "pushed_at": "2026-02-28T19:09:08Z",
-      "updated_at": "2026-02-28T19:09:11Z"
+      "pushed_at": "2026-03-01T05:03:57Z",
+      "updated_at": "2026-03-01T05:10:25Z"
     },
     {
       "id": 1006251566,
       "full_name": "zebbern/claude-code-guide",
       "html_url": "https://github.com/zebbern/claude-code-guide",
       "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
-      "stars": 3485,
-      "forks": 325,
+      "stars": 3487,
+      "forks": 324,
       "language": "Unknown",
-      "pushed_at": "2026-02-28T20:45:02Z",
-      "updated_at": "2026-02-28T20:45:05Z"
+      "pushed_at": "2026-03-01T00:57:06Z",
+      "updated_at": "2026-03-01T03:49:24Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 1801,
-      "forks": 137,
+      "stars": 2439,
+      "forks": 174,
       "language": "Python",
-      "pushed_at": "2026-02-28T14:19:44Z",
-      "updated_at": "2026-02-28T20:48:52Z"
+      "pushed_at": "2026-03-01T04:38:54Z",
+      "updated_at": "2026-03-01T05:11:46Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1664,
-      "forks": 161,
+      "stars": 1672,
+      "forks": 163,
       "language": "Rust",
-      "pushed_at": "2026-02-28T19:40:30Z",
-      "updated_at": "2026-02-28T20:29:18Z"
+      "pushed_at": "2026-03-01T05:10:27Z",
+      "updated_at": "2026-03-01T05:10:28Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1525,
+      "stars": 1542,
       "forks": 116,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T20:34:34Z",
-      "updated_at": "2026-02-28T20:44:58Z"
+      "pushed_at": "2026-03-01T03:03:48Z",
+      "updated_at": "2026-03-01T05:07:18Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1051,
+      "forks": 107,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T02:53:31Z",
+      "updated_at": "2026-03-01T05:11:02Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +114,63 @@
       "stars": 1019,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T17:46:39Z",
-      "updated_at": "2026-02-28T17:37:10Z"
+      "pushed_at": "2026-03-01T05:05:34Z",
+      "updated_at": "2026-03-01T05:05:37Z"
     },
     {
-      "id": 952999410,
-      "full_name": "LSTM-Kirigaya/openmcp-client",
-      "html_url": "https://github.com/LSTM-Kirigaya/openmcp-client",
-      "description": "All in one vscode plugin for mcp developer",
-      "stars": 731,
-      "forks": 48,
-      "language": "Vue",
-      "pushed_at": "2026-02-28T14:47:16Z",
-      "updated_at": "2026-02-28T14:47:20Z"
+      "id": 1141706975,
+      "full_name": "yohey-w/multi-agent-shogun",
+      "html_url": "https://github.com/yohey-w/multi-agent-shogun",
+      "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
+      "stars": 997,
+      "forks": 220,
+      "language": "Shell",
+      "pushed_at": "2026-03-01T00:10:15Z",
+      "updated_at": "2026-03-01T04:21:07Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 705,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-02-28T19:33:12Z",
-      "updated_at": "2026-02-28T19:33:16Z"
-    },
-    {
-      "id": 1133660268,
-      "full_name": "OpenCoworkAI/open-cowork",
-      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
-      "description": "Open Cowork - Opensource Claude Cowork for Windows & macOS.",
-      "stars": 388,
-      "forks": 40,
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 967,
+      "forks": 102,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T15:34:46Z",
-      "updated_at": "2026-02-28T20:25:34Z"
+      "pushed_at": "2026-03-01T03:46:38Z",
+      "updated_at": "2026-03-01T03:52:24Z"
     },
     {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（AI 智能体）新手入门+中文最佳用例大全 | 29 个真实场景：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 334,
-      "forks": 39,
+      "id": 784773119,
+      "full_name": "SamurAIGPT/awesome-openclaw",
+      "html_url": "https://github.com/SamurAIGPT/awesome-openclaw",
+      "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+      "stars": 707,
+      "forks": 120,
       "language": "Unknown",
-      "pushed_at": "2026-02-28T15:15:37Z",
-      "updated_at": "2026-02-28T19:35:29Z"
+      "pushed_at": "2026-03-01T04:25:27Z",
+      "updated_at": "2026-03-01T04:25:31Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 262,
-      "forks": 81,
-      "language": "Go",
-      "pushed_at": "2026-02-28T16:39:59Z",
-      "updated_at": "2026-02-28T20:33:51Z"
-    },
-    {
-      "id": 1122681704,
-      "full_name": "team9ai/team9",
-      "html_url": "https://github.com/team9ai/team9",
-      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
-      "stars": 169,
-      "forks": 17,
+      "id": 1159653516,
+      "full_name": "SixHq/Overture",
+      "html_url": "https://github.com/SixHq/Overture",
+      "description": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. ",
+      "stars": 578,
+      "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-02-28T14:33:11Z",
-      "updated_at": "2026-02-28T14:30:31Z"
+      "pushed_at": "2026-03-01T02:30:05Z",
+      "updated_at": "2026-03-01T02:30:08Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "alekspetrov/pilot",
-      "html_url": "https://github.com/alekspetrov/pilot",
-      "description": "AI that ships your tickets - autonomous dev pipeline with Claude Code",
-      "stars": 161,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-02-28T19:44:04Z",
-      "updated_at": "2026-02-28T19:38:16Z"
+      "id": 987112345,
+      "full_name": "Alchemyst-ai/awesome-saas",
+      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
+      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
+      "stars": 412,
+      "forks": 60,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T03:15:34Z",
+      "updated_at": "2026-03-01T03:15:38Z"
     }
   ]
 }
