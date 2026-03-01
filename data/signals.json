@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 272,
+  "total_found": 273,
   "items": [
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40452,
-      "forks": 3734,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-01T14:42:23Z",
-      "updated_at": "2026-03-01T16:27:32Z"
-    },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21010,
+      "stars": 21011,
       "forks": 3354,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T16:31:43Z",
-      "updated_at": "2026-03-01T16:53:35Z"
+      "pushed_at": "2026-03-01T20:51:54Z",
+      "updated_at": "2026-03-01T17:34:45Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17508,
-      "forks": 1342,
+      "id": 1139782619,
+      "full_name": "waoowaooAI/waoowaoo",
+      "html_url": "https://github.com/waoowaooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 4612,
+      "forks": 1069,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T15:40:19Z",
-      "updated_at": "2026-03-01T16:47:41Z"
+      "pushed_at": "2026-03-01T18:35:13Z",
+      "updated_at": "2026-03-01T20:52:43Z"
+    },
+    {
+      "id": 1006251566,
+      "full_name": "zebbern/claude-code-guide",
+      "html_url": "https://github.com/zebbern/claude-code-guide",
+      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+      "stars": 3492,
+      "forks": 324,
+      "language": "Unknown",
+      "pushed_at": "2026-03-01T17:52:10Z",
+      "updated_at": "2026-03-01T17:52:13Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1689,
-      "forks": 167,
+      "stars": 1693,
+      "forks": 170,
       "language": "Rust",
-      "pushed_at": "2026-03-01T15:07:48Z",
-      "updated_at": "2026-03-01T16:34:52Z"
+      "pushed_at": "2026-03-01T19:19:49Z",
+      "updated_at": "2026-03-01T20:12:05Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1556,
+      "stars": 1558,
       "forks": 118,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T14:52:05Z",
-      "updated_at": "2026-03-01T16:46:50Z"
+      "pushed_at": "2026-03-01T19:53:43Z",
+      "updated_at": "2026-03-01T19:53:46Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1175,
+      "forks": 115,
+      "language": "Go",
+      "pushed_at": "2026-03-01T20:20:50Z",
+      "updated_at": "2026-03-01T20:20:52Z"
     },
     {
       "id": 1096175506,
@@ -70,63 +81,74 @@
       "stars": 1019,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-03-01T16:39:12Z",
-      "updated_at": "2026-03-01T16:05:07Z"
+      "pushed_at": "2026-03-01T18:03:19Z",
+      "updated_at": "2026-03-01T18:03:22Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 709,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-03-01T15:16:52Z",
-      "updated_at": "2026-03-01T15:16:57Z"
+      "id": 952999410,
+      "full_name": "LSTM-Kirigaya/openmcp-client",
+      "html_url": "https://github.com/LSTM-Kirigaya/openmcp-client",
+      "description": "All in one vscode plugin for mcp developer",
+      "stars": 730,
+      "forks": 48,
+      "language": "Vue",
+      "pushed_at": "2026-03-01T17:02:37Z",
+      "updated_at": "2026-03-01T17:02:40Z"
     },
     {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（AI 智能体）新手入门+中文最佳用例大全 | 37 个真实场景（国内+国际）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 381,
-      "forks": 43,
-      "language": "Unknown",
-      "pushed_at": "2026-03-01T14:11:48Z",
-      "updated_at": "2026-03-01T16:34:36Z"
-    },
-    {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 288,
-      "forks": 92,
+      "id": 463439055,
+      "full_name": "mynaparrot/plugNmeet-server",
+      "html_url": "https://github.com/mynaparrot/plugNmeet-server",
+      "description": "The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent.",
+      "stars": 430,
+      "forks": 105,
       "language": "Go",
-      "pushed_at": "2026-03-01T14:56:16Z",
-      "updated_at": "2026-03-01T16:38:38Z"
+      "pushed_at": "2026-03-01T20:37:16Z",
+      "updated_at": "2026-03-01T20:36:52Z"
+    },
+    {
+      "id": 1133660268,
+      "full_name": "OpenCoworkAI/open-cowork",
+      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
+      "description": "Open Cowork - Opensource Claude Cowork for Windows & macOS.",
+      "stars": 426,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T18:38:02Z",
+      "updated_at": "2026-03-01T20:32:57Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 336,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-01T17:44:59Z",
+      "updated_at": "2026-03-01T18:51:55Z"
     },
     {
       "id": 1155099363,
       "full_name": "AidanPark/openclaw-android",
       "html_url": "https://github.com/AidanPark/openclaw-android",
       "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
-      "stars": 254,
+      "stars": 256,
       "forks": 41,
       "language": "Shell",
-      "pushed_at": "2026-03-01T16:10:36Z",
-      "updated_at": "2026-03-01T16:10:39Z"
+      "pushed_at": "2026-03-01T17:26:34Z",
+      "updated_at": "2026-03-01T19:49:46Z"
     },
     {
-      "id": 1135791677,
-      "full_name": "lsdefine/pc-agent-loop",
-      "html_url": "https://github.com/lsdefine/pc-agent-loop",
-      "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
-      "stars": 239,
-      "forks": 25,
-      "language": "Python",
-      "pushed_at": "2026-03-01T15:20:12Z",
-      "updated_at": "2026-03-01T16:34:10Z"
+      "id": 1169145602,
+      "full_name": "geekjourneyx/jina-cli",
+      "html_url": "https://github.com/geekjourneyx/jina-cli",
+      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
+      "stars": 149,
+      "forks": 16,
+      "language": "Go",
+      "pushed_at": "2026-03-01T16:54:51Z",
+      "updated_at": "2026-03-01T19:31:12Z"
     },
     {
       "id": 1158838298,
@@ -136,41 +158,19 @@
       "stars": 148,
       "forks": 22,
       "language": "Kotlin",
-      "pushed_at": "2026-03-01T16:32:37Z",
-      "updated_at": "2026-03-01T16:32:40Z"
+      "pushed_at": "2026-03-01T18:46:37Z",
+      "updated_at": "2026-03-01T18:46:41Z"
     },
     {
-      "id": 1169145602,
-      "full_name": "geekjourneyx/jina-cli",
-      "html_url": "https://github.com/geekjourneyx/jina-cli",
-      "description": "A lightweight CLI tool wrapping Jina AI Reader API for AI Agents. Fetch and parse any URL into LLM-friendly   formats (Markdown/Text/HTML). Perfect for reading X(Twitter), blogs, and news sites.",
-      "stars": 146,
-      "forks": 16,
-      "language": "Go",
-      "pushed_at": "2026-03-01T16:54:51Z",
-      "updated_at": "2026-03-01T16:54:54Z"
-    },
-    {
-      "id": 1124639648,
-      "full_name": "adnaan-worker/Adnify",
-      "html_url": "https://github.com/adnaan-worker/Adnify",
-      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
       "stars": 145,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-01T14:55:41Z",
-      "updated_at": "2026-03-01T14:55:37Z"
-    },
-    {
-      "id": 1094226297,
-      "full_name": "FrankChen021/datastoria",
-      "html_url": "https://github.com/FrankChen021/datastoria",
-      "description": "AI-native ClickHouse console for query generation, optimization, visualization, and cluster diagnostics.",
-      "stars": 131,
-      "forks": 9,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-01T16:31:28Z",
-      "updated_at": "2026-03-01T16:16:02Z"
+      "forks": 3,
+      "language": "ReScript",
+      "pushed_at": "2026-03-01T20:23:47Z",
+      "updated_at": "2026-03-01T19:52:26Z"
     }
   ]
 }
