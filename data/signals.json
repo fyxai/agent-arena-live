@@ -8,169 +8,169 @@
   "total_found": 277,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40537,
-      "forks": 3740,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-02T17:23:52Z",
-      "updated_at": "2026-03-02T17:57:02Z"
-    },
-    {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29122,
-      "forks": 3790,
+      "stars": 29123,
+      "forks": 3791,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T18:01:20Z",
-      "updated_at": "2026-03-02T17:57:50Z"
+      "pushed_at": "2026-03-02T20:32:31Z",
+      "updated_at": "2026-03-02T19:43:10Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21032,
-      "forks": 3357,
+      "stars": 21035,
+      "forks": 3358,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T17:48:26Z",
-      "updated_at": "2026-03-02T17:53:14Z"
+      "pushed_at": "2026-03-02T21:46:00Z",
+      "updated_at": "2026-03-02T21:48:12Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11088,
+      "forks": 787,
+      "language": "MDX",
+      "pushed_at": "2026-03-02T21:07:15Z",
+      "updated_at": "2026-03-02T20:13:21Z"
     },
     {
       "id": 1010318950,
       "full_name": "SWE-agent/mini-swe-agent",
       "html_url": "https://github.com/SWE-agent/mini-swe-agent",
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
-      "stars": 3063,
+      "stars": 3065,
       "forks": 405,
       "language": "Python",
-      "pushed_at": "2026-03-02T16:18:14Z",
-      "updated_at": "2026-03-02T16:18:37Z"
-    },
-    {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、传统深度学习、自动驾驶、AI Agent、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3023,
-      "forks": 343,
-      "language": "Unknown",
-      "pushed_at": "2026-03-02T16:18:15Z",
-      "updated_at": "2026-03-02T16:18:40Z"
-    },
-    {
-      "id": 114540126,
-      "full_name": "SciSharp/BotSharp",
-      "html_url": "https://github.com/SciSharp/BotSharp",
-      "description": "AI Multi-Agent Framework in .NET",
-      "stars": 3018,
-      "forks": 616,
-      "language": "C#",
-      "pushed_at": "2026-03-02T17:04:47Z",
-      "updated_at": "2026-03-02T17:04:52Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2285,
-      "forks": 183,
-      "language": "Rust",
-      "pushed_at": "2026-03-02T15:56:04Z",
-      "updated_at": "2026-03-02T15:56:09Z"
+      "pushed_at": "2026-03-02T18:58:17Z",
+      "updated_at": "2026-03-02T18:57:58Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1753,
-      "forks": 183,
+      "stars": 1759,
+      "forks": 185,
       "language": "Rust",
-      "pushed_at": "2026-03-02T16:58:00Z",
-      "updated_at": "2026-03-02T17:38:40Z"
+      "pushed_at": "2026-03-02T21:48:09Z",
+      "updated_at": "2026-03-02T21:32:57Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1589,
-      "forks": 121,
+      "stars": 1598,
+      "forks": 122,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T16:02:53Z",
-      "updated_at": "2026-03-02T17:18:37Z"
+      "pushed_at": "2026-03-02T20:17:36Z",
+      "updated_at": "2026-03-02T21:40:06Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1220,
-      "forks": 118,
+      "stars": 1228,
+      "forks": 119,
       "language": "Go",
-      "pushed_at": "2026-03-02T16:54:01Z",
-      "updated_at": "2026-03-02T16:54:06Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1020,
-      "forks": 45,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-02T16:42:19Z",
-      "updated_at": "2026-03-02T16:35:15Z"
+      "pushed_at": "2026-03-02T19:21:41Z",
+      "updated_at": "2026-03-02T21:48:08Z"
     },
     {
       "id": 945671748,
       "full_name": "openops-cloud/openops",
       "html_url": "https://github.com/openops-cloud/openops",
       "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 996,
+      "stars": 997,
       "forks": 171,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T17:58:06Z",
-      "updated_at": "2026-03-02T16:15:17Z"
+      "pushed_at": "2026-03-02T19:52:22Z",
+      "updated_at": "2026-03-02T18:44:17Z"
     },
     {
       "id": 1051086270,
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 973,
+      "stars": 974,
       "forks": 102,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T17:53:39Z",
-      "updated_at": "2026-03-02T16:42:29Z"
+      "pushed_at": "2026-03-02T21:47:54Z",
+      "updated_at": "2026-03-02T21:47:26Z"
     },
     {
-      "id": 1138349022,
-      "full_name": "vercel-labs/knowledge-agent-template",
-      "html_url": "https://github.com/vercel-labs/knowledge-agent-template",
-      "description": "Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base",
-      "stars": 519,
-      "forks": 53,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 710,
+      "forks": 65,
+      "language": "Python",
+      "pushed_at": "2026-03-02T21:36:59Z",
+      "updated_at": "2026-03-02T21:37:03Z"
+    },
+    {
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 586,
+      "forks": 65,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T16:29:23Z",
-      "updated_at": "2026-03-02T18:01:09Z"
+      "pushed_at": "2026-03-02T20:25:50Z",
+      "updated_at": "2026-03-02T20:25:55Z"
+    },
+    {
+      "id": 1159653516,
+      "full_name": "SixHq/Overture",
+      "html_url": "https://github.com/SixHq/Overture",
+      "description": "Overture is an open-source, locally running web interface delivered as an MCP (Model Context Protocol) server that visually maps out the execution plan of any AI coding agent as an interactive flowchart/graph before the agent begins writing code. ",
+      "stars": 581,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-02T19:22:07Z",
+      "updated_at": "2026-03-02T19:03:43Z"
     },
     {
       "id": 1142800652,
       "full_name": "debba/tabularis",
       "html_url": "https://github.com/debba/tabularis",
       "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 344,
-      "forks": 17,
+      "stars": 348,
+      "forks": 18,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T16:58:47Z",
-      "updated_at": "2026-03-02T17:33:12Z"
+      "pushed_at": "2026-03-02T20:51:45Z",
+      "updated_at": "2026-03-02T21:38:46Z"
+    },
+    {
+      "id": 1073816026,
+      "full_name": "poly-mcp/PolyMCP",
+      "html_url": "https://github.com/poly-mcp/PolyMCP",
+      "description": "Polymcp provides a simple and efficient way to interact with MCP servers using custom agents",
+      "stars": 159,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-02T18:25:50Z",
+      "updated_at": "2026-03-02T18:25:54Z"
+    },
+    {
+      "id": 1158396731,
+      "full_name": "krillclaw/KrillClaw",
+      "html_url": "https://github.com/krillclaw/KrillClaw",
+      "description": "The world's smallest AI agent runtime. 49KB. Written in Zig. Zero dependencies.",
+      "stars": 134,
+      "forks": 9,
+      "language": "Zig",
+      "pushed_at": "2026-03-02T18:08:16Z",
+      "updated_at": "2026-03-02T18:08:20Z"
     }
   ]
 }
