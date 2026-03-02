@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 276,
+  "total_found": 277,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40523,
-      "forks": 3741,
+      "stars": 40537,
+      "forks": 3740,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T14:14:32Z",
-      "updated_at": "2026-03-02T14:19:41Z"
+      "pushed_at": "2026-03-02T17:23:52Z",
+      "updated_at": "2026-03-02T17:57:02Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29119,
+      "stars": 29122,
       "forks": 3790,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T14:20:05Z",
-      "updated_at": "2026-03-02T13:59:32Z"
+      "pushed_at": "2026-03-02T18:01:20Z",
+      "updated_at": "2026-03-02T17:57:50Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21031,
-      "forks": 3356,
+      "stars": 21032,
+      "forks": 3357,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T14:14:34Z",
-      "updated_at": "2026-03-02T13:38:27Z"
+      "pushed_at": "2026-03-02T17:48:26Z",
+      "updated_at": "2026-03-02T17:53:14Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 12797,
-      "forks": 784,
+      "id": 1010318950,
+      "full_name": "SWE-agent/mini-swe-agent",
+      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "stars": 3063,
+      "forks": 405,
       "language": "Python",
-      "pushed_at": "2026-03-02T13:08:41Z",
-      "updated_at": "2026-03-02T14:22:23Z"
+      "pushed_at": "2026-03-02T16:18:14Z",
+      "updated_at": "2026-03-02T16:18:37Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4196,
-      "forks": 820,
-      "language": "HTML",
-      "pushed_at": "2026-03-02T14:29:41Z",
-      "updated_at": "2026-03-02T14:29:47Z"
+      "id": 704959035,
+      "full_name": "WeThinkIn/AIGC-Interview-Book",
+      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、传统深度学习、自动驾驶、AI Agent、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+      "stars": 3023,
+      "forks": 343,
+      "language": "Unknown",
+      "pushed_at": "2026-03-02T16:18:15Z",
+      "updated_at": "2026-03-02T16:18:40Z"
     },
     {
       "id": 114540126,
@@ -70,19 +70,8 @@
       "stars": 3018,
       "forks": 616,
       "language": "C#",
-      "pushed_at": "2026-03-02T14:16:24Z",
-      "updated_at": "2026-03-02T14:16:29Z"
-    },
-    {
-      "id": 1142423471,
-      "full_name": "mindfold-ai/Trellis",
-      "html_url": "https://github.com/mindfold-ai/Trellis",
-      "description": "All-in-one AI framework & toolkit",
-      "stars": 2987,
-      "forks": 150,
-      "language": "Python",
-      "pushed_at": "2026-03-02T13:42:04Z",
-      "updated_at": "2026-03-02T14:28:42Z"
+      "pushed_at": "2026-03-02T17:04:47Z",
+      "updated_at": "2026-03-02T17:04:52Z"
     },
     {
       "id": 116590428,
@@ -92,41 +81,52 @@
       "stars": 2285,
       "forks": 183,
       "language": "Rust",
-      "pushed_at": "2026-03-02T14:16:17Z",
-      "updated_at": "2026-03-02T14:24:03Z"
+      "pushed_at": "2026-03-02T15:56:04Z",
+      "updated_at": "2026-03-02T15:56:09Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 1753,
+      "forks": 183,
+      "language": "Rust",
+      "pushed_at": "2026-03-02T16:58:00Z",
+      "updated_at": "2026-03-02T17:38:40Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1584,
-      "forks": 120,
+      "stars": 1589,
+      "forks": 121,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T12:25:19Z",
-      "updated_at": "2026-03-02T13:24:32Z"
+      "pushed_at": "2026-03-02T16:02:53Z",
+      "updated_at": "2026-03-02T17:18:37Z"
     },
     {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1081,
-      "forks": 110,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-02T13:07:27Z",
-      "updated_at": "2026-03-02T14:24:40Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1220,
+      "forks": 118,
+      "language": "Go",
+      "pushed_at": "2026-03-02T16:54:01Z",
+      "updated_at": "2026-03-02T16:54:06Z"
     },
     {
-      "id": 901554449,
-      "full_name": "stakpak/agent",
-      "html_url": "https://github.com/stakpak/agent",
-      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
-      "stars": 1041,
-      "forks": 105,
-      "language": "Rust",
-      "pushed_at": "2026-03-02T13:45:08Z",
-      "updated_at": "2026-03-02T13:45:13Z"
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "the easiest way to run natural language-described workflows automatically",
+      "stars": 1020,
+      "forks": 45,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-02T16:42:19Z",
+      "updated_at": "2026-03-02T16:35:15Z"
     },
     {
       "id": 945671748,
@@ -136,41 +136,41 @@
       "stars": 996,
       "forks": 171,
       "language": "TypeScript",
-      "pushed_at": "2026-03-02T14:22:24Z",
-      "updated_at": "2026-03-02T14:04:32Z"
+      "pushed_at": "2026-03-02T17:58:06Z",
+      "updated_at": "2026-03-02T16:15:17Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 358,
-      "forks": 101,
-      "language": "Go",
-      "pushed_at": "2026-03-02T13:34:31Z",
-      "updated_at": "2026-03-02T13:42:05Z"
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 973,
+      "forks": 102,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-02T17:53:39Z",
+      "updated_at": "2026-03-02T16:42:29Z"
     },
     {
-      "id": 1135791677,
-      "full_name": "lsdefine/pc-agent-loop",
-      "html_url": "https://github.com/lsdefine/pc-agent-loop",
-      "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
-      "stars": 326,
-      "forks": 47,
-      "language": "Python",
-      "pushed_at": "2026-03-02T13:24:57Z",
-      "updated_at": "2026-03-02T13:25:01Z"
+      "id": 1138349022,
+      "full_name": "vercel-labs/knowledge-agent-template",
+      "html_url": "https://github.com/vercel-labs/knowledge-agent-template",
+      "description": "Open source file-system and knowledge based agent template. Build AI agents that stay up to date with your knowledge base",
+      "stars": 519,
+      "forks": 53,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-02T16:29:23Z",
+      "updated_at": "2026-03-02T18:01:09Z"
     },
     {
-      "id": 1158838298,
-      "full_name": "Natfii/ZeroClaw-Android",
-      "html_url": "https://github.com/Natfii/ZeroClaw-Android",
-      "description": "Run AI agents 24/7 on your Android phone. Native Rust core, 25+ providers (OpenAI, Claude, Gemini, Groq, DeepSeek,         Ollama), encrypted key storage, plugin browser, Material You UI. Self-hosted alternative to Mac Mini setups. MIT           licensed.",
-      "stars": 162,
-      "forks": 25,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-02T14:14:38Z",
-      "updated_at": "2026-03-02T14:23:13Z"
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 344,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-02T16:58:47Z",
+      "updated_at": "2026-03-02T17:33:12Z"
     }
   ]
 }
