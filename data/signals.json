@@ -12,143 +12,110 @@
       "full_name": "zhayujie/chatgpt-on-wechat",
       "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
       "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-      "stars": 41764,
-      "forks": 9791,
+      "stars": 41788,
+      "forks": 9795,
       "language": "Python",
-      "pushed_at": "2026-03-03T03:38:52Z",
-      "updated_at": "2026-03-03T04:34:50Z"
+      "pushed_at": "2026-03-03T08:06:53Z",
+      "updated_at": "2026-03-03T09:49:24Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40565,
-      "forks": 3746,
+      "stars": 40599,
+      "forks": 3750,
       "language": "TypeScript",
-      "pushed_at": "2026-03-03T04:49:30Z",
-      "updated_at": "2026-03-03T04:49:38Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29129,
-      "forks": 3791,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-03T03:46:04Z",
-      "updated_at": "2026-03-03T03:33:09Z"
+      "pushed_at": "2026-03-03T10:04:39Z",
+      "updated_at": "2026-03-03T10:06:36Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21039,
+      "stars": 21045,
       "forks": 3358,
       "language": "TypeScript",
-      "pushed_at": "2026-03-03T04:04:38Z",
-      "updated_at": "2026-03-03T03:31:22Z"
+      "pushed_at": "2026-03-03T10:01:51Z",
+      "updated_at": "2026-03-03T10:06:05Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17664,
-      "forks": 1356,
+      "stars": 17691,
+      "forks": 1357,
       "language": "TypeScript",
-      "pushed_at": "2026-03-03T03:17:42Z",
-      "updated_at": "2026-03-03T05:03:55Z"
+      "pushed_at": "2026-03-03T10:03:15Z",
+      "updated_at": "2026-03-03T10:03:21Z"
     },
     {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!",
-      "stars": 6488,
-      "forks": 699,
-      "language": "Python",
-      "pushed_at": "2026-03-03T04:03:58Z",
-      "updated_at": "2026-03-03T04:04:04Z"
+      "id": 1139782619,
+      "full_name": "waoowaooAI/waoowaoo",
+      "html_url": "https://github.com/waoowaooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 7146,
+      "forks": 1437,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-03T08:29:45Z",
+      "updated_at": "2026-03-03T10:02:11Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 4549,
-      "forks": 318,
+      "stars": 4856,
+      "forks": 348,
       "language": "Python",
-      "pushed_at": "2026-03-03T03:19:42Z",
-      "updated_at": "2026-03-03T05:06:57Z"
+      "pushed_at": "2026-03-03T09:24:06Z",
+      "updated_at": "2026-03-03T10:05:49Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4204,
-      "forks": 820,
-      "language": "HTML",
-      "pushed_at": "2026-03-03T05:06:39Z",
-      "updated_at": "2026-03-03T04:55:38Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2288,
-      "forks": 183,
-      "language": "Rust",
-      "pushed_at": "2026-03-03T02:49:51Z",
-      "updated_at": "2026-03-03T02:49:55Z"
+      "id": 1142423471,
+      "full_name": "mindfold-ai/Trellis",
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "All-in-one AI framework & toolkit",
+      "stars": 3023,
+      "forks": 150,
+      "language": "Python",
+      "pushed_at": "2026-03-03T09:44:55Z",
+      "updated_at": "2026-03-03T09:44:59Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1776,
-      "forks": 187,
+      "stars": 1785,
+      "forks": 188,
       "language": "Rust",
-      "pushed_at": "2026-03-03T03:56:21Z",
-      "updated_at": "2026-03-03T04:44:14Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1608,
-      "forks": 123,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-03T04:47:11Z",
-      "updated_at": "2026-03-03T04:47:14Z"
-    },
-    {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1086,
-      "forks": 110,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-03T02:45:11Z",
-      "updated_at": "2026-03-03T04:38:36Z"
+      "pushed_at": "2026-03-03T08:01:10Z",
+      "updated_at": "2026-03-03T09:59:52Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1020,
+      "stars": 1021,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-03-03T04:38:37Z",
-      "updated_at": "2026-03-03T04:30:23Z"
+      "pushed_at": "2026-03-03T09:54:15Z",
+      "updated_at": "2026-03-03T09:49:45Z"
+    },
+    {
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 997,
+      "forks": 172,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-03T09:20:01Z",
+      "updated_at": "2026-03-03T08:27:49Z"
     },
     {
       "id": 1051086270,
@@ -158,19 +125,52 @@
       "stars": 975,
       "forks": 102,
       "language": "TypeScript",
-      "pushed_at": "2026-03-03T04:28:06Z",
-      "updated_at": "2026-03-03T04:21:13Z"
+      "pushed_at": "2026-03-03T08:00:42Z",
+      "updated_at": "2026-03-03T06:44:44Z"
     },
     {
-      "id": 987112345,
-      "full_name": "Alchemyst-ai/awesome-saas",
-      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
-      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
-      "stars": 412,
-      "forks": 60,
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 586,
+      "forks": 65,
       "language": "TypeScript",
-      "pushed_at": "2026-03-03T02:49:17Z",
-      "updated_at": "2026-03-03T02:49:21Z"
+      "pushed_at": "2026-03-03T08:03:51Z",
+      "updated_at": "2026-03-03T08:03:48Z"
+    },
+    {
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
+      "stars": 411,
+      "forks": 110,
+      "language": "Go",
+      "pushed_at": "2026-03-03T09:53:28Z",
+      "updated_at": "2026-03-03T10:04:25Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 402,
+      "forks": 21,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-03T09:34:28Z",
+      "updated_at": "2026-03-03T09:58:01Z"
+    },
+    {
+      "id": 951163887,
+      "full_name": "garylab/MakeMoneyWithAI",
+      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
+      "description": "A list of open-source AI projects you can use to generate income easily.",
+      "stars": 223,
+      "forks": 51,
+      "language": "Python",
+      "pushed_at": "2026-03-03T09:01:01Z",
+      "updated_at": "2026-03-03T09:01:32Z"
     }
   ]
 }
