@@ -5,128 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 282,
+  "total_found": 286,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40660,
-      "forks": 3753,
+      "stars": 40689,
+      "forks": 3759,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T04:28:02Z",
-      "updated_at": "2026-03-04T04:46:02Z"
+      "pushed_at": "2026-03-04T09:39:37Z",
+      "updated_at": "2026-03-04T09:40:39Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21054,
-      "forks": 3365,
+      "stars": 21060,
+      "forks": 3367,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T02:45:34Z",
-      "updated_at": "2026-03-04T04:44:54Z"
+      "pushed_at": "2026-03-04T09:57:35Z",
+      "updated_at": "2026-03-04T09:57:58Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17752,
-      "forks": 1367,
+      "stars": 17781,
+      "forks": 1372,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T03:19:41Z",
-      "updated_at": "2026-03-04T04:52:03Z"
-    },
-    {
-      "id": 1028832403,
-      "full_name": "UfoMiao/zcf",
-      "html_url": "https://github.com/UfoMiao/zcf",
-      "description": "Zero-Config Code Flow for Claude code & Codex",
-      "stars": 5584,
-      "forks": 388,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-04T04:14:29Z",
-      "updated_at": "2026-03-04T04:47:12Z"
+      "pushed_at": "2026-03-04T09:54:31Z",
+      "updated_at": "2026-03-04T09:54:36Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 5513,
-      "forks": 392,
+      "stars": 5659,
+      "forks": 409,
       "language": "Python",
-      "pushed_at": "2026-03-04T02:48:00Z",
-      "updated_at": "2026-03-04T04:58:35Z"
+      "pushed_at": "2026-03-04T09:47:59Z",
+      "updated_at": "2026-03-04T09:55:39Z"
+    },
+    {
+      "id": 1165277268,
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 4776,
+      "forks": 363,
+      "language": "Python",
+      "pushed_at": "2026-03-04T10:02:07Z",
+      "updated_at": "2026-03-04T10:02:10Z"
+    },
+    {
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 4218,
+      "forks": 823,
+      "language": "HTML",
+      "pushed_at": "2026-03-04T09:17:35Z",
+      "updated_at": "2026-03-04T09:53:33Z"
     },
     {
       "id": 1142423471,
       "full_name": "mindfold-ai/Trellis",
       "html_url": "https://github.com/mindfold-ai/Trellis",
       "description": "All-in-one AI framework & toolkit",
-      "stars": 3055,
-      "forks": 151,
+      "stars": 3074,
+      "forks": 152,
       "language": "Python",
-      "pushed_at": "2026-03-04T04:54:17Z",
-      "updated_at": "2026-03-04T04:57:31Z"
-    },
-    {
-      "id": 1145420469,
-      "full_name": "moltis-org/moltis",
-      "html_url": "https://github.com/moltis-org/moltis",
-      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1814,
-      "forks": 189,
-      "language": "Rust",
-      "pushed_at": "2026-03-04T04:56:09Z",
-      "updated_at": "2026-03-04T04:40:49Z"
+      "pushed_at": "2026-03-04T09:40:51Z",
+      "updated_at": "2026-03-04T09:57:39Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1022,
+      "stars": 1023,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T04:58:07Z",
-      "updated_at": "2026-03-04T04:58:10Z"
+      "pushed_at": "2026-03-04T10:00:22Z",
+      "updated_at": "2026-03-04T09:55:17Z"
     },
     {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 977,
-      "forks": 102,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1000,
+      "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T03:54:03Z",
-      "updated_at": "2026-03-04T03:21:31Z"
+      "pushed_at": "2026-03-04T10:00:46Z",
+      "updated_at": "2026-03-04T10:01:02Z"
     },
     {
-      "id": 784773119,
-      "full_name": "SamurAIGPT/awesome-openclaw",
-      "html_url": "https://github.com/SamurAIGPT/awesome-openclaw",
-      "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
-      "stars": 731,
-      "forks": 129,
-      "language": "Unknown",
-      "pushed_at": "2026-03-04T04:27:10Z",
-      "updated_at": "2026-03-04T04:27:14Z"
-    },
-    {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景，更新中（国内特色用例 + 海外用例的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 597,
-      "forks": 68,
-      "language": "Unknown",
-      "pushed_at": "2026-03-04T04:57:13Z",
-      "updated_at": "2026-03-04T04:57:17Z"
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 587,
+      "forks": 65,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-04T09:35:15Z",
+      "updated_at": "2026-03-04T09:34:44Z"
     },
     {
       "id": 845317529,
@@ -136,41 +125,52 @@
       "stars": 491,
       "forks": 105,
       "language": "TypeScript",
-      "pushed_at": "2026-03-04T04:20:59Z",
-      "updated_at": "2026-03-04T04:28:06Z"
+      "pushed_at": "2026-03-04T09:13:03Z",
+      "updated_at": "2026-03-04T09:13:08Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 434,
+      "stars": 449,
       "forks": 119,
       "language": "Go",
-      "pushed_at": "2026-03-04T04:41:51Z",
-      "updated_at": "2026-03-04T04:41:55Z"
+      "pushed_at": "2026-03-04T09:10:22Z",
+      "updated_at": "2026-03-04T09:54:25Z"
     },
     {
-      "id": 987112345,
-      "full_name": "Alchemyst-ai/awesome-saas",
-      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
-      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
-      "stars": 412,
-      "forks": 61,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-04T02:41:46Z",
-      "updated_at": "2026-03-04T02:41:49Z"
+      "id": 1164725227,
+      "full_name": "aspasskiy/GoGogot",
+      "html_url": "https://github.com/aspasskiy/GoGogot",
+      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+      "stars": 404,
+      "forks": 0,
+      "language": "Go",
+      "pushed_at": "2026-03-04T08:56:58Z",
+      "updated_at": "2026-03-04T08:57:03Z"
     },
     {
       "id": 1135791677,
       "full_name": "lsdefine/pc-agent-loop",
       "html_url": "https://github.com/lsdefine/pc-agent-loop",
       "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
-      "stars": 374,
-      "forks": 56,
+      "stars": 380,
+      "forks": 57,
       "language": "Python",
-      "pushed_at": "2026-03-04T04:02:52Z",
-      "updated_at": "2026-03-04T04:07:52Z"
+      "pushed_at": "2026-03-04T09:14:16Z",
+      "updated_at": "2026-03-04T09:14:19Z"
+    },
+    {
+      "id": 1122681704,
+      "full_name": "team9ai/team9",
+      "html_url": "https://github.com/team9ai/team9",
+      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
+      "stars": 171,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-04T09:17:43Z",
+      "updated_at": "2026-03-04T09:17:47Z"
     }
   ]
 }
