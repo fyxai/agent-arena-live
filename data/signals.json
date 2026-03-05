@@ -5,117 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 291,
+  "total_found": 294,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40740,
-      "forks": 3760,
+      "stars": 40775,
+      "forks": 3766,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T05:03:50Z",
-      "updated_at": "2026-03-05T05:03:53Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29169,
-      "forks": 3792,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-05T04:41:19Z",
-      "updated_at": "2026-03-05T03:42:24Z"
+      "pushed_at": "2026-03-05T09:53:56Z",
+      "updated_at": "2026-03-05T09:52:03Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21073,
-      "forks": 3367,
+      "stars": 21074,
+      "forks": 3372,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T04:21:23Z",
-      "updated_at": "2026-03-05T04:51:49Z"
+      "pushed_at": "2026-03-05T09:26:49Z",
+      "updated_at": "2026-03-05T09:42:28Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17829,
-      "forks": 1377,
+      "stars": 17869,
+      "forks": 1378,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T03:23:26Z",
-      "updated_at": "2026-03-05T04:37:14Z"
+      "pushed_at": "2026-03-05T08:52:29Z",
+      "updated_at": "2026-03-05T10:03:10Z"
     },
     {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 3210,
-      "forks": 76,
+      "stars": 6653,
+      "forks": 184,
       "language": "Rust",
-      "pushed_at": "2026-03-05T03:39:44Z",
-      "updated_at": "2026-03-05T05:05:48Z"
+      "pushed_at": "2026-03-05T09:14:45Z",
+      "updated_at": "2026-03-05T10:09:10Z"
     },
     {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1117,
-      "forks": 111,
+      "id": 1165277268,
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 5604,
+      "forks": 423,
+      "language": "Python",
+      "pushed_at": "2026-03-05T10:08:37Z",
+      "updated_at": "2026-03-05T10:08:40Z"
+    },
+    {
+      "id": 1020834440,
+      "full_name": "memodb-io/Acontext",
+      "html_url": "https://github.com/memodb-io/Acontext",
+      "description": "Agent Skills as a Memory Layer",
+      "stars": 3122,
+      "forks": 293,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T02:40:38Z",
-      "updated_at": "2026-03-05T02:40:42Z"
+      "pushed_at": "2026-03-05T10:05:44Z",
+      "updated_at": "2026-03-05T10:05:48Z"
+    },
+    {
+      "id": 1116658452,
+      "full_name": "aiflowy/aiflowy",
+      "html_url": "https://github.com/aiflowy/aiflowy",
+      "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
+      "stars": 1818,
+      "forks": 237,
+      "language": "Vue",
+      "pushed_at": "2026-03-05T10:04:58Z",
+      "updated_at": "2026-03-05T10:05:03Z"
+    },
+    {
+      "id": 949646929,
+      "full_name": "GetBindu/Bindu",
+      "html_url": "https://github.com/GetBindu/Bindu",
+      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
+      "stars": 1339,
+      "forks": 299,
+      "language": "Python",
+      "pushed_at": "2026-03-05T10:04:14Z",
+      "updated_at": "2026-03-05T10:04:18Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1025,
+      "stars": 1027,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T05:00:59Z",
-      "updated_at": "2026-03-05T05:00:15Z"
+      "pushed_at": "2026-03-05T10:07:21Z",
+      "updated_at": "2026-03-05T10:04:56Z"
     },
     {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 979,
-      "forks": 102,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1000,
+      "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T04:03:36Z",
-      "updated_at": "2026-03-05T03:56:01Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 712,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-03-05T03:09:44Z",
-      "updated_at": "2026-03-05T03:09:49Z"
+      "pushed_at": "2026-03-05T10:08:44Z",
+      "updated_at": "2026-03-05T09:41:23Z"
     },
     {
       "id": 954321799,
       "full_name": "truffle-ai/dexto",
       "html_url": "https://github.com/truffle-ai/dexto",
       "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
-      "stars": 588,
+      "stars": 592,
       "forks": 65,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T03:32:01Z",
-      "updated_at": "2026-03-05T05:04:35Z"
+      "pushed_at": "2026-03-05T09:34:35Z",
+      "updated_at": "2026-03-05T09:31:54Z"
     },
     {
       "id": 1129412343,
@@ -125,52 +136,41 @@
       "stars": 531,
       "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T03:35:53Z",
-      "updated_at": "2026-03-05T03:35:57Z"
+      "pushed_at": "2026-03-05T10:04:02Z",
+      "updated_at": "2026-03-05T10:04:05Z"
     },
     {
       "id": 845317529,
       "full_name": "giselles-ai/giselle",
       "html_url": "https://github.com/giselles-ai/giselle",
       "description": "Giselle: AI App Builder. Open Source.",
-      "stars": 491,
+      "stars": 492,
       "forks": 106,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T05:01:40Z",
-      "updated_at": "2026-03-05T04:01:52Z"
+      "pushed_at": "2026-03-05T09:25:00Z",
+      "updated_at": "2026-03-05T08:52:28Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 465,
-      "forks": 122,
-      "language": "Go",
-      "pushed_at": "2026-03-05T04:58:04Z",
-      "updated_at": "2026-03-05T04:58:08Z"
+      "id": 848182195,
+      "full_name": "Palm1r/QodeAssist",
+      "html_url": "https://github.com/Palm1r/QodeAssist",
+      "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+      "stars": 328,
+      "forks": 45,
+      "language": "C++",
+      "pushed_at": "2026-03-05T09:48:01Z",
+      "updated_at": "2026-03-05T09:48:25Z"
     },
     {
-      "id": 987112345,
-      "full_name": "Alchemyst-ai/awesome-saas",
-      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
-      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
-      "stars": 412,
-      "forks": 61,
+      "id": 1122681704,
+      "full_name": "team9ai/team9",
+      "html_url": "https://github.com/team9ai/team9",
+      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
+      "stars": 171,
+      "forks": 17,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T02:44:34Z",
-      "updated_at": "2026-03-05T02:44:37Z"
-    },
-    {
-      "id": 1088816938,
-      "full_name": "4ier/neo",
-      "html_url": "https://github.com/4ier/neo",
-      "description": "Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.",
-      "stars": 197,
-      "forks": 13,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-05T02:35:26Z",
-      "updated_at": "2026-03-05T04:58:36Z"
+      "pushed_at": "2026-03-05T10:00:09Z",
+      "updated_at": "2026-03-05T10:00:25Z"
     }
   ]
 }
