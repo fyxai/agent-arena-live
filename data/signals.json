@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 296,
+  "total_found": 298,
   "items": [
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29185,
+      "stars": 29186,
       "forks": 3794,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T18:50:47Z",
-      "updated_at": "2026-03-05T19:05:14Z"
+      "pushed_at": "2026-03-05T21:31:44Z",
+      "updated_at": "2026-03-05T21:31:48Z"
     },
     {
       "id": 573661753,
@@ -26,41 +26,41 @@
       "stars": 21086,
       "forks": 3376,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T18:50:08Z",
-      "updated_at": "2026-03-05T19:34:36Z"
+      "pushed_at": "2026-03-05T20:53:38Z",
+      "updated_at": "2026-03-05T19:56:30Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 12858,
+      "stars": 12861,
       "forks": 789,
       "language": "Python",
-      "pushed_at": "2026-03-05T17:47:40Z",
-      "updated_at": "2026-03-05T18:37:18Z"
+      "pushed_at": "2026-03-05T21:32:09Z",
+      "updated_at": "2026-03-05T20:15:18Z"
     },
     {
       "id": 609539715,
       "full_name": "e2b-dev/E2B",
       "html_url": "https://github.com/e2b-dev/E2B",
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 11132,
+      "stars": 11133,
       "forks": 791,
       "language": "MDX",
       "pushed_at": "2026-03-05T17:40:05Z",
-      "updated_at": "2026-03-05T16:20:18Z"
+      "updated_at": "2026-03-05T21:48:27Z"
     },
     {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 10601,
-      "forks": 321,
+      "stars": 11089,
+      "forks": 338,
       "language": "Rust",
-      "pushed_at": "2026-03-05T17:59:33Z",
-      "updated_at": "2026-03-05T19:46:29Z"
+      "pushed_at": "2026-03-05T21:50:06Z",
+      "updated_at": "2026-03-05T21:52:57Z"
     },
     {
       "id": 900577388,
@@ -85,26 +85,26 @@
       "updated_at": "2026-03-05T18:22:40Z"
     },
     {
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 2151,
+      "forks": 262,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-05T21:20:08Z",
+      "updated_at": "2026-03-05T21:20:12Z"
+    },
+    {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1859,
-      "forks": 201,
+      "stars": 1862,
+      "forks": 202,
       "language": "Rust",
-      "pushed_at": "2026-03-05T19:39:26Z",
-      "updated_at": "2026-03-05T19:39:30Z"
-    },
-    {
-      "id": 945671748,
-      "full_name": "openops-cloud/openops",
-      "html_url": "https://github.com/openops-cloud/openops",
-      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 1000,
-      "forks": 172,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-05T16:46:26Z",
-      "updated_at": "2026-03-05T16:16:11Z"
+      "pushed_at": "2026-03-05T20:33:33Z",
+      "updated_at": "2026-03-05T21:41:23Z"
     },
     {
       "id": 1051086270,
@@ -114,41 +114,19 @@
       "stars": 979,
       "forks": 102,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T19:27:01Z",
-      "updated_at": "2026-03-05T19:00:30Z"
+      "pushed_at": "2026-03-05T21:53:01Z",
+      "updated_at": "2026-03-05T21:35:50Z"
     },
     {
       "id": 1142800652,
       "full_name": "debba/tabularis",
       "html_url": "https://github.com/debba/tabularis",
       "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 535,
+      "stars": 542,
       "forks": 31,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T16:27:32Z",
-      "updated_at": "2026-03-05T19:31:44Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/pc-agent-loop",
-      "html_url": "https://github.com/lsdefine/pc-agent-loop",
-      "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
-      "stars": 401,
-      "forks": 61,
-      "language": "Python",
-      "pushed_at": "2026-03-05T16:09:59Z",
-      "updated_at": "2026-03-05T16:11:45Z"
-    },
-    {
-      "id": 1088816938,
-      "full_name": "4ier/neo",
-      "html_url": "https://github.com/4ier/neo",
-      "description": "Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.",
-      "stars": 387,
-      "forks": 29,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-05T16:19:39Z",
-      "updated_at": "2026-03-05T19:36:11Z"
+      "pushed_at": "2026-03-05T21:00:52Z",
+      "updated_at": "2026-03-05T21:48:18Z"
     },
     {
       "id": 1142397834,
@@ -158,19 +136,41 @@
       "stars": 186,
       "forks": 17,
       "language": "Go",
-      "pushed_at": "2026-03-05T18:47:30Z",
-      "updated_at": "2026-03-05T18:44:35Z"
+      "pushed_at": "2026-03-05T21:32:07Z",
+      "updated_at": "2026-03-05T21:32:09Z"
     },
     {
-      "id": 1094226297,
-      "full_name": "FrankChen021/datastoria",
-      "html_url": "https://github.com/FrankChen021/datastoria",
-      "description": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
-      "stars": 177,
-      "forks": 10,
+      "id": 1151959075,
+      "full_name": "suitedaces/dorabot",
+      "html_url": "https://github.com/suitedaces/dorabot",
+      "description": "macOS app for a 24/7 AI agent with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.",
+      "stars": 165,
+      "forks": 21,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T16:15:26Z",
-      "updated_at": "2026-03-05T17:36:19Z"
+      "pushed_at": "2026-03-05T20:21:15Z",
+      "updated_at": "2026-03-05T20:31:32Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 149,
+      "forks": 3,
+      "language": "ReScript",
+      "pushed_at": "2026-03-05T21:51:43Z",
+      "updated_at": "2026-03-05T20:56:49Z"
+    },
+    {
+      "id": 1153494379,
+      "full_name": "grinev/opencode-telegram-bot",
+      "html_url": "https://github.com/grinev/opencode-telegram-bot",
+      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine.",
+      "stars": 121,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-05T19:19:06Z",
+      "updated_at": "2026-03-05T20:04:47Z"
     }
   ]
 }
