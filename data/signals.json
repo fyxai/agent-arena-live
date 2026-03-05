@@ -8,59 +8,59 @@
   "total_found": 294,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40775,
-      "forks": 3766,
+      "id": 522158088,
+      "full_name": "zhayujie/chatgpt-on-wechat",
+      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
+      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
+      "stars": 41904,
+      "forks": 9792,
+      "language": "Python",
+      "pushed_at": "2026-03-05T13:14:13Z",
+      "updated_at": "2026-03-05T14:22:44Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend for Agents & Generative UI. React + Angular",
+      "stars": 29185,
+      "forks": 3793,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T09:53:56Z",
-      "updated_at": "2026-03-05T09:52:03Z"
+      "pushed_at": "2026-03-05T14:11:21Z",
+      "updated_at": "2026-03-05T14:23:57Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21074,
-      "forks": 3372,
+      "stars": 21078,
+      "forks": 3374,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T09:26:49Z",
-      "updated_at": "2026-03-05T09:42:28Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17869,
-      "forks": 1378,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-05T08:52:29Z",
-      "updated_at": "2026-03-05T10:03:10Z"
-    },
-    {
-      "id": 1171026502,
-      "full_name": "googleworkspace/cli",
-      "html_url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 6653,
-      "forks": 184,
-      "language": "Rust",
-      "pushed_at": "2026-03-05T09:14:45Z",
-      "updated_at": "2026-03-05T10:09:10Z"
+      "pushed_at": "2026-03-05T14:31:13Z",
+      "updated_at": "2026-03-05T14:04:57Z"
     },
     {
       "id": 1165277268,
       "full_name": "Panniantong/Agent-Reach",
       "html_url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 5604,
-      "forks": 423,
+      "stars": 5774,
+      "forks": 441,
       "language": "Python",
-      "pushed_at": "2026-03-05T10:08:37Z",
-      "updated_at": "2026-03-05T10:08:40Z"
+      "pushed_at": "2026-03-05T13:33:42Z",
+      "updated_at": "2026-03-05T14:33:04Z"
+    },
+    {
+      "id": 1142423471,
+      "full_name": "mindfold-ai/Trellis",
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "All-in-one AI framework & toolkit",
+      "stars": 3178,
+      "forks": 155,
+      "language": "Python",
+      "pushed_at": "2026-03-05T13:25:57Z",
+      "updated_at": "2026-03-05T14:14:26Z"
     },
     {
       "id": 1020834440,
@@ -70,30 +70,41 @@
       "stars": 3122,
       "forks": 293,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T10:05:44Z",
-      "updated_at": "2026-03-05T10:05:48Z"
-    },
-    {
-      "id": 1116658452,
-      "full_name": "aiflowy/aiflowy",
-      "html_url": "https://github.com/aiflowy/aiflowy",
-      "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
-      "stars": 1818,
-      "forks": 237,
-      "language": "Vue",
-      "pushed_at": "2026-03-05T10:04:58Z",
-      "updated_at": "2026-03-05T10:05:03Z"
+      "pushed_at": "2026-03-05T13:26:11Z",
+      "updated_at": "2026-03-05T13:26:22Z"
     },
     {
       "id": 949646929,
       "full_name": "GetBindu/Bindu",
       "html_url": "https://github.com/GetBindu/Bindu",
       "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
-      "stars": 1339,
+      "stars": 1340,
       "forks": 299,
       "language": "Python",
-      "pushed_at": "2026-03-05T10:04:14Z",
-      "updated_at": "2026-03-05T10:04:18Z"
+      "pushed_at": "2026-03-05T12:56:42Z",
+      "updated_at": "2026-03-05T12:56:46Z"
+    },
+    {
+      "id": 1122859216,
+      "full_name": "covibes/zeroshot",
+      "html_url": "https://github.com/covibes/zeroshot",
+      "description": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.",
+      "stars": 1267,
+      "forks": 103,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-05T13:30:09Z",
+      "updated_at": "2026-03-05T13:44:22Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1122,
+      "forks": 111,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-05T13:10:23Z",
+      "updated_at": "2026-03-05T14:01:28Z"
     },
     {
       "id": 1096175506,
@@ -103,8 +114,8 @@
       "stars": 1027,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T10:07:21Z",
-      "updated_at": "2026-03-05T10:04:56Z"
+      "pushed_at": "2026-03-05T14:33:43Z",
+      "updated_at": "2026-03-05T14:22:20Z"
     },
     {
       "id": 945671748,
@@ -114,19 +125,19 @@
       "stars": 1000,
       "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T10:08:44Z",
-      "updated_at": "2026-03-05T09:41:23Z"
+      "pushed_at": "2026-03-05T14:30:08Z",
+      "updated_at": "2026-03-05T13:28:01Z"
     },
     {
-      "id": 954321799,
-      "full_name": "truffle-ai/dexto",
-      "html_url": "https://github.com/truffle-ai/dexto",
-      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
-      "stars": 592,
-      "forks": 65,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-05T09:34:35Z",
-      "updated_at": "2026-03-05T09:31:54Z"
+      "id": 784773119,
+      "full_name": "SamurAIGPT/awesome-openclaw",
+      "html_url": "https://github.com/SamurAIGPT/awesome-openclaw",
+      "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+      "stars": 741,
+      "forks": 132,
+      "language": "Unknown",
+      "pushed_at": "2026-03-05T13:02:32Z",
+      "updated_at": "2026-03-05T14:12:50Z"
     },
     {
       "id": 1129412343,
@@ -136,41 +147,30 @@
       "stars": 531,
       "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T10:04:02Z",
-      "updated_at": "2026-03-05T10:04:05Z"
+      "pushed_at": "2026-03-05T13:42:46Z",
+      "updated_at": "2026-03-05T13:42:49Z"
     },
     {
-      "id": 845317529,
-      "full_name": "giselles-ai/giselle",
-      "html_url": "https://github.com/giselles-ai/giselle",
-      "description": "Giselle: AI App Builder. Open Source.",
-      "stars": 492,
-      "forks": 106,
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 526,
+      "forks": 31,
       "language": "TypeScript",
-      "pushed_at": "2026-03-05T09:25:00Z",
-      "updated_at": "2026-03-05T08:52:28Z"
+      "pushed_at": "2026-03-05T14:33:58Z",
+      "updated_at": "2026-03-05T14:04:30Z"
     },
     {
-      "id": 848182195,
-      "full_name": "Palm1r/QodeAssist",
-      "html_url": "https://github.com/Palm1r/QodeAssist",
-      "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
-      "stars": 328,
-      "forks": 45,
-      "language": "C++",
-      "pushed_at": "2026-03-05T09:48:01Z",
-      "updated_at": "2026-03-05T09:48:25Z"
-    },
-    {
-      "id": 1122681704,
-      "full_name": "team9ai/team9",
-      "html_url": "https://github.com/team9ai/team9",
-      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
-      "stars": 171,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-05T10:00:09Z",
-      "updated_at": "2026-03-05T10:00:25Z"
+      "id": 1088816938,
+      "full_name": "4ier/neo",
+      "html_url": "https://github.com/4ier/neo",
+      "description": "Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.",
+      "stars": 364,
+      "forks": 25,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-05T13:20:03Z",
+      "updated_at": "2026-03-05T14:24:12Z"
     }
   ]
 }
