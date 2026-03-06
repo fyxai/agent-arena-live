@@ -5,106 +5,150 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 300,
+  "total_found": 301,
   "items": [
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29204,
+      "stars": 29206,
       "forks": 3795,
       "language": "TypeScript",
-      "pushed_at": "2026-03-06T17:54:50Z",
-      "updated_at": "2026-03-06T17:41:00Z"
+      "pushed_at": "2026-03-06T19:57:09Z",
+      "updated_at": "2026-03-06T20:42:14Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21098,
-      "forks": 3378,
+      "stars": 21101,
+      "forks": 3377,
       "language": "TypeScript",
-      "pushed_at": "2026-03-06T17:27:13Z",
-      "updated_at": "2026-03-06T16:48:02Z"
+      "pushed_at": "2026-03-06T18:36:24Z",
+      "updated_at": "2026-03-06T20:55:05Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 17994,
-      "forks": 1390,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-06T15:32:59Z",
-      "updated_at": "2026-03-06T17:16:48Z"
+      "id": 1171026502,
+      "full_name": "googleworkspace/cli",
+      "html_url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "stars": 13947,
+      "forks": 480,
+      "language": "Rust",
+      "pushed_at": "2026-03-06T18:34:22Z",
+      "updated_at": "2026-03-06T21:00:06Z"
     },
     {
       "id": 609539715,
       "full_name": "e2b-dev/E2B",
       "html_url": "https://github.com/e2b-dev/E2B",
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 11149,
+      "stars": 11151,
       "forks": 792,
       "language": "MDX",
-      "pushed_at": "2026-03-06T17:54:08Z",
-      "updated_at": "2026-03-06T17:43:55Z"
+      "pushed_at": "2026-03-06T20:45:27Z",
+      "updated_at": "2026-03-06T20:47:51Z"
     },
     {
-      "id": 1020834440,
-      "full_name": "memodb-io/Acontext",
-      "html_url": "https://github.com/memodb-io/Acontext",
-      "description": "Agent Skills as a Memory Layer",
-      "stars": 3130,
-      "forks": 293,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-06T15:34:03Z",
-      "updated_at": "2026-03-06T17:49:18Z"
+      "id": 1165277268,
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 6453,
+      "forks": 479,
+      "language": "Python",
+      "pushed_at": "2026-03-06T17:55:27Z",
+      "updated_at": "2026-03-06T20:19:08Z"
+    },
+    {
+      "id": 114540126,
+      "full_name": "SciSharp/BotSharp",
+      "html_url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "stars": 3022,
+      "forks": 616,
+      "language": "C#",
+      "pushed_at": "2026-03-06T20:09:25Z",
+      "updated_at": "2026-03-06T20:09:30Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 2340,
-      "forks": 275,
+      "stars": 2346,
+      "forks": 276,
       "language": "JavaScript",
-      "pushed_at": "2026-03-06T17:24:41Z",
-      "updated_at": "2026-03-06T17:48:01Z"
+      "pushed_at": "2026-03-06T20:03:04Z",
+      "updated_at": "2026-03-06T20:37:18Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1731,
-      "forks": 138,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-06T14:45:38Z",
-      "updated_at": "2026-03-06T17:21:01Z"
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2304,
+      "forks": 183,
+      "language": "Rust",
+      "pushed_at": "2026-03-06T18:25:04Z",
+      "updated_at": "2026-03-06T19:06:00Z"
+    },
+    {
+      "id": 1088705108,
+      "full_name": "adongwanai/AgentGuide",
+      "html_url": "https://github.com/adongwanai/AgentGuide",
+      "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+      "stars": 2149,
+      "forks": 222,
+      "language": "HTML",
+      "pushed_at": "2026-03-06T18:31:04Z",
+      "updated_at": "2026-03-06T18:48:12Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 1898,
+      "forks": 207,
+      "language": "Rust",
+      "pushed_at": "2026-03-06T18:12:23Z",
+      "updated_at": "2026-03-06T19:44:19Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1349,
+      "forks": 139,
+      "language": "Go",
+      "pushed_at": "2026-03-06T18:02:31Z",
+      "updated_at": "2026-03-06T20:14:57Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1030,
+      "stars": 1029,
       "forks": 47,
       "language": "TypeScript",
       "pushed_at": "2026-03-06T17:42:45Z",
-      "updated_at": "2026-03-06T16:27:19Z"
+      "updated_at": "2026-03-06T18:17:06Z"
     },
     {
-      "id": 945671748,
-      "full_name": "openops-cloud/openops",
-      "html_url": "https://github.com/openops-cloud/openops",
-      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 1000,
-      "forks": 173,
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 981,
+      "forks": 103,
       "language": "TypeScript",
-      "pushed_at": "2026-03-06T15:30:34Z",
-      "updated_at": "2026-03-06T15:30:36Z"
+      "pushed_at": "2026-03-06T20:58:11Z",
+      "updated_at": "2026-03-06T20:58:09Z"
     },
     {
       "id": 1133660268,
@@ -118,59 +162,15 @@
       "updated_at": "2026-03-06T16:24:18Z"
     },
     {
-      "id": 1129412343,
-      "full_name": "oil-oil/wolfcha",
-      "html_url": "https://github.com/oil-oil/wolfcha",
-      "description": "AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs like DeepSeek, Qwen, Gemini, and more",
-      "stars": 532,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-06T16:04:55Z",
-      "updated_at": "2026-03-06T16:04:58Z"
-    },
-    {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 507,
+      "stars": 509,
       "forks": 131,
       "language": "Go",
-      "pushed_at": "2026-03-06T17:46:29Z",
-      "updated_at": "2026-03-06T17:46:34Z"
-    },
-    {
-      "id": 1164725227,
-      "full_name": "aspasskiy/GoGogot",
-      "html_url": "https://github.com/aspasskiy/GoGogot",
-      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
-      "stars": 391,
-      "forks": 0,
-      "language": "Go",
-      "pushed_at": "2026-03-06T15:38:10Z",
-      "updated_at": "2026-03-06T16:38:24Z"
-    },
-    {
-      "id": 1167607007,
-      "full_name": "qingchencloud/clawpanel",
-      "html_url": "https://github.com/qingchencloud/clawpanel",
-      "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 275,
-      "forks": 25,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-06T15:23:24Z",
-      "updated_at": "2026-03-06T17:39:57Z"
-    },
-    {
-      "id": 1158838298,
-      "full_name": "Natfii/ZeroClaw-Android",
-      "html_url": "https://github.com/Natfii/ZeroClaw-Android",
-      "description": "Run AI agents 24/7 on your Android phone. Native Rust core, 25+ providers (OpenAI, Claude, Gemini, Groq, DeepSeek,         Ollama), encrypted key storage, plugin browser, Material You UI. Self-hosted alternative to Mac Mini setups. MIT           licensed.",
-      "stars": 214,
-      "forks": 35,
-      "language": "Kotlin",
-      "pushed_at": "2026-03-06T15:16:41Z",
-      "updated_at": "2026-03-06T16:03:07Z"
+      "pushed_at": "2026-03-06T19:07:08Z",
+      "updated_at": "2026-03-06T20:56:44Z"
     }
   ]
 }
