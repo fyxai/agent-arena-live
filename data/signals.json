@@ -5,29 +5,51 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 304,
+  "total_found": 305,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 40957,
-      "forks": 3778,
+      "stars": 40960,
+      "forks": 3780,
       "language": "TypeScript",
-      "pushed_at": "2026-03-07T16:48:28Z",
-      "updated_at": "2026-03-07T16:54:16Z"
+      "pushed_at": "2026-03-07T19:54:57Z",
+      "updated_at": "2026-03-07T20:32:49Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 18107,
-      "forks": 1394,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend for Agents & Generative UI. React + Angular",
+      "stars": 29213,
+      "forks": 3795,
       "language": "TypeScript",
-      "pushed_at": "2026-03-07T15:22:03Z",
-      "updated_at": "2026-03-07T16:45:17Z"
+      "pushed_at": "2026-03-07T19:13:18Z",
+      "updated_at": "2026-03-07T19:42:32Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21117,
+      "forks": 3380,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-07T20:47:26Z",
+      "updated_at": "2026-03-07T20:47:31Z"
+    },
+    {
+      "id": 1139782619,
+      "full_name": "saturndec/waoowaoo",
+      "html_url": "https://github.com/saturndec/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 8636,
+      "forks": 1831,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-07T20:48:07Z",
+      "updated_at": "2026-03-07T20:48:10Z"
     },
     {
       "id": 981177285,
@@ -35,142 +57,120 @@
       "html_url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "stars": 4265,
-      "forks": 828,
+      "forks": 829,
       "language": "HTML",
-      "pushed_at": "2026-03-07T14:58:30Z",
-      "updated_at": "2026-03-07T15:59:10Z"
+      "pushed_at": "2026-03-07T17:39:56Z",
+      "updated_at": "2026-03-07T17:40:00Z"
     },
     {
       "id": 929338255,
       "full_name": "groupultra/telegram-search",
       "html_url": "https://github.com/groupultra/telegram-search",
       "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
-      "stars": 3801,
+      "stars": 3802,
       "forks": 241,
       "language": "TypeScript",
-      "pushed_at": "2026-03-07T14:43:28Z",
-      "updated_at": "2026-03-07T14:42:33Z"
+      "pushed_at": "2026-03-07T18:27:21Z",
+      "updated_at": "2026-03-07T18:17:23Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 2464,
+      "stars": 2474,
       "forks": 289,
       "language": "JavaScript",
-      "pushed_at": "2026-03-07T15:56:46Z",
-      "updated_at": "2026-03-07T16:41:25Z"
-    },
-    {
-      "id": 901554449,
-      "full_name": "stakpak/agent",
-      "html_url": "https://github.com/stakpak/agent",
-      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
-      "stars": 1075,
-      "forks": 111,
-      "language": "Rust",
-      "pushed_at": "2026-03-07T13:55:59Z",
-      "updated_at": "2026-03-07T13:56:03Z"
+      "pushed_at": "2026-03-07T19:54:54Z",
+      "updated_at": "2026-03-07T20:42:13Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1033,
+      "stars": 1037,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-03-07T16:29:29Z",
-      "updated_at": "2026-03-07T16:22:57Z"
+      "pushed_at": "2026-03-07T19:24:48Z",
+      "updated_at": "2026-03-07T19:52:19Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 983,
+      "forks": 103,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-07T18:44:26Z",
+      "updated_at": "2026-03-07T18:40:32Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 601,
+      "forks": 39,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-07T17:48:52Z",
+      "updated_at": "2026-03-07T19:38:28Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 520,
-      "forks": 138,
+      "stars": 521,
+      "forks": 139,
       "language": "Go",
-      "pushed_at": "2026-03-07T16:48:45Z",
-      "updated_at": "2026-03-07T16:48:49Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/pc-agent-loop",
-      "html_url": "https://github.com/lsdefine/pc-agent-loop",
-      "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
-      "stars": 424,
-      "forks": 69,
-      "language": "Python",
-      "pushed_at": "2026-03-07T16:31:33Z",
-      "updated_at": "2026-03-07T15:33:18Z"
+      "pushed_at": "2026-03-07T17:45:41Z",
+      "updated_at": "2026-03-07T17:41:57Z"
     },
     {
       "id": 1167607007,
       "full_name": "qingchencloud/clawpanel",
       "html_url": "https://github.com/qingchencloud/clawpanel",
       "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 406,
-      "forks": 41,
+      "stars": 416,
+      "forks": 42,
       "language": "JavaScript",
-      "pushed_at": "2026-03-07T15:47:25Z",
-      "updated_at": "2026-03-07T16:48:54Z"
+      "pushed_at": "2026-03-07T18:07:59Z",
+      "updated_at": "2026-03-07T19:38:40Z"
     },
     {
       "id": 1164725227,
       "full_name": "aspasskiy/GoGogot",
       "html_url": "https://github.com/aspasskiy/GoGogot",
       "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
-      "stars": 390,
+      "stars": 387,
       "forks": 0,
       "language": "Go",
-      "pushed_at": "2026-03-07T16:38:08Z",
-      "updated_at": "2026-03-07T16:38:11Z"
+      "pushed_at": "2026-03-07T18:46:26Z",
+      "updated_at": "2026-03-07T20:18:15Z"
     },
     {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 262,
-      "forks": 8,
+      "id": 1158838298,
+      "full_name": "Natfii/ZeroClaw-Android",
+      "html_url": "https://github.com/Natfii/ZeroClaw-Android",
+      "description": "Run AI agents 24/7 on your Android phone. Native Rust core, 25+ providers (OpenAI, Claude, Gemini, Groq, DeepSeek,         Ollama), encrypted key storage, plugin browser, Material You UI. Self-hosted alternative to Mac Mini setups. MIT           licensed.",
+      "stars": 228,
+      "forks": 35,
       "language": "Unknown",
-      "pushed_at": "2026-03-07T14:01:01Z",
-      "updated_at": "2026-03-07T14:01:05Z"
+      "pushed_at": "2026-03-07T17:28:40Z",
+      "updated_at": "2026-03-07T17:36:44Z"
     },
     {
-      "id": 1124639648,
-      "full_name": "adnaan-worker/Adnify",
-      "html_url": "https://github.com/adnaan-worker/Adnify",
-      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
-      "stars": 146,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-07T15:15:02Z",
-      "updated_at": "2026-03-07T15:15:01Z"
-    },
-    {
-      "id": 1149416595,
-      "full_name": "warengonzaga/tinyclaw",
-      "html_url": "https://github.com/warengonzaga/tinyclaw",
-      "description": "The original Tiny Claw as your personal autonomous AI companion. 🐜",
-      "stars": 137,
+      "id": 1151959075,
+      "full_name": "suitedaces/dorabot",
+      "html_url": "https://github.com/suitedaces/dorabot",
+      "description": "macOS app for a 24/7 AI agent with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.",
+      "stars": 172,
       "forks": 22,
       "language": "TypeScript",
-      "pushed_at": "2026-03-07T14:56:37Z",
-      "updated_at": "2026-03-07T15:02:38Z"
-    },
-    {
-      "id": 1159796496,
-      "full_name": "lucasygu/redbook",
-      "html_url": "https://github.com/lucasygu/redbook",
-      "description": "小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.",
-      "stars": 115,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-07T16:16:52Z",
-      "updated_at": "2026-03-07T16:16:18Z"
+      "pushed_at": "2026-03-07T20:44:28Z",
+      "updated_at": "2026-03-07T20:44:25Z"
     }
   ]
 }
