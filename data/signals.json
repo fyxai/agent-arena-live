@@ -5,161 +5,161 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 309,
+  "total_found": 310,
   "items": [
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend for Agents & Generative UI. React + Angular",
+      "stars": 29227,
+      "forks": 3798,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-08T19:15:04Z",
+      "updated_at": "2026-03-08T20:00:19Z"
+    },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21133,
+      "stars": 21134,
       "forks": 3385,
       "language": "TypeScript",
-      "pushed_at": "2026-03-08T16:52:54Z",
-      "updated_at": "2026-03-08T16:02:42Z"
+      "pushed_at": "2026-03-08T20:08:09Z",
+      "updated_at": "2026-03-08T19:41:26Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11177,
+      "forks": 792,
+      "language": "MDX",
+      "pushed_at": "2026-03-08T15:45:20Z",
+      "updated_at": "2026-03-08T19:21:15Z"
+    },
+    {
+      "id": 1139782619,
+      "full_name": "saturndec/waoowaoo",
+      "html_url": "https://github.com/saturndec/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 8742,
+      "forks": 1869,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-08T18:55:37Z",
+      "updated_at": "2026-03-08T20:35:20Z"
     },
     {
       "id": 1165277268,
       "full_name": "Panniantong/Agent-Reach",
       "html_url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 7159,
+      "stars": 7182,
       "forks": 532,
       "language": "Python",
-      "pushed_at": "2026-03-08T16:34:23Z",
-      "updated_at": "2026-03-08T16:55:29Z"
-    },
-    {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4272,
-      "forks": 830,
-      "language": "HTML",
-      "pushed_at": "2026-03-08T15:23:32Z",
-      "updated_at": "2026-03-08T15:40:14Z"
+      "pushed_at": "2026-03-08T17:28:52Z",
+      "updated_at": "2026-03-08T20:46:57Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 2558,
-      "forks": 301,
+      "stars": 2571,
+      "forks": 304,
       "language": "JavaScript",
-      "pushed_at": "2026-03-08T16:02:57Z",
-      "updated_at": "2026-03-08T16:56:43Z"
+      "pushed_at": "2026-03-08T19:56:22Z",
+      "updated_at": "2026-03-08T19:53:02Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1975,
-      "forks": 215,
+      "stars": 1979,
+      "forks": 216,
       "language": "Rust",
-      "pushed_at": "2026-03-08T15:54:15Z",
-      "updated_at": "2026-03-08T16:12:14Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1776,
-      "forks": 144,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-08T15:36:45Z",
-      "updated_at": "2026-03-08T16:24:15Z"
+      "pushed_at": "2026-03-08T18:09:59Z",
+      "updated_at": "2026-03-08T18:12:04Z"
     },
     {
       "id": 949646929,
       "full_name": "GetBindu/Bindu",
       "html_url": "https://github.com/GetBindu/Bindu",
       "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
-      "stars": 1391,
-      "forks": 305,
+      "stars": 1393,
+      "forks": 306,
       "language": "Python",
-      "pushed_at": "2026-03-08T16:01:23Z",
-      "updated_at": "2026-03-08T16:01:26Z"
+      "pushed_at": "2026-03-08T18:12:55Z",
+      "updated_at": "2026-03-08T19:00:16Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1038,
+      "stars": 1039,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-03-08T16:35:24Z",
-      "updated_at": "2026-03-08T15:05:53Z"
+      "pushed_at": "2026-03-08T17:16:39Z",
+      "updated_at": "2026-03-08T17:12:59Z"
+    },
+    {
+      "id": 1133660268,
+      "full_name": "OpenCoworkAI/open-cowork",
+      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
+      "description": "Open Cowork - Opensource Claude Cowork for Windows & macOS.",
+      "stars": 584,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-08T16:15:43Z",
+      "updated_at": "2026-03-08T17:36:21Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 534,
-      "forks": 146,
+      "stars": 540,
+      "forks": 148,
       "language": "Go",
       "pushed_at": "2026-03-08T16:21:49Z",
-      "updated_at": "2026-03-08T16:19:38Z"
+      "updated_at": "2026-03-08T20:43:48Z"
     },
     {
       "id": 1167607007,
       "full_name": "qingchencloud/clawpanel",
       "html_url": "https://github.com/qingchencloud/clawpanel",
       "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 496,
+      "stars": 500,
       "forks": 51,
       "language": "JavaScript",
-      "pushed_at": "2026-03-08T16:29:04Z",
-      "updated_at": "2026-03-08T16:30:44Z"
+      "pushed_at": "2026-03-08T20:14:35Z",
+      "updated_at": "2026-03-08T20:14:38Z"
     },
     {
-      "id": 1134562391,
-      "full_name": "vakovalskii/ValeDesk",
-      "html_url": "https://github.com/vakovalskii/ValeDesk",
-      "description": "Versatile Almost Local, Eventually Reasonable Assistant 🔫",
-      "stars": 303,
-      "forks": 49,
+      "id": 1162575074,
+      "full_name": "Usta0x001/Phantom",
+      "html_url": "https://github.com/Usta0x001/Phantom",
+      "description": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+      "stars": 102,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-03-08T20:23:00Z",
+      "updated_at": "2026-03-08T20:22:59Z"
+    },
+    {
+      "id": 929960227,
+      "full_name": "G4brym/workers-research",
+      "html_url": "https://github.com/G4brym/workers-research",
+      "description": "A serverless, AI-powered deep research agent built with Cloudflare Workers and Google Gemini 2.5",
+      "stars": 101,
+      "forks": 16,
       "language": "TypeScript",
-      "pushed_at": "2026-03-08T15:08:48Z",
-      "updated_at": "2026-03-08T15:08:52Z"
-    },
-    {
-      "id": 1145881485,
-      "full_name": "Arvincreator/project-golem",
-      "html_url": "https://github.com/Arvincreator/project-golem",
-      "description": "Browser agent powered by Gemini & node.js",
-      "stars": 267,
-      "forks": 44,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-08T15:20:42Z",
-      "updated_at": "2026-03-08T16:36:08Z"
-    },
-    {
-      "id": 1150671982,
-      "full_name": "johunsang/octo-terminal-releases",
-      "html_url": "https://github.com/johunsang/octo-terminal-releases",
-      "description": "Octo Terminal — The ultimate vibe coding terminal. AI-powered IDE with Claude, Codex, Ollama built-in. Terminal + editor + notes + browser in one app. Tauri + React + Rust.",
-      "stars": 190,
-      "forks": 24,
-      "language": "Unknown",
-      "pushed_at": "2026-03-08T15:01:01Z",
-      "updated_at": "2026-03-08T16:18:20Z"
-    },
-    {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 156,
-      "forks": 4,
-      "language": "ReScript",
-      "pushed_at": "2026-03-08T14:55:30Z",
-      "updated_at": "2026-03-08T15:32:54Z"
+      "pushed_at": "2026-03-08T20:11:28Z",
+      "updated_at": "2026-03-08T19:14:46Z"
     },
     {
       "id": 1137824855,
@@ -169,8 +169,8 @@
       "stars": 91,
       "forks": 3,
       "language": "HTML",
-      "pushed_at": "2026-03-08T15:46:22Z",
-      "updated_at": "2026-03-08T15:46:12Z"
+      "pushed_at": "2026-03-08T20:42:02Z",
+      "updated_at": "2026-03-08T20:41:49Z"
     }
   ]
 }
