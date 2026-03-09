@@ -5,40 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 314,
+  "total_found": 315,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41104,
-      "forks": 3792,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend for Agents & Generative UI. React + Angular",
+      "stars": 29248,
+      "forks": 3801,
       "language": "TypeScript",
-      "pushed_at": "2026-03-09T16:34:01Z",
-      "updated_at": "2026-03-09T17:22:59Z"
+      "pushed_at": "2026-03-09T18:06:11Z",
+      "updated_at": "2026-03-09T19:36:01Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21146,
+      "forks": 3390,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-09T20:55:09Z",
+      "updated_at": "2026-03-09T19:15:45Z"
     },
     {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 16994,
-      "forks": 662,
+      "stars": 17108,
+      "forks": 671,
       "language": "Rust",
-      "pushed_at": "2026-03-09T17:55:35Z",
-      "updated_at": "2026-03-09T18:06:57Z"
+      "pushed_at": "2026-03-09T21:00:29Z",
+      "updated_at": "2026-03-09T21:01:41Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 12948,
+      "stars": 12949,
       "forks": 797,
       "language": "Python",
       "pushed_at": "2026-03-09T17:36:16Z",
-      "updated_at": "2026-03-09T17:41:42Z"
+      "updated_at": "2026-03-09T20:19:26Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11193,
+      "forks": 793,
+      "language": "MDX",
+      "pushed_at": "2026-03-09T20:52:53Z",
+      "updated_at": "2026-03-09T20:16:13Z"
     },
     {
       "id": 929338255,
@@ -52,17 +74,6 @@
       "updated_at": "2026-03-09T17:40:29Z"
     },
     {
-      "id": 114540126,
-      "full_name": "SciSharp/BotSharp",
-      "html_url": "https://github.com/SciSharp/BotSharp",
-      "description": "AI Multi-Agent Framework in .NET",
-      "stars": 3025,
-      "forks": 617,
-      "language": "C#",
-      "pushed_at": "2026-03-09T16:38:13Z",
-      "updated_at": "2026-03-09T16:38:17Z"
-    },
-    {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
@@ -70,8 +81,8 @@
       "stars": 2721,
       "forks": 318,
       "language": "JavaScript",
-      "pushed_at": "2026-03-09T17:50:49Z",
-      "updated_at": "2026-03-09T18:06:01Z"
+      "pushed_at": "2026-03-09T20:06:24Z",
+      "updated_at": "2026-03-09T19:41:28Z"
     },
     {
       "id": 1145420469,
@@ -79,98 +90,87 @@
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
       "stars": 2018,
-      "forks": 220,
+      "forks": 221,
       "language": "Rust",
       "pushed_at": "2026-03-09T17:46:36Z",
       "updated_at": "2026-03-09T17:46:42Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1042,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T17:07:40Z",
-      "updated_at": "2026-03-09T17:04:40Z"
-    },
-    {
-      "id": 945671748,
-      "full_name": "openops-cloud/openops",
-      "html_url": "https://github.com/openops-cloud/openops",
-      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 1003,
-      "forks": 173,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T17:49:36Z",
-      "updated_at": "2026-03-09T16:54:27Z"
     },
     {
       "id": 1051086270,
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 985,
+      "stars": 986,
       "forks": 103,
       "language": "TypeScript",
-      "pushed_at": "2026-03-09T17:43:32Z",
-      "updated_at": "2026-03-09T17:29:37Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "debba/tabularis",
-      "html_url": "https://github.com/debba/tabularis",
-      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 644,
-      "forks": 42,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T16:35:48Z",
-      "updated_at": "2026-03-09T18:01:31Z"
+      "pushed_at": "2026-03-09T21:03:14Z",
+      "updated_at": "2026-03-09T20:09:25Z"
     },
     {
       "id": 1167607007,
       "full_name": "qingchencloud/clawpanel",
       "html_url": "https://github.com/qingchencloud/clawpanel",
       "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 640,
+      "stars": 642,
       "forks": 73,
       "language": "JavaScript",
-      "pushed_at": "2026-03-09T17:04:41Z",
-      "updated_at": "2026-03-09T18:04:50Z"
+      "pushed_at": "2026-03-09T19:46:39Z",
+      "updated_at": "2026-03-09T19:46:43Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 581,
-      "forks": 158,
+      "stars": 588,
+      "forks": 159,
       "language": "Go",
       "pushed_at": "2026-03-09T17:46:33Z",
-      "updated_at": "2026-03-09T17:55:14Z"
+      "updated_at": "2026-03-09T20:55:47Z"
     },
     {
       "id": 1155099363,
       "full_name": "AidanPark/openclaw-android",
       "html_url": "https://github.com/AidanPark/openclaw-android",
       "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
-      "stars": 432,
-      "forks": 66,
+      "stars": 433,
+      "forks": 67,
       "language": "Java",
       "pushed_at": "2026-03-09T17:45:20Z",
-      "updated_at": "2026-03-09T17:45:36Z"
+      "updated_at": "2026-03-09T19:11:00Z"
     },
     {
-      "id": 796089121,
-      "full_name": "SAILResearch/awesome-foundation-model-leaderboards",
-      "html_url": "https://github.com/SAILResearch/awesome-foundation-model-leaderboards",
-      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
-      "stars": 319,
-      "forks": 36,
-      "language": "Unknown",
-      "pushed_at": "2026-03-09T17:07:00Z",
-      "updated_at": "2026-03-09T17:07:02Z"
+      "id": 1151959075,
+      "full_name": "suitedaces/dorabot",
+      "html_url": "https://github.com/suitedaces/dorabot",
+      "description": "macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.",
+      "stars": 172,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-09T20:01:25Z",
+      "updated_at": "2026-03-09T20:01:19Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 159,
+      "forks": 4,
+      "language": "ReScript",
+      "pushed_at": "2026-03-09T20:52:14Z",
+      "updated_at": "2026-03-09T18:57:02Z"
+    },
+    {
+      "id": 1162575074,
+      "full_name": "Usta0x001/Phantom",
+      "html_url": "https://github.com/Usta0x001/Phantom",
+      "description": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+      "stars": 102,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-03-09T20:55:23Z",
+      "updated_at": "2026-03-09T20:55:27Z"
     }
   ]
 }
