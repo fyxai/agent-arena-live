@@ -5,95 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 312,
+  "total_found": 314,
   "items": [
-    {
-      "id": 522158088,
-      "full_name": "zhayujie/chatgpt-on-wechat",
-      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
-      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-      "stars": 42029,
-      "forks": 9799,
-      "language": "Python",
-      "pushed_at": "2026-03-09T04:03:07Z",
-      "updated_at": "2026-03-09T04:56:04Z"
-    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41049,
-      "forks": 3786,
+      "stars": 41081,
+      "forks": 3790,
       "language": "TypeScript",
-      "pushed_at": "2026-03-09T04:36:07Z",
-      "updated_at": "2026-03-09T05:01:45Z"
+      "pushed_at": "2026-03-09T09:55:16Z",
+      "updated_at": "2026-03-09T10:11:55Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 18246,
-      "forks": 1406,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21140,
+      "forks": 3387,
       "language": "TypeScript",
-      "pushed_at": "2026-03-09T04:28:56Z",
-      "updated_at": "2026-03-09T04:58:54Z"
+      "pushed_at": "2026-03-09T10:30:40Z",
+      "updated_at": "2026-03-09T10:17:11Z"
+    },
+    {
+      "id": 1165277268,
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 7484,
+      "forks": 543,
+      "language": "Python",
+      "pushed_at": "2026-03-09T10:18:17Z",
+      "updated_at": "2026-03-09T10:30:40Z"
+    },
+    {
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "stars": 7062,
+      "forks": 520,
+      "language": "Python",
+      "pushed_at": "2026-03-09T10:09:50Z",
+      "updated_at": "2026-03-09T10:29:40Z"
     },
     {
       "id": 929338255,
       "full_name": "groupultra/telegram-search",
       "html_url": "https://github.com/groupultra/telegram-search",
       "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
-      "stars": 3807,
+      "stars": 3809,
       "forks": 241,
       "language": "TypeScript",
-      "pushed_at": "2026-03-09T04:56:09Z",
-      "updated_at": "2026-03-09T04:56:12Z"
+      "pushed_at": "2026-03-09T09:58:17Z",
+      "updated_at": "2026-03-09T09:58:20Z"
+    },
+    {
+      "id": 1142423471,
+      "full_name": "mindfold-ai/Trellis",
+      "html_url": "https://github.com/mindfold-ai/Trellis",
+      "description": "All-in-one AI framework & toolkit",
+      "stars": 3318,
+      "forks": 164,
+      "language": "Python",
+      "pushed_at": "2026-03-09T09:26:16Z",
+      "updated_at": "2026-03-09T10:26:03Z"
     },
     {
       "id": 1020834440,
       "full_name": "memodb-io/Acontext",
       "html_url": "https://github.com/memodb-io/Acontext",
       "description": "Agent Skills as a Memory Layer",
-      "stars": 3140,
+      "stars": 3141,
       "forks": 293,
       "language": "TypeScript",
-      "pushed_at": "2026-03-09T04:54:56Z",
-      "updated_at": "2026-03-09T04:54:59Z"
+      "pushed_at": "2026-03-09T10:15:43Z",
+      "updated_at": "2026-03-09T10:15:48Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 2615,
-      "forks": 311,
+      "stars": 2670,
+      "forks": 315,
       "language": "JavaScript",
-      "pushed_at": "2026-03-09T03:26:57Z",
-      "updated_at": "2026-03-09T05:05:38Z"
+      "pushed_at": "2026-03-09T09:35:27Z",
+      "updated_at": "2026-03-09T10:24:37Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 1990,
-      "forks": 217,
+      "stars": 2006,
+      "forks": 219,
       "language": "Rust",
-      "pushed_at": "2026-03-09T03:34:27Z",
-      "updated_at": "2026-03-09T05:08:03Z"
+      "pushed_at": "2026-03-09T10:07:45Z",
+      "updated_at": "2026-03-09T10:07:47Z"
     },
     {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40 个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 1132,
-      "forks": 135,
-      "language": "Unknown",
-      "pushed_at": "2026-03-09T03:51:43Z",
-      "updated_at": "2026-03-09T04:49:29Z"
+      "id": 1116658452,
+      "full_name": "aiflowy/aiflowy",
+      "html_url": "https://github.com/aiflowy/aiflowy",
+      "description": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.",
+      "stars": 1811,
+      "forks": 236,
+      "language": "Vue",
+      "pushed_at": "2026-03-09T10:12:32Z",
+      "updated_at": "2026-03-09T10:12:37Z"
+    },
+    {
+      "id": 949646929,
+      "full_name": "GetBindu/Bindu",
+      "html_url": "https://github.com/GetBindu/Bindu",
+      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
+      "stars": 1399,
+      "forks": 306,
+      "language": "Python",
+      "pushed_at": "2026-03-09T10:10:22Z",
+      "updated_at": "2026-03-09T10:22:59Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +136,41 @@
       "stars": 1041,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-03-09T05:12:08Z",
-      "updated_at": "2026-03-09T05:13:11Z"
-    },
-    {
-      "id": 1133660268,
-      "full_name": "OpenCoworkAI/open-cowork",
-      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
-      "description": "Open Cowork - Opensource Claude Cowork for Windows & macOS.",
-      "stars": 587,
-      "forks": 60,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T04:42:38Z",
-      "updated_at": "2026-03-09T05:03:11Z"
+      "pushed_at": "2026-03-09T10:29:12Z",
+      "updated_at": "2026-03-09T10:29:15Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 554,
-      "forks": 151,
+      "stars": 562,
+      "forks": 153,
       "language": "Go",
-      "pushed_at": "2026-03-09T03:56:57Z",
-      "updated_at": "2026-03-09T04:44:55Z"
+      "pushed_at": "2026-03-09T10:30:21Z",
+      "updated_at": "2026-03-09T10:30:26Z"
     },
     {
-      "id": 845317529,
-      "full_name": "giselles-ai/giselle",
-      "html_url": "https://github.com/giselles-ai/giselle",
-      "description": "Giselle: AI App Builder. Open Source.",
-      "stars": 494,
-      "forks": 106,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T02:57:18Z",
-      "updated_at": "2026-03-09T02:57:20Z"
+      "id": 1164725227,
+      "full_name": "aspasskiy/GoGogot",
+      "html_url": "https://github.com/aspasskiy/GoGogot",
+      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+      "stars": 355,
+      "forks": 0,
+      "language": "Go",
+      "pushed_at": "2026-03-09T09:41:49Z",
+      "updated_at": "2026-03-09T09:41:53Z"
     },
     {
-      "id": 1144284308,
-      "full_name": "AlexAnys/openclaw-feishu",
-      "html_url": "https://github.com/AlexAnys/openclaw-feishu",
-      "description": "飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 （0306 - 更新飞书官方插件选择，增加 API 耗尽根因排查、Lark Webhook 内网穿透方案）",
-      "stars": 462,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T04:08:14Z",
-      "updated_at": "2026-03-09T04:08:18Z"
-    },
-    {
-      "id": 1151959075,
-      "full_name": "suitedaces/dorabot",
-      "html_url": "https://github.com/suitedaces/dorabot",
-      "description": "macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.",
-      "stars": 172,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T03:57:57Z",
-      "updated_at": "2026-03-09T03:57:53Z"
-    },
-    {
-      "id": 965987181,
-      "full_name": "toolsdk-ai/toolsdk-mcp-registry",
-      "html_url": "https://github.com/toolsdk-ai/toolsdk-mcp-registry",
-      "description": "MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR...",
-      "stars": 166,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-09T03:22:44Z",
-      "updated_at": "2026-03-09T03:22:47Z"
+      "id": 1160406193,
+      "full_name": "AgriciDaniel/claude-blog",
+      "html_url": "https://github.com/AgriciDaniel/claude-blog",
+      "description": "Claude Code skill ecosystem for blog content creation, optimization, and management. Dual-optimized for Google rankings and AI citations.",
+      "stars": 178,
+      "forks": 56,
+      "language": "Python",
+      "pushed_at": "2026-03-09T09:42:16Z",
+      "updated_at": "2026-03-09T09:42:19Z"
     }
   ]
 }
