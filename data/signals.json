@@ -8,81 +8,70 @@
   "total_found": 317,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41166,
-      "forks": 3796,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-10T09:18:29Z",
-      "updated_at": "2026-03-10T09:58:30Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29262,
-      "forks": 3802,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-10T09:04:19Z",
-      "updated_at": "2026-03-10T09:43:23Z"
-    },
-    {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21152,
-      "forks": 3393,
+      "stars": 21155,
+      "forks": 3394,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T09:52:20Z",
-      "updated_at": "2026-03-10T09:52:26Z"
+      "pushed_at": "2026-03-10T14:36:24Z",
+      "updated_at": "2026-03-10T14:22:57Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 18373,
-      "forks": 1428,
+      "id": 1028832403,
+      "full_name": "UfoMiao/zcf",
+      "html_url": "https://github.com/UfoMiao/zcf",
+      "description": "Zero-Config Code Flow for Claude code & Codex",
+      "stars": 5649,
+      "forks": 394,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T09:59:59Z",
-      "updated_at": "2026-03-10T10:06:19Z"
-    },
-    {
-      "id": 609539715,
-      "full_name": "e2b-dev/E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 11201,
-      "forks": 793,
-      "language": "MDX",
-      "pushed_at": "2026-03-10T07:50:33Z",
-      "updated_at": "2026-03-10T09:59:34Z"
-    },
-    {
-      "id": 810121174,
-      "full_name": "LazyAGI/LazyLLM",
-      "html_url": "https://github.com/LazyAGI/LazyLLM",
-      "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
-      "stars": 3743,
-      "forks": 363,
-      "language": "Python",
-      "pushed_at": "2026-03-10T08:45:34Z",
-      "updated_at": "2026-03-10T08:52:04Z"
+      "pushed_at": "2026-03-10T14:04:30Z",
+      "updated_at": "2026-03-10T14:03:13Z"
     },
     {
       "id": 1020834440,
       "full_name": "memodb-io/Acontext",
       "html_url": "https://github.com/memodb-io/Acontext",
       "description": "Agent Skills as a Memory Layer",
-      "stars": 3145,
+      "stars": 3146,
       "forks": 293,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T10:02:53Z",
-      "updated_at": "2026-03-10T08:54:17Z"
+      "pushed_at": "2026-03-10T13:32:34Z",
+      "updated_at": "2026-03-10T13:32:38Z"
+    },
+    {
+      "id": 704959035,
+      "full_name": "WeThinkIn/AIGC-Interview-Book",
+      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、传统深度学习、自动驾驶、AI Agent、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+      "stars": 3111,
+      "forks": 350,
+      "language": "Unknown",
+      "pushed_at": "2026-03-10T13:38:15Z",
+      "updated_at": "2026-03-10T13:38:19Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 2044,
+      "forks": 229,
+      "language": "Rust",
+      "pushed_at": "2026-03-10T13:21:27Z",
+      "updated_at": "2026-03-10T14:31:48Z"
+    },
+    {
+      "id": 901554449,
+      "full_name": "stakpak/agent",
+      "html_url": "https://github.com/stakpak/agent",
+      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+      "stars": 1104,
+      "forks": 113,
+      "language": "Rust",
+      "pushed_at": "2026-03-10T13:36:02Z",
+      "updated_at": "2026-03-10T14:33:40Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +81,96 @@
       "stars": 1043,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T10:05:45Z",
-      "updated_at": "2026-03-10T10:05:48Z"
+      "pushed_at": "2026-03-10T14:31:32Z",
+      "updated_at": "2026-03-10T14:30:26Z"
+    },
+    {
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1003,
+      "forks": 173,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-10T14:20:02Z",
+      "updated_at": "2026-03-10T13:50:40Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 987,
+      "forks": 103,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-10T14:31:10Z",
+      "updated_at": "2026-03-10T13:17:21Z"
     },
     {
       "id": 1142800652,
       "full_name": "debba/tabularis",
       "html_url": "https://github.com/debba/tabularis",
       "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 648,
+      "stars": 651,
       "forks": 42,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T09:52:50Z",
-      "updated_at": "2026-03-10T09:52:53Z"
+      "pushed_at": "2026-03-10T13:32:18Z",
+      "updated_at": "2026-03-10T13:32:22Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 624,
-      "forks": 169,
+      "stars": 639,
+      "forks": 172,
       "language": "Go",
-      "pushed_at": "2026-03-10T09:56:21Z",
-      "updated_at": "2026-03-10T09:56:26Z"
+      "pushed_at": "2026-03-10T14:28:53Z",
+      "updated_at": "2026-03-10T14:28:58Z"
     },
     {
-      "id": 1129412343,
-      "full_name": "oil-oil/wolfcha",
-      "html_url": "https://github.com/oil-oil/wolfcha",
-      "description": "AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs like DeepSeek, Qwen, Gemini, and more",
-      "stars": 537,
-      "forks": 36,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-10T08:56:27Z",
-      "updated_at": "2026-03-10T08:56:30Z"
-    },
-    {
-      "id": 845317529,
-      "full_name": "giselles-ai/giselle",
-      "html_url": "https://github.com/giselles-ai/giselle",
-      "description": "Giselle: AI App Builder. Open Source.",
-      "stars": 496,
-      "forks": 107,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-10T09:52:37Z",
-      "updated_at": "2026-03-10T10:00:50Z"
-    },
-    {
-      "id": 1015852565,
-      "full_name": "agentscope-ai/OpenJudge",
-      "html_url": "https://github.com/agentscope-ai/OpenJudge",
-      "description": "OpenJudge: A Unified Framework for Holistic Evaluation and Quality Rewards",
-      "stars": 441,
-      "forks": 35,
+      "id": 1135791677,
+      "full_name": "lsdefine/pc-agent-loop",
+      "html_url": "https://github.com/lsdefine/pc-agent-loop",
+      "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
+      "stars": 613,
+      "forks": 100,
       "language": "Python",
-      "pushed_at": "2026-03-10T09:06:16Z",
-      "updated_at": "2026-03-10T09:06:20Z"
+      "pushed_at": "2026-03-10T14:09:01Z",
+      "updated_at": "2026-03-10T14:09:05Z"
     },
     {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 268,
-      "forks": 8,
-      "language": "Unknown",
-      "pushed_at": "2026-03-10T09:51:29Z",
-      "updated_at": "2026-03-10T09:51:33Z"
+      "id": 1155099363,
+      "full_name": "AidanPark/openclaw-android",
+      "html_url": "https://github.com/AidanPark/openclaw-android",
+      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
+      "stars": 455,
+      "forks": 69,
+      "language": "Java",
+      "pushed_at": "2026-03-10T14:14:03Z",
+      "updated_at": "2026-03-10T14:14:12Z"
     },
     {
-      "id": 965987181,
-      "full_name": "toolsdk-ai/toolsdk-mcp-registry",
-      "html_url": "https://github.com/toolsdk-ai/toolsdk-mcp-registry",
-      "description": "MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR...",
-      "stars": 167,
-      "forks": 55,
+      "id": 1162089095,
+      "full_name": "daggerhashimoto/openclaw-nerve",
+      "html_url": "https://github.com/daggerhashimoto/openclaw-nerve",
+      "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
+      "stars": 176,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T09:45:25Z",
-      "updated_at": "2026-03-10T09:45:29Z"
+      "pushed_at": "2026-03-10T13:21:22Z",
+      "updated_at": "2026-03-10T13:31:26Z"
+    },
+    {
+      "id": 1169462190,
+      "full_name": "freddy-schuetz/n8n-claw",
+      "html_url": "https://github.com/freddy-schuetz/n8n-claw",
+      "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, proactive task management, media understanding - self-hosted with one setup script",
+      "stars": 170,
+      "forks": 33,
+      "language": "Shell",
+      "pushed_at": "2026-03-10T13:45:02Z",
+      "updated_at": "2026-03-10T13:42:55Z"
     }
   ]
 }
