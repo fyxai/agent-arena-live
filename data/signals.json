@@ -8,37 +8,26 @@
   "total_found": 317,
   "items": [
     {
-      "id": 522158088,
-      "full_name": "zhayujie/chatgpt-on-wechat",
-      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
-      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-      "stars": 42100,
-      "forks": 9813,
-      "language": "Python",
-      "pushed_at": "2026-03-10T18:04:28Z",
-      "updated_at": "2026-03-10T18:04:37Z"
-    },
-    {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41186,
+      "stars": 41190,
       "forks": 3798,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T18:08:21Z",
-      "updated_at": "2026-03-10T18:08:26Z"
+      "pushed_at": "2026-03-10T19:10:22Z",
+      "updated_at": "2026-03-10T20:02:07Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29273,
-      "forks": 3804,
+      "stars": 29274,
+      "forks": 3805,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T16:23:15Z",
-      "updated_at": "2026-03-10T17:50:44Z"
+      "pushed_at": "2026-03-10T20:52:00Z",
+      "updated_at": "2026-03-10T20:51:21Z"
     },
     {
       "id": 573661753,
@@ -48,30 +37,41 @@
       "stars": 21158,
       "forks": 3394,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T17:34:31Z",
-      "updated_at": "2026-03-10T17:25:39Z"
+      "pushed_at": "2026-03-10T19:58:58Z",
+      "updated_at": "2026-03-10T19:57:21Z"
     },
     {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 17994,
-      "forks": 748,
+      "stars": 18083,
+      "forks": 757,
       "language": "Rust",
-      "pushed_at": "2026-03-10T17:17:38Z",
-      "updated_at": "2026-03-10T18:06:31Z"
+      "pushed_at": "2026-03-10T20:26:15Z",
+      "updated_at": "2026-03-10T21:01:47Z"
     },
     {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6489,
-      "forks": 700,
+      "id": 929338255,
+      "full_name": "groupultra/telegram-search",
+      "html_url": "https://github.com/groupultra/telegram-search",
+      "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
+      "stars": 3814,
+      "forks": 243,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-10T19:05:16Z",
+      "updated_at": "2026-03-10T18:59:55Z"
+    },
+    {
+      "id": 1010318950,
+      "full_name": "SWE-agent/mini-swe-agent",
+      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "stars": 3248,
+      "forks": 447,
       "language": "Python",
-      "pushed_at": "2026-03-10T17:34:40Z",
-      "updated_at": "2026-03-10T17:34:40Z"
+      "pushed_at": "2026-03-10T18:23:50Z",
+      "updated_at": "2026-03-10T19:36:20Z"
     },
     {
       "id": 116590428,
@@ -81,52 +81,19 @@
       "stars": 2315,
       "forks": 183,
       "language": "Rust",
-      "pushed_at": "2026-03-10T17:47:10Z",
-      "updated_at": "2026-03-10T17:47:15Z"
-    },
-    {
-      "id": 1145420469,
-      "full_name": "moltis-org/moltis",
-      "html_url": "https://github.com/moltis-org/moltis",
-      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 2059,
-      "forks": 230,
-      "language": "Rust",
-      "pushed_at": "2026-03-10T17:07:47Z",
-      "updated_at": "2026-03-10T17:53:23Z"
+      "pushed_at": "2026-03-10T18:13:29Z",
+      "updated_at": "2026-03-10T18:13:33Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1834,
-      "forks": 152,
+      "stars": 1837,
+      "forks": 154,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T17:40:23Z",
-      "updated_at": "2026-03-10T17:40:28Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1436,
-      "forks": 143,
-      "language": "Go",
-      "pushed_at": "2026-03-10T17:30:56Z",
-      "updated_at": "2026-03-10T18:00:52Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1044,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-10T17:47:47Z",
-      "updated_at": "2026-03-10T17:39:25Z"
+      "pushed_at": "2026-03-10T19:15:32Z",
+      "updated_at": "2026-03-10T20:42:41Z"
     },
     {
       "id": 945671748,
@@ -136,8 +103,8 @@
       "stars": 1003,
       "forks": 173,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T17:00:46Z",
-      "updated_at": "2026-03-10T16:54:16Z"
+      "pushed_at": "2026-03-10T20:19:15Z",
+      "updated_at": "2026-03-10T20:19:18Z"
     },
     {
       "id": 1051086270,
@@ -147,30 +114,63 @@
       "stars": 988,
       "forks": 103,
       "language": "TypeScript",
-      "pushed_at": "2026-03-10T18:06:35Z",
-      "updated_at": "2026-03-10T17:33:52Z"
+      "pushed_at": "2026-03-10T20:59:11Z",
+      "updated_at": "2026-03-10T20:02:17Z"
     },
     {
-      "id": 1169462190,
-      "full_name": "freddy-schuetz/n8n-claw",
-      "html_url": "https://github.com/freddy-schuetz/n8n-claw",
-      "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, proactive task management, media understanding - self-hosted with one setup script",
-      "stars": 172,
-      "forks": 34,
-      "language": "Shell",
-      "pushed_at": "2026-03-10T17:14:03Z",
-      "updated_at": "2026-03-10T17:42:09Z"
+      "id": 784773119,
+      "full_name": "SamurAIGPT/awesome-openclaw",
+      "html_url": "https://github.com/SamurAIGPT/awesome-openclaw",
+      "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+      "stars": 777,
+      "forks": 140,
+      "language": "Unknown",
+      "pushed_at": "2026-03-10T20:48:27Z",
+      "updated_at": "2026-03-10T20:48:32Z"
     },
     {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 164,
-      "forks": 4,
-      "language": "ReScript",
-      "pushed_at": "2026-03-10T16:40:59Z",
-      "updated_at": "2026-03-10T16:29:39Z"
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
+      "stars": 732,
+      "forks": 87,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-10T19:23:29Z",
+      "updated_at": "2026-03-10T19:23:33Z"
+    },
+    {
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 446,
+      "forks": 54,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-10T19:49:11Z",
+      "updated_at": "2026-03-10T20:46:02Z"
+    },
+    {
+      "id": 1151959075,
+      "full_name": "suitedaces/dorabot",
+      "html_url": "https://github.com/suitedaces/dorabot",
+      "description": "macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.",
+      "stars": 175,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-10T19:31:20Z",
+      "updated_at": "2026-03-10T21:00:54Z"
+    },
+    {
+      "id": 1162575074,
+      "full_name": "Usta0x001/Phantom",
+      "html_url": "https://github.com/Usta0x001/Phantom",
+      "description": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+      "stars": 103,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-03-10T20:54:50Z",
+      "updated_at": "2026-03-10T20:54:54Z"
     }
   ]
 }
