@@ -8,103 +8,70 @@
   "total_found": 324,
   "items": [
     {
-      "id": 522158088,
-      "full_name": "zhayujie/chatgpt-on-wechat",
-      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
-      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-      "stars": 42134,
-      "forks": 9812,
-      "language": "Python",
-      "pushed_at": "2026-03-11T16:11:48Z",
-      "updated_at": "2026-03-11T16:47:10Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41257,
-      "forks": 3805,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-11T16:26:10Z",
-      "updated_at": "2026-03-11T18:25:28Z"
-    },
-    {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29284,
+      "stars": 29286,
       "forks": 3810,
       "language": "TypeScript",
-      "pushed_at": "2026-03-11T16:29:23Z",
-      "updated_at": "2026-03-11T17:37:40Z"
+      "pushed_at": "2026-03-11T20:27:06Z",
+      "updated_at": "2026-03-11T20:07:04Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21173,
-      "forks": 3400,
+      "stars": 21175,
+      "forks": 3401,
       "language": "TypeScript",
-      "pushed_at": "2026-03-11T18:32:10Z",
-      "updated_at": "2026-03-11T16:12:13Z"
+      "pushed_at": "2026-03-11T20:49:50Z",
+      "updated_at": "2026-03-11T20:38:46Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 12999,
+      "forks": 797,
+      "language": "Python",
+      "pushed_at": "2026-03-11T20:00:11Z",
+      "updated_at": "2026-03-11T21:00:47Z"
     },
     {
       "id": 609539715,
       "full_name": "e2b-dev/E2B",
       "html_url": "https://github.com/e2b-dev/E2B",
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 11225,
+      "stars": 11227,
       "forks": 794,
       "language": "MDX",
       "pushed_at": "2026-03-11T18:17:18Z",
-      "updated_at": "2026-03-11T18:25:24Z"
+      "updated_at": "2026-03-11T20:26:16Z"
     },
     {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6490,
-      "forks": 700,
-      "language": "Python",
-      "pushed_at": "2026-03-11T17:20:28Z",
-      "updated_at": "2026-03-11T17:20:33Z"
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2319,
+      "forks": 182,
+      "language": "Rust",
+      "pushed_at": "2026-03-11T20:27:34Z",
+      "updated_at": "2026-03-11T20:27:39Z"
     },
     {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、传统深度学习、自动驾驶、AI Agent、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3131,
-      "forks": 352,
-      "language": "Unknown",
-      "pushed_at": "2026-03-11T15:37:18Z",
-      "updated_at": "2026-03-11T15:58:00Z"
-    },
-    {
-      "id": 1003614809,
-      "full_name": "kite-org/kite",
-      "html_url": "https://github.com/kite-org/kite",
-      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
-      "stars": 2350,
-      "forks": 189,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-11T17:08:37Z",
-      "updated_at": "2026-03-11T17:45:44Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1464,
-      "forks": 146,
-      "language": "Go",
-      "pushed_at": "2026-03-11T15:59:10Z",
-      "updated_at": "2026-03-11T16:48:42Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 2112,
+      "forks": 237,
+      "language": "Rust",
+      "pushed_at": "2026-03-11T21:01:03Z",
+      "updated_at": "2026-03-11T20:36:32Z"
     },
     {
       "id": 945671748,
@@ -114,8 +81,19 @@
       "stars": 1003,
       "forks": 173,
       "language": "TypeScript",
-      "pushed_at": "2026-03-11T17:37:40Z",
+      "pushed_at": "2026-03-11T19:47:19Z",
       "updated_at": "2026-03-11T17:37:42Z"
+    },
+    {
+      "id": 1106550266,
+      "full_name": "DeepMyst/Mysti",
+      "html_url": "https://github.com/DeepMyst/Mysti",
+      "description": "AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.",
+      "stars": 992,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-11T19:31:35Z",
+      "updated_at": "2026-03-11T19:31:40Z"
     },
     {
       "id": 1051086270,
@@ -125,30 +103,41 @@
       "stars": 990,
       "forks": 104,
       "language": "TypeScript",
-      "pushed_at": "2026-03-11T18:33:55Z",
-      "updated_at": "2026-03-11T18:25:54Z"
+      "pushed_at": "2026-03-11T20:53:25Z",
+      "updated_at": "2026-03-11T20:44:18Z"
     },
     {
       "id": 1167607007,
       "full_name": "qingchencloud/clawpanel",
       "html_url": "https://github.com/qingchencloud/clawpanel",
       "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 787,
+      "stars": 788,
       "forks": 93,
       "language": "JavaScript",
-      "pushed_at": "2026-03-11T18:31:30Z",
-      "updated_at": "2026-03-11T18:22:38Z"
+      "pushed_at": "2026-03-11T19:23:19Z",
+      "updated_at": "2026-03-11T19:23:23Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "debba/tabularis",
-      "html_url": "https://github.com/debba/tabularis",
-      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 663,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-11T17:24:43Z",
-      "updated_at": "2026-03-11T17:24:39Z"
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 578,
+      "forks": 67,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-11T20:48:37Z",
+      "updated_at": "2026-03-11T20:57:51Z"
+    },
+    {
+      "id": 992325192,
+      "full_name": "joinly-ai/joinly",
+      "html_url": "https://github.com/joinly-ai/joinly",
+      "description": "Make your meetings accessible to AI Agents",
+      "stars": 466,
+      "forks": 72,
+      "language": "Python",
+      "pushed_at": "2026-03-11T20:27:34Z",
+      "updated_at": "2026-03-11T20:27:34Z"
     },
     {
       "id": 802174871,
@@ -169,8 +158,19 @@
       "stars": 180,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-03-11T17:24:30Z",
-      "updated_at": "2026-03-11T17:24:28Z"
+      "pushed_at": "2026-03-11T20:36:28Z",
+      "updated_at": "2026-03-11T20:36:27Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 166,
+      "forks": 4,
+      "language": "ReScript",
+      "pushed_at": "2026-03-11T20:56:02Z",
+      "updated_at": "2026-03-11T20:47:23Z"
     }
   ]
 }
