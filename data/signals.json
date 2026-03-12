@@ -8,48 +8,59 @@
   "total_found": 329,
   "items": [
     {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 41329,
+      "forks": 3812,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-12T19:12:29Z",
+      "updated_at": "2026-03-12T21:39:48Z"
+    },
+    {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend for Agents & Generative UI. React + Angular",
-      "stars": 29311,
-      "forks": 3810,
+      "stars": 29314,
+      "forks": 3812,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T17:57:27Z",
-      "updated_at": "2026-03-12T17:29:24Z"
+      "pushed_at": "2026-03-12T21:36:49Z",
+      "updated_at": "2026-03-12T20:43:13Z"
     },
     {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 19464,
-      "forks": 860,
+      "stars": 19524,
+      "forks": 867,
       "language": "Rust",
-      "pushed_at": "2026-03-12T18:03:52Z",
-      "updated_at": "2026-03-12T18:08:53Z"
+      "pushed_at": "2026-03-12T20:34:12Z",
+      "updated_at": "2026-03-12T21:46:54Z"
     },
     {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6490,
-      "forks": 700,
-      "language": "Python",
-      "pushed_at": "2026-03-12T18:02:23Z",
-      "updated_at": "2026-03-12T18:02:21Z"
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11247,
+      "forks": 801,
+      "language": "MDX",
+      "pushed_at": "2026-03-12T21:11:03Z",
+      "updated_at": "2026-03-12T21:40:05Z"
     },
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 5989,
-      "forks": 677,
+      "id": 1010318950,
+      "full_name": "SWE-agent/mini-swe-agent",
+      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "stars": 3285,
+      "forks": 451,
       "language": "Python",
-      "pushed_at": "2026-03-12T18:08:15Z",
-      "updated_at": "2026-03-12T18:07:51Z"
+      "pushed_at": "2026-03-12T18:52:54Z",
+      "updated_at": "2026-03-12T19:31:57Z"
     },
     {
       "id": 1145977416,
@@ -59,19 +70,8 @@
       "stars": 3108,
       "forks": 361,
       "language": "JavaScript",
-      "pushed_at": "2026-03-12T17:37:47Z",
-      "updated_at": "2026-03-12T17:10:07Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1907,
-      "forks": 161,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-12T16:38:20Z",
-      "updated_at": "2026-03-12T17:55:48Z"
+      "pushed_at": "2026-03-12T21:09:27Z",
+      "updated_at": "2026-03-12T21:48:31Z"
     },
     {
       "id": 901554449,
@@ -79,21 +79,21 @@
       "html_url": "https://github.com/stakpak/agent",
       "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
       "stars": 1117,
-      "forks": 113,
+      "forks": 114,
       "language": "Rust",
-      "pushed_at": "2026-03-12T18:01:23Z",
-      "updated_at": "2026-03-12T18:01:29Z"
+      "pushed_at": "2026-03-12T18:49:25Z",
+      "updated_at": "2026-03-12T18:49:31Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1046,
-      "forks": 47,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1003,
+      "forks": 173,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T17:53:54Z",
-      "updated_at": "2026-03-12T17:45:47Z"
+      "pushed_at": "2026-03-12T20:47:45Z",
+      "updated_at": "2026-03-12T20:47:47Z"
     },
     {
       "id": 1051086270,
@@ -103,74 +103,74 @@
       "stars": 993,
       "forks": 105,
       "language": "TypeScript",
-      "pushed_at": "2026-03-12T17:52:40Z",
-      "updated_at": "2026-03-12T17:36:27Z"
+      "pushed_at": "2026-03-12T21:48:32Z",
+      "updated_at": "2026-03-12T21:48:34Z"
     },
     {
-      "id": 1167607007,
-      "full_name": "qingchencloud/clawpanel",
-      "html_url": "https://github.com/qingchencloud/clawpanel",
-      "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 854,
-      "forks": 100,
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 668,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-12T21:10:26Z",
+      "updated_at": "2026-03-12T21:10:29Z"
+    },
+    {
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 629,
+      "forks": 78,
       "language": "JavaScript",
-      "pushed_at": "2026-03-12T18:10:03Z",
-      "updated_at": "2026-03-12T18:10:03Z"
+      "pushed_at": "2026-03-12T19:57:17Z",
+      "updated_at": "2026-03-12T20:53:36Z"
     },
     {
       "id": 1176898834,
       "full_name": "aiming-lab/MetaClaw",
       "html_url": "https://github.com/aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 535,
-      "forks": 68,
+      "stars": 583,
+      "forks": 72,
       "language": "Python",
-      "pushed_at": "2026-03-12T17:57:02Z",
-      "updated_at": "2026-03-12T18:10:22Z"
+      "pushed_at": "2026-03-12T21:36:45Z",
+      "updated_at": "2026-03-12T21:48:00Z"
     },
     {
-      "id": 1145881485,
-      "full_name": "Arvincreator/project-golem",
-      "html_url": "https://github.com/Arvincreator/project-golem",
-      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
-      "stars": 272,
-      "forks": 45,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-12T16:20:25Z",
-      "updated_at": "2026-03-12T16:20:50Z"
+      "id": 1150671982,
+      "full_name": "johunsang/octo-terminal-releases",
+      "html_url": "https://github.com/johunsang/octo-terminal-releases",
+      "description": "Octo Terminal — The ultimate vibe coding terminal. AI-powered IDE with Claude, Codex, Ollama built-in. Terminal + editor + notes + browser in one app. Tauri + React + Rust.",
+      "stars": 227,
+      "forks": 27,
+      "language": "Unknown",
+      "pushed_at": "2026-03-12T21:43:21Z",
+      "updated_at": "2026-03-12T20:39:32Z"
     },
     {
       "id": 1169462190,
       "full_name": "freddy-schuetz/n8n-claw",
       "html_url": "https://github.com/freddy-schuetz/n8n-claw",
       "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, proactive task management, media understanding - self-hosted with one setup script",
-      "stars": 192,
+      "stars": 193,
       "forks": 39,
       "language": "Shell",
-      "pushed_at": "2026-03-12T18:02:51Z",
-      "updated_at": "2026-03-12T18:02:56Z"
+      "pushed_at": "2026-03-12T20:14:09Z",
+      "updated_at": "2026-03-12T20:07:54Z"
     },
     {
-      "id": 1035759799,
-      "full_name": "bgdnvk/clanker",
-      "html_url": "https://github.com/bgdnvk/clanker",
-      "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
-      "stars": 186,
-      "forks": 11,
-      "language": "Go",
-      "pushed_at": "2026-03-12T17:10:54Z",
-      "updated_at": "2026-03-12T17:10:59Z"
-    },
-    {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 169,
-      "forks": 4,
-      "language": "ReScript",
-      "pushed_at": "2026-03-12T17:44:18Z",
-      "updated_at": "2026-03-12T17:26:31Z"
+      "id": 1151959075,
+      "full_name": "suitedaces/dorabot",
+      "html_url": "https://github.com/suitedaces/dorabot",
+      "description": "macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.",
+      "stars": 182,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-12T19:37:18Z",
+      "updated_at": "2026-03-12T21:01:17Z"
     }
   ]
 }
