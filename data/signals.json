@@ -5,128 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 337,
+  "total_found": 341,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41473,
+      "stars": 41484,
       "forks": 3837,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T13:25:55Z",
-      "updated_at": "2026-03-14T13:43:00Z"
+      "pushed_at": "2026-03-14T16:57:51Z",
+      "updated_at": "2026-03-14T16:29:41Z"
     },
     {
-      "id": 1139782619,
-      "full_name": "saturndec/waoowaoo",
-      "html_url": "https://github.com/saturndec/waoowaoo",
-      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
-      "stars": 9333,
-      "forks": 2029,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 29371,
+      "forks": 3820,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T12:54:26Z",
-      "updated_at": "2026-03-14T13:22:42Z"
+      "pushed_at": "2026-03-14T16:06:53Z",
+      "updated_at": "2026-03-14T16:49:49Z"
+    },
+    {
+      "id": 1010681419,
+      "full_name": "shareAI-lab/learn-claude-code",
+      "html_url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1",
+      "stars": 26823,
+      "forks": 4750,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-14T15:50:37Z",
+      "updated_at": "2026-03-14T17:02:13Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 6984,
-      "forks": 791,
+      "stars": 7037,
+      "forks": 796,
       "language": "Python",
-      "pushed_at": "2026-03-14T13:50:30Z",
-      "updated_at": "2026-03-14T13:57:21Z"
+      "pushed_at": "2026-03-14T17:01:03Z",
+      "updated_at": "2026-03-14T17:00:50Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3185,
-      "forks": 371,
+      "stars": 3194,
+      "forks": 373,
       "language": "JavaScript",
-      "pushed_at": "2026-03-14T13:36:04Z",
-      "updated_at": "2026-03-14T13:46:07Z"
-    },
-    {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、传统深度学习、自动驾驶、AI Agent、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3171,
-      "forks": 358,
-      "language": "Unknown",
-      "pushed_at": "2026-03-14T12:29:48Z",
-      "updated_at": "2026-03-14T13:49:29Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2325,
-      "forks": 183,
-      "language": "Rust",
-      "pushed_at": "2026-03-14T11:51:28Z",
-      "updated_at": "2026-03-14T11:51:31Z"
+      "pushed_at": "2026-03-14T15:59:58Z",
+      "updated_at": "2026-03-14T16:56:16Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 2178,
-      "forks": 244,
+      "stars": 2181,
+      "forks": 245,
       "language": "Rust",
-      "pushed_at": "2026-03-14T13:19:37Z",
-      "updated_at": "2026-03-14T13:40:29Z"
+      "pushed_at": "2026-03-14T17:01:26Z",
+      "updated_at": "2026-03-14T17:01:07Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 1953,
+      "stars": 1958,
       "forks": 168,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T13:53:39Z",
-      "updated_at": "2026-03-14T13:53:42Z"
+      "pushed_at": "2026-03-14T15:04:07Z",
+      "updated_at": "2026-03-14T16:50:33Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1516,
-      "forks": 152,
-      "language": "Go",
-      "pushed_at": "2026-03-14T13:49:56Z",
-      "updated_at": "2026-03-14T13:41:57Z"
-    },
-    {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1224,
-      "forks": 119,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-14T13:35:33Z",
-      "updated_at": "2026-03-14T13:35:38Z"
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Stop prompting. Start specifying.",
+      "stars": 1273,
+      "forks": 120,
+      "language": "Python",
+      "pushed_at": "2026-03-14T15:57:01Z",
+      "updated_at": "2026-03-14T16:56:09Z"
     },
     {
       "id": 1176898834,
       "full_name": "aiming-lab/MetaClaw",
       "html_url": "https://github.com/aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 1062,
-      "forks": 140,
+      "stars": 1090,
+      "forks": 142,
       "language": "Python",
-      "pushed_at": "2026-03-14T13:16:39Z",
-      "updated_at": "2026-03-14T13:50:11Z"
+      "pushed_at": "2026-03-14T16:25:15Z",
+      "updated_at": "2026-03-14T16:30:23Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +114,63 @@
       "stars": 1046,
       "forks": 48,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T13:52:45Z",
-      "updated_at": "2026-03-14T13:50:45Z"
+      "pushed_at": "2026-03-14T16:53:25Z",
+      "updated_at": "2026-03-14T16:46:44Z"
     },
     {
-      "id": 1167607007,
-      "full_name": "qingchencloud/clawpanel",
-      "html_url": "https://github.com/qingchencloud/clawpanel",
-      "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 1028,
-      "forks": 119,
+      "id": 1088816938,
+      "full_name": "4ier/neo",
+      "html_url": "https://github.com/4ier/neo",
+      "description": "Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.",
+      "stars": 581,
+      "forks": 45,
       "language": "JavaScript",
-      "pushed_at": "2026-03-14T12:15:18Z",
-      "updated_at": "2026-03-14T13:18:34Z"
+      "pushed_at": "2026-03-14T16:12:58Z",
+      "updated_at": "2026-03-14T16:24:39Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "debba/tabularis",
-      "html_url": "https://github.com/debba/tabularis",
-      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 687,
-      "forks": 44,
+      "id": 1155099363,
+      "full_name": "AidanPark/openclaw-android",
+      "html_url": "https://github.com/AidanPark/openclaw-android",
+      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
+      "stars": 580,
+      "forks": 79,
+      "language": "Java",
+      "pushed_at": "2026-03-14T14:36:55Z",
+      "updated_at": "2026-03-14T16:05:49Z"
+    },
+    {
+      "id": 1145881485,
+      "full_name": "Arvincreator/project-golem",
+      "html_url": "https://github.com/Arvincreator/project-golem",
+      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
+      "stars": 280,
+      "forks": 46,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-14T16:01:47Z",
+      "updated_at": "2026-03-14T16:28:08Z"
+    },
+    {
+      "id": 1067194496,
+      "full_name": "microsoft/DebugMCP",
+      "html_url": "https://github.com/microsoft/DebugMCP",
+      "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
+      "stars": 204,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-03-14T13:56:03Z",
-      "updated_at": "2026-03-14T13:56:06Z"
+      "pushed_at": "2026-03-14T16:35:55Z",
+      "updated_at": "2026-03-14T16:35:58Z"
     },
     {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
-      "stars": 677,
-      "forks": 112,
-      "language": "Python",
-      "pushed_at": "2026-03-14T13:14:44Z",
-      "updated_at": "2026-03-14T13:53:27Z"
+      "id": 937106681,
+      "full_name": "cablate/mcp-google-map",
+      "html_url": "https://github.com/cablate/mcp-google-map",
+      "description": "A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities.",
+      "stars": 193,
+      "forks": 59,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-14T16:01:47Z",
+      "updated_at": "2026-03-14T15:28:30Z"
     }
   ]
 }
