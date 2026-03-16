@@ -5,7 +5,7 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 348,
+  "total_found": 349,
   "items": [
     {
       "id": 805155266,
@@ -23,88 +23,88 @@
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21240,
+      "stars": 21243,
       "forks": 3419,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T19:25:21Z",
-      "updated_at": "2026-03-16T19:04:21Z"
+      "pushed_at": "2026-03-16T21:34:26Z",
+      "updated_at": "2026-03-16T21:31:12Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 18942,
-      "forks": 1491,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T18:07:34Z",
-      "updated_at": "2026-03-16T19:05:08Z"
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 13118,
+      "forks": 810,
+      "language": "Python",
+      "pushed_at": "2026-03-16T21:50:35Z",
+      "updated_at": "2026-03-16T21:13:29Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 7982,
-      "forks": 929,
+      "stars": 8020,
+      "forks": 934,
       "language": "Python",
-      "pushed_at": "2026-03-16T19:36:31Z",
-      "updated_at": "2026-03-16T19:36:38Z"
+      "pushed_at": "2026-03-16T21:22:57Z",
+      "updated_at": "2026-03-16T21:51:45Z"
     },
     {
       "id": 1045721921,
       "full_name": "frankbria/ralph-claude-code",
       "html_url": "https://github.com/frankbria/ralph-claude-code",
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-      "stars": 7912,
+      "stars": 7918,
       "forks": 568,
       "language": "Shell",
       "pushed_at": "2026-03-16T19:32:26Z",
-      "updated_at": "2026-03-16T19:32:58Z"
+      "updated_at": "2026-03-16T21:52:53Z"
+    },
+    {
+      "id": 114540126,
+      "full_name": "SciSharp/BotSharp",
+      "html_url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "stars": 3030,
+      "forks": 620,
+      "language": "C#",
+      "pushed_at": "2026-03-16T21:00:19Z",
+      "updated_at": "2026-03-16T21:00:25Z"
+    },
+    {
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2329,
+      "forks": 185,
+      "language": "Rust",
+      "pushed_at": "2026-03-16T21:47:09Z",
+      "updated_at": "2026-03-16T21:47:14Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1552,
-      "forks": 157,
+      "stars": 1553,
+      "forks": 158,
       "language": "Go",
       "pushed_at": "2026-03-16T18:29:10Z",
-      "updated_at": "2026-03-16T18:35:32Z"
+      "updated_at": "2026-03-16T21:28:55Z"
     },
     {
-      "id": 1176898834,
-      "full_name": "aiming-lab/MetaClaw",
-      "html_url": "https://github.com/aiming-lab/MetaClaw",
-      "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stars": 1443,
-      "forks": 183,
-      "language": "Python",
-      "pushed_at": "2026-03-16T17:01:27Z",
-      "updated_at": "2026-03-16T19:18:56Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Stop prompting. Start specifying.",
-      "stars": 1381,
-      "forks": 124,
-      "language": "Python",
-      "pushed_at": "2026-03-16T17:22:05Z",
-      "updated_at": "2026-03-16T18:43:07Z"
-    },
-    {
-      "id": 1167607007,
-      "full_name": "qingchencloud/clawpanel",
-      "html_url": "https://github.com/qingchencloud/clawpanel",
-      "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 1168,
-      "forks": 144,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-16T17:02:36Z",
-      "updated_at": "2026-03-16T19:36:48Z"
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1006,
+      "forks": 174,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T20:42:13Z",
+      "updated_at": "2026-03-16T19:54:03Z"
     },
     {
       "id": 1051086270,
@@ -114,41 +114,30 @@
       "stars": 999,
       "forks": 106,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T19:25:51Z",
+      "pushed_at": "2026-03-16T21:51:03Z",
       "updated_at": "2026-03-16T18:23:56Z"
-    },
-    {
-      "id": 954321799,
-      "full_name": "truffle-ai/dexto",
-      "html_url": "https://github.com/truffle-ai/dexto",
-      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
-      "stars": 596,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T18:10:35Z",
-      "updated_at": "2026-03-16T18:07:50Z"
     },
     {
       "id": 1142406715,
       "full_name": "EvoScientist/EvoScientist",
       "html_url": "https://github.com/EvoScientist/EvoScientist",
       "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 525,
+      "stars": 534,
       "forks": 46,
       "language": "Python",
-      "pushed_at": "2026-03-16T19:16:45Z",
-      "updated_at": "2026-03-16T19:35:22Z"
+      "pushed_at": "2026-03-16T20:26:35Z",
+      "updated_at": "2026-03-16T21:47:02Z"
     },
     {
-      "id": 1178500367,
-      "full_name": "openwalrus/walrus",
-      "html_url": "https://github.com/openwalrus/walrus",
-      "description": "The composable agent runtime.",
-      "stars": 251,
-      "forks": 35,
-      "language": "Rust",
-      "pushed_at": "2026-03-16T17:11:25Z",
-      "updated_at": "2026-03-16T18:57:54Z"
+      "id": 1060036659,
+      "full_name": "agentic-box/memora",
+      "html_url": "https://github.com/agentic-box/memora",
+      "description": "Give your AI agents persistent memory — MCP server for semantic storage, knowledge graphs, and cross-session context",
+      "stars": 321,
+      "forks": 32,
+      "language": "Python",
+      "pushed_at": "2026-03-16T20:24:43Z",
+      "updated_at": "2026-03-16T20:40:53Z"
     },
     {
       "id": 937106681,
@@ -158,19 +147,30 @@
       "stars": 197,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T19:36:33Z",
+      "pushed_at": "2026-03-16T19:43:29Z",
       "updated_at": "2026-03-16T19:15:37Z"
     },
     {
-      "id": 1153494379,
-      "full_name": "grinev/opencode-telegram-bot",
-      "html_url": "https://github.com/grinev/opencode-telegram-bot",
-      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.",
-      "stars": 188,
-      "forks": 35,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T17:10:41Z",
-      "updated_at": "2026-03-16T18:41:44Z"
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 162,
+      "forks": 29,
+      "language": "Python",
+      "pushed_at": "2026-03-16T20:09:48Z",
+      "updated_at": "2026-03-16T19:36:17Z"
+    },
+    {
+      "id": 1164059777,
+      "full_name": "fim-ai/fim-one",
+      "html_url": "https://github.com/fim-ai/fim-one",
+      "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
+      "stars": 143,
+      "forks": 24,
+      "language": "Python",
+      "pushed_at": "2026-03-16T18:59:05Z",
+      "updated_at": "2026-03-16T21:50:42Z"
     }
   ]
 }
