@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 347,
+  "total_found": 348,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41580,
-      "forks": 3853,
+      "stars": 41592,
+      "forks": 3855,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:44:49Z",
-      "updated_at": "2026-03-16T15:43:01Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29404,
-      "forks": 3823,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:25:09Z",
-      "updated_at": "2026-03-16T14:43:47Z"
+      "pushed_at": "2026-03-16T18:36:19Z",
+      "updated_at": "2026-03-16T19:34:34Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21238,
-      "forks": 3420,
+      "stars": 21240,
+      "forks": 3419,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:14:54Z",
-      "updated_at": "2026-03-16T15:42:34Z"
+      "pushed_at": "2026-03-16T19:25:21Z",
+      "updated_at": "2026-03-16T19:04:21Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 18935,
-      "forks": 1490,
+      "stars": 18942,
+      "forks": 1491,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:32:29Z",
-      "updated_at": "2026-03-16T15:26:44Z"
+      "pushed_at": "2026-03-16T18:07:34Z",
+      "updated_at": "2026-03-16T19:05:08Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 7909,
-      "forks": 918,
+      "stars": 7982,
+      "forks": 929,
       "language": "Python",
-      "pushed_at": "2026-03-16T14:53:15Z",
-      "updated_at": "2026-03-16T15:44:58Z"
+      "pushed_at": "2026-03-16T19:36:31Z",
+      "updated_at": "2026-03-16T19:36:38Z"
     },
     {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2329,
-      "forks": 185,
-      "language": "Rust",
-      "pushed_at": "2026-03-16T15:44:08Z",
-      "updated_at": "2026-03-16T15:44:13Z"
+      "id": 1045721921,
+      "full_name": "frankbria/ralph-claude-code",
+      "html_url": "https://github.com/frankbria/ralph-claude-code",
+      "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+      "stars": 7912,
+      "forks": 568,
+      "language": "Shell",
+      "pushed_at": "2026-03-16T19:32:26Z",
+      "updated_at": "2026-03-16T19:32:58Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 2018,
-      "forks": 177,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:06:25Z",
-      "updated_at": "2026-03-16T15:21:51Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1552,
+      "forks": 157,
+      "language": "Go",
+      "pushed_at": "2026-03-16T18:29:10Z",
+      "updated_at": "2026-03-16T18:35:32Z"
+    },
+    {
+      "id": 1176898834,
+      "full_name": "aiming-lab/MetaClaw",
+      "html_url": "https://github.com/aiming-lab/MetaClaw",
+      "description": "Just talk to your agent — it learns and EVOLVES.",
+      "stars": 1443,
+      "forks": 183,
+      "language": "Python",
+      "pushed_at": "2026-03-16T17:01:27Z",
+      "updated_at": "2026-03-16T19:18:56Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Stop prompting. Start specifying.",
-      "stars": 1380,
-      "forks": 125,
+      "stars": 1381,
+      "forks": 124,
       "language": "Python",
-      "pushed_at": "2026-03-16T14:47:50Z",
-      "updated_at": "2026-03-16T15:26:01Z"
+      "pushed_at": "2026-03-16T17:22:05Z",
+      "updated_at": "2026-03-16T18:43:07Z"
+    },
+    {
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
+      "stars": 1168,
+      "forks": 144,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-16T17:02:36Z",
+      "updated_at": "2026-03-16T19:36:48Z"
     },
     {
       "id": 1051086270,
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1000,
+      "stars": 999,
       "forks": 106,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:30:25Z",
-      "updated_at": "2026-03-16T15:04:02Z"
+      "pushed_at": "2026-03-16T19:25:51Z",
+      "updated_at": "2026-03-16T18:23:56Z"
+    },
+    {
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 596,
+      "forks": 67,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T18:10:35Z",
+      "updated_at": "2026-03-16T18:07:50Z"
     },
     {
       "id": 1142406715,
       "full_name": "EvoScientist/EvoScientist",
       "html_url": "https://github.com/EvoScientist/EvoScientist",
       "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 500,
-      "forks": 45,
+      "stars": 525,
+      "forks": 46,
       "language": "Python",
-      "pushed_at": "2026-03-16T15:27:27Z",
-      "updated_at": "2026-03-16T15:44:26Z"
+      "pushed_at": "2026-03-16T19:16:45Z",
+      "updated_at": "2026-03-16T19:35:22Z"
     },
     {
-      "id": 1145881485,
-      "full_name": "Arvincreator/project-golem",
-      "html_url": "https://github.com/Arvincreator/project-golem",
-      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
-      "stars": 288,
-      "forks": 47,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-16T14:46:50Z",
-      "updated_at": "2026-03-16T14:55:21Z"
+      "id": 1178500367,
+      "full_name": "openwalrus/walrus",
+      "html_url": "https://github.com/openwalrus/walrus",
+      "description": "The composable agent runtime.",
+      "stars": 251,
+      "forks": 35,
+      "language": "Rust",
+      "pushed_at": "2026-03-16T17:11:25Z",
+      "updated_at": "2026-03-16T18:57:54Z"
     },
     {
-      "id": 1152181595,
-      "full_name": "xvirobotics/metabot",
-      "html_url": "https://github.com/xvirobotics/metabot",
-      "description": "Infrastructure for building a supervised, self-improving agent organization. Run Claude Code from Feishu & Telegram with shared memory, agent factory, task scheduling, and an agent communication bus.",
-      "stars": 280,
+      "id": 937106681,
+      "full_name": "cablate/mcp-google-map",
+      "html_url": "https://github.com/cablate/mcp-google-map",
+      "description": "A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities.",
+      "stars": 197,
+      "forks": 61,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-16T19:36:33Z",
+      "updated_at": "2026-03-16T19:15:37Z"
+    },
+    {
+      "id": 1153494379,
+      "full_name": "grinev/opencode-telegram-bot",
+      "html_url": "https://github.com/grinev/opencode-telegram-bot",
+      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.",
+      "stars": 188,
       "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:38:06Z",
-      "updated_at": "2026-03-16T15:38:08Z"
-    },
-    {
-      "id": 1164059777,
-      "full_name": "fim-ai/fim-one",
-      "html_url": "https://github.com/fim-ai/fim-one",
-      "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
-      "stars": 137,
-      "forks": 24,
-      "language": "Python",
-      "pushed_at": "2026-03-16T15:16:05Z",
-      "updated_at": "2026-03-16T15:16:31Z"
-    },
-    {
-      "id": 899383871,
-      "full_name": "gradion-ai/freeact",
-      "html_url": "https://github.com/gradion-ai/freeact",
-      "description": "Agent harness and CLI tool that acts and self-improves via code actions",
-      "stars": 128,
-      "forks": 9,
-      "language": "Python",
-      "pushed_at": "2026-03-16T15:24:14Z",
-      "updated_at": "2026-03-16T15:23:54Z"
-    },
-    {
-      "id": 778951389,
-      "full_name": "olasunkanmi-SE/codebuddy",
-      "html_url": "https://github.com/olasunkanmi-SE/codebuddy",
-      "description": "An Autonomous AI Software Engineer",
-      "stars": 111,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-16T15:39:12Z",
-      "updated_at": "2026-03-16T15:39:18Z"
+      "pushed_at": "2026-03-16T17:10:41Z",
+      "updated_at": "2026-03-16T18:41:44Z"
     }
   ]
 }
