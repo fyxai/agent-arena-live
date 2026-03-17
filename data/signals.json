@@ -8,114 +8,103 @@
   "total_found": 355,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41670,
-      "forks": 3860,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-17T18:09:31Z",
-      "updated_at": "2026-03-17T19:32:06Z"
-    },
-    {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29479,
+      "stars": 29480,
       "forks": 3825,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T17:55:56Z",
-      "updated_at": "2026-03-17T19:33:39Z"
+      "pushed_at": "2026-03-17T21:04:20Z",
+      "updated_at": "2026-03-17T21:15:48Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21259,
+      "stars": 21262,
       "forks": 3425,
       "language": "TypeScript",
       "pushed_at": "2026-03-17T19:24:25Z",
-      "updated_at": "2026-03-17T19:24:17Z"
+      "updated_at": "2026-03-17T21:42:22Z"
     },
     {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 21156,
+      "stars": 21185,
       "forks": 981,
       "language": "Rust",
-      "pushed_at": "2026-03-17T19:34:22Z",
-      "updated_at": "2026-03-17T19:30:50Z"
+      "pushed_at": "2026-03-17T21:47:20Z",
+      "updated_at": "2026-03-17T21:55:36Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 19012,
+      "stars": 19013,
       "forks": 1503,
       "language": "TypeScript",
       "pushed_at": "2026-03-17T18:14:56Z",
-      "updated_at": "2026-03-17T19:34:56Z"
+      "updated_at": "2026-03-17T21:04:22Z"
     },
     {
       "id": 609539715,
       "full_name": "e2b-dev/E2B",
       "html_url": "https://github.com/e2b-dev/E2B",
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 11320,
+      "stars": 11319,
       "forks": 808,
       "language": "Python",
       "pushed_at": "2026-03-17T18:47:00Z",
-      "updated_at": "2026-03-17T19:20:22Z"
+      "updated_at": "2026-03-17T20:13:05Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 8415,
-      "forks": 984,
+      "stars": 8443,
+      "forks": 991,
       "language": "Python",
-      "pushed_at": "2026-03-17T19:36:22Z",
-      "updated_at": "2026-03-17T19:34:21Z"
+      "pushed_at": "2026-03-17T21:08:21Z",
+      "updated_at": "2026-03-17T21:51:48Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3292,
+      "stars": 3294,
       "forks": 390,
       "language": "JavaScript",
-      "pushed_at": "2026-03-17T18:40:40Z",
-      "updated_at": "2026-03-17T19:14:29Z"
+      "pushed_at": "2026-03-17T21:25:20Z",
+      "updated_at": "2026-03-17T21:29:26Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 2069,
+      "stars": 2073,
       "forks": 186,
       "language": "TypeScript",
       "pushed_at": "2026-03-17T18:42:47Z",
-      "updated_at": "2026-03-17T18:42:48Z"
+      "updated_at": "2026-03-17T21:08:45Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1048,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-17T18:51:55Z",
-      "updated_at": "2026-03-17T17:58:04Z"
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates editable, beautifully designed PPTX from any document — no design skills needed    | 15 examples, 229 pages ",
+      "stars": 2054,
+      "forks": 281,
+      "language": "Python",
+      "pushed_at": "2026-03-17T21:40:55Z",
+      "updated_at": "2026-03-17T21:41:01Z"
     },
     {
       "id": 1051086270,
@@ -125,19 +114,19 @@
       "stars": 1001,
       "forks": 106,
       "language": "TypeScript",
-      "pushed_at": "2026-03-17T19:35:52Z",
-      "updated_at": "2026-03-17T18:54:30Z"
+      "pushed_at": "2026-03-17T21:52:42Z",
+      "updated_at": "2026-03-17T21:52:44Z"
     },
     {
       "id": 1142406715,
       "full_name": "EvoScientist/EvoScientist",
       "html_url": "https://github.com/EvoScientist/EvoScientist",
       "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 751,
-      "forks": 63,
+      "stars": 764,
+      "forks": 64,
       "language": "Python",
       "pushed_at": "2026-03-17T18:55:09Z",
-      "updated_at": "2026-03-17T19:38:15Z"
+      "updated_at": "2026-03-17T21:53:29Z"
     },
     {
       "id": 954321799,
@@ -162,15 +151,26 @@
       "updated_at": "2026-03-17T18:16:56Z"
     },
     {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 163,
-      "forks": 30,
+      "id": 1181318933,
+      "full_name": "wuji-labs/nopua",
+      "html_url": "https://github.com/wuji-labs/nopua",
+      "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+      "stars": 284,
+      "forks": 8,
       "language": "Python",
-      "pushed_at": "2026-03-17T19:32:13Z",
-      "updated_at": "2026-03-17T19:31:53Z"
+      "pushed_at": "2026-03-17T20:34:18Z",
+      "updated_at": "2026-03-17T21:40:50Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 173,
+      "forks": 5,
+      "language": "ReScript",
+      "pushed_at": "2026-03-17T21:38:35Z",
+      "updated_at": "2026-03-17T21:38:38Z"
     }
   ]
 }
