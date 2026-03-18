@@ -5,106 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 356,
+  "total_found": 358,
   "items": [
-    {
-      "id": 522158088,
-      "full_name": "zhayujie/chatgpt-on-wechat",
-      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
-      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
-      "stars": 42261,
-      "forks": 9831,
-      "language": "Python",
-      "pushed_at": "2026-03-18T04:11:17Z",
-      "updated_at": "2026-03-18T04:11:23Z"
-    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41694,
-      "forks": 3865,
+      "stars": 41722,
+      "forks": 3872,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T04:40:02Z",
-      "updated_at": "2026-03-18T05:16:01Z"
+      "pushed_at": "2026-03-18T09:53:07Z",
+      "updated_at": "2026-03-18T10:24:11Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21270,
+      "forks": 3428,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-18T10:27:50Z",
+      "updated_at": "2026-03-18T10:25:44Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 19042,
-      "forks": 1505,
+      "stars": 19066,
+      "forks": 1508,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T04:00:31Z",
-      "updated_at": "2026-03-18T05:22:28Z"
+      "pushed_at": "2026-03-18T10:36:56Z",
+      "updated_at": "2026-03-18T10:31:59Z"
+    },
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 8636,
+      "forks": 1024,
+      "language": "Python",
+      "pushed_at": "2026-03-18T10:31:19Z",
+      "updated_at": "2026-03-18T10:31:23Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 8389,
-      "forks": 638,
+      "stars": 8486,
+      "forks": 644,
       "language": "Python",
-      "pushed_at": "2026-03-18T04:34:23Z",
-      "updated_at": "2026-03-18T05:23:44Z"
+      "pushed_at": "2026-03-18T10:33:59Z",
+      "updated_at": "2026-03-18T10:34:33Z"
     },
     {
-      "id": 810121174,
-      "full_name": "LazyAGI/LazyLLM",
-      "html_url": "https://github.com/LazyAGI/LazyLLM",
-      "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
-      "stars": 3753,
-      "forks": 365,
-      "language": "Python",
-      "pushed_at": "2026-03-18T05:12:46Z",
-      "updated_at": "2026-03-18T05:12:51Z"
+      "id": 1020834440,
+      "full_name": "memodb-io/Acontext",
+      "html_url": "https://github.com/memodb-io/Acontext",
+      "description": "Agent Skills as a Memory Layer",
+      "stars": 3165,
+      "forks": 295,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-18T10:32:07Z",
+      "updated_at": "2026-03-18T10:02:36Z"
     },
     {
-      "id": 1155091202,
-      "full_name": "KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh",
-      "html_url": "https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh",
-      "description": "从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字",
-      "stars": 2074,
-      "forks": 336,
-      "language": "Unknown",
-      "pushed_at": "2026-03-18T04:40:33Z",
-      "updated_at": "2026-03-18T04:59:00Z"
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2098,
+      "forks": 191,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-18T09:56:26Z",
+      "updated_at": "2026-03-18T10:03:20Z"
+    },
+    {
+      "id": 949646929,
+      "full_name": "GetBindu/Bindu",
+      "html_url": "https://github.com/GetBindu/Bindu",
+      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
+      "stars": 1754,
+      "forks": 310,
+      "language": "Python",
+      "pushed_at": "2026-03-18T10:26:45Z",
+      "updated_at": "2026-03-18T10:26:49Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Stop prompting. Start specifying.",
+      "stars": 1474,
+      "forks": 131,
+      "language": "Python",
+      "pushed_at": "2026-03-18T09:59:20Z",
+      "updated_at": "2026-03-18T10:31:05Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1051,
+      "stars": 1052,
       "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T05:22:58Z",
-      "updated_at": "2026-03-18T05:23:01Z"
-    },
-    {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1003,
-      "forks": 106,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-18T04:09:11Z",
-      "updated_at": "2026-03-18T04:11:55Z"
+      "pushed_at": "2026-03-18T10:36:32Z",
+      "updated_at": "2026-03-18T10:31:35Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 852,
-      "forks": 233,
+      "stars": 862,
+      "forks": 237,
       "language": "Go",
-      "pushed_at": "2026-03-18T04:06:06Z",
-      "updated_at": "2026-03-18T05:18:14Z"
+      "pushed_at": "2026-03-18T10:04:42Z",
+      "updated_at": "2026-03-18T10:24:13Z"
     },
     {
       "id": 1133660268,
@@ -114,63 +136,41 @@
       "stars": 655,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T04:36:47Z",
-      "updated_at": "2026-03-18T04:36:51Z"
+      "pushed_at": "2026-03-18T10:33:57Z",
+      "updated_at": "2026-03-18T10:34:01Z"
     },
     {
-      "id": 845317529,
-      "full_name": "giselles-ai/giselle",
-      "html_url": "https://github.com/giselles-ai/giselle",
-      "description": "Giselle: AI App Builder. Open Source.",
-      "stars": 502,
-      "forks": 111,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-18T04:42:09Z",
-      "updated_at": "2026-03-18T04:42:12Z"
+      "id": 1060036659,
+      "full_name": "agentic-box/memora",
+      "html_url": "https://github.com/agentic-box/memora",
+      "description": "Give your AI agents persistent memory — MCP server for semantic storage, knowledge graphs, and cross-session context",
+      "stars": 322,
+      "forks": 34,
+      "language": "Python",
+      "pushed_at": "2026-03-18T10:24:38Z",
+      "updated_at": "2026-03-18T10:24:41Z"
     },
     {
-      "id": 932008418,
-      "full_name": "cloudwego/abcoder",
-      "html_url": "https://github.com/cloudwego/abcoder",
-      "description": "deep, reliable and confidential coding-context",
-      "stars": 335,
-      "forks": 49,
-      "language": "Go",
-      "pushed_at": "2026-03-18T04:39:15Z",
-      "updated_at": "2026-03-18T04:39:20Z"
+      "id": 1169462190,
+      "full_name": "freddy-schuetz/n8n-claw",
+      "html_url": "https://github.com/freddy-schuetz/n8n-claw",
+      "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script",
+      "stars": 252,
+      "forks": 47,
+      "language": "Shell",
+      "pushed_at": "2026-03-18T09:43:06Z",
+      "updated_at": "2026-03-18T09:43:09Z"
     },
     {
-      "id": 1094226297,
-      "full_name": "FrankChen021/datastoria",
-      "html_url": "https://github.com/FrankChen021/datastoria",
-      "description": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
-      "stars": 302,
-      "forks": 12,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-18T05:13:55Z",
-      "updated_at": "2026-03-18T05:13:57Z"
-    },
-    {
-      "id": 1124639648,
-      "full_name": "adnaan-worker/Adnify",
-      "html_url": "https://github.com/adnaan-worker/Adnify",
-      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
-      "stars": 155,
-      "forks": 31,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-18T05:15:30Z",
-      "updated_at": "2026-03-18T05:15:34Z"
-    },
-    {
-      "id": 1181593554,
-      "full_name": "LucidAkshay/kavach",
-      "html_url": "https://github.com/LucidAkshay/kavach",
-      "description": "The Tactical Zero-Trust AI Firewall",
-      "stars": 132,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-18T05:07:55Z",
-      "updated_at": "2026-03-18T05:16:06Z"
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 173,
+      "forks": 5,
+      "language": "ReScript",
+      "pushed_at": "2026-03-18T10:26:00Z",
+      "updated_at": "2026-03-18T10:07:04Z"
     }
   ]
 }
