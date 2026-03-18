@@ -8,70 +8,59 @@
   "total_found": 359,
   "items": [
     {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 29516,
+      "forks": 3826,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-18T20:36:29Z",
+      "updated_at": "2026-03-18T21:32:32Z"
+    },
+    {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 21421,
-      "forks": 1002,
+      "stars": 21436,
+      "forks": 1003,
       "language": "Rust",
-      "pushed_at": "2026-03-18T19:30:24Z",
-      "updated_at": "2026-03-18T19:26:33Z"
+      "pushed_at": "2026-03-18T20:56:36Z",
+      "updated_at": "2026-03-18T21:43:43Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21275,
-      "forks": 3431,
+      "stars": 21282,
+      "forks": 3432,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T19:21:25Z",
-      "updated_at": "2026-03-18T19:03:20Z"
+      "pushed_at": "2026-03-18T21:23:42Z",
+      "updated_at": "2026-03-18T21:35:42Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 13165,
+      "stars": 13166,
       "forks": 815,
       "language": "Python",
       "pushed_at": "2026-03-18T17:58:30Z",
-      "updated_at": "2026-03-18T18:31:11Z"
-    },
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 8761,
-      "forks": 1045,
-      "language": "Python",
-      "pushed_at": "2026-03-18T17:42:43Z",
-      "updated_at": "2026-03-18T19:30:30Z"
+      "updated_at": "2026-03-18T20:13:37Z"
     },
     {
       "id": 900577388,
       "full_name": "crestalnetwork/intentkit",
       "html_url": "https://github.com/crestalnetwork/intentkit",
       "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6492,
+      "stars": 6493,
       "forks": 699,
       "language": "Python",
       "pushed_at": "2026-03-18T18:04:21Z",
-      "updated_at": "2026-03-18T18:04:26Z"
-    },
-    {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3328,
-      "forks": 393,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-18T17:47:24Z",
-      "updated_at": "2026-03-18T19:29:21Z"
+      "updated_at": "2026-03-18T20:16:21Z"
     },
     {
       "id": 114540126,
@@ -92,8 +81,8 @@
       "stars": 2336,
       "forks": 185,
       "language": "Rust",
-      "pushed_at": "2026-03-18T18:55:09Z",
-      "updated_at": "2026-03-18T18:55:14Z"
+      "pushed_at": "2026-03-18T21:35:55Z",
+      "updated_at": "2026-03-18T21:35:59Z"
     },
     {
       "id": 1109341946,
@@ -101,7 +90,7 @@
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
       "stars": 1585,
-      "forks": 165,
+      "forks": 166,
       "language": "Go",
       "pushed_at": "2026-03-18T18:40:56Z",
       "updated_at": "2026-03-18T19:12:08Z"
@@ -111,22 +100,22 @@
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1005,
+      "stars": 1006,
       "forks": 106,
       "language": "TypeScript",
-      "pushed_at": "2026-03-18T19:26:58Z",
-      "updated_at": "2026-03-18T18:52:59Z"
+      "pushed_at": "2026-03-18T21:32:44Z",
+      "updated_at": "2026-03-18T21:28:13Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 970,
-      "forks": 72,
-      "language": "Python",
-      "pushed_at": "2026-03-18T17:27:35Z",
-      "updated_at": "2026-03-18T19:25:07Z"
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 754,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-18T21:19:57Z",
+      "updated_at": "2026-03-18T21:22:34Z"
     },
     {
       "id": 1088816938,
@@ -138,17 +127,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-03-18T17:59:29Z",
       "updated_at": "2026-03-18T17:59:33Z"
-    },
-    {
-      "id": 967472164,
-      "full_name": "burugo/one-mcp",
-      "html_url": "https://github.com/burugo/one-mcp",
-      "description": "A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.",
-      "stars": 361,
-      "forks": 41,
-      "language": "Go",
-      "pushed_at": "2026-03-18T17:40:48Z",
-      "updated_at": "2026-03-18T17:40:53Z"
     },
     {
       "id": 1160406193,
@@ -171,6 +149,28 @@
       "language": "TypeScript",
       "pushed_at": "2026-03-18T17:58:45Z",
       "updated_at": "2026-03-18T18:10:33Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 176,
+      "forks": 5,
+      "language": "ReScript",
+      "pushed_at": "2026-03-18T20:24:27Z",
+      "updated_at": "2026-03-18T19:21:47Z"
+    },
+    {
+      "id": 1167051612,
+      "full_name": "legendaryvibecoder/gigabrain",
+      "html_url": "https://github.com/legendaryvibecoder/gigabrain",
+      "description": "Local-first memory layer for OpenClaw, Codex App, and Codex CLI: capture, recall, dedupe, and native sync.",
+      "stars": 167,
+      "forks": 17,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-18T18:24:34Z",
+      "updated_at": "2026-03-18T19:24:05Z"
     }
   ]
 }
