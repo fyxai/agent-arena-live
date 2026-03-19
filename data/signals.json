@@ -5,29 +5,18 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 366,
+  "total_found": 367,
   "items": [
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41825,
-      "forks": 3883,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-19T17:07:20Z",
-      "updated_at": "2026-03-19T17:39:36Z"
-    },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29562,
-      "forks": 3833,
+      "stars": 29568,
+      "forks": 3836,
       "language": "TypeScript",
-      "pushed_at": "2026-03-19T17:12:40Z",
-      "updated_at": "2026-03-19T17:42:23Z"
+      "pushed_at": "2026-03-19T20:19:13Z",
+      "updated_at": "2026-03-19T21:26:38Z"
     },
     {
       "id": 573661753,
@@ -35,142 +24,153 @@
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
       "stars": 21288,
-      "forks": 3434,
+      "forks": 3435,
       "language": "TypeScript",
-      "pushed_at": "2026-03-19T18:03:23Z",
-      "updated_at": "2026-03-19T16:31:56Z"
+      "pushed_at": "2026-03-19T18:44:31Z",
+      "updated_at": "2026-03-19T21:41:53Z"
     },
     {
-      "id": 1165277268,
-      "full_name": "Panniantong/Agent-Reach",
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 10007,
-      "forks": 725,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 13189,
+      "forks": 816,
       "language": "Python",
-      "pushed_at": "2026-03-19T16:26:44Z",
-      "updated_at": "2026-03-19T18:07:50Z"
+      "pushed_at": "2026-03-19T21:31:43Z",
+      "updated_at": "2026-03-19T20:54:09Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11357,
+      "forks": 815,
+      "language": "Python",
+      "pushed_at": "2026-03-19T21:35:36Z",
+      "updated_at": "2026-03-19T21:35:40Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 9077,
-      "forks": 1088,
+      "stars": 9124,
+      "forks": 1097,
       "language": "Python",
-      "pushed_at": "2026-03-19T17:40:38Z",
-      "updated_at": "2026-03-19T18:05:43Z"
-    },
-    {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6493,
-      "forks": 698,
-      "language": "Python",
-      "pushed_at": "2026-03-19T17:25:48Z",
-      "updated_at": "2026-03-19T17:25:53Z"
+      "pushed_at": "2026-03-19T20:05:43Z",
+      "updated_at": "2026-03-19T21:46:34Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3364,
-      "forks": 402,
+      "stars": 3365,
+      "forks": 403,
       "language": "JavaScript",
-      "pushed_at": "2026-03-19T17:44:23Z",
-      "updated_at": "2026-03-19T17:36:48Z"
+      "pushed_at": "2026-03-19T21:11:59Z",
+      "updated_at": "2026-03-19T18:11:45Z"
     },
     {
-      "id": 1020834440,
-      "full_name": "memodb-io/Acontext",
-      "html_url": "https://github.com/memodb-io/Acontext",
-      "description": "Agent Skills as a Memory Layer",
-      "stars": 3171,
-      "forks": 297,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-19T18:08:19Z",
-      "updated_at": "2026-03-19T17:54:43Z"
+      "id": 114540126,
+      "full_name": "SciSharp/BotSharp",
+      "html_url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "stars": 3031,
+      "forks": 621,
+      "language": "C#",
+      "pushed_at": "2026-03-19T21:12:17Z",
+      "updated_at": "2026-03-19T21:12:27Z"
     },
     {
-      "id": 1176898834,
-      "full_name": "aiming-lab/MetaClaw",
-      "html_url": "https://github.com/aiming-lab/MetaClaw",
-      "description": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
-      "stars": 2013,
-      "forks": 216,
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2340,
+      "forks": 184,
+      "language": "Rust",
+      "pushed_at": "2026-03-19T21:25:44Z",
+      "updated_at": "2026-03-19T21:25:48Z"
+    },
+    {
+      "id": 949646929,
+      "full_name": "GetBindu/Bindu",
+      "html_url": "https://github.com/GetBindu/Bindu",
+      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
+      "stars": 1768,
+      "forks": 310,
       "language": "Python",
-      "pushed_at": "2026-03-19T17:50:44Z",
-      "updated_at": "2026-03-19T18:08:36Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Stop prompting. Start specifying.",
-      "stars": 1523,
-      "forks": 133,
-      "language": "Python",
-      "pushed_at": "2026-03-19T17:26:54Z",
-      "updated_at": "2026-03-19T17:38:32Z"
+      "pushed_at": "2026-03-19T20:04:38Z",
+      "updated_at": "2026-03-19T20:04:41Z"
     },
     {
       "id": 1142406715,
       "full_name": "EvoScientist/EvoScientist",
       "html_url": "https://github.com/EvoScientist/EvoScientist",
       "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 1136,
-      "forks": 80,
+      "stars": 1157,
+      "forks": 82,
       "language": "Python",
-      "pushed_at": "2026-03-19T16:24:24Z",
-      "updated_at": "2026-03-19T18:00:43Z"
+      "pushed_at": "2026-03-19T19:28:50Z",
+      "updated_at": "2026-03-19T21:44:21Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 901,
-      "forks": 248,
-      "language": "Go",
-      "pushed_at": "2026-03-19T17:27:33Z",
-      "updated_at": "2026-03-19T17:38:12Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 721,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-03-19T17:22:08Z",
-      "updated_at": "2026-03-19T17:22:47Z"
-    },
-    {
-      "id": 1178500367,
-      "full_name": "crabtalk/crabtalk",
-      "html_url": "https://github.com/crabtalk/crabtalk",
-      "description": "The composable agent runtime.",
-      "stars": 291,
-      "forks": 45,
-      "language": "Rust",
-      "pushed_at": "2026-03-19T18:08:37Z",
-      "updated_at": "2026-03-19T18:08:41Z"
-    },
-    {
-      "id": 1162089095,
-      "full_name": "daggerhashimoto/openclaw-nerve",
-      "html_url": "https://github.com/daggerhashimoto/openclaw-nerve",
-      "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
-      "stars": 199,
-      "forks": 16,
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1009,
+      "forks": 106,
       "language": "TypeScript",
-      "pushed_at": "2026-03-19T17:00:58Z",
-      "updated_at": "2026-03-19T17:01:07Z"
+      "pushed_at": "2026-03-19T21:44:37Z",
+      "updated_at": "2026-03-19T20:54:25Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 763,
+      "forks": 52,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-19T20:19:01Z",
+      "updated_at": "2026-03-19T21:24:18Z"
+    },
+    {
+      "id": 1160406193,
+      "full_name": "AgriciDaniel/claude-blog",
+      "html_url": "https://github.com/AgriciDaniel/claude-blog",
+      "description": "Claude Code skill ecosystem for blog content creation, optimization, and management. Dual-optimized for Google rankings and AI citations.",
+      "stars": 271,
+      "forks": 73,
+      "language": "Python",
+      "pushed_at": "2026-03-19T20:07:29Z",
+      "updated_at": "2026-03-19T21:14:59Z"
+    },
+    {
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. 🦎",
+      "stars": 219,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-19T18:50:05Z",
+      "updated_at": "2026-03-19T21:49:34Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 178,
+      "forks": 6,
+      "language": "ReScript",
+      "pushed_at": "2026-03-19T20:37:55Z",
+      "updated_at": "2026-03-19T20:35:46Z"
     }
   ]
 }
