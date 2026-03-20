@@ -5,29 +5,40 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 377,
+  "total_found": 376,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41906,
-      "forks": 3891,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 29611,
+      "forks": 3843,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T17:34:06Z",
-      "updated_at": "2026-03-20T17:50:15Z"
+      "pushed_at": "2026-03-20T17:58:01Z",
+      "updated_at": "2026-03-20T20:06:45Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21316,
+      "forks": 3435,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T18:43:10Z",
+      "updated_at": "2026-03-20T20:37:52Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 9395,
-      "forks": 1135,
+      "stars": 9434,
+      "forks": 1141,
       "language": "Python",
-      "pushed_at": "2026-03-20T17:02:45Z",
-      "updated_at": "2026-03-20T17:41:49Z"
+      "pushed_at": "2026-03-20T19:55:54Z",
+      "updated_at": "2026-03-20T20:59:51Z"
     },
     {
       "id": 900577388,
@@ -37,41 +48,30 @@
       "stars": 6494,
       "forks": 698,
       "language": "Python",
-      "pushed_at": "2026-03-20T16:44:15Z",
-      "updated_at": "2026-03-20T16:44:19Z"
+      "pushed_at": "2026-03-20T18:16:25Z",
+      "updated_at": "2026-03-20T18:16:30Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3378,
+      "stars": 3379,
       "forks": 411,
       "language": "JavaScript",
-      "pushed_at": "2026-03-20T17:26:54Z",
-      "updated_at": "2026-03-20T17:16:02Z"
+      "pushed_at": "2026-03-20T20:08:57Z",
+      "updated_at": "2026-03-20T18:29:25Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/opencli",
       "html_url": "https://github.com/jackwener/opencli",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 3001,
+      "stars": 3042,
       "forks": 274,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T17:55:14Z",
-      "updated_at": "2026-03-20T17:53:15Z"
-    },
-    {
-      "id": 1164376059,
-      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
-      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "description": "🇨🇳 OpenClaw（个人智能体）中文最佳用例大全 | 40+个真实场景（国内特色 + 海外的国内生态适配）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
-      "stars": 2775,
-      "forks": 291,
-      "language": "Unknown",
-      "pushed_at": "2026-03-20T16:22:29Z",
-      "updated_at": "2026-03-20T17:10:11Z"
+      "pushed_at": "2026-03-20T19:10:07Z",
+      "updated_at": "2026-03-20T21:02:11Z"
     },
     {
       "id": 116590428,
@@ -81,52 +81,52 @@
       "stars": 2342,
       "forks": 184,
       "language": "Rust",
-      "pushed_at": "2026-03-20T17:44:23Z",
-      "updated_at": "2026-03-20T17:44:27Z"
+      "pushed_at": "2026-03-20T21:00:12Z",
+      "updated_at": "2026-03-20T21:00:17Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1623,
-      "forks": 172,
-      "language": "Go",
-      "pushed_at": "2026-03-20T15:50:04Z",
-      "updated_at": "2026-03-20T17:22:55Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 2305,
+      "forks": 263,
+      "language": "Rust",
+      "pushed_at": "2026-03-20T18:17:40Z",
+      "updated_at": "2026-03-20T19:41:11Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Stop prompting. Start specifying.",
+      "stars": 1565,
+      "forks": 137,
+      "language": "Python",
+      "pushed_at": "2026-03-20T18:20:43Z",
+      "updated_at": "2026-03-20T19:36:12Z"
     },
     {
       "id": 1167607007,
       "full_name": "qingchencloud/clawpanel",
       "html_url": "https://github.com/qingchencloud/clawpanel",
       "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
-      "stars": 1433,
-      "forks": 181,
+      "stars": 1434,
+      "forks": 183,
       "language": "JavaScript",
-      "pushed_at": "2026-03-20T16:03:27Z",
-      "updated_at": "2026-03-20T17:54:52Z"
+      "pushed_at": "2026-03-20T20:20:48Z",
+      "updated_at": "2026-03-20T20:20:51Z"
     },
     {
       "id": 1142406715,
       "full_name": "EvoScientist/EvoScientist",
       "html_url": "https://github.com/EvoScientist/EvoScientist",
       "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 1303,
+      "stars": 1311,
       "forks": 92,
       "language": "Python",
-      "pushed_at": "2026-03-20T17:49:58Z",
-      "updated_at": "2026-03-20T17:48:03Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1054,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T17:55:13Z",
-      "updated_at": "2026-03-20T17:10:04Z"
+      "pushed_at": "2026-03-20T19:57:37Z",
+      "updated_at": "2026-03-20T20:21:59Z"
     },
     {
       "id": 1051086270,
@@ -136,19 +136,19 @@
       "stars": 1015,
       "forks": 109,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T17:29:14Z",
-      "updated_at": "2026-03-20T17:14:52Z"
+      "pushed_at": "2026-03-20T20:54:46Z",
+      "updated_at": "2026-03-20T20:39:14Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
-      "stars": 954,
-      "forks": 259,
-      "language": "Go",
-      "pushed_at": "2026-03-20T16:19:42Z",
-      "updated_at": "2026-03-20T17:32:18Z"
+      "id": 1151959075,
+      "full_name": "suitedaces/dorabot",
+      "html_url": "https://github.com/suitedaces/dorabot",
+      "description": "macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.",
+      "stars": 201,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T20:23:59Z",
+      "updated_at": "2026-03-20T20:23:53Z"
     },
     {
       "id": 1066256303,
@@ -158,19 +158,19 @@
       "stars": 179,
       "forks": 8,
       "language": "ReScript",
-      "pushed_at": "2026-03-20T17:54:48Z",
+      "pushed_at": "2026-03-20T20:53:15Z",
       "updated_at": "2026-03-20T17:54:52Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 164,
-      "forks": 32,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T17:38:15Z",
-      "updated_at": "2026-03-20T17:45:15Z"
+      "id": 1164059777,
+      "full_name": "fim-ai/fim-one",
+      "html_url": "https://github.com/fim-ai/fim-one",
+      "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
+      "stars": 169,
+      "forks": 30,
+      "language": "Python",
+      "pushed_at": "2026-03-20T18:15:47Z",
+      "updated_at": "2026-03-20T20:12:50Z"
     }
   ]
 }
