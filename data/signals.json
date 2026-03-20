@@ -5,95 +5,139 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 368,
+  "total_found": 371,
   "items": [
+    {
+      "id": 522158088,
+      "full_name": "zhayujie/chatgpt-on-wechat",
+      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
+      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。",
+      "stars": 42322,
+      "forks": 9839,
+      "language": "Python",
+      "pushed_at": "2026-03-20T09:56:16Z",
+      "updated_at": "2026-03-20T09:57:08Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 41871,
+      "forks": 3890,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T10:03:04Z",
+      "updated_at": "2026-03-20T10:02:30Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 29595,
+      "forks": 3840,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T09:12:31Z",
+      "updated_at": "2026-03-20T10:02:07Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21299,
+      "forks": 3435,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-20T08:31:44Z",
+      "updated_at": "2026-03-20T09:34:38Z"
+    },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 19269,
-      "forks": 1531,
+      "stars": 19404,
+      "forks": 1535,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T04:37:12Z",
-      "updated_at": "2026-03-20T05:08:29Z"
+      "pushed_at": "2026-03-20T09:58:49Z",
+      "updated_at": "2026-03-20T10:01:27Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 13198,
+      "forks": 816,
+      "language": "Python",
+      "pushed_at": "2026-03-20T08:37:42Z",
+      "updated_at": "2026-03-20T09:30:33Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-      "stars": 8810,
-      "forks": 665,
+      "stars": 8847,
+      "forks": 667,
       "language": "Python",
-      "pushed_at": "2026-03-20T04:08:42Z",
-      "updated_at": "2026-03-20T05:08:12Z"
+      "pushed_at": "2026-03-20T09:07:26Z",
+      "updated_at": "2026-03-20T09:58:03Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3369,
-      "forks": 405,
+      "stars": 3373,
+      "forks": 410,
       "language": "JavaScript",
-      "pushed_at": "2026-03-20T03:22:43Z",
-      "updated_at": "2026-03-20T04:59:57Z"
+      "pushed_at": "2026-03-20T09:27:45Z",
+      "updated_at": "2026-03-20T09:56:44Z"
+    },
+    {
+      "id": 1176898834,
+      "full_name": "aiming-lab/MetaClaw",
+      "html_url": "https://github.com/aiming-lab/MetaClaw",
+      "description": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
+      "stars": 2145,
+      "forks": 223,
+      "language": "Python",
+      "pushed_at": "2026-03-20T09:18:31Z",
+      "updated_at": "2026-03-20T10:02:06Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Stop prompting. Start specifying.",
-      "stars": 1536,
-      "forks": 134,
+      "stars": 1547,
+      "forks": 135,
       "language": "Python",
-      "pushed_at": "2026-03-20T04:47:45Z",
-      "updated_at": "2026-03-20T04:57:54Z"
+      "pushed_at": "2026-03-20T09:59:03Z",
+      "updated_at": "2026-03-20T09:28:35Z"
     },
     {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1264,
-      "forks": 124,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T03:03:39Z",
-      "updated_at": "2026-03-20T03:13:44Z"
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 1263,
+      "forks": 90,
+      "language": "Python",
+      "pushed_at": "2026-03-20T09:59:42Z",
+      "updated_at": "2026-03-20T10:02:36Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1052,
-      "forks": 49,
+      "stars": 1053,
+      "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T05:07:59Z",
-      "updated_at": "2026-03-20T05:06:06Z"
-    },
-    {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundermentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundermentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识",
-      "stars": 940,
-      "forks": 147,
-      "language": "HTML",
-      "pushed_at": "2026-03-20T03:19:48Z",
-      "updated_at": "2026-03-20T03:19:52Z"
-    },
-    {
-      "id": 1166321809,
-      "full_name": "chrysb/alphaclaw",
-      "html_url": "https://github.com/chrysb/alphaclaw",
-      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
-      "stars": 741,
-      "forks": 88,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-20T05:01:18Z",
-      "updated_at": "2026-03-20T05:05:34Z"
+      "pushed_at": "2026-03-20T09:59:55Z",
+      "updated_at": "2026-03-20T09:45:30Z"
     },
     {
       "id": 1133660268,
@@ -101,76 +145,32 @@
       "html_url": "https://github.com/OpenCoworkAI/open-cowork",
       "description": "Open Cowork - Opensource Claude Cowork for Windows & macOS.",
       "stars": 675,
-      "forks": 71,
+      "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T04:11:48Z",
-      "updated_at": "2026-03-20T04:11:52Z"
+      "pushed_at": "2026-03-20T09:57:55Z",
+      "updated_at": "2026-03-20T09:57:59Z"
     },
     {
-      "id": 1161355400,
-      "full_name": "yeuxuan/openclaw-docs",
-      "html_url": "https://github.com/yeuxuan/openclaw-docs",
-      "description": "OpenClaw 中文文档站 | AI 智能体框架 源码剖析 安装教程 | WhatsApp Telegram Discord 飞书   多通道机器人",
-      "stars": 583,
-      "forks": 82,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-20T04:33:41Z",
-      "updated_at": "2026-03-20T04:33:45Z"
-    },
-    {
-      "id": 845317529,
-      "full_name": "giselles-ai/giselle",
-      "html_url": "https://github.com/giselles-ai/giselle",
-      "description": "Giselle: AI App Builder. Open Source.",
-      "stars": 504,
-      "forks": 111,
+      "id": 1094226297,
+      "full_name": "FrankChen021/datastoria",
+      "html_url": "https://github.com/FrankChen021/datastoria",
+      "description": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
+      "stars": 305,
+      "forks": 12,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T04:04:54Z",
-      "updated_at": "2026-03-20T04:05:01Z"
+      "pushed_at": "2026-03-20T09:23:16Z",
+      "updated_at": "2026-03-20T10:01:17Z"
     },
     {
       "id": 1177919337,
       "full_name": "CodePhiliaX/youclaw",
       "html_url": "https://github.com/CodePhiliaX/youclaw",
       "description": "🦞 Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.",
-      "stars": 265,
-      "forks": 71,
+      "stars": 275,
+      "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-03-20T04:56:26Z",
-      "updated_at": "2026-03-20T04:56:20Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. 🦎",
-      "stars": 249,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T05:07:14Z",
-      "updated_at": "2026-03-20T05:07:18Z"
-    },
-    {
-      "id": 1162089095,
-      "full_name": "daggerhashimoto/openclaw-nerve",
-      "html_url": "https://github.com/daggerhashimoto/openclaw-nerve",
-      "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
-      "stars": 205,
-      "forks": 18,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T04:06:53Z",
-      "updated_at": "2026-03-20T04:01:29Z"
-    },
-    {
-      "id": 1124639648,
-      "full_name": "adnaan-worker/Adnify",
-      "html_url": "https://github.com/adnaan-worker/Adnify",
-      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
-      "stars": 167,
-      "forks": 31,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-20T03:50:30Z",
-      "updated_at": "2026-03-20T03:50:30Z"
+      "pushed_at": "2026-03-20T09:05:35Z",
+      "updated_at": "2026-03-20T10:03:37Z"
     }
   ]
 }
