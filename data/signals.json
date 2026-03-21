@@ -12,66 +12,44 @@
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 41985,
-      "forks": 3906,
+      "stars": 41994,
+      "forks": 3908,
       "language": "TypeScript",
-      "pushed_at": "2026-03-21T16:25:00Z",
-      "updated_at": "2026-03-21T16:51:33Z"
+      "pushed_at": "2026-03-21T20:38:41Z",
+      "updated_at": "2026-03-21T20:33:12Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 19608,
-      "forks": 1555,
+      "stars": 19615,
+      "forks": 1556,
       "language": "TypeScript",
-      "pushed_at": "2026-03-21T16:49:18Z",
-      "updated_at": "2026-03-21T16:50:44Z"
+      "pushed_at": "2026-03-21T20:45:06Z",
+      "updated_at": "2026-03-21T20:34:04Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 9676,
-      "forks": 1185,
+      "stars": 9737,
+      "forks": 1197,
       "language": "Python",
-      "pushed_at": "2026-03-21T16:58:53Z",
-      "updated_at": "2026-03-21T16:56:48Z"
-    },
-    {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6494,
-      "forks": 698,
-      "language": "Python",
-      "pushed_at": "2026-03-21T15:31:24Z",
-      "updated_at": "2026-03-21T15:31:23Z"
-    },
-    {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4418,
-      "forks": 851,
-      "language": "HTML",
-      "pushed_at": "2026-03-21T14:42:38Z",
-      "updated_at": "2026-03-21T15:42:39Z"
+      "pushed_at": "2026-03-21T20:07:24Z",
+      "updated_at": "2026-03-21T20:40:59Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/opencli",
       "html_url": "https://github.com/jackwener/opencli",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 3519,
-      "forks": 306,
+      "stars": 3577,
+      "forks": 308,
       "language": "TypeScript",
-      "pushed_at": "2026-03-21T16:24:50Z",
-      "updated_at": "2026-03-21T16:56:20Z"
+      "pushed_at": "2026-03-21T20:14:13Z",
+      "updated_at": "2026-03-21T20:50:21Z"
     },
     {
       "id": 1145977416,
@@ -81,85 +59,63 @@
       "stars": 3392,
       "forks": 414,
       "language": "JavaScript",
-      "pushed_at": "2026-03-21T15:58:17Z",
-      "updated_at": "2026-03-21T16:44:44Z"
+      "pushed_at": "2026-03-21T19:56:33Z",
+      "updated_at": "2026-03-21T18:25:24Z"
     },
     {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates editable, beautifully designed PPTX from any document — no design skills needed    | 15 examples, 229 pages ",
-      "stars": 2296,
-      "forks": 308,
-      "language": "Python",
-      "pushed_at": "2026-03-21T16:31:28Z",
-      "updated_at": "2026-03-21T16:56:08Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 2236,
-      "forks": 194,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-21T16:34:56Z",
-      "updated_at": "2026-03-21T16:34:55Z"
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2344,
+      "forks": 185,
+      "language": "Rust",
+      "pushed_at": "2026-03-21T20:21:49Z",
+      "updated_at": "2026-03-21T20:21:53Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Stop prompting. Start specifying.",
-      "stars": 1595,
-      "forks": 140,
+      "stars": 1608,
+      "forks": 141,
       "language": "Python",
-      "pushed_at": "2026-03-21T16:42:17Z",
-      "updated_at": "2026-03-21T16:57:56Z"
+      "pushed_at": "2026-03-21T20:52:44Z",
+      "updated_at": "2026-03-21T20:50:46Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1054,
+      "stars": 1055,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-03-21T16:57:11Z",
-      "updated_at": "2026-03-21T16:46:28Z"
+      "pushed_at": "2026-03-21T18:01:06Z",
+      "updated_at": "2026-03-21T20:35:49Z"
     },
     {
-      "id": 1133660268,
-      "full_name": "OpenCoworkAI/open-cowork",
-      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
-      "description": "Open Cowork - Opensource Claude Cowork for Windows & macOS.",
-      "stars": 683,
-      "forks": 74,
+      "id": 1129412343,
+      "full_name": "oil-oil/wolfcha",
+      "html_url": "https://github.com/oil-oil/wolfcha",
+      "description": "AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs like DeepSeek, Qwen, Gemini, and more",
+      "stars": 547,
+      "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-03-21T15:23:44Z",
-      "updated_at": "2026-03-21T15:20:34Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Free AI Desktop Agent for Windows, macOS & Linux - Automate email, calendar, browser, code generation. 13+ AI providers, Ollama, Telegram remote control. No Docker, no terminal. 🦎",
-      "stars": 474,
-      "forks": 78,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-21T14:21:05Z",
-      "updated_at": "2026-03-21T16:58:44Z"
+      "pushed_at": "2026-03-21T19:15:23Z",
+      "updated_at": "2026-03-21T19:15:26Z"
     },
     {
       "id": 1153494379,
       "full_name": "grinev/opencode-telegram-bot",
       "html_url": "https://github.com/grinev/opencode-telegram-bot",
       "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.",
-      "stars": 238,
+      "stars": 240,
       "forks": 42,
       "language": "TypeScript",
-      "pushed_at": "2026-03-21T16:28:48Z",
-      "updated_at": "2026-03-21T16:57:57Z"
+      "pushed_at": "2026-03-21T19:29:04Z",
+      "updated_at": "2026-03-21T19:28:28Z"
     },
     {
       "id": 1066256303,
@@ -169,8 +125,52 @@
       "stars": 180,
       "forks": 8,
       "language": "ReScript",
-      "pushed_at": "2026-03-21T16:47:11Z",
-      "updated_at": "2026-03-21T16:45:19Z"
+      "pushed_at": "2026-03-21T20:51:38Z",
+      "updated_at": "2026-03-21T20:35:08Z"
+    },
+    {
+      "id": 1164059777,
+      "full_name": "fim-ai/fim-one",
+      "html_url": "https://github.com/fim-ai/fim-one",
+      "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
+      "stars": 174,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-03-21T19:48:49Z",
+      "updated_at": "2026-03-21T19:48:53Z"
+    },
+    {
+      "id": 1164725227,
+      "full_name": "aspasskiy/GoGogot",
+      "html_url": "https://github.com/aspasskiy/GoGogot",
+      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+      "stars": 141,
+      "forks": 5,
+      "language": "Go",
+      "pushed_at": "2026-03-21T17:15:25Z",
+      "updated_at": "2026-03-21T19:07:21Z"
+    },
+    {
+      "id": 1162575074,
+      "full_name": "Usta0x001/Phantom",
+      "html_url": "https://github.com/Usta0x001/Phantom",
+      "description": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+      "stars": 105,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-03-21T17:15:25Z",
+      "updated_at": "2026-03-21T17:15:28Z"
+    },
+    {
+      "id": 950382329,
+      "full_name": "alchemiststudiosDOTai/tinyAgent",
+      "html_url": "https://github.com/alchemiststudiosDOTai/tinyAgent",
+      "description": "tinyAgent uniquely treats functions as first-class citizens, easily transforming them into powerful AI tools. Inspired by human organizational structures, it dynamically orchestrates specialized agents, balancing security and capability for complex tasks.",
+      "stars": 84,
+      "forks": 2,
+      "language": "Python",
+      "pushed_at": "2026-03-21T18:55:35Z",
+      "updated_at": "2026-03-21T18:55:39Z"
     }
   ]
 }
