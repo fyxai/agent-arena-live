@@ -5,139 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 393,
+  "total_found": 395,
   "items": [
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29739,
-      "forks": 3856,
+      "stars": 29740,
+      "forks": 3854,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T19:30:34Z",
-      "updated_at": "2026-03-24T18:27:25Z"
+      "pushed_at": "2026-03-24T21:37:34Z",
+      "updated_at": "2026-03-24T20:22:16Z"
     },
     {
       "id": 1171026502,
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 22374,
+      "stars": 22384,
       "forks": 1067,
       "language": "Rust",
-      "pushed_at": "2026-03-24T19:28:54Z",
-      "updated_at": "2026-03-24T19:28:56Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21407,
-      "forks": 3454,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-24T18:14:26Z",
-      "updated_at": "2026-03-24T18:38:30Z"
+      "pushed_at": "2026-03-24T21:51:21Z",
+      "updated_at": "2026-03-24T21:51:24Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 13245,
+      "stars": 13246,
       "forks": 819,
       "language": "Python",
       "pushed_at": "2026-03-24T19:10:12Z",
-      "updated_at": "2026-03-24T19:10:15Z"
+      "updated_at": "2026-03-24T21:33:34Z"
     },
     {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6496,
-      "forks": 702,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 12443,
+      "forks": 1506,
       "language": "Python",
-      "pushed_at": "2026-03-24T18:02:34Z",
-      "updated_at": "2026-03-24T18:02:38Z"
+      "pushed_at": "2026-03-24T19:50:36Z",
+      "updated_at": "2026-03-24T21:51:16Z"
     },
     {
-      "id": 1020834440,
-      "full_name": "memodb-io/Acontext",
-      "html_url": "https://github.com/memodb-io/Acontext",
-      "description": "Agent Skills as a Memory Layer",
-      "stars": 3188,
-      "forks": 300,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-24T18:32:29Z",
-      "updated_at": "2026-03-24T18:50:22Z"
-    },
-    {
-      "id": 846579774,
-      "full_name": "i-am-bee/beeai-framework",
-      "html_url": "https://github.com/i-am-bee/beeai-framework",
-      "description": "Build production-ready AI agents in both Python and Typescript.",
-      "stars": 3181,
-      "forks": 421,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11415,
+      "forks": 810,
       "language": "Python",
-      "pushed_at": "2026-03-24T18:02:59Z",
-      "updated_at": "2026-03-24T18:17:20Z"
-    },
-    {
-      "id": 1176898834,
-      "full_name": "aiming-lab/MetaClaw",
-      "html_url": "https://github.com/aiming-lab/MetaClaw",
-      "description": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
-      "stars": 2595,
-      "forks": 267,
-      "language": "Python",
-      "pushed_at": "2026-03-24T19:01:18Z",
-      "updated_at": "2026-03-24T19:01:21Z"
+      "pushed_at": "2026-03-24T20:04:22Z",
+      "updated_at": "2026-03-24T20:04:26Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 2349,
+      "stars": 2350,
       "forks": 268,
       "language": "Rust",
       "pushed_at": "2026-03-24T19:26:52Z",
-      "updated_at": "2026-03-24T19:26:57Z"
+      "updated_at": "2026-03-24T20:44:51Z"
     },
     {
       "id": 949646929,
       "full_name": "GetBindu/Bindu",
       "html_url": "https://github.com/GetBindu/Bindu",
       "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
-      "stars": 2249,
+      "stars": 2254,
       "forks": 319,
       "language": "Python",
       "pushed_at": "2026-03-24T19:13:09Z",
-      "updated_at": "2026-03-24T19:30:16Z"
-    },
-    {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 1771,
-      "forks": 115,
-      "language": "Python",
-      "pushed_at": "2026-03-24T18:13:44Z",
-      "updated_at": "2026-03-24T19:28:39Z"
-    },
-    {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1021,
-      "forks": 111,
-      "language": "TypeScript",
-      "pushed_at": "2026-03-24T19:27:31Z",
-      "updated_at": "2026-03-24T18:46:23Z"
+      "updated_at": "2026-03-24T21:30:30Z"
     },
     {
       "id": 1134562391,
@@ -151,15 +96,26 @@
       "updated_at": "2026-03-24T19:05:04Z"
     },
     {
-      "id": 1153494379,
-      "full_name": "grinev/opencode-telegram-bot",
-      "html_url": "https://github.com/grinev/opencode-telegram-bot",
-      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.",
-      "stars": 268,
-      "forks": 47,
+      "id": 1162089095,
+      "full_name": "daggerhashimoto/openclaw-nerve",
+      "html_url": "https://github.com/daggerhashimoto/openclaw-nerve",
+      "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
+      "stars": 272,
+      "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T18:04:57Z",
-      "updated_at": "2026-03-24T18:05:19Z"
+      "pushed_at": "2026-03-24T21:41:46Z",
+      "updated_at": "2026-03-24T21:49:39Z"
+    },
+    {
+      "id": 1035759799,
+      "full_name": "bgdnvk/clanker",
+      "html_url": "https://github.com/bgdnvk/clanker",
+      "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
+      "stars": 217,
+      "forks": 12,
+      "language": "Go",
+      "pushed_at": "2026-03-24T19:50:33Z",
+      "updated_at": "2026-03-24T19:50:38Z"
     },
     {
       "id": 1151959075,
@@ -169,8 +125,52 @@
       "stars": 207,
       "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-03-24T19:18:12Z",
-      "updated_at": "2026-03-24T19:18:15Z"
+      "pushed_at": "2026-03-24T21:27:09Z",
+      "updated_at": "2026-03-24T21:27:13Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 185,
+      "forks": 34,
+      "language": "Python",
+      "pushed_at": "2026-03-24T21:52:37Z",
+      "updated_at": "2026-03-24T21:52:21Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 180,
+      "forks": 10,
+      "language": "ReScript",
+      "pushed_at": "2026-03-24T20:28:25Z",
+      "updated_at": "2026-03-24T20:28:28Z"
+    },
+    {
+      "id": 1183303405,
+      "full_name": "PlamenTSV/plamen",
+      "html_url": "https://github.com/PlamenTSV/plamen",
+      "description": "Autonomous Web3 security audit agent for Claude Code",
+      "stars": 175,
+      "forks": 32,
+      "language": "Python",
+      "pushed_at": "2026-03-24T20:01:39Z",
+      "updated_at": "2026-03-24T20:01:44Z"
+    },
+    {
+      "id": 1171508227,
+      "full_name": "AgentSeal/agentseal",
+      "html_url": "https://github.com/AgentSeal/agentseal",
+      "description": "Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool poisoning.",
+      "stars": 146,
+      "forks": 24,
+      "language": "Python",
+      "pushed_at": "2026-03-24T21:43:18Z",
+      "updated_at": "2026-03-24T21:43:22Z"
     }
   ]
 }
