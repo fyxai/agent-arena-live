@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 399,
+  "total_found": 401,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 42346,
-      "forks": 3961,
+      "stars": 42362,
+      "forks": 3962,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T05:51:34Z",
-      "updated_at": "2026-03-26T05:41:05Z"
+      "pushed_at": "2026-03-26T10:55:35Z",
+      "updated_at": "2026-03-26T11:00:20Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29779,
-      "forks": 3860,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21427,
+      "forks": 3460,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T05:45:19Z",
-      "updated_at": "2026-03-26T05:42:28Z"
+      "pushed_at": "2026-03-26T11:07:11Z",
+      "updated_at": "2026-03-26T11:05:27Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 20129,
-      "forks": 1607,
+      "stars": 20164,
+      "forks": 1610,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T05:40:11Z",
-      "updated_at": "2026-03-26T05:51:38Z"
+      "pushed_at": "2026-03-26T11:01:42Z",
+      "updated_at": "2026-03-26T10:45:00Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/opencli",
       "html_url": "https://github.com/jackwener/opencli",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 7117,
-      "forks": 570,
+      "stars": 7344,
+      "forks": 586,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T04:51:47Z",
-      "updated_at": "2026-03-26T05:51:43Z"
+      "pushed_at": "2026-03-26T11:10:33Z",
+      "updated_at": "2026-03-26T11:13:51Z"
+    },
+    {
+      "id": 900577388,
+      "full_name": "crestalnetwork/intentkit",
+      "html_url": "https://github.com/crestalnetwork/intentkit",
+      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+      "stars": 6500,
+      "forks": 704,
+      "language": "Python",
+      "pushed_at": "2026-03-26T11:05:04Z",
+      "updated_at": "2026-03-26T11:05:10Z"
+    },
+    {
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 4464,
+      "forks": 861,
+      "language": "HTML",
+      "pushed_at": "2026-03-26T10:50:25Z",
+      "updated_at": "2026-03-26T10:45:01Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3492,
-      "forks": 423,
+      "stars": 3497,
+      "forks": 424,
       "language": "JavaScript",
-      "pushed_at": "2026-03-26T05:30:16Z",
-      "updated_at": "2026-03-26T05:36:44Z"
+      "pushed_at": "2026-03-26T10:40:43Z",
+      "updated_at": "2026-03-26T11:10:08Z"
     },
     {
-      "id": 1020834440,
-      "full_name": "memodb-io/Acontext",
-      "html_url": "https://github.com/memodb-io/Acontext",
-      "description": "Agent Skills as a Memory Layer",
-      "stars": 3198,
-      "forks": 302,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-26T04:50:51Z",
-      "updated_at": "2026-03-26T05:49:21Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates editable, beautifully designed PPTX from any document — no design skills needed    | 15 examples, 229 pages ",
-      "stars": 2952,
-      "forks": 352,
-      "language": "Python",
-      "pushed_at": "2026-03-26T05:15:33Z",
-      "updated_at": "2026-03-26T05:51:15Z"
-    },
-    {
-      "id": 1176898834,
-      "full_name": "aiming-lab/MetaClaw",
-      "html_url": "https://github.com/aiming-lab/MetaClaw",
-      "description": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
-      "stars": 2675,
-      "forks": 274,
-      "language": "Python",
-      "pushed_at": "2026-03-26T05:35:08Z",
-      "updated_at": "2026-03-26T05:35:12Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Stop prompting. Start specifying.",
-      "stars": 1829,
-      "forks": 163,
-      "language": "Python",
-      "pushed_at": "2026-03-26T05:49:54Z",
-      "updated_at": "2026-03-26T05:49:59Z"
+      "id": 1003614809,
+      "full_name": "kite-org/kite",
+      "html_url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2444,
+      "forks": 201,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-26T11:05:41Z",
+      "updated_at": "2026-03-26T11:06:00Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 1170,
-      "forks": 343,
+      "stars": 1180,
+      "forks": 346,
       "language": "Go",
-      "pushed_at": "2026-03-26T05:47:54Z",
-      "updated_at": "2026-03-26T05:47:58Z"
+      "pushed_at": "2026-03-26T11:08:48Z",
+      "updated_at": "2026-03-26T11:08:43Z"
+    },
+    {
+      "id": 1166243835,
+      "full_name": "nexu-io/nexu",
+      "html_url": "https://github.com/nexu-io/nexu",
+      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
+      "stars": 1088,
+      "forks": 78,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-26T11:12:18Z",
+      "updated_at": "2026-03-26T11:10:50Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1057,
+      "stars": 1056,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T05:49:48Z",
-      "updated_at": "2026-03-26T05:47:19Z"
+      "pushed_at": "2026-03-26T11:14:39Z",
+      "updated_at": "2026-03-26T11:12:39Z"
     },
     {
-      "id": 1166243835,
-      "full_name": "nexu-io/nexu",
-      "html_url": "https://github.com/nexu-io/nexu",
-      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, local-first, chat from your phone 24/7.",
-      "stars": 1014,
-      "forks": 73,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1011,
+      "forks": 173,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T05:39:45Z",
-      "updated_at": "2026-03-26T05:47:44Z"
-    },
-    {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "AgentsMesh — AI Agent Fleet Command Center. Orchestrate Claude Code, Codex CLI, Gemini CLI, Aider and more from a single platform.",
-      "stars": 993,
-      "forks": 92,
-      "language": "Go",
-      "pushed_at": "2026-03-26T05:42:05Z",
-      "updated_at": "2026-03-26T05:42:10Z"
+      "pushed_at": "2026-03-26T10:38:30Z",
+      "updated_at": "2026-03-26T10:38:33Z"
     },
     {
       "id": 1135791677,
       "full_name": "lsdefine/GenericAgent",
       "html_url": "https://github.com/lsdefine/GenericAgent",
       "description": "AI-powered PC agent loop for desktop automation and intelligent task execution",
-      "stars": 765,
-      "forks": 126,
+      "stars": 780,
+      "forks": 129,
       "language": "Python",
-      "pushed_at": "2026-03-26T05:37:43Z",
-      "updated_at": "2026-03-26T05:37:47Z"
+      "pushed_at": "2026-03-26T10:42:11Z",
+      "updated_at": "2026-03-26T10:42:14Z"
     },
     {
-      "id": 442706416,
-      "full_name": "asaotomo/FofaMap",
-      "html_url": "https://github.com/asaotomo/FofaMap",
-      "description": "FofaMap v2.0 是一款基于 Python3 开发的全网首个 AI 驱动红队资产测绘智能体。在延续原有 FOFA 数据采集、存活检测、统计聚合、图标 Hash 及批量查询等核心功能的基础上，2.0 版本原生支持 MCP 协议，可无缝接入 Cursor、Claude 等 AI 平台。其核心内置了 AI 自我反思机制，能根据查询结果自动调优语法，并智能联动 Nuclei 推荐精准扫描策略，实现从“被动采集”到“主动智能决策”的红队作业进化。",
-      "stars": 614,
-      "forks": 80,
-      "language": "Python",
-      "pushed_at": "2026-03-26T05:27:32Z",
-      "updated_at": "2026-03-26T05:27:36Z"
+      "id": 1177919337,
+      "full_name": "CodePhiliaX/youclaw",
+      "html_url": "https://github.com/CodePhiliaX/youclaw",
+      "description": "🦞 Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.",
+      "stars": 554,
+      "forks": 139,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-26T11:10:50Z",
+      "updated_at": "2026-03-26T11:15:14Z"
+    },
+    {
+      "id": 1178500367,
+      "full_name": "crabtalk/crabtalk",
+      "html_url": "https://github.com/crabtalk/crabtalk",
+      "description": "Agents without the bloat",
+      "stars": 345,
+      "forks": 50,
+      "language": "Rust",
+      "pushed_at": "2026-03-26T10:28:29Z",
+      "updated_at": "2026-03-26T10:51:20Z"
     }
   ]
 }
