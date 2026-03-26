@@ -15,7 +15,7 @@
       "stars": 29794,
       "forks": 3858,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T18:26:30Z",
+      "pushed_at": "2026-03-26T19:42:46Z",
       "updated_at": "2026-03-26T18:34:47Z"
     },
     {
@@ -23,66 +23,55 @@
       "full_name": "googleworkspace/cli",
       "html_url": "https://github.com/googleworkspace/cli",
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 22641,
+      "stars": 22651,
       "forks": 1090,
       "language": "Rust",
       "pushed_at": "2026-03-26T18:47:42Z",
-      "updated_at": "2026-03-26T19:24:26Z"
+      "updated_at": "2026-03-26T21:25:57Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21435,
+      "stars": 21436,
       "forks": 3466,
       "language": "TypeScript",
       "pushed_at": "2026-03-26T18:53:59Z",
-      "updated_at": "2026-03-26T19:23:35Z"
+      "updated_at": "2026-03-26T19:55:18Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 13618,
-      "forks": 1635,
+      "stars": 13657,
+      "forks": 1642,
       "language": "Python",
-      "pushed_at": "2026-03-26T19:28:38Z",
-      "updated_at": "2026-03-26T19:40:39Z"
+      "pushed_at": "2026-03-26T21:45:07Z",
+      "updated_at": "2026-03-26T21:43:13Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 13281,
+      "stars": 13282,
       "forks": 818,
       "language": "Python",
-      "pushed_at": "2026-03-26T19:36:59Z",
-      "updated_at": "2026-03-26T19:31:12Z"
+      "pushed_at": "2026-03-26T21:19:17Z",
+      "updated_at": "2026-03-26T20:07:06Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/opencli",
       "html_url": "https://github.com/jackwener/opencli",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 7529,
-      "forks": 600,
+      "stars": 7538,
+      "forks": 601,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T19:04:15Z",
-      "updated_at": "2026-03-26T19:25:33Z"
-    },
-    {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6500,
-      "forks": 704,
-      "language": "Python",
-      "pushed_at": "2026-03-26T18:08:58Z",
-      "updated_at": "2026-03-26T18:09:06Z"
+      "pushed_at": "2026-03-26T19:58:39Z",
+      "updated_at": "2026-03-26T21:07:21Z"
     },
     {
       "id": 114540126,
@@ -100,44 +89,44 @@
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 2394,
-      "forks": 211,
+      "stars": 2395,
+      "forks": 210,
       "language": "TypeScript",
       "pushed_at": "2026-03-26T19:05:32Z",
-      "updated_at": "2026-03-26T19:05:37Z"
+      "updated_at": "2026-03-26T21:31:11Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 1193,
+      "stars": 1203,
       "forks": 87,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T19:22:03Z",
-      "updated_at": "2026-03-26T19:35:17Z"
+      "pushed_at": "2026-03-26T20:19:21Z",
+      "updated_at": "2026-03-26T21:43:13Z"
     },
     {
-      "id": 901554449,
-      "full_name": "stakpak/agent",
-      "html_url": "https://github.com/stakpak/agent",
-      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
-      "stars": 1192,
-      "forks": 118,
-      "language": "Rust",
-      "pushed_at": "2026-03-26T17:43:50Z",
-      "updated_at": "2026-03-26T17:45:54Z"
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1029,
+      "forks": 113,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-26T21:36:43Z",
+      "updated_at": "2026-03-26T21:30:33Z"
     },
     {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "AgentsMesh — AI Agent Fleet Command Center. Orchestrate Claude Code, Codex CLI, Gemini CLI, Aider and more from a single platform.",
-      "stars": 1037,
-      "forks": 93,
-      "language": "Go",
-      "pushed_at": "2026-03-26T17:36:36Z",
-      "updated_at": "2026-03-26T18:44:54Z"
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 601,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-26T19:09:37Z",
+      "updated_at": "2026-03-26T21:11:17Z"
     },
     {
       "id": 1179548338,
@@ -147,30 +136,41 @@
       "stars": 316,
       "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-03-26T19:36:06Z",
+      "pushed_at": "2026-03-26T19:42:18Z",
       "updated_at": "2026-03-26T19:36:12Z"
     },
     {
-      "id": 1183303405,
-      "full_name": "PlamenTSV/plamen",
-      "html_url": "https://github.com/PlamenTSV/plamen",
-      "description": "Autonomous Web3 security audit agent for Claude Code",
-      "stars": 180,
-      "forks": 32,
-      "language": "Python",
-      "pushed_at": "2026-03-26T18:12:09Z",
-      "updated_at": "2026-03-26T18:12:00Z"
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 186,
+      "forks": 10,
+      "language": "ReScript",
+      "pushed_at": "2026-03-26T21:20:05Z",
+      "updated_at": "2026-03-26T21:20:09Z"
     },
     {
       "id": 1184461384,
       "full_name": "tang-vu/ContribAI",
       "html_url": "https://github.com/tang-vu/ContribAI",
       "description": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
-      "stars": 159,
+      "stars": 160,
       "forks": 62,
       "language": "Python",
       "pushed_at": "2026-03-26T18:20:10Z",
-      "updated_at": "2026-03-26T18:56:56Z"
+      "updated_at": "2026-03-26T21:04:26Z"
+    },
+    {
+      "id": 1185714860,
+      "full_name": "mcpware/claude-code-organizer",
+      "html_url": "https://github.com/mcpware/claude-code-organizer",
+      "description": "Organize all your Claude Code configs in one dashboard — memories, skills, MCP servers, commands, agents, rules, hooks. Drag-and-drop between scopes.",
+      "stars": 141,
+      "forks": 9,
+      "language": "JavaScript",
+      "pushed_at": "2026-03-26T18:48:13Z",
+      "updated_at": "2026-03-26T21:26:10Z"
     }
   ]
 }
