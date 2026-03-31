@@ -5,139 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 428,
+  "total_found": 429,
   "items": [
     {
       "id": 522158088,
       "full_name": "zhayujie/chatgpt-on-wechat",
       "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
       "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
-      "stars": 42677,
-      "forks": 9863,
+      "stars": 42678,
+      "forks": 9862,
       "language": "Python",
-      "pushed_at": "2026-03-31T08:56:53Z",
-      "updated_at": "2026-03-31T08:56:58Z"
+      "pushed_at": "2026-03-31T13:44:20Z",
+      "updated_at": "2026-03-31T13:44:26Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 42648,
-      "forks": 3982,
+      "stars": 42657,
+      "forks": 3984,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T09:03:32Z",
-      "updated_at": "2026-03-31T09:01:32Z"
+      "pushed_at": "2026-03-31T13:31:56Z",
+      "updated_at": "2026-03-31T13:41:42Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 29889,
+      "forks": 3869,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T13:35:01Z",
+      "updated_at": "2026-03-31T13:37:57Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21499,
+      "forks": 3484,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T13:44:57Z",
+      "updated_at": "2026-03-31T13:43:26Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 20591,
-      "forks": 1647,
+      "stars": 20610,
+      "forks": 1651,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T09:05:11Z",
-      "updated_at": "2026-03-31T09:05:34Z"
-    },
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 19333,
-      "forks": 2339,
-      "language": "Python",
-      "pushed_at": "2026-03-31T09:03:54Z",
-      "updated_at": "2026-03-31T09:07:03Z"
-    },
-    {
-      "id": 1165277268,
-      "full_name": "Panniantong/Agent-Reach",
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 14026,
-      "forks": 1112,
-      "language": "Python",
-      "pushed_at": "2026-03-31T09:05:01Z",
-      "updated_at": "2026-03-31T09:06:59Z"
+      "pushed_at": "2026-03-31T13:38:02Z",
+      "updated_at": "2026-03-31T13:34:02Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/opencli",
       "html_url": "https://github.com/jackwener/opencli",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 9574,
-      "forks": 795,
+      "stars": 9660,
+      "forks": 804,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T08:31:57Z",
-      "updated_at": "2026-03-31T09:03:29Z"
+      "pushed_at": "2026-03-31T13:41:13Z",
+      "updated_at": "2026-03-31T13:44:46Z"
     },
     {
       "id": 981177285,
       "full_name": "presenton/presenton",
       "html_url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4515,
-      "forks": 879,
+      "stars": 4517,
+      "forks": 882,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T08:57:46Z",
-      "updated_at": "2026-03-31T08:57:50Z"
+      "pushed_at": "2026-03-31T13:05:15Z",
+      "updated_at": "2026-03-31T13:35:57Z"
     },
     {
-      "id": 297302063,
-      "full_name": "memgraph/memgraph",
-      "html_url": "https://github.com/memgraph/memgraph",
-      "description": "Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.",
-      "stars": 3852,
-      "forks": 216,
-      "language": "C++",
-      "pushed_at": "2026-03-31T09:01:20Z",
-      "updated_at": "2026-03-31T09:00:06Z"
+      "id": 1003614809,
+      "full_name": "kite-org/kite",
+      "html_url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2461,
+      "forks": 201,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T13:41:34Z",
+      "updated_at": "2026-03-31T13:41:38Z"
     },
     {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3572,
-      "forks": 440,
-      "language": "JavaScript",
-      "pushed_at": "2026-03-31T08:46:38Z",
-      "updated_at": "2026-03-31T09:06:07Z"
-    },
-    {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2451,
-      "forks": 126,
-      "language": "Python",
-      "pushed_at": "2026-03-31T08:56:20Z",
-      "updated_at": "2026-03-31T09:06:34Z"
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2370,
+      "forks": 191,
+      "language": "Rust",
+      "pushed_at": "2026-03-31T13:29:57Z",
+      "updated_at": "2026-03-31T13:30:06Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 1500,
-      "forks": 113,
+      "stars": 1507,
+      "forks": 116,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T09:04:22Z",
-      "updated_at": "2026-03-31T09:04:27Z"
+      "pushed_at": "2026-03-31T13:40:02Z",
+      "updated_at": "2026-03-31T13:40:07Z"
     },
     {
-      "id": 1181318933,
-      "full_name": "wuji-labs/nopua",
-      "html_url": "https://github.com/wuji-labs/nopua",
-      "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
-      "stars": 1058,
-      "forks": 37,
-      "language": "Python",
-      "pushed_at": "2026-03-31T08:58:09Z",
-      "updated_at": "2026-03-31T08:58:28Z"
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1339,
+      "forks": 135,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T13:31:06Z",
+      "updated_at": "2026-03-31T13:33:04Z"
     },
     {
       "id": 1096175506,
@@ -147,30 +136,41 @@
       "stars": 1057,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T09:06:05Z",
-      "updated_at": "2026-03-31T08:55:51Z"
+      "pushed_at": "2026-03-31T13:42:29Z",
+      "updated_at": "2026-03-31T13:40:22Z"
     },
     {
-      "id": 1155099363,
-      "full_name": "AidanPark/openclaw-android",
-      "html_url": "https://github.com/AidanPark/openclaw-android",
-      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
-      "stars": 1014,
-      "forks": 121,
-      "language": "Java",
-      "pushed_at": "2026-03-31T08:51:18Z",
-      "updated_at": "2026-03-31T08:51:23Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "debba/tabularis",
-      "html_url": "https://github.com/debba/tabularis",
-      "description": "A lightweight, developer-focused database management tool. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 895,
-      "forks": 60,
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Features a proactive Desktop Buddy, an AI social feed (Discover), and 15+ LLM providers (Ollama, LM Studio). No Docker, no terminal required. 🦎",
+      "stars": 675,
+      "forks": 114,
       "language": "TypeScript",
-      "pushed_at": "2026-03-31T09:03:04Z",
-      "updated_at": "2026-03-31T09:03:11Z"
+      "pushed_at": "2026-03-31T13:30:25Z",
+      "updated_at": "2026-03-31T13:30:34Z"
+    },
+    {
+      "id": 1094226297,
+      "full_name": "FrankChen021/datastoria",
+      "html_url": "https://github.com/FrankChen021/datastoria",
+      "description": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
+      "stars": 307,
+      "forks": 12,
+      "language": "TypeScript",
+      "pushed_at": "2026-03-31T13:45:00Z",
+      "updated_at": "2026-03-31T13:29:24Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 231,
+      "forks": 12,
+      "language": "ReScript",
+      "pushed_at": "2026-03-31T13:35:45Z",
+      "updated_at": "2026-03-31T13:24:51Z"
     }
   ]
 }
