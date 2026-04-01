@@ -5,128 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 437,
+  "total_found": 439,
   "items": [
+    {
+      "id": 1010681419,
+      "full_name": "shareAI-lab/learn-claude-code",
+      "html_url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 46143,
+      "forks": 7255,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-01T13:00:52Z",
+      "updated_at": "2026-04-01T13:45:24Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 42704,
-      "forks": 3991,
+      "stars": 42714,
+      "forks": 3992,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T08:42:41Z",
-      "updated_at": "2026-04-01T08:48:30Z"
+      "pushed_at": "2026-04-01T13:38:05Z",
+      "updated_at": "2026-04-01T13:23:22Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/chatgpt-on-wechat",
-      "html_url": "https://github.com/zhayujie/chatgpt-on-wechat",
-      "description": "CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
-      "stars": 42683,
-      "forks": 9859,
-      "language": "Python",
-      "pushed_at": "2026-04-01T09:12:32Z",
-      "updated_at": "2026-04-01T09:12:38Z"
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 29903,
+      "forks": 3875,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-01T13:30:11Z",
+      "updated_at": "2026-04-01T13:38:27Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21511,
-      "forks": 3489,
+      "stars": 21513,
+      "forks": 3488,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T09:01:02Z",
-      "updated_at": "2026-04-01T09:01:09Z"
+      "pushed_at": "2026-04-01T13:44:09Z",
+      "updated_at": "2026-04-01T13:44:15Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 20918,
-      "forks": 2555,
+      "stars": 21151,
+      "forks": 2593,
       "language": "Python",
-      "pushed_at": "2026-04-01T09:11:48Z",
-      "updated_at": "2026-04-01T09:12:00Z"
+      "pushed_at": "2026-04-01T13:09:33Z",
+      "updated_at": "2026-04-01T13:46:16Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 20683,
-      "forks": 1663,
+      "stars": 20706,
+      "forks": 1666,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T09:10:18Z",
-      "updated_at": "2026-04-01T09:12:43Z"
+      "pushed_at": "2026-04-01T13:41:06Z",
+      "updated_at": "2026-04-01T13:40:11Z"
     },
     {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6498,
-      "forks": 703,
-      "language": "Python",
-      "pushed_at": "2026-04-01T08:23:00Z",
-      "updated_at": "2026-04-01T08:22:59Z"
+      "id": 1164376059,
+      "full_name": "AlexAnys/awesome-openclaw-usecases-zh",
+      "html_url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+      "description": "🇨🇳 OpenClaw中文用例与案例大全 | 46个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好 | Chinese guide for OpenClaw AI agent use cases",
+      "stars": 3338,
+      "forks": 359,
+      "language": "Unknown",
+      "pushed_at": "2026-04-01T13:31:36Z",
+      "updated_at": "2026-04-01T13:37:35Z"
     },
     {
-      "id": 1145420469,
-      "full_name": "moltis-org/moltis",
-      "html_url": "https://github.com/moltis-org/moltis",
-      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
-      "stars": 2445,
-      "forks": 283,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2533,
+      "forks": 226,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-01T13:36:48Z",
+      "updated_at": "2026-04-01T13:44:12Z"
+    },
+    {
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2373,
+      "forks": 193,
       "language": "Rust",
-      "pushed_at": "2026-04-01T09:08:17Z",
-      "updated_at": "2026-04-01T08:55:00Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1838,
-      "forks": 195,
-      "language": "Go",
-      "pushed_at": "2026-04-01T09:07:28Z",
-      "updated_at": "2026-04-01T09:09:04Z"
+      "pushed_at": "2026-04-01T12:50:02Z",
+      "updated_at": "2026-04-01T13:30:39Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 1587,
+      "stars": 1601,
       "forks": 122,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T09:05:28Z",
-      "updated_at": "2026-04-01T09:07:39Z"
-    },
-    {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 1437,
-      "forks": 421,
-      "language": "Go",
-      "pushed_at": "2026-04-01T09:13:04Z",
-      "updated_at": "2026-04-01T09:12:53Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1057,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-01T09:11:10Z",
-      "updated_at": "2026-04-01T09:08:35Z"
+      "pushed_at": "2026-04-01T13:35:44Z",
+      "updated_at": "2026-04-01T13:14:06Z"
     },
     {
       "id": 1142800652,
@@ -136,41 +125,52 @@
       "stars": 906,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T08:42:36Z",
-      "updated_at": "2026-04-01T08:42:40Z"
+      "pushed_at": "2026-04-01T13:09:16Z",
+      "updated_at": "2026-04-01T13:09:21Z"
     },
     {
-      "id": 1197473770,
-      "full_name": "777genius/claude-code-source-code",
-      "html_url": "https://github.com/777genius/claude-code-source-code",
-      "description": "Claude code source code",
-      "stars": 547,
-      "forks": 814,
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 607,
+      "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T09:11:03Z",
-      "updated_at": "2026-04-01T09:13:11Z"
+      "pushed_at": "2026-04-01T12:49:04Z",
+      "updated_at": "2026-04-01T12:48:38Z"
     },
     {
-      "id": 1178500367,
-      "full_name": "crabtalk/crabtalk",
-      "html_url": "https://github.com/crabtalk/crabtalk",
-      "description": "Agents daemon that hides nothing",
-      "stars": 407,
-      "forks": 58,
-      "language": "Rust",
-      "pushed_at": "2026-04-01T08:37:25Z",
-      "updated_at": "2026-04-01T08:36:40Z"
-    },
-    {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 232,
-      "forks": 50,
+      "id": 1122681704,
+      "full_name": "team9ai/team9",
+      "html_url": "https://github.com/team9ai/team9",
+      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
+      "stars": 189,
+      "forks": 19,
       "language": "TypeScript",
-      "pushed_at": "2026-04-01T08:55:35Z",
-      "updated_at": "2026-04-01T08:55:40Z"
+      "pushed_at": "2026-04-01T13:27:42Z",
+      "updated_at": "2026-04-01T13:27:49Z"
+    },
+    {
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance",
+      "stars": 116,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-04-01T13:42:14Z",
+      "updated_at": "2026-04-01T13:46:23Z"
+    },
+    {
+      "id": 1154273018,
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
+      "description": "🎬 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
+      "stars": 111,
+      "forks": 22,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-01T13:35:31Z",
+      "updated_at": "2026-04-01T13:22:58Z"
     }
   ]
 }
