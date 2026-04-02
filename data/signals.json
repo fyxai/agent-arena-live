@@ -8,103 +8,114 @@
   "total_found": 446,
   "items": [
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29914,
-      "forks": 3876,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 42747,
+      "forks": 3996,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T02:31:46Z",
-      "updated_at": "2026-04-02T02:31:51Z"
-    },
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 21712,
-      "forks": 2692,
-      "language": "Python",
-      "pushed_at": "2026-04-02T01:42:47Z",
-      "updated_at": "2026-04-02T02:43:50Z"
+      "pushed_at": "2026-04-02T05:40:15Z",
+      "updated_at": "2026-04-02T05:37:57Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 20751,
+      "stars": 20764,
       "forks": 1670,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T02:38:50Z",
-      "updated_at": "2026-04-02T02:19:59Z"
+      "pushed_at": "2026-04-02T05:17:01Z",
+      "updated_at": "2026-04-02T05:27:50Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/opencli",
+      "html_url": "https://github.com/jackwener/opencli",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 10866,
+      "forks": 928,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T05:43:12Z",
+      "updated_at": "2026-04-02T05:43:07Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 9674,
+      "stars": 9675,
       "forks": 741,
       "language": "Python",
-      "pushed_at": "2026-04-02T01:57:35Z",
-      "updated_at": "2026-04-02T02:30:56Z"
+      "pushed_at": "2026-04-02T05:13:46Z",
+      "updated_at": "2026-04-02T05:19:36Z"
     },
     {
-      "id": 1045721921,
-      "full_name": "frankbria/ralph-claude-code",
-      "html_url": "https://github.com/frankbria/ralph-claude-code",
-      "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-      "stars": 8340,
-      "forks": 608,
-      "language": "Shell",
-      "pushed_at": "2026-04-02T02:43:40Z",
-      "updated_at": "2026-04-02T02:43:32Z"
-    },
-    {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6499,
-      "forks": 703,
-      "language": "Python",
-      "pushed_at": "2026-04-02T02:16:35Z",
-      "updated_at": "2026-04-02T02:16:40Z"
-    },
-    {
-      "id": 1074023461,
-      "full_name": "FullAgent/fulling",
-      "html_url": "https://github.com/FullAgent/fulling",
-      "description": "Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.",
-      "stars": 2412,
-      "forks": 228,
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 4533,
+      "forks": 884,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T02:43:15Z",
-      "updated_at": "2026-04-02T02:43:20Z"
+      "pushed_at": "2026-04-02T04:45:55Z",
+      "updated_at": "2026-04-02T04:46:00Z"
+    },
+    {
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 3603,
+      "forks": 444,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T05:29:02Z",
+      "updated_at": "2026-04-02T05:34:42Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 2558,
+      "forks": 229,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-02T04:00:27Z",
+      "updated_at": "2026-04-02T04:50:48Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 1619,
-      "forks": 125,
+      "stars": 1625,
+      "forks": 126,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T02:40:37Z",
-      "updated_at": "2026-04-02T02:42:17Z"
+      "pushed_at": "2026-04-02T05:22:19Z",
+      "updated_at": "2026-04-02T05:37:36Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 1472,
-      "forks": 426,
+      "stars": 1479,
+      "forks": 427,
       "language": "Go",
-      "pushed_at": "2026-04-02T02:35:21Z",
-      "updated_at": "2026-04-02T02:35:26Z"
+      "pushed_at": "2026-04-02T05:36:34Z",
+      "updated_at": "2026-04-02T05:36:39Z"
+    },
+    {
+      "id": 1155099363,
+      "full_name": "AidanPark/openclaw-android",
+      "html_url": "https://github.com/AidanPark/openclaw-android",
+      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
+      "stars": 1064,
+      "forks": 128,
+      "language": "Java",
+      "pushed_at": "2026-04-02T04:51:03Z",
+      "updated_at": "2026-04-02T04:51:06Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +125,52 @@
       "stars": 1058,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T02:43:47Z",
-      "updated_at": "2026-04-02T02:43:50Z"
+      "pushed_at": "2026-04-02T05:42:54Z",
+      "updated_at": "2026-04-02T05:36:45Z"
     },
     {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundermentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundermentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识",
-      "stars": 1008,
-      "forks": 159,
-      "language": "HTML",
-      "pushed_at": "2026-04-02T02:02:21Z",
-      "updated_at": "2026-04-02T02:29:03Z"
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 886,
+      "forks": 110,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T05:40:48Z",
+      "updated_at": "2026-04-02T05:40:51Z"
     },
     {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Features a proactive Desktop Buddy, an AI social feed (Discover), and 15+ LLM providers (Ollama, LM Studio). No Docker, no terminal required. 🦎",
-      "stars": 679,
-      "forks": 115,
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 233,
+      "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-04-02T01:08:18Z",
-      "updated_at": "2026-04-02T01:08:22Z"
+      "pushed_at": "2026-04-02T04:49:37Z",
+      "updated_at": "2026-04-02T04:48:50Z"
     },
     {
-      "id": 1178500367,
-      "full_name": "crabtalk/crabtalk",
-      "html_url": "https://github.com/crabtalk/crabtalk",
-      "description": "Agents daemon that hides nothing",
-      "stars": 413,
-      "forks": 58,
-      "language": "Rust",
-      "pushed_at": "2026-04-02T01:48:08Z",
-      "updated_at": "2026-04-02T01:45:18Z"
+      "id": 1153949512,
+      "full_name": "chadbyte/clay",
+      "html_url": "https://github.com/chadbyte/clay",
+      "description": "Turn Claude Code into a team workspace. Any device, one command.",
+      "stars": 224,
+      "forks": 31,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T03:59:02Z",
+      "updated_at": "2026-04-02T03:59:05Z"
     },
     {
-      "id": 1179548338,
-      "full_name": "clawwork-ai/ClawWork",
-      "html_url": "https://github.com/clawwork-ai/ClawWork",
-      "description": "Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.",
-      "stars": 367,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-02T01:06:22Z",
-      "updated_at": "2026-04-02T02:04:34Z"
-    },
-    {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 267,
-      "forks": 65,
-      "language": "Python",
-      "pushed_at": "2026-04-02T02:03:56Z",
-      "updated_at": "2026-04-02T02:04:00Z"
+      "id": 1185714860,
+      "full_name": "mcpware/claude-code-organizer",
+      "html_url": "https://github.com/mcpware/claude-code-organizer",
+      "description": "Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-organizer",
+      "stars": 209,
+      "forks": 19,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-02T05:03:23Z",
+      "updated_at": "2026-04-02T05:03:26Z"
     }
   ]
 }
