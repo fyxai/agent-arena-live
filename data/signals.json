@@ -5,73 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 455,
+  "total_found": 456,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 22868,
-      "forks": 2883,
-      "language": "Python",
-      "pushed_at": "2026-04-03T01:39:54Z",
-      "updated_at": "2026-04-03T02:47:17Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 20865,
-      "forks": 1680,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 42818,
+      "forks": 4007,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T02:42:22Z",
-      "updated_at": "2026-04-03T02:42:26Z"
+      "pushed_at": "2026-04-03T05:39:01Z",
+      "updated_at": "2026-04-03T05:39:05Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 13366,
-      "forks": 824,
+      "id": 1181982220,
+      "full_name": "jackwener/opencli",
+      "html_url": "https://github.com/jackwener/opencli",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 11776,
+      "forks": 1011,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T04:52:31Z",
+      "updated_at": "2026-04-03T05:42:52Z"
+    },
+    {
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 9707,
+      "forks": 746,
       "language": "Python",
-      "pushed_at": "2026-04-03T02:32:31Z",
-      "updated_at": "2026-04-03T02:01:44Z"
+      "pushed_at": "2026-04-03T04:25:52Z",
+      "updated_at": "2026-04-03T04:45:49Z"
     },
     {
-      "id": 1006251566,
-      "full_name": "zebbern/claude-code-guide",
-      "html_url": "https://github.com/zebbern/claude-code-guide",
-      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!",
-      "stars": 3795,
-      "forks": 355,
+      "id": 900577388,
+      "full_name": "crestalnetwork/intentkit",
+      "html_url": "https://github.com/crestalnetwork/intentkit",
+      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+      "stars": 6499,
+      "forks": 702,
+      "language": "Python",
+      "pushed_at": "2026-04-03T05:15:50Z",
+      "updated_at": "2026-04-03T05:15:50Z"
+    },
+    {
+      "id": 1176898834,
+      "full_name": "aiming-lab/MetaClaw",
+      "html_url": "https://github.com/aiming-lab/MetaClaw",
+      "description": "🦞 Just talk to your agent — it learns and EVOLVES 🧬.",
+      "stars": 3460,
+      "forks": 376,
+      "language": "Python",
+      "pushed_at": "2026-04-03T04:47:37Z",
+      "updated_at": "2026-04-03T04:47:42Z"
+    },
+    {
+      "id": 1166243835,
+      "full_name": "nexu-io/nexu",
+      "html_url": "https://github.com/nexu-io/nexu",
+      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
+      "stars": 1996,
+      "forks": 169,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T04:41:36Z",
+      "updated_at": "2026-04-03T05:38:15Z"
+    },
+    {
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 1503,
+      "forks": 437,
+      "language": "Go",
+      "pushed_at": "2026-04-03T05:01:38Z",
+      "updated_at": "2026-04-03T05:35:50Z"
+    },
+    {
+      "id": 1197226849,
+      "full_name": "Windy3f3f3f3f/how-claude-code-works",
+      "html_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+      "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
+      "stars": 1248,
+      "forks": 398,
       "language": "Unknown",
-      "pushed_at": "2026-04-03T00:56:47Z",
-      "updated_at": "2026-04-03T00:56:51Z"
+      "pushed_at": "2026-04-03T05:39:54Z",
+      "updated_at": "2026-04-03T05:43:11Z"
     },
     {
-      "id": 114540126,
-      "full_name": "SciSharp/BotSharp",
-      "html_url": "https://github.com/SciSharp/BotSharp",
-      "description": "AI Multi-Agent Framework in .NET",
-      "stars": 3035,
-      "forks": 622,
-      "language": "C#",
-      "pushed_at": "2026-04-03T01:49:33Z",
-      "updated_at": "2026-04-03T01:49:38Z"
-    },
-    {
-      "id": 1155099363,
-      "full_name": "AidanPark/openclaw-android",
-      "html_url": "https://github.com/AidanPark/openclaw-android",
-      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
-      "stars": 1081,
-      "forks": 131,
-      "language": "Java",
-      "pushed_at": "2026-04-03T02:04:51Z",
-      "updated_at": "2026-04-03T02:36:51Z"
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "AgentsMesh — AI Agent Fleet Command Center. Orchestrate Claude Code, Codex CLI, Gemini CLI, Aider and more from a single platform.",
+      "stars": 1223,
+      "forks": 114,
+      "language": "Go",
+      "pushed_at": "2026-04-03T05:10:59Z",
+      "updated_at": "2026-04-03T05:26:09Z"
     },
     {
       "id": 1096175506,
@@ -81,8 +114,8 @@
       "stars": 1058,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T02:46:59Z",
-      "updated_at": "2026-04-03T02:47:02Z"
+      "pushed_at": "2026-04-03T05:43:31Z",
+      "updated_at": "2026-04-03T05:43:35Z"
     },
     {
       "id": 1051086270,
@@ -92,74 +125,41 @@
       "stars": 1045,
       "forks": 118,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T02:44:28Z",
-      "updated_at": "2026-04-03T02:43:12Z"
+      "pushed_at": "2026-04-03T05:43:25Z",
+      "updated_at": "2026-04-03T05:40:00Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 926,
+      "forks": 63,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T05:41:53Z",
+      "updated_at": "2026-04-03T05:41:57Z"
     },
     {
       "id": 1135791677,
       "full_name": "lsdefine/GenericAgent",
       "html_url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 833,
-      "forks": 140,
+      "stars": 841,
+      "forks": 142,
       "language": "Python",
-      "pushed_at": "2026-04-03T02:43:17Z",
-      "updated_at": "2026-04-03T02:43:22Z"
+      "pushed_at": "2026-04-03T04:14:10Z",
+      "updated_at": "2026-04-03T04:14:14Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 728,
-      "forks": 70,
-      "language": "Python",
-      "pushed_at": "2026-04-03T02:20:23Z",
-      "updated_at": "2026-04-03T02:20:27Z"
-    },
-    {
-      "id": 627313198,
-      "full_name": "kimtth/awesome-azure-openai-llm",
-      "html_url": "https://github.com/kimtth/awesome-azure-openai-llm",
-      "description": "A curated collection of resources for 🌌 Azure OpenAI, 🦙 LLMs (RAG, Agents).",
-      "stars": 398,
-      "forks": 50,
-      "language": "Python",
-      "pushed_at": "2026-04-03T01:10:53Z",
-      "updated_at": "2026-04-03T01:10:57Z"
-    },
-    {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 267,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-04-03T02:05:51Z",
-      "updated_at": "2026-04-03T02:05:55Z"
-    },
-    {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 233,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-03T02:33:19Z",
-      "updated_at": "2026-04-03T02:33:23Z"
-    },
-    {
-      "id": 1185714860,
-      "full_name": "mcpware/claude-code-organizer",
-      "html_url": "https://github.com/mcpware/claude-code-organizer",
-      "description": "Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-organizer",
-      "stars": 214,
-      "forks": 19,
+      "id": 1153949512,
+      "full_name": "chadbyte/clay",
+      "html_url": "https://github.com/chadbyte/clay",
+      "description": "Turn Claude Code into a team workspace. Any device, one command.",
+      "stars": 225,
+      "forks": 31,
       "language": "JavaScript",
-      "pushed_at": "2026-04-03T01:07:18Z",
-      "updated_at": "2026-04-03T01:07:23Z"
+      "pushed_at": "2026-04-03T05:30:06Z",
+      "updated_at": "2026-04-03T05:30:08Z"
     },
     {
       "id": 1172782796,
@@ -167,10 +167,10 @@
       "html_url": "https://github.com/AI-Shell-Team/aish",
       "description": "Empower the Shell to think. Evolve Operations. ",
       "stars": 206,
-      "forks": 43,
+      "forks": 44,
       "language": "Python",
-      "pushed_at": "2026-04-03T02:29:52Z",
-      "updated_at": "2026-04-03T02:29:56Z"
+      "pushed_at": "2026-04-03T05:41:31Z",
+      "updated_at": "2026-04-03T05:41:35Z"
     }
   ]
 }
