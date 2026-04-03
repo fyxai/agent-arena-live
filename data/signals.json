@@ -5,106 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 457,
+  "total_found": 458,
   "items": [
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29961,
+      "stars": 29967,
       "forks": 3878,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T16:48:09Z",
-      "updated_at": "2026-04-03T16:48:16Z"
+      "pushed_at": "2026-04-03T20:39:39Z",
+      "updated_at": "2026-04-03T20:13:52Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 23517,
-      "forks": 2988,
+      "stars": 23690,
+      "forks": 3032,
       "language": "Python",
-      "pushed_at": "2026-04-03T16:08:21Z",
-      "updated_at": "2026-04-03T16:47:44Z"
+      "pushed_at": "2026-04-03T20:26:44Z",
+      "updated_at": "2026-04-03T20:41:54Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21540,
-      "forks": 3499,
+      "stars": 21542,
+      "forks": 3500,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T16:36:16Z",
-      "updated_at": "2026-04-03T16:37:00Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 20909,
-      "forks": 1686,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-03T16:01:53Z",
-      "updated_at": "2026-04-03T16:37:57Z"
+      "pushed_at": "2026-04-03T19:28:40Z",
+      "updated_at": "2026-04-03T19:35:12Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/opencli",
       "html_url": "https://github.com/jackwener/opencli",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 12435,
-      "forks": 1087,
+      "stars": 12508,
+      "forks": 1098,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T16:28:40Z",
-      "updated_at": "2026-04-03T16:46:37Z"
+      "pushed_at": "2026-04-03T19:52:30Z",
+      "updated_at": "2026-04-03T20:40:31Z"
     },
     {
-      "id": 1139782619,
-      "full_name": "saturndec/waoowaoo",
-      "html_url": "https://github.com/saturndec/waoowaoo",
-      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
-      "stars": 10793,
-      "forks": 2401,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-03T15:28:09Z",
-      "updated_at": "2026-04-03T16:15:22Z"
+      "id": 297302063,
+      "full_name": "memgraph/memgraph",
+      "html_url": "https://github.com/memgraph/memgraph",
+      "description": "Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.",
+      "stars": 3863,
+      "forks": 217,
+      "language": "C++",
+      "pushed_at": "2026-04-03T20:38:45Z",
+      "updated_at": "2026-04-03T20:38:47Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3633,
+      "stars": 3637,
       "forks": 448,
       "language": "JavaScript",
-      "pushed_at": "2026-04-03T16:12:22Z",
-      "updated_at": "2026-04-03T15:35:39Z"
+      "pushed_at": "2026-04-03T20:09:21Z",
+      "updated_at": "2026-04-03T20:31:56Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2667,
-      "forks": 141,
-      "language": "Python",
-      "pushed_at": "2026-04-03T16:30:44Z",
-      "updated_at": "2026-04-03T16:14:26Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Stop prompting. Start specifying.",
-      "stars": 2011,
-      "forks": 188,
-      "language": "Python",
-      "pushed_at": "2026-04-03T15:28:38Z",
-      "updated_at": "2026-04-03T15:55:21Z"
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2396,
+      "forks": 193,
+      "language": "Rust",
+      "pushed_at": "2026-04-03T18:52:00Z",
+      "updated_at": "2026-04-03T20:23:19Z"
     },
     {
       "id": 1096175506,
@@ -112,43 +90,32 @@
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
       "stars": 1058,
-      "forks": 53,
+      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T16:49:14Z",
-      "updated_at": "2026-04-03T16:20:57Z"
+      "pushed_at": "2026-04-03T20:41:53Z",
+      "updated_at": "2026-04-03T20:36:18Z"
     },
     {
       "id": 1051086270,
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1047,
+      "stars": 1048,
       "forks": 118,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T16:45:15Z",
-      "updated_at": "2026-04-03T16:07:56Z"
+      "pushed_at": "2026-04-03T20:31:10Z",
+      "updated_at": "2026-04-03T20:31:12Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 573,
-      "forks": 77,
-      "language": "Python",
-      "pushed_at": "2026-04-03T16:39:33Z",
-      "updated_at": "2026-04-03T16:46:31Z"
-    },
-    {
-      "id": 1169462190,
-      "full_name": "freddy-schuetz/n8n-claw",
-      "html_url": "https://github.com/freddy-schuetz/n8n-claw",
-      "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script",
-      "stars": 347,
-      "forks": 64,
-      "language": "Shell",
-      "pushed_at": "2026-04-03T16:06:07Z",
-      "updated_at": "2026-04-03T16:22:59Z"
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets - autonomous dev pipeline with Claude Code",
+      "stars": 290,
+      "forks": 23,
+      "language": "Go",
+      "pushed_at": "2026-04-03T20:37:24Z",
+      "updated_at": "2026-04-03T20:37:27Z"
     },
     {
       "id": 1066256303,
@@ -158,19 +125,52 @@
       "stars": 244,
       "forks": 12,
       "language": "ReScript",
-      "pushed_at": "2026-04-03T16:32:50Z",
-      "updated_at": "2026-04-03T16:32:57Z"
+      "pushed_at": "2026-04-03T19:16:08Z",
+      "updated_at": "2026-04-03T19:04:45Z"
     },
     {
-      "id": 1035759799,
-      "full_name": "bgdnvk/clanker",
-      "html_url": "https://github.com/bgdnvk/clanker",
-      "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
-      "stars": 242,
-      "forks": 14,
-      "language": "Go",
-      "pushed_at": "2026-04-03T16:13:32Z",
-      "updated_at": "2026-04-03T16:13:40Z"
+      "id": 1122681704,
+      "full_name": "team9ai/team9",
+      "html_url": "https://github.com/team9ai/team9",
+      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
+      "stars": 209,
+      "forks": 20,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T19:47:06Z",
+      "updated_at": "2026-04-03T20:21:58Z"
+    },
+    {
+      "id": 1184461384,
+      "full_name": "tang-vu/ContribAI",
+      "html_url": "https://github.com/tang-vu/ContribAI",
+      "description": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
+      "stars": 203,
+      "forks": 79,
+      "language": "Rust",
+      "pushed_at": "2026-04-03T20:18:23Z",
+      "updated_at": "2026-04-03T20:18:27Z"
+    },
+    {
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Star = free forever for first 1,000 stargazers.",
+      "stars": 165,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-04-03T20:02:03Z",
+      "updated_at": "2026-04-03T20:31:52Z"
+    },
+    {
+      "id": 1181223816,
+      "full_name": "OnlyTerp/openclaw-optimization-guide",
+      "html_url": "https://github.com/OnlyTerp/openclaw-optimization-guide",
+      "description": "Make your OpenClaw AI agent faster, smarter, and cheaper. Speed optimization, memory architecture, context management, model selection, and one-shot development guide.",
+      "stars": 165,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T19:48:03Z",
+      "updated_at": "2026-04-03T20:16:28Z"
     }
   ]
 }
