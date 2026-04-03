@@ -8,147 +8,81 @@
   "total_found": 456,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 42835,
-      "forks": 4007,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:55:59Z",
-      "updated_at": "2026-04-03T08:56:02Z"
-    },
-    {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29952,
-      "forks": 3878,
+      "stars": 29957,
+      "forks": 3876,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:13:01Z",
-      "updated_at": "2026-04-03T08:36:50Z"
-    },
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 23160,
-      "forks": 2941,
-      "language": "Python",
-      "pushed_at": "2026-04-03T08:58:10Z",
-      "updated_at": "2026-04-03T09:00:48Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21536,
-      "forks": 3498,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:59:10Z",
-      "updated_at": "2026-04-03T08:59:16Z"
+      "pushed_at": "2026-04-03T13:14:17Z",
+      "updated_at": "2026-04-03T13:12:28Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 20887,
-      "forks": 1684,
+      "stars": 20901,
+      "forks": 1685,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:56:18Z",
-      "updated_at": "2026-04-03T08:56:24Z"
-    },
-    {
-      "id": 1181982220,
-      "full_name": "jackwener/opencli",
-      "html_url": "https://github.com/jackwener/opencli",
-      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 12055,
-      "forks": 1046,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:41:40Z",
-      "updated_at": "2026-04-03T09:00:37Z"
+      "pushed_at": "2026-04-03T13:02:39Z",
+      "updated_at": "2026-04-03T12:55:31Z"
     },
     {
       "id": 981177285,
       "full_name": "presenton/presenton",
       "html_url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4550,
+      "stars": 4553,
       "forks": 885,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:37:41Z",
-      "updated_at": "2026-04-03T08:55:31Z"
+      "pushed_at": "2026-04-03T12:59:27Z",
+      "updated_at": "2026-04-03T12:59:37Z"
     },
     {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates editable, beautifully designed PPTX from any document — no design skills needed    | 15 examples, 229 pages ",
-      "stars": 3629,
-      "forks": 420,
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 2658,
+      "forks": 141,
       "language": "Python",
-      "pushed_at": "2026-04-03T08:57:18Z",
-      "updated_at": "2026-04-03T08:57:23Z"
+      "pushed_at": "2026-04-03T13:00:23Z",
+      "updated_at": "2026-04-03T13:11:29Z"
     },
     {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3624,
-      "forks": 447,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-03T08:36:21Z",
-      "updated_at": "2026-04-03T08:38:35Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.",
+      "stars": 2477,
+      "forks": 290,
+      "language": "Rust",
+      "pushed_at": "2026-04-03T13:01:25Z",
+      "updated_at": "2026-04-03T12:57:44Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 2056,
-      "forks": 173,
+      "stars": 2104,
+      "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:54:49Z",
-      "updated_at": "2026-04-03T09:01:26Z"
-    },
-    {
-      "id": 1197598190,
-      "full_name": "lintsinghua/claude-code-book",
-      "html_url": "https://github.com/lintsinghua/claude-code-book",
-      "description": "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
-      "stars": 1587,
-      "forks": 435,
-      "language": "Unknown",
-      "pushed_at": "2026-04-03T08:56:59Z",
-      "updated_at": "2026-04-03T08:58:50Z"
+      "pushed_at": "2026-04-03T13:02:13Z",
+      "updated_at": "2026-04-03T13:09:06Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 1510,
-      "forks": 439,
+      "stars": 1515,
+      "forks": 441,
       "language": "Go",
-      "pushed_at": "2026-04-03T08:44:40Z",
-      "updated_at": "2026-04-03T08:59:12Z"
-    },
-    {
-      "id": 1197226849,
-      "full_name": "Windy3f3f3f3f/how-claude-code-works",
-      "html_url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
-      "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
-      "stars": 1300,
-      "forks": 406,
-      "language": "Unknown",
-      "pushed_at": "2026-04-03T07:51:34Z",
-      "updated_at": "2026-04-03T08:58:52Z"
+      "pushed_at": "2026-04-03T13:09:26Z",
+      "updated_at": "2026-04-03T13:09:31Z"
     },
     {
       "id": 1096175506,
@@ -158,8 +92,19 @@
       "stars": 1058,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-03T08:59:23Z",
-      "updated_at": "2026-04-03T08:44:13Z"
+      "pushed_at": "2026-04-03T13:14:11Z",
+      "updated_at": "2026-04-03T13:06:41Z"
+    },
+    {
+      "id": 1162089095,
+      "full_name": "daggerhashimoto/openclaw-nerve",
+      "html_url": "https://github.com/daggerhashimoto/openclaw-nerve",
+      "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
+      "stars": 629,
+      "forks": 97,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T12:27:41Z",
+      "updated_at": "2026-04-03T12:27:47Z"
     },
     {
       "id": 463439055,
@@ -169,8 +114,63 @@
       "stars": 443,
       "forks": 108,
       "language": "Go",
-      "pushed_at": "2026-04-03T08:34:50Z",
-      "updated_at": "2026-04-03T08:34:23Z"
+      "pushed_at": "2026-04-03T12:51:06Z",
+      "updated_at": "2026-04-03T12:50:43Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 431,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T12:54:09Z",
+      "updated_at": "2026-04-03T12:54:26Z"
+    },
+    {
+      "id": 1178500367,
+      "full_name": "crabtalk/crabtalk",
+      "html_url": "https://github.com/crabtalk/crabtalk",
+      "description": "Agents daemon that hides nothing",
+      "stars": 421,
+      "forks": 58,
+      "language": "Rust",
+      "pushed_at": "2026-04-03T12:43:22Z",
+      "updated_at": "2026-04-03T12:43:16Z"
+    },
+    {
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 233,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T13:14:21Z",
+      "updated_at": "2026-04-03T12:58:08Z"
+    },
+    {
+      "id": 1146091496,
+      "full_name": "Enderfga/openclaw-claude-code",
+      "html_url": "https://github.com/Enderfga/openclaw-claude-code",
+      "description": "OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of tools, agent teams, and multi-model proxy",
+      "stars": 151,
+      "forks": 23,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-03T12:19:39Z",
+      "updated_at": "2026-04-03T12:35:44Z"
+    },
+    {
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Star = free forever for first 1,000 stargazers.",
+      "stars": 145,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-04-03T12:46:00Z",
+      "updated_at": "2026-04-03T12:46:04Z"
     }
   ]
 }
