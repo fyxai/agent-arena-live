@@ -5,29 +5,29 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 458,
+  "total_found": 459,
   "items": [
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29967,
-      "forks": 3879,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 42882,
+      "forks": 4019,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T05:16:33Z",
-      "updated_at": "2026-04-04T03:53:14Z"
+      "pushed_at": "2026-04-04T08:20:20Z",
+      "updated_at": "2026-04-04T08:43:41Z"
     },
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 24050,
-      "forks": 3109,
-      "language": "Python",
-      "pushed_at": "2026-04-04T05:18:02Z",
-      "updated_at": "2026-04-04T05:20:44Z"
+      "id": 1181982220,
+      "full_name": "jackwener/opencli",
+      "html_url": "https://github.com/jackwener/opencli",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 12775,
+      "forks": 1132,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-04T08:26:31Z",
+      "updated_at": "2026-04-04T08:48:31Z"
     },
     {
       "id": 981177285,
@@ -37,96 +37,41 @@
       "stars": 4555,
       "forks": 884,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T03:23:53Z",
-      "updated_at": "2026-04-04T01:56:52Z"
+      "pushed_at": "2026-04-04T08:00:12Z",
+      "updated_at": "2026-04-04T08:00:16Z"
+    },
+    {
+      "id": 929338255,
+      "full_name": "groupultra/telegram-search",
+      "html_url": "https://github.com/groupultra/telegram-search",
+      "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
+      "stars": 3851,
+      "forks": 244,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-04T07:52:17Z",
+      "updated_at": "2026-04-04T07:52:12Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3641,
+      "stars": 3643,
       "forks": 449,
       "language": "JavaScript",
-      "pushed_at": "2026-04-04T03:29:49Z",
-      "updated_at": "2026-04-04T05:16:47Z"
-    },
-    {
-      "id": 1010318950,
-      "full_name": "SWE-agent/mini-swe-agent",
-      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
-      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
-      "stars": 3641,
-      "forks": 504,
-      "language": "Python",
-      "pushed_at": "2026-04-04T02:17:09Z",
-      "updated_at": "2026-04-04T04:53:58Z"
-    },
-    {
-      "id": 1179413000,
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 3365,
-      "forks": 618,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-04T01:56:07Z",
-      "updated_at": "2026-04-04T05:10:29Z"
+      "pushed_at": "2026-04-04T08:11:18Z",
+      "updated_at": "2026-04-04T08:22:36Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 2150,
-      "forks": 177,
+      "stars": 2156,
+      "forks": 179,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T05:07:03Z",
-      "updated_at": "2026-04-04T05:12:30Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Stop prompting. Start specifying.",
-      "stars": 2015,
-      "forks": 191,
-      "language": "Python",
-      "pushed_at": "2026-04-04T03:47:33Z",
-      "updated_at": "2026-04-04T05:05:41Z"
-    },
-    {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 1535,
-      "forks": 452,
-      "language": "Go",
-      "pushed_at": "2026-04-04T04:49:32Z",
-      "updated_at": "2026-04-04T03:38:06Z"
-    },
-    {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1362,
-      "forks": 138,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-04T03:23:34Z",
-      "updated_at": "2026-04-04T04:55:07Z"
-    },
-    {
-      "id": 1155099363,
-      "full_name": "AidanPark/openclaw-android",
-      "html_url": "https://github.com/AidanPark/openclaw-android",
-      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
-      "stars": 1105,
-      "forks": 134,
-      "language": "Java",
-      "pushed_at": "2026-04-04T05:03:58Z",
-      "updated_at": "2026-04-04T05:04:02Z"
+      "pushed_at": "2026-04-04T08:12:47Z",
+      "updated_at": "2026-04-04T08:28:33Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +81,96 @@
       "stars": 1059,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T05:18:09Z",
-      "updated_at": "2026-04-04T04:56:58Z"
+      "pushed_at": "2026-04-04T08:47:35Z",
+      "updated_at": "2026-04-04T08:36:23Z"
     },
     {
-      "id": 1152181595,
-      "full_name": "xvirobotics/metabot",
-      "html_url": "https://github.com/xvirobotics/metabot",
-      "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 从飞书/Telegram 运行 Claude Code，共享记忆、Agent 工厂、定时任务、通信总线。",
-      "stars": 521,
-      "forks": 63,
+      "id": 861556786,
+      "full_name": "ForceInjection/AI-fundermentals",
+      "html_url": "https://github.com/ForceInjection/AI-fundermentals",
+      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识",
+      "stars": 1014,
+      "forks": 163,
+      "language": "HTML",
+      "pushed_at": "2026-04-04T08:23:22Z",
+      "updated_at": "2026-04-04T08:23:26Z"
+    },
+    {
+      "id": 463439055,
+      "full_name": "mynaparrot/plugNmeet-server",
+      "html_url": "https://github.com/mynaparrot/plugNmeet-server",
+      "description": "The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent.",
+      "stars": 443,
+      "forks": 108,
+      "language": "Go",
+      "pushed_at": "2026-04-04T07:43:24Z",
+      "updated_at": "2026-04-04T07:43:16Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 439,
+      "forks": 27,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T04:42:48Z",
-      "updated_at": "2026-04-04T04:55:16Z"
+      "pushed_at": "2026-04-04T07:20:38Z",
+      "updated_at": "2026-04-04T07:20:42Z"
     },
     {
-      "id": 987112345,
-      "full_name": "Alchemyst-ai/awesome-saas",
-      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
-      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
-      "stars": 411,
-      "forks": 63,
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Star = free forever for first 1,000 stargazers.",
+      "stars": 172,
+      "forks": 7,
+      "language": "Python",
+      "pushed_at": "2026-04-04T08:33:55Z",
+      "updated_at": "2026-04-04T08:49:11Z"
+    },
+    {
+      "id": 1197491237,
+      "full_name": "LiuMengxuan04/MiniCode",
+      "html_url": "https://github.com/LiuMengxuan04/MiniCode",
+      "description": "A lightweight terminal coding assistant with Claude Code-like workflow, tool loop, and TUI architecture, built for learning and experimentation.",
+      "stars": 147,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T02:49:21Z",
-      "updated_at": "2026-04-04T02:49:26Z"
+      "pushed_at": "2026-04-04T08:46:02Z",
+      "updated_at": "2026-04-04T08:46:07Z"
     },
     {
-      "id": 1169066165,
-      "full_name": "aldefy/compose-skill",
-      "html_url": "https://github.com/aldefy/compose-skill",
-      "description": "Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code receipts. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot, Windsurf, and more.",
-      "stars": 315,
-      "forks": 16,
-      "language": "Unknown",
-      "pushed_at": "2026-04-04T04:54:50Z",
-      "updated_at": "2026-04-04T04:54:55Z"
+      "id": 1192696183,
+      "full_name": "rhino-acoustic/NeuronFS",
+      "html_url": "https://github.com/rhino-acoustic/NeuronFS",
+      "description": "Structure is Context. 0-byte files govern AI — ₩0 infrastructure, ~200x token efficiency. OS-native constraint engine for LLM agents.",
+      "stars": 122,
+      "forks": 20,
+      "language": "Go",
+      "pushed_at": "2026-04-04T08:48:24Z",
+      "updated_at": "2026-04-04T08:48:28Z"
+    },
+    {
+      "id": 778951389,
+      "full_name": "olasunkanmi-SE/codebuddy",
+      "html_url": "https://github.com/olasunkanmi-SE/codebuddy",
+      "description": "An Autonomous AI Software Engineer",
+      "stars": 115,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-04T08:46:59Z",
+      "updated_at": "2026-04-04T08:47:02Z"
+    },
+    {
+      "id": 1162575074,
+      "full_name": "Usta0x001/Phantom",
+      "html_url": "https://github.com/Usta0x001/Phantom",
+      "description": " Autonomous Offensive Security Intelligence  AI-powered multi-agent penetration testing",
+      "stars": 106,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-04-04T07:51:54Z",
+      "updated_at": "2026-04-04T07:51:59Z"
     }
   ]
 }
