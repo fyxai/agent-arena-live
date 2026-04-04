@@ -15,19 +15,19 @@
       "stars": 29967,
       "forks": 3879,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T02:14:42Z",
-      "updated_at": "2026-04-04T02:05:54Z"
+      "pushed_at": "2026-04-04T05:16:33Z",
+      "updated_at": "2026-04-04T03:53:14Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 23926,
-      "forks": 3079,
+      "stars": 24050,
+      "forks": 3109,
       "language": "Python",
-      "pushed_at": "2026-04-04T02:09:13Z",
-      "updated_at": "2026-04-04T02:37:21Z"
+      "pushed_at": "2026-04-04T05:18:02Z",
+      "updated_at": "2026-04-04T05:20:44Z"
     },
     {
       "id": 981177285,
@@ -35,142 +35,142 @@
       "html_url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "stars": 4555,
-      "forks": 885,
+      "forks": 884,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T02:25:06Z",
+      "pushed_at": "2026-04-04T03:23:53Z",
       "updated_at": "2026-04-04T01:56:52Z"
-    },
-    {
-      "id": 1006251566,
-      "full_name": "zebbern/claude-code-guide",
-      "html_url": "https://github.com/zebbern/claude-code-guide",
-      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!",
-      "stars": 3806,
-      "forks": 355,
-      "language": "Unknown",
-      "pushed_at": "2026-04-04T00:52:21Z",
-      "updated_at": "2026-04-04T01:11:21Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3638,
-      "forks": 448,
+      "stars": 3641,
+      "forks": 449,
       "language": "JavaScript",
-      "pushed_at": "2026-04-04T00:33:18Z",
-      "updated_at": "2026-04-04T02:22:05Z"
+      "pushed_at": "2026-04-04T03:29:49Z",
+      "updated_at": "2026-04-04T05:16:47Z"
     },
     {
       "id": 1010318950,
       "full_name": "SWE-agent/mini-swe-agent",
       "html_url": "https://github.com/SWE-agent/mini-swe-agent",
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
-      "stars": 3638,
-      "forks": 503,
+      "stars": 3641,
+      "forks": 504,
       "language": "Python",
       "pushed_at": "2026-04-04T02:17:09Z",
-      "updated_at": "2026-04-04T02:16:50Z"
+      "updated_at": "2026-04-04T04:53:58Z"
     },
     {
       "id": 1179413000,
       "full_name": "Narcooo/inkos",
       "html_url": "https://github.com/Narcooo/inkos",
       "description": "Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 3354,
-      "forks": 617,
+      "stars": 3365,
+      "forks": 618,
       "language": "TypeScript",
       "pushed_at": "2026-04-04T01:56:07Z",
-      "updated_at": "2026-04-04T02:27:02Z"
+      "updated_at": "2026-04-04T05:10:29Z"
     },
     {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2396,
-      "forks": 193,
-      "language": "Rust",
-      "pushed_at": "2026-04-04T00:47:03Z",
-      "updated_at": "2026-04-04T00:47:07Z"
+      "id": 1166243835,
+      "full_name": "nexu-io/nexu",
+      "html_url": "https://github.com/nexu-io/nexu",
+      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
+      "stars": 2150,
+      "forks": 177,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-04T05:07:03Z",
+      "updated_at": "2026-04-04T05:12:30Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Stop prompting. Start specifying.",
+      "stars": 2015,
+      "forks": 191,
+      "language": "Python",
+      "pushed_at": "2026-04-04T03:47:33Z",
+      "updated_at": "2026-04-04T05:05:41Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 1533,
-      "forks": 451,
+      "stars": 1535,
+      "forks": 452,
       "language": "Go",
-      "pushed_at": "2026-04-04T01:49:12Z",
-      "updated_at": "2026-04-04T02:25:49Z"
+      "pushed_at": "2026-04-04T04:49:32Z",
+      "updated_at": "2026-04-04T03:38:06Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1362,
+      "forks": 138,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-04T03:23:34Z",
+      "updated_at": "2026-04-04T04:55:07Z"
+    },
+    {
+      "id": 1155099363,
+      "full_name": "AidanPark/openclaw-android",
+      "html_url": "https://github.com/AidanPark/openclaw-android",
+      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
+      "stars": 1105,
+      "forks": 134,
+      "language": "Java",
+      "pushed_at": "2026-04-04T05:03:58Z",
+      "updated_at": "2026-04-04T05:04:02Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1058,
-      "forks": 54,
+      "stars": 1059,
+      "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T02:34:45Z",
-      "updated_at": "2026-04-04T02:34:28Z"
-    },
-    {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1048,
-      "forks": 119,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-04T01:40:55Z",
-      "updated_at": "2026-04-04T01:34:09Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 729,
-      "forks": 70,
-      "language": "Python",
-      "pushed_at": "2026-04-04T00:08:30Z",
-      "updated_at": "2026-04-04T00:08:35Z"
+      "pushed_at": "2026-04-04T05:18:09Z",
+      "updated_at": "2026-04-04T04:56:58Z"
     },
     {
       "id": 1152181595,
       "full_name": "xvirobotics/metabot",
       "html_url": "https://github.com/xvirobotics/metabot",
       "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 从飞书/Telegram 运行 Claude Code，共享记忆、Agent 工厂、定时任务、通信总线。",
-      "stars": 520,
-      "forks": 62,
+      "stars": 521,
+      "forks": 63,
       "language": "TypeScript",
-      "pushed_at": "2026-04-04T01:50:02Z",
-      "updated_at": "2026-04-04T01:50:02Z"
+      "pushed_at": "2026-04-04T04:42:48Z",
+      "updated_at": "2026-04-04T04:55:16Z"
     },
     {
-      "id": 1153949512,
-      "full_name": "chadbyte/clay",
-      "html_url": "https://github.com/chadbyte/clay",
-      "description": "Turn Claude Code into a team workspace. Any device, one command.",
-      "stars": 225,
-      "forks": 31,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-04T00:27:48Z",
-      "updated_at": "2026-04-04T00:27:52Z"
+      "id": 987112345,
+      "full_name": "Alchemyst-ai/awesome-saas",
+      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
+      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
+      "stars": 411,
+      "forks": 63,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-04T02:49:21Z",
+      "updated_at": "2026-04-04T02:49:26Z"
     },
     {
-      "id": 1185714860,
-      "full_name": "mcpware/claude-code-organizer",
-      "html_url": "https://github.com/mcpware/claude-code-organizer",
-      "description": "Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-organizer",
-      "stars": 218,
-      "forks": 19,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-04T01:00:34Z",
-      "updated_at": "2026-04-04T01:00:38Z"
+      "id": 1169066165,
+      "full_name": "aldefy/compose-skill",
+      "html_url": "https://github.com/aldefy/compose-skill",
+      "description": "Jetpack Compose Agent Skill — AI-powered coding guidance with actual androidx/androidx source code receipts. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, Copilot, Windsurf, and more.",
+      "stars": 315,
+      "forks": 16,
+      "language": "Unknown",
+      "pushed_at": "2026-04-04T04:54:50Z",
+      "updated_at": "2026-04-04T04:54:55Z"
     }
   ]
 }
