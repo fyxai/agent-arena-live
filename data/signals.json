@@ -5,95 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 468,
+  "total_found": 469,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 42982,
-      "forks": 4029,
+      "stars": 42986,
+      "forks": 4030,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T02:51:10Z",
-      "updated_at": "2026-04-06T02:52:21Z"
+      "pushed_at": "2026-04-06T05:05:48Z",
+      "updated_at": "2026-04-06T05:54:22Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 29996,
-      "forks": 3881,
+      "stars": 29995,
+      "forks": 3882,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T01:32:20Z",
-      "updated_at": "2026-04-06T02:26:42Z"
+      "pushed_at": "2026-04-06T04:57:13Z",
+      "updated_at": "2026-04-06T04:57:17Z"
     },
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 26490,
-      "forks": 3472,
+      "stars": 26715,
+      "forks": 3499,
       "language": "Python",
-      "pushed_at": "2026-04-06T02:46:58Z",
-      "updated_at": "2026-04-06T02:56:19Z"
+      "pushed_at": "2026-04-06T05:58:24Z",
+      "updated_at": "2026-04-06T05:58:31Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 21058,
-      "forks": 1711,
+      "stars": 21060,
+      "forks": 1712,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T02:36:59Z",
-      "updated_at": "2026-04-06T02:26:18Z"
+      "pushed_at": "2026-04-06T06:00:36Z",
+      "updated_at": "2026-04-06T05:59:00Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2815,
-      "forks": 144,
-      "language": "Python",
-      "pushed_at": "2026-04-06T01:55:08Z",
-      "updated_at": "2026-04-06T02:35:59Z"
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 3657,
+      "forks": 452,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-06T05:05:36Z",
+      "updated_at": "2026-04-06T05:05:41Z"
     },
     {
-      "id": 1170326509,
-      "full_name": "LeoYeAI/openclaw-master-skills",
-      "html_url": "https://github.com/LeoYeAI/openclaw-master-skills",
-      "description": "🧠 Curated collection of 560+ best OpenClaw skills — weekly updated by MyClaw.ai",
-      "stars": 1850,
-      "forks": 289,
-      "language": "Python",
-      "pushed_at": "2026-04-06T02:03:10Z",
-      "updated_at": "2026-04-06T02:47:57Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1909,
+      "forks": 198,
+      "language": "Go",
+      "pushed_at": "2026-04-06T04:48:01Z",
+      "updated_at": "2026-04-06T05:25:40Z"
+    },
+    {
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 1576,
+      "forks": 470,
+      "language": "Go",
+      "pushed_at": "2026-04-06T05:59:20Z",
+      "updated_at": "2026-04-06T05:57:05Z"
     },
     {
       "id": 1169101061,
       "full_name": "AgentsMesh/AgentsMesh",
       "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "AgentsMesh — AI Agent Fleet Command Center. Orchestrate Claude Code, Codex CLI, Gemini CLI, Aider and more from a single platform.",
-      "stars": 1293,
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 1297,
       "forks": 122,
       "language": "Go",
-      "pushed_at": "2026-04-06T02:46:08Z",
-      "updated_at": "2026-04-06T02:37:49Z"
-    },
-    {
-      "id": 901554449,
-      "full_name": "stakpak/agent",
-      "html_url": "https://github.com/stakpak/agent",
-      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
-      "stars": 1256,
-      "forks": 132,
-      "language": "Rust",
-      "pushed_at": "2026-04-06T02:30:40Z",
-      "updated_at": "2026-04-06T02:53:29Z"
+      "pushed_at": "2026-04-06T05:08:13Z",
+      "updated_at": "2026-04-06T05:25:59Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +103,74 @@
       "stars": 1059,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T02:36:27Z",
-      "updated_at": "2026-04-06T02:35:59Z"
+      "pushed_at": "2026-04-06T05:30:33Z",
+      "updated_at": "2026-04-06T04:56:48Z"
     },
     {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 272,
-      "forks": 65,
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 857,
+      "forks": 146,
       "language": "Python",
-      "pushed_at": "2026-04-06T02:12:37Z",
-      "updated_at": "2026-04-06T02:12:41Z"
+      "pushed_at": "2026-04-06T04:19:22Z",
+      "updated_at": "2026-04-06T04:19:28Z"
     },
     {
       "id": 1117896698,
       "full_name": "tony1223/better-agent-terminal",
       "html_url": "https://github.com/tony1223/better-agent-terminal",
       "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 255,
+      "stars": 256,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T02:23:59Z",
-      "updated_at": "2026-04-06T02:24:02Z"
+      "pushed_at": "2026-04-06T05:07:27Z",
+      "updated_at": "2026-04-06T05:06:58Z"
     },
     {
       "id": 1198654685,
       "full_name": "agenmod/immortal-skill",
       "html_url": "https://github.com/agenmod/immortal-skill",
       "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。",
-      "stars": 238,
+      "stars": 246,
       "forks": 20,
       "language": "Python",
-      "pushed_at": "2026-04-06T01:49:24Z",
-      "updated_at": "2026-04-06T01:49:27Z"
+      "pushed_at": "2026-04-06T05:42:41Z",
+      "updated_at": "2026-04-06T05:42:45Z"
     },
     {
-      "id": 1146091496,
-      "full_name": "Enderfga/openclaw-claude-code",
-      "html_url": "https://github.com/Enderfga/openclaw-claude-code",
-      "description": "OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of tools, agent teams, and multi-model proxy",
-      "stars": 230,
-      "forks": 36,
+      "id": 1124639648,
+      "full_name": "adnaan-worker/Adnify",
+      "html_url": "https://github.com/adnaan-worker/Adnify",
+      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
+      "stars": 185,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-04-06T01:51:28Z",
-      "updated_at": "2026-04-06T02:24:31Z"
+      "pushed_at": "2026-04-06T06:00:54Z",
+      "updated_at": "2026-04-06T06:00:57Z"
     },
     {
-      "id": 1153949512,
-      "full_name": "chadbyte/clay",
-      "html_url": "https://github.com/chadbyte/clay",
-      "description": "Turn Claude Code into a team workspace. Any device, one command.",
-      "stars": 226,
-      "forks": 31,
+      "id": 1173980846,
+      "full_name": "imgompanda/fireauto",
+      "html_url": "https://github.com/imgompanda/fireauto",
+      "description": "Claude Code 자동화 플러그인 — SEO, 보안, 팀 에이전트, PRD, 레딧 리서치를 커맨드 하나로",
+      "stars": 125,
+      "forks": 32,
       "language": "JavaScript",
-      "pushed_at": "2026-04-06T01:19:01Z",
-      "updated_at": "2026-04-06T01:19:07Z"
+      "pushed_at": "2026-04-06T05:58:08Z",
+      "updated_at": "2026-04-06T05:58:11Z"
     },
     {
-      "id": 1144764199,
-      "full_name": "didilili/ai-agents-from-zero",
-      "html_url": "https://github.com/didilili/ai-agents-from-zero",
-      "description": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
-      "stars": 197,
-      "forks": 29,
-      "language": "Python",
-      "pushed_at": "2026-04-06T02:40:24Z",
-      "updated_at": "2026-04-06T02:40:32Z"
+      "id": 1176971972,
+      "full_name": "cerul-ai/cerul",
+      "html_url": "https://github.com/cerul-ai/cerul",
+      "description": "Real-time video search engine for AI agents. Search by meaning across visual scenes, speech, and on-screen content.",
+      "stars": 92,
+      "forks": 4,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-06T04:49:59Z",
+      "updated_at": "2026-04-06T04:50:04Z"
     }
   ]
 }
