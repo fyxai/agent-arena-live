@@ -8,169 +8,169 @@
   "total_found": 481,
   "items": [
     {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 43149,
+      "forks": 4050,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T17:01:42Z",
+      "updated_at": "2026-04-08T16:46:13Z"
+    },
+    {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30072,
+      "stars": 30075,
       "forks": 3888,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:18:09Z",
-      "updated_at": "2026-04-08T13:43:13Z"
+      "pushed_at": "2026-04-08T16:55:56Z",
+      "updated_at": "2026-04-08T17:06:46Z"
     },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 21940,
-      "forks": 4115,
+      "stars": 23008,
+      "forks": 4282,
       "language": "JavaScript",
-      "pushed_at": "2026-04-08T13:01:21Z",
-      "updated_at": "2026-04-08T13:43:21Z"
+      "pushed_at": "2026-04-08T16:32:50Z",
+      "updated_at": "2026-04-08T17:10:14Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21621,
+      "forks": 3515,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T16:43:40Z",
+      "updated_at": "2026-04-08T16:43:06Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 21260,
+      "stars": 21267,
       "forks": 1745,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:43:25Z",
-      "updated_at": "2026-04-08T13:27:55Z"
+      "pushed_at": "2026-04-08T17:00:36Z",
+      "updated_at": "2026-04-08T16:56:47Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 14338,
-      "forks": 1334,
+      "stars": 14382,
+      "forks": 1343,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:43:26Z",
-      "updated_at": "2026-04-08T13:42:18Z"
+      "pushed_at": "2026-04-08T17:08:01Z",
+      "updated_at": "2026-04-08T17:08:07Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4588,
-      "forks": 899,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:00:52Z",
-      "updated_at": "2026-04-08T13:01:26Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates editable, beautifully designed PPTX from any document — no design skills needed    | 15 examples, 229 pages ",
-      "stars": 4033,
-      "forks": 468,
+      "id": 900577388,
+      "full_name": "crestalnetwork/intentkit",
+      "html_url": "https://github.com/crestalnetwork/intentkit",
+      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+      "stars": 6503,
+      "forks": 703,
       "language": "Python",
-      "pushed_at": "2026-04-08T13:29:30Z",
-      "updated_at": "2026-04-08T13:38:08Z"
-    },
-    {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2999,
-      "forks": 146,
-      "language": "Python",
-      "pushed_at": "2026-04-08T12:54:03Z",
-      "updated_at": "2026-04-08T13:21:34Z"
+      "pushed_at": "2026-04-08T16:35:57Z",
+      "updated_at": "2026-04-08T16:35:57Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 2757,
-      "forks": 251,
+      "stars": 2768,
+      "forks": 250,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:28:25Z",
-      "updated_at": "2026-04-08T13:40:56Z"
+      "pushed_at": "2026-04-08T16:52:57Z",
+      "updated_at": "2026-04-08T16:53:01Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 2381,
+      "stars": 2393,
       "forks": 194,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:01:25Z",
-      "updated_at": "2026-04-08T13:01:37Z"
+      "pushed_at": "2026-04-08T16:53:38Z",
+      "updated_at": "2026-04-08T16:54:29Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 1349,
+      "forks": 127,
+      "language": "Go",
+      "pushed_at": "2026-04-08T16:28:12Z",
+      "updated_at": "2026-04-08T16:28:27Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1062,
+      "forks": 121,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-08T16:35:35Z",
+      "updated_at": "2026-04-08T16:32:12Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1060,
+      "stars": 1061,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:42:26Z",
-      "updated_at": "2026-04-08T13:24:31Z"
+      "pushed_at": "2026-04-08T16:47:11Z",
+      "updated_at": "2026-04-08T16:34:59Z"
     },
     {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Star = free forever for first 1,000 stargazers.",
-      "stars": 348,
-      "forks": 19,
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Plan-first AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 564,
+      "forks": 41,
       "language": "Python",
-      "pushed_at": "2026-04-08T12:57:59Z",
-      "updated_at": "2026-04-08T13:22:11Z"
+      "pushed_at": "2026-04-08T16:27:19Z",
+      "updated_at": "2026-04-08T16:27:24Z"
     },
     {
-      "id": 1094226297,
-      "full_name": "FrankChen021/datastoria",
-      "html_url": "https://github.com/FrankChen021/datastoria",
-      "description": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
-      "stars": 312,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T12:58:14Z",
-      "updated_at": "2026-04-08T12:55:27Z"
+      "id": 1132275655,
+      "full_name": "cordum-io/cordum",
+      "html_url": "https://github.com/cordum-io/cordum",
+      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+      "stars": 459,
+      "forks": 21,
+      "language": "Go",
+      "pushed_at": "2026-04-08T17:10:14Z",
+      "updated_at": "2026-04-08T17:06:04Z"
     },
     {
-      "id": 1183303405,
-      "full_name": "PlamenTSV/plamen",
-      "html_url": "https://github.com/PlamenTSV/plamen",
-      "description": "Autonomous Web3 security audit agent for Claude Code",
-      "stars": 197,
-      "forks": 31,
-      "language": "Python",
-      "pushed_at": "2026-04-08T13:40:15Z",
-      "updated_at": "2026-04-08T13:40:21Z"
-    },
-    {
-      "id": 1171575871,
-      "full_name": "okx/agent-trade-kit",
-      "html_url": "https://github.com/okx/agent-trade-kit",
-      "description": "OKX trading MCP server — connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.  ",
-      "stars": 160,
-      "forks": 26,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:17:24Z",
-      "updated_at": "2026-04-08T13:17:37Z"
-    },
-    {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent. Autonomous pentesting with 13+ specialized agents, 120+ OWASP test cases, 15+ LLM providers, and Bolt remote tool servers. Your AI red team.",
-      "stars": 158,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-08T13:02:37Z",
-      "updated_at": "2026-04-08T13:02:42Z"
+      "id": 796089121,
+      "full_name": "SAILResearch/awesome-foundation-model-leaderboards",
+      "html_url": "https://github.com/SAILResearch/awesome-foundation-model-leaderboards",
+      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "stars": 337,
+      "forks": 40,
+      "language": "Unknown",
+      "pushed_at": "2026-04-08T16:27:56Z",
+      "updated_at": "2026-04-08T16:28:23Z"
     }
   ]
 }
