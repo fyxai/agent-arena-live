@@ -5,95 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 497,
+  "total_found": 498,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 49589,
-      "forks": 6382,
-      "language": "Python",
-      "pushed_at": "2026-04-10T12:54:56Z",
-      "updated_at": "2026-04-10T13:21:45Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 43262,
+      "forks": 4063,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-10T16:25:50Z",
+      "updated_at": "2026-04-10T16:51:08Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30117,
+      "stars": 30123,
       "forks": 3890,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T13:21:24Z",
-      "updated_at": "2026-04-10T12:50:58Z"
+      "pushed_at": "2026-04-10T16:52:01Z",
+      "updated_at": "2026-04-10T16:49:25Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21651,
+      "stars": 21652,
       "forks": 3525,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T12:40:09Z",
-      "updated_at": "2026-04-10T13:13:33Z"
+      "pushed_at": "2026-04-10T16:32:13Z",
+      "updated_at": "2026-04-10T16:16:12Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 14898,
-      "forks": 1402,
+      "stars": 14938,
+      "forks": 1410,
       "language": "JavaScript",
-      "pushed_at": "2026-04-10T13:03:26Z",
-      "updated_at": "2026-04-10T13:19:36Z"
+      "pushed_at": "2026-04-10T16:50:05Z",
+      "updated_at": "2026-04-10T16:50:10Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4624,
-      "forks": 902,
+      "id": 900577388,
+      "full_name": "crestalnetwork/intentkit",
+      "html_url": "https://github.com/crestalnetwork/intentkit",
+      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
+      "stars": 6502,
+      "forks": 703,
+      "language": "Python",
+      "pushed_at": "2026-04-10T16:13:21Z",
+      "updated_at": "2026-04-10T16:13:19Z"
+    },
+    {
+      "id": 1179413000,
+      "full_name": "Narcooo/inkos",
+      "html_url": "https://github.com/Narcooo/inkos",
+      "description": "Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates",
+      "stars": 4032,
+      "forks": 760,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T12:44:34Z",
-      "updated_at": "2026-04-10T12:44:39Z"
+      "pushed_at": "2026-04-10T16:21:49Z",
+      "updated_at": "2026-04-10T16:52:04Z"
+    },
+    {
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 2775,
+      "forks": 148,
+      "language": "Python",
+      "pushed_at": "2026-04-10T16:54:35Z",
+      "updated_at": "2026-04-10T16:11:50Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
-      "stars": 2531,
+      "stars": 2530,
       "forks": 298,
       "language": "Rust",
-      "pushed_at": "2026-04-10T13:10:13Z",
-      "updated_at": "2026-04-10T13:09:54Z"
+      "pushed_at": "2026-04-10T16:32:36Z",
+      "updated_at": "2026-04-10T16:21:10Z"
     },
     {
-      "id": 1166243835,
-      "full_name": "nexu-io/nexu",
-      "html_url": "https://github.com/nexu-io/nexu",
-      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 2447,
-      "forks": 199,
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2412,
+      "forks": 195,
+      "language": "Rust",
+      "pushed_at": "2026-04-10T16:34:57Z",
+      "updated_at": "2026-04-10T16:35:02Z"
+    },
+    {
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Visual management panel with built-in AI assistant (tool calling + vision + multimodal + i18n(11))",
+      "stars": 2293,
+      "forks": 287,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-10T16:44:32Z",
+      "updated_at": "2026-04-10T16:44:37Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1067,
+      "forks": 122,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T13:21:25Z",
-      "updated_at": "2026-04-10T13:15:19Z"
-    },
-    {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 2433,
-      "forks": 609,
-      "language": "Go",
-      "pushed_at": "2026-04-10T13:19:58Z",
-      "updated_at": "2026-04-10T13:20:01Z"
+      "pushed_at": "2026-04-10T16:52:41Z",
+      "updated_at": "2026-04-10T16:15:24Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +136,41 @@
       "stars": 1061,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T13:20:05Z",
-      "updated_at": "2026-04-10T12:57:14Z"
+      "pushed_at": "2026-04-10T16:54:37Z",
+      "updated_at": "2026-04-10T16:44:29Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "debba/tabularis",
-      "html_url": "https://github.com/debba/tabularis",
-      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 1037,
-      "forks": 68,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1013,
+      "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T12:42:17Z",
-      "updated_at": "2026-04-10T12:42:22Z"
+      "pushed_at": "2026-04-10T16:45:16Z",
+      "updated_at": "2026-04-10T16:34:09Z"
     },
     {
-      "id": 1132275655,
-      "full_name": "cordum-io/cordum",
-      "html_url": "https://github.com/cordum-io/cordum",
-      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
-      "stars": 461,
-      "forks": 22,
-      "language": "Go",
-      "pushed_at": "2026-04-10T12:45:25Z",
-      "updated_at": "2026-04-10T12:39:43Z"
-    },
-    {
-      "id": 1160406193,
-      "full_name": "AgriciDaniel/claude-blog",
-      "html_url": "https://github.com/AgriciDaniel/claude-blog",
-      "description": "Claude Code skill ecosystem for blog content creation, optimization, and management. Dual-optimized for Google rankings and AI citations.",
-      "stars": 440,
-      "forks": 103,
-      "language": "Python",
-      "pushed_at": "2026-04-10T12:52:31Z",
-      "updated_at": "2026-04-10T12:52:29Z"
-    },
-    {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 395,
-      "forks": 21,
-      "language": "Python",
-      "pushed_at": "2026-04-10T13:13:38Z",
-      "updated_at": "2026-04-10T13:14:12Z"
-    },
-    {
-      "id": 1153919891,
-      "full_name": "redwoodjs/agent-ci",
-      "html_url": "https://github.com/redwoodjs/agent-ci",
-      "description": "Agent-CI is local GitHub Actions for your agents.",
-      "stars": 335,
-      "forks": 10,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 465,
+      "forks": 30,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T13:07:38Z",
-      "updated_at": "2026-04-10T13:17:08Z"
+      "pushed_at": "2026-04-10T16:32:01Z",
+      "updated_at": "2026-04-10T16:32:06Z"
     },
     {
-      "id": 1146091496,
-      "full_name": "Enderfga/openclaw-claude-code",
-      "html_url": "https://github.com/Enderfga/openclaw-claude-code",
-      "description": "OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of tools, agent teams, and multi-model proxy",
-      "stars": 301,
-      "forks": 49,
+      "id": 1179548338,
+      "full_name": "clawwork-ai/ClawWork",
+      "html_url": "https://github.com/clawwork-ai/ClawWork",
+      "description": "Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.",
+      "stars": 448,
+      "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T12:57:23Z",
-      "updated_at": "2026-04-10T13:09:44Z"
+      "pushed_at": "2026-04-10T16:44:11Z",
+      "updated_at": "2026-04-10T16:49:54Z"
     }
   ]
 }
