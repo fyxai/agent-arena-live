@@ -5,84 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 498,
+  "total_found": 496,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 43262,
-      "forks": 4063,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:25:50Z",
-      "updated_at": "2026-04-10T16:51:08Z"
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 51475,
+      "forks": 6668,
+      "language": "Python",
+      "pushed_at": "2026-04-10T20:44:38Z",
+      "updated_at": "2026-04-10T20:44:22Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30123,
-      "forks": 3890,
+      "stars": 30127,
+      "forks": 3891,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:52:01Z",
-      "updated_at": "2026-04-10T16:49:25Z"
+      "pushed_at": "2026-04-10T20:33:07Z",
+      "updated_at": "2026-04-10T20:31:16Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21652,
+      "stars": 21656,
       "forks": 3525,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:32:13Z",
-      "updated_at": "2026-04-10T16:16:12Z"
+      "pushed_at": "2026-04-10T20:25:03Z",
+      "updated_at": "2026-04-10T20:09:35Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 14938,
-      "forks": 1410,
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 3686,
+      "forks": 453,
       "language": "JavaScript",
-      "pushed_at": "2026-04-10T16:50:05Z",
-      "updated_at": "2026-04-10T16:50:10Z"
-    },
-    {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6502,
-      "forks": 703,
-      "language": "Python",
-      "pushed_at": "2026-04-10T16:13:21Z",
-      "updated_at": "2026-04-10T16:13:19Z"
-    },
-    {
-      "id": 1179413000,
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 4032,
-      "forks": 760,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:21:49Z",
-      "updated_at": "2026-04-10T16:52:04Z"
+      "pushed_at": "2026-04-10T20:12:10Z",
+      "updated_at": "2026-04-10T19:37:41Z"
     },
     {
       "id": 1142406715,
       "full_name": "EvoScientist/EvoScientist",
       "html_url": "https://github.com/EvoScientist/EvoScientist",
       "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2775,
+      "stars": 2719,
       "forks": 148,
       "language": "Python",
-      "pushed_at": "2026-04-10T16:54:35Z",
-      "updated_at": "2026-04-10T16:11:50Z"
+      "pushed_at": "2026-04-10T19:10:56Z",
+      "updated_at": "2026-04-10T20:05:31Z"
     },
     {
       "id": 1145420469,
@@ -92,8 +70,8 @@
       "stars": 2530,
       "forks": 298,
       "language": "Rust",
-      "pushed_at": "2026-04-10T16:32:36Z",
-      "updated_at": "2026-04-10T16:21:10Z"
+      "pushed_at": "2026-04-10T20:29:47Z",
+      "updated_at": "2026-04-10T20:27:42Z"
     },
     {
       "id": 116590428,
@@ -103,41 +81,41 @@
       "stars": 2412,
       "forks": 195,
       "language": "Rust",
-      "pushed_at": "2026-04-10T16:34:57Z",
-      "updated_at": "2026-04-10T16:35:02Z"
+      "pushed_at": "2026-04-10T20:43:17Z",
+      "updated_at": "2026-04-10T20:43:21Z"
     },
     {
       "id": 1167607007,
       "full_name": "qingchencloud/clawpanel",
       "html_url": "https://github.com/qingchencloud/clawpanel",
       "description": "🦞 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Visual management panel with built-in AI assistant (tool calling + vision + multimodal + i18n(11))",
-      "stars": 2293,
+      "stars": 2294,
       "forks": 287,
       "language": "JavaScript",
-      "pushed_at": "2026-04-10T16:44:32Z",
-      "updated_at": "2026-04-10T16:44:37Z"
+      "pushed_at": "2026-04-10T20:42:48Z",
+      "updated_at": "2026-04-10T20:42:52Z"
     },
     {
       "id": 1051086270,
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1067,
+      "stars": 1068,
       "forks": 122,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:52:41Z",
-      "updated_at": "2026-04-10T16:15:24Z"
+      "pushed_at": "2026-04-10T20:44:29Z",
+      "updated_at": "2026-04-10T19:39:14Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1061,
-      "forks": 53,
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 1040,
+      "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:54:37Z",
-      "updated_at": "2026-04-10T16:44:29Z"
+      "pushed_at": "2026-04-10T19:57:46Z",
+      "updated_at": "2026-04-10T19:57:54Z"
     },
     {
       "id": 945671748,
@@ -147,8 +125,8 @@
       "stars": 1013,
       "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:45:16Z",
-      "updated_at": "2026-04-10T16:34:09Z"
+      "pushed_at": "2026-04-10T20:18:49Z",
+      "updated_at": "2026-04-10T20:16:38Z"
     },
     {
       "id": 1160289313,
@@ -156,21 +134,43 @@
       "html_url": "https://github.com/rcarmo/piclaw",
       "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
       "stars": 465,
-      "forks": 30,
+      "forks": 31,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:32:01Z",
-      "updated_at": "2026-04-10T16:32:06Z"
+      "pushed_at": "2026-04-10T20:22:03Z",
+      "updated_at": "2026-04-10T20:22:07Z"
     },
     {
-      "id": 1179548338,
-      "full_name": "clawwork-ai/ClawWork",
-      "html_url": "https://github.com/clawwork-ai/ClawWork",
-      "description": "Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.",
-      "stars": 448,
-      "forks": 47,
+      "id": 1202634727,
+      "full_name": "agents-io/PokeClaw",
+      "html_url": "https://github.com/agents-io/PokeClaw",
+      "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
+      "stars": 412,
+      "forks": 55,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-10T19:38:58Z",
+      "updated_at": "2026-04-10T19:39:01Z"
+    },
+    {
+      "id": 1153919891,
+      "full_name": "redwoodjs/agent-ci",
+      "html_url": "https://github.com/redwoodjs/agent-ci",
+      "description": "Agent-CI is local GitHub Actions for your agents.",
+      "stars": 352,
+      "forks": 11,
       "language": "TypeScript",
-      "pushed_at": "2026-04-10T16:44:11Z",
-      "updated_at": "2026-04-10T16:49:54Z"
+      "pushed_at": "2026-04-10T19:59:00Z",
+      "updated_at": "2026-04-10T20:24:36Z"
+    },
+    {
+      "id": 1184461384,
+      "full_name": "tang-vu/ContribAI",
+      "html_url": "https://github.com/tang-vu/ContribAI",
+      "description": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
+      "stars": 230,
+      "forks": 85,
+      "language": "Rust",
+      "pushed_at": "2026-04-10T20:37:20Z",
+      "updated_at": "2026-04-10T20:37:26Z"
     }
   ]
 }
