@@ -12,121 +12,143 @@
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 43528,
-      "forks": 4082,
+      "stars": 43536,
+      "forks": 4083,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T08:55:59Z",
-      "updated_at": "2026-04-15T09:18:42Z"
-    },
-    {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 39588,
-      "forks": 6939,
-      "language": "Python",
-      "pushed_at": "2026-04-15T09:08:24Z",
-      "updated_at": "2026-04-15T09:25:32Z"
+      "pushed_at": "2026-04-15T13:42:57Z",
+      "updated_at": "2026-04-15T13:25:01Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 21879,
-      "forks": 1825,
+      "stars": 21912,
+      "forks": 1829,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T09:07:25Z",
-      "updated_at": "2026-04-15T09:23:25Z"
+      "pushed_at": "2026-04-15T13:36:27Z",
+      "updated_at": "2026-04-15T13:46:54Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21711,
-      "forks": 3544,
+      "stars": 21713,
+      "forks": 3543,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T09:13:21Z",
-      "updated_at": "2026-04-15T09:01:09Z"
-    },
-    {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6504,
-      "forks": 703,
-      "language": "Python",
-      "pushed_at": "2026-04-15T09:07:41Z",
-      "updated_at": "2026-04-15T09:07:47Z"
-    },
-    {
-      "id": 1179413000,
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 4372,
-      "forks": 830,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-15T09:25:00Z",
-      "updated_at": "2026-04-15T09:24:59Z"
+      "pushed_at": "2026-04-15T13:46:15Z",
+      "updated_at": "2026-04-15T13:42:22Z"
     },
     {
       "id": 1142406715,
       "full_name": "EvoScientist/EvoScientist",
       "html_url": "https://github.com/EvoScientist/EvoScientist",
       "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2772,
+      "stars": 2774,
       "forks": 154,
       "language": "Python",
-      "pushed_at": "2026-04-15T08:59:05Z",
-      "updated_at": "2026-04-15T09:00:38Z"
+      "pushed_at": "2026-04-15T13:05:50Z",
+      "updated_at": "2026-04-15T13:28:39Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 2719,
-      "forks": 684,
+      "stars": 2730,
+      "forks": 691,
       "language": "Go",
-      "pushed_at": "2026-04-15T08:27:24Z",
-      "updated_at": "2026-04-15T09:21:29Z"
+      "pushed_at": "2026-04-15T13:49:19Z",
+      "updated_at": "2026-04-15T13:49:24Z"
     },
     {
       "id": 1166243835,
       "full_name": "nexu-io/nexu",
       "html_url": "https://github.com/nexu-io/nexu",
       "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 2560,
+      "stars": 2567,
       "forks": 211,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T09:16:27Z",
-      "updated_at": "2026-04-15T09:24:18Z"
+      "pushed_at": "2026-04-15T13:41:45Z",
+      "updated_at": "2026-04-15T13:20:34Z"
     },
     {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 1507,
-      "forks": 213,
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2556,
+      "forks": 304,
+      "language": "Rust",
+      "pushed_at": "2026-04-15T13:45:12Z",
+      "updated_at": "2026-04-15T13:45:14Z"
+    },
+    {
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
+      "stars": 2530,
+      "forks": 257,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-15T13:31:20Z",
+      "updated_at": "2026-04-15T13:45:29Z"
+    },
+    {
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2424,
+      "forks": 196,
+      "language": "Rust",
+      "pushed_at": "2026-04-15T13:12:06Z",
+      "updated_at": "2026-04-15T13:12:10Z"
+    },
+    {
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 1891,
+      "forks": 424,
       "language": "Python",
-      "pushed_at": "2026-04-15T09:02:58Z",
-      "updated_at": "2026-04-15T09:21:17Z"
+      "pushed_at": "2026-04-15T13:31:53Z",
+      "updated_at": "2026-04-15T13:42:54Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1438,
+      "forks": 143,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-15T13:36:46Z",
+      "updated_at": "2026-04-15T13:36:51Z"
     },
     {
       "id": 1142800652,
       "full_name": "debba/tabularis",
       "html_url": "https://github.com/debba/tabularis",
       "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 1112,
-      "forks": 72,
+      "stars": 1115,
+      "forks": 73,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T09:10:35Z",
-      "updated_at": "2026-04-15T09:17:25Z"
+      "pushed_at": "2026-04-15T13:27:30Z",
+      "updated_at": "2026-04-15T13:27:36Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1075,
+      "forks": 125,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-15T13:49:15Z",
+      "updated_at": "2026-04-15T13:47:46Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +158,19 @@
       "stars": 1062,
       "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T09:24:59Z",
-      "updated_at": "2026-04-15T09:25:04Z"
+      "pushed_at": "2026-04-15T13:46:38Z",
+      "updated_at": "2026-04-15T13:13:33Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 512,
-      "forks": 35,
+      "id": 1094226297,
+      "full_name": "FrankChen021/datastoria",
+      "html_url": "https://github.com/FrankChen021/datastoria",
+      "description": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
+      "stars": 313,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-04-15T08:48:36Z",
-      "updated_at": "2026-04-15T08:48:40Z"
-    },
-    {
-      "id": 1153919891,
-      "full_name": "redwoodjs/agent-ci",
-      "html_url": "https://github.com/redwoodjs/agent-ci",
-      "description": "Agent-CI is local GitHub Actions for your agents.",
-      "stars": 426,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-15T08:55:38Z",
-      "updated_at": "2026-04-15T08:54:43Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 179,
-      "forks": 22,
-      "language": "Vue",
-      "pushed_at": "2026-04-15T08:36:37Z",
-      "updated_at": "2026-04-15T09:23:26Z"
+      "pushed_at": "2026-04-15T13:14:13Z",
+      "updated_at": "2026-04-15T13:14:15Z"
     }
   ]
 }
