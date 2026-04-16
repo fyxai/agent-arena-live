@@ -5,139 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 524,
+  "total_found": 526,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 90282,
-      "forks": 12366,
+      "stars": 90839,
+      "forks": 12477,
       "language": "Python",
-      "pushed_at": "2026-04-16T03:12:54Z",
-      "updated_at": "2026-04-16T03:23:16Z"
+      "pushed_at": "2026-04-16T06:04:37Z",
+      "updated_at": "2026-04-16T06:04:33Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 43561,
-      "forks": 4086,
+      "stars": 43563,
+      "forks": 4087,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T03:11:03Z",
-      "updated_at": "2026-04-16T03:19:24Z"
-    },
-    {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
-      "stars": 43282,
-      "forks": 9929,
-      "language": "Python",
-      "pushed_at": "2026-04-16T02:43:41Z",
-      "updated_at": "2026-04-16T03:22:29Z"
+      "pushed_at": "2026-04-16T05:44:01Z",
+      "updated_at": "2026-04-16T06:00:42Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 39682,
-      "forks": 6955,
+      "stars": 39698,
+      "forks": 6961,
       "language": "Python",
-      "pushed_at": "2026-04-16T03:12:01Z",
-      "updated_at": "2026-04-16T03:17:16Z"
+      "pushed_at": "2026-04-16T05:22:07Z",
+      "updated_at": "2026-04-16T05:57:53Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21727,
-      "forks": 3545,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "stars": 21957,
+      "forks": 1832,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T03:21:27Z",
-      "updated_at": "2026-04-16T03:00:33Z"
+      "pushed_at": "2026-04-16T04:50:35Z",
+      "updated_at": "2026-04-16T05:32:53Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10035,
+      "stars": 10037,
       "forks": 778,
       "language": "Python",
-      "pushed_at": "2026-04-16T02:34:45Z",
-      "updated_at": "2026-04-16T03:01:51Z"
+      "pushed_at": "2026-04-16T06:01:21Z",
+      "updated_at": "2026-04-16T06:01:27Z"
     },
     {
-      "id": 1179413000,
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 4410,
-      "forks": 842,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T02:41:38Z",
-      "updated_at": "2026-04-16T03:22:12Z"
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+      "stars": 2376,
+      "forks": 305,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-16T05:55:58Z",
+      "updated_at": "2026-04-16T05:56:02Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 2744,
-      "forks": 694,
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 2160,
+      "forks": 269,
+      "language": "Python",
+      "pushed_at": "2026-04-16T05:22:49Z",
+      "updated_at": "2026-04-16T06:04:55Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2057,
+      "forks": 224,
       "language": "Go",
-      "pushed_at": "2026-04-16T03:14:45Z",
-      "updated_at": "2026-04-16T03:22:11Z"
-    },
-    {
-      "id": 1166243835,
-      "full_name": "nexu-io/nexu",
-      "html_url": "https://github.com/nexu-io/nexu",
-      "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
-      "stars": 2575,
-      "forks": 213,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T02:53:44Z",
-      "updated_at": "2026-04-16T03:06:14Z"
-    },
-    {
-      "id": 1188521544,
-      "full_name": "holaboss-ai/holaOS",
-      "html_url": "https://github.com/holaboss-ai/holaOS",
-      "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
-      "stars": 2512,
-      "forks": 230,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-16T03:12:41Z",
-      "updated_at": "2026-04-16T03:17:19Z"
-    },
-    {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 1501,
-      "forks": 148,
-      "language": "Go",
-      "pushed_at": "2026-04-16T03:14:30Z",
-      "updated_at": "2026-04-16T02:56:23Z"
+      "pushed_at": "2026-04-16T05:19:17Z",
+      "updated_at": "2026-04-16T05:19:15Z"
     },
     {
       "id": 1051086270,
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1078,
+      "stars": 1077,
       "forks": 125,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T02:46:18Z",
-      "updated_at": "2026-04-16T03:19:48Z"
+      "pushed_at": "2026-04-16T06:03:39Z",
+      "updated_at": "2026-04-16T06:00:52Z"
+    },
+    {
+      "id": 861556786,
+      "full_name": "ForceInjection/AI-fundermentals",
+      "html_url": "https://github.com/ForceInjection/AI-fundermentals",
+      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识",
+      "stars": 1064,
+      "forks": 167,
+      "language": "HTML",
+      "pushed_at": "2026-04-16T05:33:11Z",
+      "updated_at": "2026-04-16T05:49:20Z"
     },
     {
       "id": 1096175506,
@@ -147,30 +125,52 @@
       "stars": 1063,
       "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T03:20:39Z",
-      "updated_at": "2026-04-16T03:17:25Z"
+      "pushed_at": "2026-04-16T05:59:42Z",
+      "updated_at": "2026-04-16T05:50:29Z"
     },
     {
-      "id": 1186036632,
-      "full_name": "openmemind/memind",
-      "html_url": "https://github.com/openmemind/memind",
-      "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-      "stars": 415,
-      "forks": 41,
-      "language": "Java",
-      "pushed_at": "2026-04-16T02:31:11Z",
-      "updated_at": "2026-04-16T03:10:47Z"
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1014,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-16T05:18:14Z",
+      "updated_at": "2026-04-16T05:16:09Z"
+    },
+    {
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 608,
+      "forks": 70,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-16T05:01:56Z",
+      "updated_at": "2026-04-16T04:58:32Z"
     },
     {
       "id": 1117896698,
       "full_name": "tony1223/better-agent-terminal",
       "html_url": "https://github.com/tony1223/better-agent-terminal",
       "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 300,
-      "forks": 79,
+      "stars": 301,
+      "forks": 81,
       "language": "TypeScript",
-      "pushed_at": "2026-04-16T02:25:32Z",
-      "updated_at": "2026-04-16T03:05:43Z"
+      "pushed_at": "2026-04-16T05:20:35Z",
+      "updated_at": "2026-04-16T05:42:10Z"
+    },
+    {
+      "id": 1168375739,
+      "full_name": "ntygod/ZhiWei",
+      "html_url": "https://github.com/ntygod/ZhiWei",
+      "description": "本地优先的个人 AI Agent 助手，支持记忆、自主任务、工具授权和工作流。",
+      "stars": 124,
+      "forks": 3,
+      "language": "Java",
+      "pushed_at": "2026-04-16T05:26:36Z",
+      "updated_at": "2026-04-16T05:26:39Z"
     }
   ]
 }
