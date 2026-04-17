@@ -5,150 +5,139 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 538,
+  "total_found": 537,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 96330,
-      "forks": 13509,
+      "stars": 96580,
+      "forks": 13566,
       "language": "Python",
-      "pushed_at": "2026-04-17T16:42:42Z",
-      "updated_at": "2026-04-17T16:57:33Z"
+      "pushed_at": "2026-04-17T20:48:52Z",
+      "updated_at": "2026-04-17T20:52:21Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 39899,
-      "forks": 7021,
-      "language": "Python",
-      "pushed_at": "2026-04-17T16:44:44Z",
-      "updated_at": "2026-04-17T16:56:34Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30291,
-      "forks": 3913,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 43701,
+      "forks": 4108,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:21:03Z",
-      "updated_at": "2026-04-17T16:40:06Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 22069,
-      "forks": 1859,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:45:19Z",
-      "updated_at": "2026-04-17T16:55:48Z"
+      "pushed_at": "2026-04-17T20:06:12Z",
+      "updated_at": "2026-04-17T20:18:32Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21758,
-      "forks": 3552,
+      "stars": 21760,
+      "forks": 3553,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:03:03Z",
-      "updated_at": "2026-04-17T16:08:06Z"
+      "pushed_at": "2026-04-17T19:39:11Z",
+      "updated_at": "2026-04-17T19:43:22Z"
     },
     {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 3425,
-      "forks": 374,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11764,
+      "forks": 859,
       "language": "Python",
-      "pushed_at": "2026-04-17T16:13:51Z",
-      "updated_at": "2026-04-17T16:55:31Z"
+      "pushed_at": "2026-04-17T19:50:07Z",
+      "updated_at": "2026-04-17T19:55:02Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 3115,
-      "forks": 292,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:50:17Z",
-      "updated_at": "2026-04-17T16:50:19Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2568,
+      "forks": 306,
+      "language": "Rust",
+      "pushed_at": "2026-04-17T20:01:23Z",
+      "updated_at": "2026-04-17T20:01:27Z"
+    },
+    {
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2431,
+      "forks": 196,
+      "language": "Rust",
+      "pushed_at": "2026-04-17T20:19:50Z",
+      "updated_at": "2026-04-17T20:19:54Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2089,
+      "stars": 2091,
       "forks": 229,
       "language": "Go",
-      "pushed_at": "2026-04-17T16:11:12Z",
-      "updated_at": "2026-04-17T16:10:52Z"
+      "pushed_at": "2026-04-17T19:17:10Z",
+      "updated_at": "2026-04-17T19:37:10Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1079,
+      "forks": 125,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T19:49:45Z",
+      "updated_at": "2026-04-17T19:41:54Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1063,
+      "stars": 1064,
       "forks": 55,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:57:06Z",
-      "updated_at": "2026-04-17T16:57:10Z"
-    },
-    {
-      "id": 1162089095,
-      "full_name": "daggerhashimoto/openclaw-nerve",
-      "html_url": "https://github.com/daggerhashimoto/openclaw-nerve",
-      "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
-      "stars": 731,
-      "forks": 117,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:45:00Z",
-      "updated_at": "2026-04-17T16:45:05Z"
+      "pushed_at": "2026-04-17T20:47:24Z",
+      "updated_at": "2026-04-17T20:14:38Z"
     },
     {
       "id": 1153919891,
       "full_name": "redwoodjs/agent-ci",
       "html_url": "https://github.com/redwoodjs/agent-ci",
       "description": "Agent-CI is local GitHub Actions for your agents.",
-      "stars": 559,
+      "stars": 562,
       "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T16:22:24Z",
-      "updated_at": "2026-04-17T15:53:44Z"
+      "pushed_at": "2026-04-17T19:29:58Z",
+      "updated_at": "2026-04-17T19:52:39Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 524,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T20:48:05Z",
+      "updated_at": "2026-04-17T20:48:09Z"
     },
     {
       "id": 1164059777,
       "full_name": "fim-ai/fim-one",
       "html_url": "https://github.com/fim-ai/fim-one",
       "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
-      "stars": 499,
+      "stars": 500,
       "forks": 60,
       "language": "Python",
-      "pushed_at": "2026-04-17T16:27:21Z",
-      "updated_at": "2026-04-17T16:27:25Z"
-    },
-    {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
-      "stars": 445,
-      "forks": 32,
-      "language": "Go",
-      "pushed_at": "2026-04-17T16:06:21Z",
-      "updated_at": "2026-04-17T16:05:11Z"
+      "pushed_at": "2026-04-17T19:14:01Z",
+      "updated_at": "2026-04-17T19:14:05Z"
     },
     {
       "id": 1169462190,
@@ -158,19 +147,30 @@
       "stars": 387,
       "forks": 76,
       "language": "Shell",
-      "pushed_at": "2026-04-17T16:47:22Z",
-      "updated_at": "2026-04-17T16:47:27Z"
+      "pushed_at": "2026-04-17T20:07:50Z",
+      "updated_at": "2026-04-17T20:07:52Z"
     },
     {
       "id": 1179222510,
       "full_name": "macOS26/Agent",
       "html_url": "https://github.com/macOS26/Agent",
       "description": "Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari, drives any app via Accessibility, and runs tasks from your iPhone via iMessage. Zero subscriptions.",
-      "stars": 322,
+      "stars": 328,
       "forks": 22,
       "language": "Swift",
-      "pushed_at": "2026-04-17T16:46:36Z",
-      "updated_at": "2026-04-17T16:46:41Z"
+      "pushed_at": "2026-04-17T20:15:43Z",
+      "updated_at": "2026-04-17T20:15:47Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 308,
+      "forks": 13,
+      "language": "ReScript",
+      "pushed_at": "2026-04-17T20:08:14Z",
+      "updated_at": "2026-04-17T20:08:17Z"
     }
   ]
 }
