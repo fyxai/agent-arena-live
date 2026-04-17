@@ -5,84 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 535,
+  "total_found": 537,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 94201,
-      "forks": 13141,
+      "stars": 94660,
+      "forks": 13211,
       "language": "Python",
-      "pushed_at": "2026-04-17T03:14:04Z",
-      "updated_at": "2026-04-17T03:18:07Z"
+      "pushed_at": "2026-04-17T05:08:14Z",
+      "updated_at": "2026-04-17T06:05:33Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 43635,
+      "forks": 4097,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T05:52:00Z",
+      "updated_at": "2026-04-17T06:01:04Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 39823,
-      "forks": 6992,
+      "stars": 39835,
+      "forks": 6996,
       "language": "Python",
-      "pushed_at": "2026-04-17T03:13:43Z",
-      "updated_at": "2026-04-17T03:14:03Z"
+      "pushed_at": "2026-04-17T05:46:59Z",
+      "updated_at": "2026-04-17T05:46:57Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30281,
+      "forks": 3913,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T05:44:00Z",
+      "updated_at": "2026-04-17T05:29:21Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 22026,
-      "forks": 1843,
+      "stars": 22037,
+      "forks": 1845,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T03:10:56Z",
-      "updated_at": "2026-04-17T03:07:24Z"
+      "pushed_at": "2026-04-17T06:03:24Z",
+      "updated_at": "2026-04-17T05:47:15Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 16111,
-      "forks": 1558,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-17T02:52:58Z",
-      "updated_at": "2026-04-17T03:14:00Z"
-    },
-    {
-      "id": 900577388,
-      "full_name": "crestalnetwork/intentkit",
-      "html_url": "https://github.com/crestalnetwork/intentkit",
-      "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6503,
-      "forks": 703,
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 10066,
+      "forks": 781,
       "language": "Python",
-      "pushed_at": "2026-04-17T02:41:50Z",
-      "updated_at": "2026-04-17T02:41:53Z"
+      "pushed_at": "2026-04-17T05:58:03Z",
+      "updated_at": "2026-04-17T06:02:41Z"
     },
     {
       "id": 1135791677,
       "full_name": "lsdefine/GenericAgent",
       "html_url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 2908,
-      "forks": 328,
+      "stars": 3006,
+      "forks": 334,
       "language": "Python",
-      "pushed_at": "2026-04-17T02:46:10Z",
-      "updated_at": "2026-04-17T03:17:50Z"
+      "pushed_at": "2026-04-17T05:12:12Z",
+      "updated_at": "2026-04-17T06:05:39Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2081,
+      "forks": 227,
+      "language": "Go",
+      "pushed_at": "2026-04-17T05:24:35Z",
+      "updated_at": "2026-04-17T05:40:43Z"
     },
     {
       "id": 1152014383,
       "full_name": "ArcReel/ArcReel",
       "html_url": "https://github.com/ArcReel/ArcReel",
       "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 1786,
-      "forks": 386,
+      "stars": 1790,
+      "forks": 387,
       "language": "Python",
-      "pushed_at": "2026-04-17T02:23:31Z",
-      "updated_at": "2026-04-17T03:15:27Z"
+      "pushed_at": "2026-04-17T06:02:53Z",
+      "updated_at": "2026-04-17T05:59:30Z"
+    },
+    {
+      "id": 901554449,
+      "full_name": "stakpak/agent",
+      "html_url": "https://github.com/stakpak/agent",
+      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+      "stars": 1393,
+      "forks": 134,
+      "language": "Rust",
+      "pushed_at": "2026-04-17T04:41:58Z",
+      "updated_at": "2026-04-17T04:42:02Z"
     },
     {
       "id": 1096175506,
@@ -92,41 +125,41 @@
       "stars": 1063,
       "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T03:17:07Z",
-      "updated_at": "2026-04-17T03:05:22Z"
+      "pushed_at": "2026-04-17T06:05:28Z",
+      "updated_at": "2026-04-17T05:52:02Z"
     },
     {
       "id": 1162089095,
       "full_name": "daggerhashimoto/openclaw-nerve",
       "html_url": "https://github.com/daggerhashimoto/openclaw-nerve",
       "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
-      "stars": 730,
+      "stars": 731,
       "forks": 117,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T02:41:53Z",
-      "updated_at": "2026-04-17T02:42:33Z"
+      "pushed_at": "2026-04-17T05:11:22Z",
+      "updated_at": "2026-04-17T05:35:51Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 608,
-      "forks": 98,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 520,
+      "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T02:42:56Z",
-      "updated_at": "2026-04-17T02:43:00Z"
+      "pushed_at": "2026-04-17T06:02:04Z",
+      "updated_at": "2026-04-17T06:02:09Z"
     },
     {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 285,
-      "forks": 71,
-      "language": "Python",
-      "pushed_at": "2026-04-17T02:24:12Z",
-      "updated_at": "2026-04-17T02:24:17Z"
+      "id": 845317529,
+      "full_name": "giselles-ai/giselle",
+      "html_url": "https://github.com/giselles-ai/giselle",
+      "description": "Giselle: AI App Builder. Open Source.",
+      "stars": 511,
+      "forks": 120,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-17T05:16:13Z",
+      "updated_at": "2026-04-17T05:16:16Z"
     },
     {
       "id": 1181223816,
@@ -136,41 +169,8 @@
       "stars": 240,
       "forks": 29,
       "language": "TypeScript",
-      "pushed_at": "2026-04-17T03:18:21Z",
-      "updated_at": "2026-04-17T02:35:01Z"
-    },
-    {
-      "id": 1171575871,
-      "full_name": "okx/agent-trade-kit",
-      "html_url": "https://github.com/okx/agent-trade-kit",
-      "description": "OKX trading MCP server — connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.  ",
-      "stars": 180,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T03:03:21Z",
-      "updated_at": "2026-04-17T03:03:25Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
-      "stars": 114,
-      "forks": 25,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-17T03:17:45Z",
-      "updated_at": "2026-04-17T02:55:30Z"
-    },
-    {
-      "id": 1196898989,
-      "full_name": "awizemann/scarf",
-      "html_url": "https://github.com/awizemann/scarf",
-      "description": "Native macOS GUI companion for the Hermes AI agent — dashboard, session browser, activity feed, embedded terminal chat, memory editor, and more",
-      "stars": 113,
-      "forks": 5,
-      "language": "Swift",
-      "pushed_at": "2026-04-17T03:10:18Z",
-      "updated_at": "2026-04-17T03:10:22Z"
+      "pushed_at": "2026-04-17T04:51:13Z",
+      "updated_at": "2026-04-17T04:51:18Z"
     }
   ]
 }
