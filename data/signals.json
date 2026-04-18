@@ -12,99 +12,99 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 97007,
-      "forks": 13639,
+      "stars": 97327,
+      "forks": 13693,
       "language": "Python",
-      "pushed_at": "2026-04-18T02:36:30Z",
-      "updated_at": "2026-04-18T02:50:18Z"
+      "pushed_at": "2026-04-18T05:01:59Z",
+      "updated_at": "2026-04-18T05:42:17Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 43733,
+      "forks": 4114,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T05:38:51Z",
+      "updated_at": "2026-04-18T05:38:42Z"
+    },
+    {
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 39930,
+      "forks": 7029,
+      "language": "Python",
+      "pushed_at": "2026-04-18T05:30:23Z",
+      "updated_at": "2026-04-18T05:37:30Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30297,
+      "stars": 30299,
       "forks": 3915,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T02:48:09Z",
-      "updated_at": "2026-04-18T02:19:05Z"
-    },
-    {
-      "id": 1118085970,
-      "full_name": "alibaba/OpenSandbox",
-      "html_url": "https://github.com/alibaba/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10078,
-      "forks": 782,
-      "language": "Python",
-      "pushed_at": "2026-04-18T01:38:47Z",
-      "updated_at": "2026-04-18T02:14:00Z"
-    },
-    {
-      "id": 1006251566,
-      "full_name": "zebbern/claude-code-guide",
-      "html_url": "https://github.com/zebbern/claude-code-guide",
-      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!",
-      "stars": 3948,
-      "forks": 374,
-      "language": "Unknown",
-      "pushed_at": "2026-04-18T00:56:56Z",
-      "updated_at": "2026-04-18T00:57:01Z"
-    },
-    {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3718,
-      "forks": 462,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-18T00:13:48Z",
-      "updated_at": "2026-04-18T02:33:59Z"
+      "pushed_at": "2026-04-18T05:36:02Z",
+      "updated_at": "2026-04-18T05:38:46Z"
     },
     {
       "id": 1135791677,
       "full_name": "lsdefine/GenericAgent",
       "html_url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 3706,
-      "forks": 389,
+      "stars": 3831,
+      "forks": 408,
       "language": "Python",
-      "pushed_at": "2026-04-18T02:48:30Z",
-      "updated_at": "2026-04-18T02:50:00Z"
+      "pushed_at": "2026-04-18T05:09:08Z",
+      "updated_at": "2026-04-18T05:42:43Z"
     },
     {
-      "id": 1152166697,
-      "full_name": "matt1398/claude-devtools",
-      "html_url": "https://github.com/matt1398/claude-devtools",
-      "description": "The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.",
-      "stars": 3118,
-      "forks": 226,
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
+      "stars": 2873,
+      "forks": 233,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T01:47:27Z",
-      "updated_at": "2026-04-18T02:35:05Z"
+      "pushed_at": "2026-04-18T05:33:16Z",
+      "updated_at": "2026-04-18T05:33:19Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 2796,
-      "forks": 716,
+      "stars": 2799,
+      "forks": 718,
       "language": "Go",
-      "pushed_at": "2026-04-18T02:17:14Z",
-      "updated_at": "2026-04-18T02:33:21Z"
+      "pushed_at": "2026-04-18T05:27:55Z",
+      "updated_at": "2026-04-18T05:27:59Z"
     },
     {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundermentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundermentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识",
-      "stars": 1074,
-      "forks": 168,
-      "language": "HTML",
-      "pushed_at": "2026-04-18T01:29:00Z",
-      "updated_at": "2026-04-18T02:27:29Z"
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1457,
+      "forks": 146,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T03:37:54Z",
+      "updated_at": "2026-04-18T04:45:54Z"
+    },
+    {
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 1165,
+      "forks": 141,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-18T05:19:51Z",
+      "updated_at": "2026-04-18T05:22:32Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +114,63 @@
       "stars": 1065,
       "forks": 55,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T02:49:33Z",
-      "updated_at": "2026-04-18T02:41:07Z"
+      "pushed_at": "2026-04-18T05:38:29Z",
+      "updated_at": "2026-04-18T04:21:00Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 768,
-      "forks": 79,
+      "stars": 794,
+      "forks": 84,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T01:35:53Z",
-      "updated_at": "2026-04-18T02:44:47Z"
+      "pushed_at": "2026-04-18T05:14:20Z",
+      "updated_at": "2026-04-18T05:39:14Z"
     },
     {
       "id": 1194596194,
       "full_name": "Bitterbot-AI/bitterbot-desktop",
       "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
       "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 622,
+      "stars": 623,
       "forks": 108,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T00:48:08Z",
-      "updated_at": "2026-04-18T00:48:12Z"
+      "pushed_at": "2026-04-18T03:54:05Z",
+      "updated_at": "2026-04-18T04:26:48Z"
+    },
+    {
+      "id": 987112345,
+      "full_name": "Alchemyst-ai/awesome-saas",
+      "html_url": "https://github.com/Alchemyst-ai/awesome-saas",
+      "description": "Collection of templates using the Alchemyst AI Platform for your next big AI app.",
+      "stars": 411,
+      "forks": 65,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-18T03:19:43Z",
+      "updated_at": "2026-04-18T03:19:48Z"
     },
     {
       "id": 1179222510,
       "full_name": "macOS26/Agent",
       "html_url": "https://github.com/macOS26/Agent",
-      "description": "Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari, drives any app via Accessibility, and runs tasks from your iPhone via iMessage. Zero subscriptions.",
-      "stars": 333,
+      "description": "Any AI, replaces Claude Code, Cursor, Cline, Open Claw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, Eautomates Safari, AppleScript 50 apps, extend w/ MCP Servers, run tasks from your iPhone via Messages, drive any Accessible app.",
+      "stars": 335,
       "forks": 23,
       "language": "Swift",
-      "pushed_at": "2026-04-18T02:40:59Z",
-      "updated_at": "2026-04-18T02:40:04Z"
+      "pushed_at": "2026-04-18T03:57:00Z",
+      "updated_at": "2026-04-18T04:47:54Z"
     },
     {
       "id": 1117896698,
       "full_name": "tony1223/better-agent-terminal",
       "html_url": "https://github.com/tony1223/better-agent-terminal",
       "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 319,
+      "stars": 321,
       "forks": 84,
       "language": "TypeScript",
-      "pushed_at": "2026-04-18T02:29:25Z",
-      "updated_at": "2026-04-18T02:29:20Z"
-    },
-    {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-mcp",
-      "html_url": "https://github.com/dcostenco/prism-mcp",
-      "description": "The Mind Palace for AI Agents — Autonomous Cognitive OS with affect-tagged memory (valence engine), token-economic RL (surprisal gate + UBI), Hebbian learning, ACT-R spreading activation, Synapse Engine (GraphRAG), adversarial evaluation (anti-sycophancy), fail-closed Dark Factory pipelines. Zero-config local mode.",
-      "stars": 122,
-      "forks": 23,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-18T01:11:59Z",
-      "updated_at": "2026-04-18T01:12:03Z"
+      "pushed_at": "2026-04-18T03:37:47Z",
+      "updated_at": "2026-04-18T03:58:51Z"
     }
   ]
 }
