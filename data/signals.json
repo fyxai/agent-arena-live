@@ -8,26 +8,26 @@
   "total_found": 547,
   "items": [
     {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 101842,
+      "forks": 14518,
+      "language": "Python",
+      "pushed_at": "2026-04-19T20:09:44Z",
+      "updated_at": "2026-04-19T20:43:51Z"
+    },
+    {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 43837,
-      "forks": 4129,
+      "stars": 43842,
+      "forks": 4131,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T16:25:58Z",
-      "updated_at": "2026-04-19T16:47:33Z"
-    },
-    {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 40080,
-      "forks": 7049,
-      "language": "Python",
-      "pushed_at": "2026-04-19T16:21:20Z",
-      "updated_at": "2026-04-19T16:48:58Z"
+      "pushed_at": "2026-04-19T17:51:23Z",
+      "updated_at": "2026-04-19T20:39:15Z"
     },
     {
       "id": 655515393,
@@ -35,142 +35,142 @@
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
       "stars": 30327,
-      "forks": 3917,
+      "forks": 3918,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T16:09:25Z",
-      "updated_at": "2026-04-19T16:34:21Z"
+      "pushed_at": "2026-04-19T20:04:46Z",
+      "updated_at": "2026-04-19T20:04:48Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21779,
+      "forks": 3559,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-19T20:03:08Z",
+      "updated_at": "2026-04-19T20:03:13Z"
     },
     {
       "id": 900577388,
       "full_name": "crestalnetwork/intentkit",
       "html_url": "https://github.com/crestalnetwork/intentkit",
       "description": "IntentKit is an open-source, self-hosted cloud agent cluster that manages a collaborative team of AI agents for you.",
-      "stars": 6503,
+      "stars": 6504,
       "forks": 703,
       "language": "Python",
-      "pushed_at": "2026-04-19T16:22:26Z",
-      "updated_at": "2026-04-19T16:22:29Z"
+      "pushed_at": "2026-04-19T17:08:56Z",
+      "updated_at": "2026-04-19T17:19:09Z"
     },
     {
-      "id": 1179413000,
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 4604,
-      "forks": 883,
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 4737,
+      "forks": 931,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T15:23:07Z",
-      "updated_at": "2026-04-19T16:37:41Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 4448,
-      "forks": 475,
-      "language": "Python",
-      "pushed_at": "2026-04-19T15:21:37Z",
-      "updated_at": "2026-04-19T16:48:39Z"
+      "pushed_at": "2026-04-19T17:20:29Z",
+      "updated_at": "2026-04-19T19:56:34Z"
     },
     {
       "id": 949646929,
       "full_name": "GetBindu/Bindu",
       "html_url": "https://github.com/GetBindu/Bindu",
       "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
-      "stars": 4237,
+      "stars": 4252,
       "forks": 352,
       "language": "Python",
-      "pushed_at": "2026-04-19T16:00:25Z",
-      "updated_at": "2026-04-19T16:17:43Z"
+      "pushed_at": "2026-04-19T19:40:06Z",
+      "updated_at": "2026-04-19T20:34:58Z"
     },
     {
       "id": 1145977416,
       "full_name": "1186258278/OpenClawChineseTranslation",
       "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
       "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3716,
+      "stars": 3717,
       "forks": 464,
       "language": "JavaScript",
-      "pushed_at": "2026-04-19T16:12:28Z",
-      "updated_at": "2026-04-19T16:05:11Z"
+      "pushed_at": "2026-04-19T20:10:40Z",
+      "updated_at": "2026-04-19T18:04:17Z"
     },
     {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3540,
-      "forks": 384,
-      "language": "Unknown",
-      "pushed_at": "2026-04-19T15:26:23Z",
-      "updated_at": "2026-04-19T15:42:49Z"
-    },
-    {
-      "id": 1003614809,
-      "full_name": "kite-org/kite",
-      "html_url": "https://github.com/kite-org/kite",
-      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
-      "stars": 2513,
-      "forks": 208,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-19T16:31:54Z",
-      "updated_at": "2026-04-19T16:31:58Z"
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+      "stars": 2439,
+      "forks": 313,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-19T18:58:30Z",
+      "updated_at": "2026-04-19T18:58:35Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2102,
-      "forks": 233,
+      "stars": 2103,
+      "forks": 234,
       "language": "Go",
-      "pushed_at": "2026-04-19T16:36:52Z",
-      "updated_at": "2026-04-19T16:36:33Z"
+      "pushed_at": "2026-04-19T18:03:28Z",
+      "updated_at": "2026-04-19T18:50:52Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 1021,
-      "forks": 118,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 526,
+      "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-04-19T15:41:12Z",
-      "updated_at": "2026-04-19T16:42:47Z"
+      "pushed_at": "2026-04-19T20:43:14Z",
+      "updated_at": "2026-04-19T20:43:18Z"
     },
     {
-      "id": 848182195,
-      "full_name": "Palm1r/QodeAssist",
-      "html_url": "https://github.com/Palm1r/QodeAssist",
-      "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
-      "stars": 365,
-      "forks": 51,
-      "language": "C++",
-      "pushed_at": "2026-04-19T16:12:19Z",
-      "updated_at": "2026-04-19T16:12:19Z"
+      "id": 1179222510,
+      "full_name": "macOS26/Agent",
+      "html_url": "https://github.com/macOS26/Agent",
+      "description": "Any AI, replaces Claude Code, Cursor, Cline, Open Claw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, Eautomates Safari, AppleScript 50 apps, extend w/ MCP Servers, run tasks from your iPhone via Messages, drive any Accessible app.",
+      "stars": 352,
+      "forks": 25,
+      "language": "Swift",
+      "pushed_at": "2026-04-19T18:55:41Z",
+      "updated_at": "2026-04-19T18:55:45Z"
     },
     {
       "id": 1066256303,
       "full_name": "frontman-ai/frontman",
       "html_url": "https://github.com/frontman-ai/frontman",
       "description": "The AI agent that lives in your framework/browser",
-      "stars": 314,
+      "stars": 316,
       "forks": 14,
       "language": "ReScript",
-      "pushed_at": "2026-04-19T16:40:24Z",
-      "updated_at": "2026-04-19T16:34:08Z"
+      "pushed_at": "2026-04-19T18:23:18Z",
+      "updated_at": "2026-04-19T19:21:03Z"
     },
     {
-      "id": 1154273018,
-      "full_name": "xuanyustudio/LocalMiniDrama",
-      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
-      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
-      "stars": 192,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-19T16:17:13Z",
-      "updated_at": "2026-04-19T16:17:16Z"
+      "id": 1188833811,
+      "full_name": "krzysztofdudek/ResearcherSkill",
+      "html_url": "https://github.com/krzysztofdudek/ResearcherSkill",
+      "description": "One file. Your AI agent becomes a scientist. 30+ experiments while you sleep.",
+      "stars": 198,
+      "forks": 23,
+      "language": "Python",
+      "pushed_at": "2026-04-19T20:40:59Z",
+      "updated_at": "2026-04-19T20:41:03Z"
+    },
+    {
+      "id": 1196898989,
+      "full_name": "awizemann/scarf",
+      "html_url": "https://github.com/awizemann/scarf",
+      "description": "Native macOS GUI for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+      "stars": 128,
+      "forks": 5,
+      "language": "Swift",
+      "pushed_at": "2026-04-19T20:16:50Z",
+      "updated_at": "2026-04-19T20:43:15Z"
     }
   ]
 }
