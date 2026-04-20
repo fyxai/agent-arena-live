@@ -12,99 +12,121 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 102698,
-      "forks": 14652,
+      "stars": 103092,
+      "forks": 14708,
       "language": "Python",
-      "pushed_at": "2026-04-20T03:12:42Z",
-      "updated_at": "2026-04-20T03:27:34Z"
+      "pushed_at": "2026-04-20T05:54:44Z",
+      "updated_at": "2026-04-20T06:19:56Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 43855,
+      "stars": 43865,
       "forks": 4132,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T03:27:20Z",
-      "updated_at": "2026-04-20T03:27:00Z"
-    },
-    {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 40118,
-      "forks": 7058,
-      "language": "Python",
-      "pushed_at": "2026-04-20T02:56:36Z",
-      "updated_at": "2026-04-20T03:17:49Z"
+      "pushed_at": "2026-04-20T06:16:00Z",
+      "updated_at": "2026-04-20T06:15:01Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 22231,
+      "stars": 22240,
       "forks": 1871,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T03:20:15Z",
-      "updated_at": "2026-04-20T03:25:20Z"
+      "pushed_at": "2026-04-20T05:26:52Z",
+      "updated_at": "2026-04-20T06:19:21Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21785,
+      "forks": 3561,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T05:40:28Z",
+      "updated_at": "2026-04-20T05:39:56Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 16499,
+      "forks": 1597,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-20T05:25:02Z",
+      "updated_at": "2026-04-20T06:13:07Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10106,
+      "stars": 10108,
       "forks": 787,
       "language": "Python",
-      "pushed_at": "2026-04-20T02:26:12Z",
-      "updated_at": "2026-04-20T02:32:37Z"
+      "pushed_at": "2026-04-20T06:14:00Z",
+      "updated_at": "2026-04-20T06:14:05Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 2832,
-      "forks": 727,
-      "language": "Go",
-      "pushed_at": "2026-04-20T02:27:22Z",
-      "updated_at": "2026-04-20T03:24:07Z"
+      "id": 1179413000,
+      "full_name": "Narcooo/inkos",
+      "html_url": "https://github.com/Narcooo/inkos",
+      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
+      "stars": 4637,
+      "forks": 895,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T05:34:41Z",
+      "updated_at": "2026-04-20T06:01:06Z"
     },
     {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Stop prompting. Start specifying.",
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
+      "stars": 2982,
+      "forks": 234,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T06:17:34Z",
+      "updated_at": "2026-04-20T06:19:17Z"
+    },
+    {
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
       "stars": 2442,
-      "forks": 225,
-      "language": "Python",
-      "pushed_at": "2026-04-20T02:33:33Z",
-      "updated_at": "2026-04-20T03:26:58Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2432,
-      "forks": 196,
-      "language": "Rust",
-      "pushed_at": "2026-04-20T02:22:24Z",
-      "updated_at": "2026-04-20T02:22:29Z"
+      "forks": 315,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-20T06:12:53Z",
+      "updated_at": "2026-04-20T06:12:56Z"
     },
     {
       "id": 1152014383,
       "full_name": "ArcReel/ArcReel",
       "html_url": "https://github.com/ArcReel/ArcReel",
       "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 1826,
+      "stars": 1832,
       "forks": 388,
       "language": "Python",
-      "pushed_at": "2026-04-20T03:06:57Z",
-      "updated_at": "2026-04-20T03:06:29Z"
+      "pushed_at": "2026-04-20T05:48:21Z",
+      "updated_at": "2026-04-20T05:56:59Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "debba/tabularis",
+      "html_url": "https://github.com/debba/tabularis",
+      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 1157,
+      "forks": 75,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T06:13:42Z",
+      "updated_at": "2026-04-20T06:13:46Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +136,41 @@
       "stars": 1067,
       "forks": 55,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T03:24:47Z",
-      "updated_at": "2026-04-20T03:17:37Z"
+      "pushed_at": "2026-04-20T06:19:36Z",
+      "updated_at": "2026-04-20T06:10:51Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 323,
-      "forks": 84,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T02:50:48Z",
-      "updated_at": "2026-04-20T02:50:51Z"
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 317,
+      "forks": 13,
+      "language": "ReScript",
+      "pushed_at": "2026-04-20T05:47:26Z",
+      "updated_at": "2026-04-20T05:47:28Z"
     },
     {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 288,
-      "forks": 71,
+      "id": 1172782796,
+      "full_name": "AI-Shell-Team/aish",
+      "html_url": "https://github.com/AI-Shell-Team/aish",
+      "description": "Empower the Shell to think. Evolve Operations. ",
+      "stars": 296,
+      "forks": 65,
       "language": "Python",
-      "pushed_at": "2026-04-20T02:28:45Z",
-      "updated_at": "2026-04-20T02:28:49Z"
+      "pushed_at": "2026-04-20T06:16:22Z",
+      "updated_at": "2026-04-20T06:18:06Z"
     },
     {
-      "id": 1171575871,
-      "full_name": "okx/agent-trade-kit",
-      "html_url": "https://github.com/okx/agent-trade-kit",
-      "description": "OKX trading MCP server — connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.  ",
-      "stars": 194,
-      "forks": 29,
+      "id": 1176971972,
+      "full_name": "cerul-ai/cerul",
+      "html_url": "https://github.com/cerul-ai/cerul",
+      "description": "The video search layer for AI agents. Search video by meaning — across speech, visuals, and on-screen text.",
+      "stars": 127,
+      "forks": 5,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T03:06:47Z",
-      "updated_at": "2026-04-20T03:06:52Z"
-    },
-    {
-      "id": 1154273018,
-      "full_name": "xuanyustudio/LocalMiniDrama",
-      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
-      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
-      "stars": 192,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-20T02:35:27Z",
-      "updated_at": "2026-04-20T02:35:32Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 112,
-      "forks": 14,
-      "language": "Python",
-      "pushed_at": "2026-04-20T02:27:50Z",
-      "updated_at": "2026-04-20T02:27:54Z"
+      "pushed_at": "2026-04-20T05:42:16Z",
+      "updated_at": "2026-04-20T05:42:14Z"
     }
   ]
 }
