@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 553,
+  "total_found": 555,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 104813,
+      "forks": 14961,
+      "language": "Python",
+      "pushed_at": "2026-04-20T16:40:55Z",
+      "updated_at": "2026-04-20T17:10:10Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 43894,
-      "forks": 4138,
+      "stars": 43904,
+      "forks": 4140,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:52:35Z",
-      "updated_at": "2026-04-20T13:38:28Z"
-    },
-    {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
-      "stars": 43547,
-      "forks": 9960,
-      "language": "Python",
-      "pushed_at": "2026-04-20T13:44:00Z",
-      "updated_at": "2026-04-20T13:44:26Z"
+      "pushed_at": "2026-04-20T17:07:26Z",
+      "updated_at": "2026-04-20T16:42:46Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30340,
+      "stars": 30342,
       "forks": 3921,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:45:20Z",
-      "updated_at": "2026-04-20T13:24:27Z"
+      "pushed_at": "2026-04-20T16:45:37Z",
+      "updated_at": "2026-04-20T16:38:35Z"
+    },
+    {
+      "id": 1171026502,
+      "full_name": "googleworkspace/cli",
+      "html_url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "stars": 25092,
+      "forks": 1283,
+      "language": "Rust",
+      "pushed_at": "2026-04-20T16:28:16Z",
+      "updated_at": "2026-04-20T16:32:24Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21788,
+      "stars": 21789,
       "forks": 3561,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:50:11Z",
-      "updated_at": "2026-04-20T13:50:17Z"
+      "pushed_at": "2026-04-20T17:08:08Z",
+      "updated_at": "2026-04-20T16:55:09Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 16549,
-      "forks": 1602,
+      "stars": 16562,
+      "forks": 1604,
       "language": "JavaScript",
-      "pushed_at": "2026-04-20T13:39:11Z",
-      "updated_at": "2026-04-20T13:51:17Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 4827,
-      "forks": 525,
-      "language": "Python",
-      "pushed_at": "2026-04-20T13:10:50Z",
-      "updated_at": "2026-04-20T13:53:01Z"
-    },
-    {
-      "id": 949646929,
-      "full_name": "GetBindu/Bindu",
-      "html_url": "https://github.com/GetBindu/Bindu",
-      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
-      "stars": 4379,
-      "forks": 353,
-      "language": "Python",
-      "pushed_at": "2026-04-20T13:50:09Z",
-      "updated_at": "2026-04-20T13:43:47Z"
+      "pushed_at": "2026-04-20T16:34:17Z",
+      "updated_at": "2026-04-20T17:08:16Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
-      "stars": 3065,
-      "forks": 234,
+      "stars": 3094,
+      "forks": 235,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:25:21Z",
-      "updated_at": "2026-04-20T13:48:03Z"
+      "pushed_at": "2026-04-20T16:27:49Z",
+      "updated_at": "2026-04-20T17:09:11Z"
     },
     {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2433,
-      "forks": 196,
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2575,
+      "forks": 302,
       "language": "Rust",
-      "pushed_at": "2026-04-20T13:28:35Z",
-      "updated_at": "2026-04-20T13:28:46Z"
+      "pushed_at": "2026-04-20T17:08:31Z",
+      "updated_at": "2026-04-20T17:06:13Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 1842,
-      "forks": 390,
-      "language": "Python",
-      "pushed_at": "2026-04-20T13:49:38Z",
-      "updated_at": "2026-04-20T13:49:05Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 1191,
-      "forks": 141,
+      "id": 1003614809,
+      "full_name": "kite-org/kite",
+      "html_url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2534,
+      "forks": 210,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:24:58Z",
-      "updated_at": "2026-04-20T13:47:18Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 1168,
-      "forks": 76,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:50:51Z",
-      "updated_at": "2026-04-20T13:51:14Z"
+      "pushed_at": "2026-04-20T16:50:19Z",
+      "updated_at": "2026-04-20T16:50:23Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1067,
+      "stars": 1068,
       "forks": 55,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:48:34Z",
-      "updated_at": "2026-04-20T13:41:19Z"
+      "pushed_at": "2026-04-20T17:08:44Z",
+      "updated_at": "2026-04-20T16:27:01Z"
     },
     {
-      "id": 1122681704,
-      "full_name": "team9ai/team9",
-      "html_url": "https://github.com/team9ai/team9",
-      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 844,
+      "forks": 116,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T17:02:09Z",
+      "updated_at": "2026-04-20T17:03:37Z"
+    },
+    {
+      "id": 1179245019,
+      "full_name": "OpenCowAI/opencow",
+      "html_url": "https://github.com/OpenCowAI/opencow",
+      "description": "One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features, campaigns,  reports, audits — and delivers them in parallel. Full context. Full control. Every department. 🐄",
+      "stars": 375,
+      "forks": 26,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T16:41:28Z",
+      "updated_at": "2026-04-20T16:41:41Z"
+    },
+    {
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 283,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-20T16:55:07Z",
+      "updated_at": "2026-04-20T16:55:11Z"
+    },
+    {
+      "id": 1192710260,
+      "full_name": "edinetdb/dexter-jp",
+      "html_url": "https://github.com/edinetdb/dexter-jp",
+      "description": "日本株の自律型リサーチAIエージェント｜AI agent for deep financial research on Japanese listed companies. Powered by EDINET DB + J-Quants.",
       "stars": 232,
-      "forks": 21,
+      "forks": 22,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:39:51Z",
-      "updated_at": "2026-04-20T13:24:57Z"
+      "pushed_at": "2026-04-20T17:09:00Z",
+      "updated_at": "2026-04-20T17:08:49Z"
     },
     {
-      "id": 1170158614,
-      "full_name": "GarethManning/claude-education-skills",
-      "html_url": "https://github.com/GarethManning/claude-education-skills",
-      "description": "An open-source library of evidence-based Claude skills for educators — designed for teacher use and agent orchestration.",
-      "stars": 173,
-      "forks": 31,
+      "id": 965987181,
+      "full_name": "toolsdk-ai/toolsdk-mcp-registry",
+      "html_url": "https://github.com/toolsdk-ai/toolsdk-mcp-registry",
+      "description": "MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR...",
+      "stars": 170,
+      "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-04-20T13:52:54Z",
-      "updated_at": "2026-04-20T13:53:15Z"
+      "pushed_at": "2026-04-20T16:37:06Z",
+      "updated_at": "2026-04-20T16:37:36Z"
     }
   ]
 }
