@@ -12,121 +12,99 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 112779,
-      "forks": 16400,
+      "stars": 112973,
+      "forks": 16445,
       "language": "Python",
-      "pushed_at": "2026-04-23T17:21:14Z",
-      "updated_at": "2026-04-23T17:23:50Z"
+      "pushed_at": "2026-04-23T20:56:49Z",
+      "updated_at": "2026-04-23T20:57:14Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44174,
-      "forks": 4181,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T16:21:00Z",
-      "updated_at": "2026-04-23T17:23:52Z"
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 40666,
+      "forks": 7146,
+      "language": "Python",
+      "pushed_at": "2026-04-23T20:17:24Z",
+      "updated_at": "2026-04-23T20:45:17Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30401,
-      "forks": 3927,
+      "stars": 30404,
+      "forks": 3928,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T17:18:01Z",
-      "updated_at": "2026-04-23T17:05:11Z"
+      "pushed_at": "2026-04-23T20:42:47Z",
+      "updated_at": "2026-04-23T20:45:57Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21828,
-      "forks": 3572,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "stars": 22459,
+      "forks": 1898,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T17:17:20Z",
-      "updated_at": "2026-04-23T17:17:26Z"
+      "pushed_at": "2026-04-23T19:52:41Z",
+      "updated_at": "2026-04-23T20:14:09Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 13550,
-      "forks": 834,
-      "language": "HTML",
-      "pushed_at": "2026-04-23T17:20:54Z",
-      "updated_at": "2026-04-23T17:20:56Z"
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 3367,
+      "forks": 313,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T19:11:59Z",
+      "updated_at": "2026-04-23T20:49:57Z"
     },
     {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 6658,
-      "forks": 655,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-23T16:59:54Z",
-      "updated_at": "2026-04-23T17:19:47Z"
-    },
-    {
-      "id": 949646929,
-      "full_name": "GetBindu/Bindu",
-      "html_url": "https://github.com/GetBindu/Bindu",
-      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
-      "stars": 4512,
-      "forks": 356,
-      "language": "Python",
-      "pushed_at": "2026-04-23T16:30:24Z",
-      "updated_at": "2026-04-23T17:20:29Z"
-    },
-    {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 2901,
-      "forks": 758,
-      "language": "Go",
-      "pushed_at": "2026-04-23T17:16:14Z",
-      "updated_at": "2026-04-23T17:16:19Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2439,
-      "forks": 197,
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2596,
+      "forks": 309,
       "language": "Rust",
-      "pushed_at": "2026-04-23T17:04:06Z",
-      "updated_at": "2026-04-23T17:04:10Z"
+      "pushed_at": "2026-04-23T20:54:47Z",
+      "updated_at": "2026-04-23T19:53:50Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "the easiest way to run natural language-described workflows automatically",
-      "stars": 1068,
-      "forks": 56,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T17:22:28Z",
-      "updated_at": "2026-04-23T17:21:28Z"
-    },
-    {
-      "id": 1164059777,
-      "full_name": "fim-ai/fim-one",
-      "html_url": "https://github.com/fim-ai/fim-one",
-      "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
-      "stars": 583,
-      "forks": 72,
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 2580,
+      "forks": 162,
       "language": "Python",
-      "pushed_at": "2026-04-23T17:10:03Z",
-      "updated_at": "2026-04-23T17:10:08Z"
+      "pushed_at": "2026-04-23T19:40:53Z",
+      "updated_at": "2026-04-23T20:00:52Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1098,
+      "forks": 129,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T20:08:07Z",
+      "updated_at": "2026-04-23T20:05:48Z"
+    },
+    {
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 589,
+      "forks": 71,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T20:13:08Z",
+      "updated_at": "2026-04-23T20:21:45Z"
     },
     {
       "id": 1160289313,
@@ -136,19 +114,30 @@
       "stars": 560,
       "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T16:59:18Z",
-      "updated_at": "2026-04-23T16:59:23Z"
+      "pushed_at": "2026-04-23T20:46:45Z",
+      "updated_at": "2026-04-23T20:46:49Z"
     },
     {
-      "id": 1132275655,
-      "full_name": "cordum-io/cordum",
-      "html_url": "https://github.com/cordum-io/cordum",
-      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
-      "stars": 466,
-      "forks": 23,
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
+      "stars": 457,
+      "forks": 37,
       "language": "Go",
-      "pushed_at": "2026-04-23T17:16:46Z",
-      "updated_at": "2026-04-23T16:44:21Z"
+      "pushed_at": "2026-04-23T18:59:03Z",
+      "updated_at": "2026-04-23T20:37:34Z"
+    },
+    {
+      "id": 1179222510,
+      "full_name": "macOS26/Agent",
+      "html_url": "https://github.com/macOS26/Agent",
+      "description": "Any AI, replaces Claude Code, Cursor, Cline, Open Claw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, Eautomates Safari, AppleScript 50 apps, extend w/ MCP Servers, run tasks from your iPhone via Messages, drive any Accessible app.",
+      "stars": 376,
+      "forks": 26,
+      "language": "Swift",
+      "pushed_at": "2026-04-23T20:50:35Z",
+      "updated_at": "2026-04-23T20:50:40Z"
     },
     {
       "id": 848182195,
@@ -158,19 +147,30 @@
       "stars": 368,
       "forks": 51,
       "language": "C++",
-      "pushed_at": "2026-04-23T17:23:24Z",
-      "updated_at": "2026-04-23T17:23:29Z"
+      "pushed_at": "2026-04-23T18:58:50Z",
+      "updated_at": "2026-04-23T18:57:18Z"
+    },
+    {
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 317,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T20:08:33Z",
+      "updated_at": "2026-04-23T20:08:49Z"
     },
     {
       "id": 1196898989,
       "full_name": "awizemann/scarf",
       "html_url": "https://github.com/awizemann/scarf",
       "description": "Native macOS GUI for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
-      "stars": 278,
+      "stars": 279,
       "forks": 14,
       "language": "Swift",
-      "pushed_at": "2026-04-23T17:17:15Z",
-      "updated_at": "2026-04-23T16:37:37Z"
+      "pushed_at": "2026-04-23T20:10:17Z",
+      "updated_at": "2026-04-23T20:10:19Z"
     }
   ]
 }
