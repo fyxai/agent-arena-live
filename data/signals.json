@@ -5,73 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 575,
+  "total_found": 577,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 111996,
+      "forks": 16258,
+      "language": "Python",
+      "pushed_at": "2026-04-23T09:43:08Z",
+      "updated_at": "2026-04-23T09:47:39Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44114,
-      "forks": 4170,
+      "stars": 44140,
+      "forks": 4176,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T05:59:45Z",
-      "updated_at": "2026-04-23T05:15:01Z"
+      "pushed_at": "2026-04-23T09:21:12Z",
+      "updated_at": "2026-04-23T09:46:27Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 40579,
-      "forks": 7133,
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+      "stars": 43652,
+      "forks": 9978,
       "language": "Python",
-      "pushed_at": "2026-04-23T05:26:06Z",
-      "updated_at": "2026-04-23T05:59:19Z"
+      "pushed_at": "2026-04-23T09:21:18Z",
+      "updated_at": "2026-04-23T09:46:55Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 13544,
-      "forks": 834,
-      "language": "HTML",
-      "pushed_at": "2026-04-23T06:08:14Z",
-      "updated_at": "2026-04-23T05:58:28Z"
-    },
-    {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 6583,
-      "forks": 643,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-23T06:01:10Z",
-      "updated_at": "2026-04-23T06:05:37Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 1702,
-      "forks": 205,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "stars": 22431,
+      "forks": 1895,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T05:12:41Z",
-      "updated_at": "2026-04-23T06:08:43Z"
+      "pushed_at": "2026-04-23T09:40:26Z",
+      "updated_at": "2026-04-23T09:37:27Z"
     },
     {
-      "id": 1166321809,
-      "full_name": "chrysb/alphaclaw",
-      "html_url": "https://github.com/chrysb/alphaclaw",
-      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
-      "stars": 1212,
-      "forks": 151,
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 16960,
+      "forks": 1658,
       "language": "JavaScript",
-      "pushed_at": "2026-04-23T05:36:05Z",
-      "updated_at": "2026-04-23T05:36:09Z"
+      "pushed_at": "2026-04-23T09:25:46Z",
+      "updated_at": "2026-04-23T09:28:18Z"
+    },
+    {
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 6072,
+      "forks": 656,
+      "language": "Python",
+      "pushed_at": "2026-04-23T09:21:27Z",
+      "updated_at": "2026-04-23T09:47:54Z"
+    },
+    {
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
+      "stars": 3206,
+      "forks": 234,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-23T09:03:26Z",
+      "updated_at": "2026-04-23T09:48:00Z"
+    },
+    {
+      "id": 114540126,
+      "full_name": "SciSharp/BotSharp",
+      "html_url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "stars": 3047,
+      "forks": 627,
+      "language": "C#",
+      "pushed_at": "2026-04-23T09:02:50Z",
+      "updated_at": "2026-04-23T09:02:55Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2593,
+      "forks": 308,
+      "language": "Rust",
+      "pushed_at": "2026-04-23T09:36:46Z",
+      "updated_at": "2026-04-23T09:14:39Z"
     },
     {
       "id": 1096175506,
@@ -81,52 +114,52 @@
       "stars": 1068,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T06:08:20Z",
-      "updated_at": "2026-04-23T06:04:12Z"
+      "pushed_at": "2026-04-23T09:47:30Z",
+      "updated_at": "2026-04-23T09:46:16Z"
     },
     {
       "id": 1164059777,
       "full_name": "fim-ai/fim-one",
       "html_url": "https://github.com/fim-ai/fim-one",
       "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
-      "stars": 576,
+      "stars": 578,
       "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-04-23T05:35:04Z",
-      "updated_at": "2026-04-23T05:35:08Z"
+      "pushed_at": "2026-04-23T09:29:29Z",
+      "updated_at": "2026-04-23T09:29:34Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 554,
-      "forks": 38,
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 531,
+      "forks": 70,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T05:34:08Z",
-      "updated_at": "2026-04-23T05:34:12Z"
+      "pushed_at": "2026-04-23T09:09:56Z",
+      "updated_at": "2026-04-23T09:39:48Z"
     },
     {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 312,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T05:54:39Z",
-      "updated_at": "2026-04-23T05:50:18Z"
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
+      "stars": 457,
+      "forks": 36,
+      "language": "Go",
+      "pushed_at": "2026-04-23T09:04:12Z",
+      "updated_at": "2026-04-23T09:04:15Z"
     },
     {
-      "id": 1172782796,
-      "full_name": "AI-Shell-Team/aish",
-      "html_url": "https://github.com/AI-Shell-Team/aish",
-      "description": "Empower the Shell to think. Evolve Operations. ",
-      "stars": 310,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-04-23T05:50:08Z",
-      "updated_at": "2026-04-23T05:48:43Z"
+      "id": 848182195,
+      "full_name": "Palm1r/QodeAssist",
+      "html_url": "https://github.com/Palm1r/QodeAssist",
+      "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+      "stars": 368,
+      "forks": 51,
+      "language": "C++",
+      "pushed_at": "2026-04-23T09:29:12Z",
+      "updated_at": "2026-04-23T09:29:16Z"
     },
     {
       "id": 1170397757,
@@ -136,41 +169,8 @@
       "stars": 137,
       "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-04-23T05:56:57Z",
-      "updated_at": "2026-04-23T05:57:02Z"
-    },
-    {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-mcp",
-      "html_url": "https://github.com/dcostenco/prism-mcp",
-      "description": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
-      "stars": 129,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-23T05:03:13Z",
-      "updated_at": "2026-04-23T05:03:06Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 114,
-      "forks": 14,
-      "language": "Python",
-      "pushed_at": "2026-04-23T05:51:34Z",
-      "updated_at": "2026-04-23T05:51:39Z"
-    },
-    {
-      "id": 1156780833,
-      "full_name": "omega-memory/omega-memory",
-      "html_url": "https://github.com/omega-memory/omega-memory",
-      "description": "Persistent memory for AI coding agents",
-      "stars": 103,
-      "forks": 19,
-      "language": "Python",
-      "pushed_at": "2026-04-23T06:04:28Z",
-      "updated_at": "2026-04-23T06:04:32Z"
+      "pushed_at": "2026-04-23T09:33:23Z",
+      "updated_at": "2026-04-23T09:03:51Z"
     }
   ]
 }
