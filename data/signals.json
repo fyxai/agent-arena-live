@@ -5,117 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 583,
+  "total_found": 582,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 114235,
-      "forks": 16687,
+      "stars": 114583,
+      "forks": 16758,
       "language": "Python",
-      "pushed_at": "2026-04-24T09:44:48Z",
-      "updated_at": "2026-04-24T09:48:08Z"
+      "pushed_at": "2026-04-24T13:14:54Z",
+      "updated_at": "2026-04-24T13:47:47Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44252,
-      "forks": 4193,
+      "stars": 44267,
+      "forks": 4195,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:39:13Z",
-      "updated_at": "2026-04-24T09:39:04Z"
+      "pushed_at": "2026-04-24T13:22:39Z",
+      "updated_at": "2026-04-24T13:47:49Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 22489,
+      "stars": 22498,
       "forks": 1903,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:47:53Z",
-      "updated_at": "2026-04-24T09:21:06Z"
+      "pushed_at": "2026-04-24T13:22:44Z",
+      "updated_at": "2026-04-24T13:41:45Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21847,
-      "forks": 3573,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:30:16Z",
-      "updated_at": "2026-04-24T09:45:19Z"
-    },
-    {
-      "id": 1139782619,
-      "full_name": "saturndec/waoowaoo",
-      "html_url": "https://github.com/saturndec/waoowaoo",
-      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
-      "stars": 11663,
-      "forks": 2637,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:19:27Z",
-      "updated_at": "2026-04-24T09:46:06Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 6687,
-      "forks": 739,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11909,
+      "forks": 876,
       "language": "Python",
-      "pushed_at": "2026-04-24T09:30:49Z",
-      "updated_at": "2026-04-24T09:45:36Z"
-    },
-    {
-      "id": 1179413000,
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 4874,
-      "forks": 941,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:07:08Z",
-      "updated_at": "2026-04-24T09:46:09Z"
+      "pushed_at": "2026-04-24T13:40:42Z",
+      "updated_at": "2026-04-24T13:27:28Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 3385,
-      "forks": 316,
+      "stars": 3393,
+      "forks": 318,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:14:55Z",
-      "updated_at": "2026-04-24T09:21:16Z"
+      "pushed_at": "2026-04-24T13:34:36Z",
+      "updated_at": "2026-04-24T13:43:58Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2582,
-      "forks": 163,
-      "language": "Python",
-      "pushed_at": "2026-04-24T09:39:44Z",
-      "updated_at": "2026-04-24T09:38:49Z"
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "The computer for you and your agent.",
+      "stars": 3354,
+      "forks": 235,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T13:02:25Z",
+      "updated_at": "2026-04-24T13:32:14Z"
     },
     {
-      "id": 1167607007,
-      "full_name": "qingchencloud/clawpanel",
-      "html_url": "https://github.com/qingchencloud/clawpanel",
-      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
-      "stars": 2510,
-      "forks": 323,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-24T09:39:39Z",
-      "updated_at": "2026-04-24T09:39:45Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2600,
+      "forks": 311,
+      "language": "Rust",
+      "pushed_at": "2026-04-24T13:45:38Z",
+      "updated_at": "2026-04-24T13:40:05Z"
+    },
+    {
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "stars": 1968,
+      "forks": 251,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T13:47:10Z",
+      "updated_at": "2026-04-24T13:47:14Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1491,
+      "forks": 149,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T13:35:34Z",
+      "updated_at": "2026-04-24T13:35:59Z"
     },
     {
       "id": 1096175506,
@@ -125,30 +114,30 @@
       "stars": 1069,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:40:14Z",
-      "updated_at": "2026-04-24T09:25:53Z"
+      "pushed_at": "2026-04-24T13:46:27Z",
+      "updated_at": "2026-04-24T13:38:29Z"
     },
     {
-      "id": 945671748,
-      "full_name": "openops-cloud/openops",
-      "html_url": "https://github.com/openops-cloud/openops",
-      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 1019,
-      "forks": 176,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:07:48Z",
-      "updated_at": "2026-04-24T09:07:50Z"
+      "id": 1206566990,
+      "full_name": "AMAP-ML/SkillClaw",
+      "html_url": "https://github.com/AMAP-ML/SkillClaw",
+      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "stars": 965,
+      "forks": 96,
+      "language": "Python",
+      "pushed_at": "2026-04-24T12:49:39Z",
+      "updated_at": "2026-04-24T12:49:43Z"
     },
     {
-      "id": 954321799,
-      "full_name": "truffle-ai/dexto",
-      "html_url": "https://github.com/truffle-ai/dexto",
-      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
-      "stars": 610,
-      "forks": 71,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:43:54Z",
-      "updated_at": "2026-04-24T09:30:22Z"
+      "id": 1164059777,
+      "full_name": "fim-ai/fim-one",
+      "html_url": "https://github.com/fim-ai/fim-one",
+      "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
+      "stars": 594,
+      "forks": 72,
+      "language": "Python",
+      "pushed_at": "2026-04-24T12:48:39Z",
+      "updated_at": "2026-04-24T12:48:44Z"
     },
     {
       "id": 1160289313,
@@ -158,8 +147,8 @@
       "stars": 562,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-24T09:32:58Z",
-      "updated_at": "2026-04-24T09:33:02Z"
+      "pushed_at": "2026-04-24T13:21:33Z",
+      "updated_at": "2026-04-24T13:21:37Z"
     },
     {
       "id": 1178500367,
@@ -169,8 +158,19 @@
       "stars": 524,
       "forks": 68,
       "language": "Rust",
-      "pushed_at": "2026-04-24T09:18:50Z",
-      "updated_at": "2026-04-24T09:16:59Z"
+      "pushed_at": "2026-04-24T12:53:57Z",
+      "updated_at": "2026-04-24T12:48:37Z"
+    },
+    {
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 356,
+      "forks": 84,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-24T13:18:18Z",
+      "updated_at": "2026-04-24T13:44:58Z"
     }
   ]
 }
