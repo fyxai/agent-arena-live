@@ -5,84 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 584,
+  "total_found": 586,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 115517,
-      "forks": 16975,
+      "stars": 115753,
+      "forks": 17024,
       "language": "Python",
-      "pushed_at": "2026-04-25T05:37:24Z",
-      "updated_at": "2026-04-25T05:49:54Z"
+      "pushed_at": "2026-04-25T08:40:51Z",
+      "updated_at": "2026-04-25T08:59:27Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30431,
-      "forks": 3932,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+      "stars": 22529,
+      "forks": 1908,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T05:32:37Z",
-      "updated_at": "2026-04-25T05:32:39Z"
-    },
-    {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 13983,
-      "forks": 859,
-      "language": "HTML",
-      "pushed_at": "2026-04-25T04:23:45Z",
-      "updated_at": "2026-04-25T05:48:34Z"
+      "pushed_at": "2026-04-25T08:35:00Z",
+      "updated_at": "2026-04-25T08:58:27Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10247,
+      "stars": 10252,
       "forks": 802,
       "language": "Python",
-      "pushed_at": "2026-04-25T05:02:20Z",
-      "updated_at": "2026-04-25T05:01:06Z"
+      "pushed_at": "2026-04-25T08:10:05Z",
+      "updated_at": "2026-04-25T08:31:02Z"
     },
     {
       "id": 1113573066,
       "full_name": "hugohe3/ppt-master",
       "html_url": "https://github.com/hugohe3/ppt-master",
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-      "stars": 7835,
-      "forks": 882,
+      "stars": 7900,
+      "forks": 886,
       "language": "Python",
-      "pushed_at": "2026-04-25T05:14:42Z",
-      "updated_at": "2026-04-25T05:47:19Z"
+      "pushed_at": "2026-04-25T07:46:59Z",
+      "updated_at": "2026-04-25T08:59:29Z"
     },
     {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 6838,
-      "forks": 680,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-25T03:27:04Z",
-      "updated_at": "2026-04-25T05:46:19Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2601,
+      "forks": 310,
+      "language": "Rust",
+      "pushed_at": "2026-04-25T08:16:48Z",
+      "updated_at": "2026-04-25T08:16:47Z"
     },
     {
-      "id": 1167607007,
-      "full_name": "qingchencloud/clawpanel",
-      "html_url": "https://github.com/qingchencloud/clawpanel",
-      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
-      "stars": 2521,
-      "forks": 322,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-25T03:50:02Z",
-      "updated_at": "2026-04-25T05:40:48Z"
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "stars": 2062,
+      "forks": 262,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T08:21:07Z",
+      "updated_at": "2026-04-25T08:52:28Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +81,96 @@
       "stars": 1070,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T05:47:10Z",
-      "updated_at": "2026-04-25T05:40:00Z"
+      "pushed_at": "2026-04-25T08:44:28Z",
+      "updated_at": "2026-04-25T08:36:44Z"
     },
     {
-      "id": 1164059777,
-      "full_name": "fim-ai/fim-one",
-      "html_url": "https://github.com/fim-ai/fim-one",
-      "description": "LLM-powered Agent Runtime with Dynamic DAG Planning & Concurrent Execution",
-      "stars": 609,
-      "forks": 72,
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
+      "stars": 668,
+      "forks": 34,
       "language": "Python",
-      "pushed_at": "2026-04-25T05:09:18Z",
-      "updated_at": "2026-04-25T05:09:22Z"
+      "pushed_at": "2026-04-25T08:41:36Z",
+      "updated_at": "2026-04-25T08:41:41Z"
+    },
+    {
+      "id": 1152181595,
+      "full_name": "xvirobotics/metabot",
+      "html_url": "https://github.com/xvirobotics/metabot",
+      "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。",
+      "stars": 659,
+      "forks": 98,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T08:34:59Z",
+      "updated_at": "2026-04-25T08:34:31Z"
     },
     {
       "id": 1160289313,
       "full_name": "rcarmo/piclaw",
       "html_url": "https://github.com/rcarmo/piclaw",
       "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 579,
+      "stars": 580,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-04-25T05:48:13Z",
-      "updated_at": "2026-04-25T05:48:17Z"
+      "pushed_at": "2026-04-25T08:53:15Z",
+      "updated_at": "2026-04-25T08:53:20Z"
     },
     {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 342,
-      "forks": 30,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T04:18:21Z",
-      "updated_at": "2026-04-25T04:18:24Z"
-    },
-    {
-      "id": 1168375739,
-      "full_name": "ntygod/ZhiWei",
-      "html_url": "https://github.com/ntygod/ZhiWei",
-      "description": "本地优先的个人 AI Agent 助手，支持记忆、自主任务、工具授权和工作流。",
-      "stars": 163,
-      "forks": 3,
-      "language": "Java",
-      "pushed_at": "2026-04-25T04:21:17Z",
-      "updated_at": "2026-04-25T04:16:34Z"
-    },
-    {
-      "id": 988856738,
-      "full_name": "RekklesNA/ProxmoxMCP-Plus",
-      "html_url": "https://github.com/RekklesNA/ProxmoxMCP-Plus",
-      "description": "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
-      "stars": 145,
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Plan-first AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 574,
       "forks": 42,
       "language": "Python",
-      "pushed_at": "2026-04-25T03:45:57Z",
-      "updated_at": "2026-04-25T03:45:44Z"
+      "pushed_at": "2026-04-25T08:14:00Z",
+      "updated_at": "2026-04-25T08:14:04Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
-      "stars": 117,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-25T05:34:17Z",
-      "updated_at": "2026-04-25T04:36:01Z"
-    },
-    {
-      "id": 954532463,
-      "full_name": "fdueblab/Micro-Agent",
-      "html_url": "https://github.com/fdueblab/Micro-Agent",
-      "description": "A lightweight AI agent framework for vertical domain applications | 面向垂域应用的轻量级 AI Agent 框架",
-      "stars": 110,
-      "forks": 17,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 280,
+      "forks": 47,
       "language": "Python",
-      "pushed_at": "2026-04-25T03:52:25Z",
-      "updated_at": "2026-04-25T03:52:28Z"
+      "pushed_at": "2026-04-25T08:52:13Z",
+      "updated_at": "2026-04-25T08:52:16Z"
+    },
+    {
+      "id": 1186087407,
+      "full_name": "Open-ACP/OpenACP",
+      "html_url": "https://github.com/Open-ACP/OpenACP",
+      "description": "Self-hosted bridge that lets you interact with AI coding agents (Claude Code, Codex, etc.) from messaging platforms (Telegram, Discord, etc.) via the Agent Client Protocol (ACP).",
+      "stars": 177,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-25T08:37:25Z",
+      "updated_at": "2026-04-25T08:57:11Z"
+    },
+    {
+      "id": 1180009784,
+      "full_name": "thatsme/AlexClaw",
+      "html_url": "https://github.com/thatsme/AlexClaw",
+      "description": "BEAM-native personal AI agent built on Elixir/OTP. Runs on your hardware. Your data stays yours.",
+      "stars": 106,
+      "forks": 10,
+      "language": "Elixir",
+      "pushed_at": "2026-04-25T08:41:29Z",
+      "updated_at": "2026-04-25T08:41:32Z"
+    },
+    {
+      "id": 1163697946,
+      "full_name": "awakenworks/awaken",
+      "html_url": "https://github.com/awakenworks/awaken",
+      "description": "AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.",
+      "stars": 67,
+      "forks": 5,
+      "language": "Rust",
+      "pushed_at": "2026-04-25T07:49:47Z",
+      "updated_at": "2026-04-25T07:49:46Z"
     }
   ]
 }
