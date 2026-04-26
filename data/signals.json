@@ -5,106 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 591,
+  "total_found": 592,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 117978,
-      "forks": 17494,
+      "stars": 118153,
+      "forks": 17532,
       "language": "Python",
-      "pushed_at": "2026-04-26T16:27:59Z",
-      "updated_at": "2026-04-26T16:50:45Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44454,
-      "forks": 4216,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T16:31:14Z",
-      "updated_at": "2026-04-26T16:41:24Z"
+      "pushed_at": "2026-04-26T20:42:09Z",
+      "updated_at": "2026-04-26T20:45:07Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 40930,
-      "forks": 7185,
+      "stars": 40941,
+      "forks": 7188,
       "language": "Python",
-      "pushed_at": "2026-04-26T16:30:17Z",
-      "updated_at": "2026-04-26T16:49:41Z"
+      "pushed_at": "2026-04-26T18:22:41Z",
+      "updated_at": "2026-04-26T20:08:16Z"
     },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 39911,
-      "forks": 8205,
+      "stars": 39968,
+      "forks": 8229,
       "language": "JavaScript",
-      "pushed_at": "2026-04-26T16:48:09Z",
-      "updated_at": "2026-04-26T16:49:21Z"
+      "pushed_at": "2026-04-26T20:01:32Z",
+      "updated_at": "2026-04-26T20:44:48Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30452,
+      "forks": 3933,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T19:21:09Z",
+      "updated_at": "2026-04-26T20:15:46Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21899,
-      "forks": 3590,
+      "stars": 21911,
+      "forks": 3591,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T16:26:54Z",
-      "updated_at": "2026-04-26T16:27:31Z"
+      "pushed_at": "2026-04-26T20:38:51Z",
+      "updated_at": "2026-04-26T20:26:58Z"
     },
     {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-      "stars": 8276,
-      "forks": 920,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 14325,
+      "forks": 895,
+      "language": "HTML",
+      "pushed_at": "2026-04-26T19:21:47Z",
+      "updated_at": "2026-04-26T20:43:18Z"
+    },
+    {
+      "id": 1139782619,
+      "full_name": "saturndec/waoowaoo",
+      "html_url": "https://github.com/saturndec/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 11758,
+      "forks": 2665,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T18:14:27Z",
+      "updated_at": "2026-04-26T18:14:32Z"
+    },
+    {
+      "id": 949646929,
+      "full_name": "GetBindu/Bindu",
+      "html_url": "https://github.com/GetBindu/Bindu",
+      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
+      "stars": 4833,
+      "forks": 358,
       "language": "Python",
-      "pushed_at": "2026-04-26T16:02:41Z",
-      "updated_at": "2026-04-26T16:44:41Z"
-    },
-    {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3734,
-      "forks": 466,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-26T16:30:41Z",
-      "updated_at": "2026-04-26T16:34:55Z"
-    },
-    {
-      "id": 1142274728,
-      "full_name": "jo-inc/camofox-browser",
-      "html_url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "stars": 3205,
-      "forks": 325,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-26T16:50:54Z",
-      "updated_at": "2026-04-26T16:50:58Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 2723,
-      "forks": 250,
-      "language": "Python",
-      "pushed_at": "2026-04-26T16:48:19Z",
-      "updated_at": "2026-04-26T16:15:35Z"
+      "pushed_at": "2026-04-26T18:43:49Z",
+      "updated_at": "2026-04-26T20:42:39Z"
     },
     {
       "id": 1145420469,
@@ -114,30 +103,19 @@
       "stars": 2609,
       "forks": 311,
       "language": "Rust",
-      "pushed_at": "2026-04-26T16:43:49Z",
-      "updated_at": "2026-04-26T16:43:18Z"
+      "pushed_at": "2026-04-26T19:46:21Z",
+      "updated_at": "2026-04-26T19:46:26Z"
     },
     {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2440,
-      "forks": 197,
-      "language": "Rust",
-      "pushed_at": "2026-04-26T16:42:55Z",
-      "updated_at": "2026-04-26T16:42:59Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 1972,
-      "forks": 414,
-      "language": "Python",
-      "pushed_at": "2026-04-26T16:18:03Z",
-      "updated_at": "2026-04-26T16:35:34Z"
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 1173,
+      "forks": 331,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T20:40:56Z",
+      "updated_at": "2026-04-26T20:41:01Z"
     },
     {
       "id": 1057975087,
@@ -147,19 +125,19 @@
       "stars": 954,
       "forks": 174,
       "language": "Go",
-      "pushed_at": "2026-04-26T16:44:38Z",
-      "updated_at": "2026-04-26T16:44:42Z"
+      "pushed_at": "2026-04-26T19:18:55Z",
+      "updated_at": "2026-04-26T19:07:02Z"
     },
     {
-      "id": 952999410,
-      "full_name": "LSTM-Kirigaya/openmcp-client",
-      "html_url": "https://github.com/LSTM-Kirigaya/openmcp-client",
-      "description": "All in one vscode plugin for mcp developer",
-      "stars": 742,
-      "forks": 54,
-      "language": "Vue",
-      "pushed_at": "2026-04-26T16:23:42Z",
-      "updated_at": "2026-04-26T16:23:46Z"
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 736,
+      "forks": 73,
+      "language": "Python",
+      "pushed_at": "2026-04-26T20:23:36Z",
+      "updated_at": "2026-04-26T20:23:44Z"
     },
     {
       "id": 1160289313,
@@ -169,8 +147,30 @@
       "stars": 590,
       "forks": 41,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T16:51:31Z",
-      "updated_at": "2026-04-26T16:51:36Z"
+      "pushed_at": "2026-04-26T20:27:28Z",
+      "updated_at": "2026-04-26T20:27:33Z"
+    },
+    {
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+      "stars": 470,
+      "forks": 68,
+      "language": "Rust",
+      "pushed_at": "2026-04-26T20:12:42Z",
+      "updated_at": "2026-04-26T20:20:56Z"
+    },
+    {
+      "id": 1132275655,
+      "full_name": "cordum-io/cordum",
+      "html_url": "https://github.com/cordum-io/cordum",
+      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+      "stars": 466,
+      "forks": 23,
+      "language": "Go",
+      "pushed_at": "2026-04-26T20:16:05Z",
+      "updated_at": "2026-04-26T18:37:45Z"
     }
   ]
 }
