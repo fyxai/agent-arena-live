@@ -5,117 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 589,
+  "total_found": 590,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 116894,
-      "forks": 17264,
+      "stars": 117067,
+      "forks": 17300,
       "language": "Python",
-      "pushed_at": "2026-04-26T03:13:29Z",
-      "updated_at": "2026-04-26T03:30:19Z"
-    },
-    {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 39684,
-      "forks": 8129,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-26T02:23:01Z",
-      "updated_at": "2026-04-26T03:25:04Z"
+      "pushed_at": "2026-04-26T06:02:34Z",
+      "updated_at": "2026-04-26T06:09:46Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30438,
+      "stars": 30442,
       "forks": 3934,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T03:27:01Z",
-      "updated_at": "2026-04-26T02:41:00Z"
+      "pushed_at": "2026-04-26T04:26:18Z",
+      "updated_at": "2026-04-26T05:56:18Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 14170,
-      "forks": 877,
-      "language": "HTML",
-      "pushed_at": "2026-04-26T02:37:04Z",
-      "updated_at": "2026-04-26T03:27:25Z"
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 10253,
+      "forks": 801,
+      "language": "Python",
+      "pushed_at": "2026-04-26T05:09:57Z",
+      "updated_at": "2026-04-26T05:10:02Z"
     },
     {
       "id": 1113573066,
       "full_name": "hugohe3/ppt-master",
       "html_url": "https://github.com/hugohe3/ppt-master",
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-      "stars": 8104,
-      "forks": 907,
+      "stars": 8147,
+      "forks": 909,
       "language": "Python",
-      "pushed_at": "2026-04-26T02:33:40Z",
-      "updated_at": "2026-04-26T03:25:43Z"
+      "pushed_at": "2026-04-26T06:00:58Z",
+      "updated_at": "2026-04-26T06:06:20Z"
     },
     {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3577,
-      "forks": 389,
-      "language": "Unknown",
-      "pushed_at": "2026-04-26T02:24:34Z",
-      "updated_at": "2026-04-26T02:44:35Z"
+      "id": 1147063571,
+      "full_name": "EvoMap/evolver",
+      "html_url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+      "stars": 6910,
+      "forks": 687,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-26T04:39:18Z",
+      "updated_at": "2026-04-26T06:07:07Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 3456,
+      "stars": 3462,
       "forks": 322,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T03:28:37Z",
-      "updated_at": "2026-04-26T03:28:45Z"
+      "pushed_at": "2026-04-26T05:24:12Z",
+      "updated_at": "2026-04-26T05:43:15Z"
     },
     {
       "id": 1142274728,
       "full_name": "jo-inc/camofox-browser",
       "html_url": "https://github.com/jo-inc/camofox-browser",
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "stars": 3110,
+      "stars": 3133,
       "forks": 316,
       "language": "JavaScript",
-      "pushed_at": "2026-04-26T03:27:14Z",
-      "updated_at": "2026-04-26T03:27:18Z"
+      "pushed_at": "2026-04-26T06:07:39Z",
+      "updated_at": "2026-04-26T06:07:44Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 2157,
-      "forks": 269,
+      "stars": 2169,
+      "forks": 272,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T02:55:09Z",
-      "updated_at": "2026-04-26T03:18:08Z"
+      "pushed_at": "2026-04-26T05:59:37Z",
+      "updated_at": "2026-04-26T06:07:25Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 1131,
-      "forks": 331,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-26T02:35:16Z",
-      "updated_at": "2026-04-26T03:03:52Z"
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 1963,
+      "forks": 414,
+      "language": "Python",
+      "pushed_at": "2026-04-26T06:00:29Z",
+      "updated_at": "2026-04-26T05:47:07Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +114,63 @@
       "stars": 1071,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T03:27:51Z",
-      "updated_at": "2026-04-26T03:19:42Z"
+      "pushed_at": "2026-04-26T06:10:08Z",
+      "updated_at": "2026-04-26T05:20:45Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 736,
-      "forks": 73,
-      "language": "Python",
-      "pushed_at": "2026-04-26T02:22:10Z",
-      "updated_at": "2026-04-26T02:22:28Z"
-    },
-    {
-      "id": 1187461911,
-      "full_name": "openyak/openyak",
-      "html_url": "https://github.com/openyak/openyak",
-      "description": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
-      "stars": 702,
-      "forks": 48,
-      "language": "Python",
-      "pushed_at": "2026-04-26T02:45:50Z",
-      "updated_at": "2026-04-26T03:24:01Z"
-    },
-    {
-      "id": 1186036632,
-      "full_name": "openmemind/memind",
-      "html_url": "https://github.com/openmemind/memind",
-      "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-      "stars": 539,
-      "forks": 50,
-      "language": "Java",
-      "pushed_at": "2026-04-26T03:16:08Z",
-      "updated_at": "2026-04-26T03:25:18Z"
-    },
-    {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 354,
-      "forks": 30,
+      "id": 1094226297,
+      "full_name": "FrankChen021/datastoria",
+      "html_url": "https://github.com/FrankChen021/datastoria",
+      "description": "AI-native ClickHouse console for your cluster diagnostics and query generation, optimization and data visualization.",
+      "stars": 313,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-04-26T03:29:49Z",
-      "updated_at": "2026-04-26T02:59:47Z"
+      "pushed_at": "2026-04-26T05:14:21Z",
+      "updated_at": "2026-04-26T05:14:28Z"
+    },
+    {
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+      "stars": 311,
+      "forks": 41,
+      "language": "Rust",
+      "pushed_at": "2026-04-26T06:00:02Z",
+      "updated_at": "2026-04-26T06:09:38Z"
+    },
+    {
+      "id": 1163722224,
+      "full_name": "clawdotnet/openclaw.net",
+      "html_url": "https://github.com/clawdotnet/openclaw.net",
+      "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
+      "stars": 281,
+      "forks": 50,
+      "language": "C#",
+      "pushed_at": "2026-04-26T04:57:43Z",
+      "updated_at": "2026-04-26T04:57:47Z"
+    },
+    {
+      "id": 1124639648,
+      "full_name": "adnaan-worker/Adnify",
+      "html_url": "https://github.com/adnaan-worker/Adnify",
+      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
+      "stars": 198,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-26T05:52:29Z",
+      "updated_at": "2026-04-26T05:52:33Z"
+    },
+    {
+      "id": 1176557412,
+      "full_name": "LvcidPsyche/auto-browser",
+      "html_url": "https://github.com/LvcidPsyche/auto-browser",
+      "description": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.",
+      "stars": 116,
+      "forks": 30,
+      "language": "Python",
+      "pushed_at": "2026-04-26T04:57:44Z",
+      "updated_at": "2026-04-26T04:50:39Z"
     }
   ]
 }
