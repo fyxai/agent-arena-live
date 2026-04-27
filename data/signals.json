@@ -12,110 +12,121 @@
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44513,
+      "stars": 44547,
       "forks": 4221,
       "language": "TypeScript",
-      "pushed_at": "2026-04-27T06:24:50Z",
-      "updated_at": "2026-04-27T06:27:13Z"
+      "pushed_at": "2026-04-27T10:18:50Z",
+      "updated_at": "2026-04-27T10:14:58Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 40983,
-      "forks": 7194,
+      "stars": 41018,
+      "forks": 7200,
       "language": "Python",
-      "pushed_at": "2026-04-27T06:31:48Z",
-      "updated_at": "2026-04-27T06:31:45Z"
+      "pushed_at": "2026-04-27T10:14:14Z",
+      "updated_at": "2026-04-27T10:18:36Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30459,
+      "forks": 3934,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T10:21:39Z",
+      "updated_at": "2026-04-27T10:21:41Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 22645,
-      "forks": 1918,
+      "stars": 22657,
+      "forks": 1920,
       "language": "TypeScript",
-      "pushed_at": "2026-04-27T06:30:00Z",
-      "updated_at": "2026-04-27T06:31:02Z"
+      "pushed_at": "2026-04-27T10:10:57Z",
+      "updated_at": "2026-04-27T10:11:14Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21920,
-      "forks": 3592,
+      "stars": 21925,
+      "forks": 3595,
       "language": "TypeScript",
-      "pushed_at": "2026-04-27T06:12:36Z",
-      "updated_at": "2026-04-27T06:12:37Z"
+      "pushed_at": "2026-04-27T10:10:40Z",
+      "updated_at": "2026-04-27T10:19:39Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 17483,
-      "forks": 1720,
+      "stars": 17518,
+      "forks": 1724,
       "language": "JavaScript",
-      "pushed_at": "2026-04-27T06:23:03Z",
-      "updated_at": "2026-04-27T06:28:53Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-      "stars": 8454,
-      "forks": 929,
-      "language": "Python",
-      "pushed_at": "2026-04-27T06:26:09Z",
-      "updated_at": "2026-04-27T06:31:12Z"
+      "pushed_at": "2026-04-27T09:35:37Z",
+      "updated_at": "2026-04-27T10:19:01Z"
     },
     {
       "id": 1135791677,
       "full_name": "lsdefine/GenericAgent",
       "html_url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 7494,
-      "forks": 852,
+      "stars": 7575,
+      "forks": 857,
       "language": "Python",
-      "pushed_at": "2026-04-27T06:13:29Z",
-      "updated_at": "2026-04-27T06:30:55Z"
+      "pushed_at": "2026-04-27T10:20:24Z",
+      "updated_at": "2026-04-27T10:21:02Z"
     },
     {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 6976,
-      "forks": 695,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-27T05:49:13Z",
-      "updated_at": "2026-04-27T06:27:54Z"
-    },
-    {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4812,
-      "forks": 944,
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "The computer for you and your agent.",
+      "stars": 3451,
+      "forks": 237,
       "language": "TypeScript",
-      "pushed_at": "2026-04-27T06:16:59Z",
-      "updated_at": "2026-04-27T06:17:03Z"
+      "pushed_at": "2026-04-27T09:24:55Z",
+      "updated_at": "2026-04-27T10:01:23Z"
     },
     {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 3163,
-      "forks": 683,
-      "language": "Python",
-      "pushed_at": "2026-04-27T06:21:51Z",
-      "updated_at": "2026-04-27T06:21:56Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2612,
+      "forks": 311,
+      "language": "Rust",
+      "pushed_at": "2026-04-27T10:18:21Z",
+      "updated_at": "2026-04-27T09:52:49Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2194,
+      "forks": 243,
+      "language": "Go",
+      "pushed_at": "2026-04-27T10:16:04Z",
+      "updated_at": "2026-04-27T10:13:48Z"
+    },
+    {
+      "id": 901554449,
+      "full_name": "stakpak/agent",
+      "html_url": "https://github.com/stakpak/agent",
+      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+      "stars": 1430,
+      "forks": 137,
+      "language": "Rust",
+      "pushed_at": "2026-04-27T10:18:16Z",
+      "updated_at": "2026-04-27T09:57:17Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +136,41 @@
       "stars": 1071,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-04-27T06:31:08Z",
-      "updated_at": "2026-04-27T06:31:11Z"
+      "pushed_at": "2026-04-27T10:21:13Z",
+      "updated_at": "2026-04-27T10:14:38Z"
     },
     {
-      "id": 1132275655,
-      "full_name": "cordum-io/cordum",
-      "html_url": "https://github.com/cordum-io/cordum",
-      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
-      "stars": 466,
-      "forks": 24,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1019,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T09:32:57Z",
+      "updated_at": "2026-04-27T09:32:59Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
+      "stars": 459,
+      "forks": 38,
       "language": "Go",
-      "pushed_at": "2026-04-27T06:31:27Z",
-      "updated_at": "2026-04-27T06:26:18Z"
+      "pushed_at": "2026-04-27T10:04:54Z",
+      "updated_at": "2026-04-27T10:04:56Z"
     },
     {
-      "id": 1098866858,
-      "full_name": "tgoai/tgo",
-      "html_url": "https://github.com/tgoai/tgo",
-      "description": "Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration.",
-      "stars": 437,
-      "forks": 84,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-27T06:01:48Z",
-      "updated_at": "2026-04-27T06:01:52Z"
-    },
-    {
-      "id": 1201201482,
-      "full_name": "matevip/mateclaw",
-      "html_url": "https://github.com/matevip/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 253,
-      "forks": 77,
-      "language": "Java",
-      "pushed_at": "2026-04-27T06:00:11Z",
-      "updated_at": "2026-04-27T06:16:42Z"
-    },
-    {
-      "id": 1171575871,
-      "full_name": "okx/agent-trade-kit",
-      "html_url": "https://github.com/okx/agent-trade-kit",
-      "description": "OKX trading MCP server — connect AI agents to spot, swap, futures, options & grid bots via the Model Context Protocol.  ",
-      "stars": 241,
-      "forks": 35,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-27T05:54:21Z",
-      "updated_at": "2026-04-27T06:15:08Z"
+      "id": 1035759799,
+      "full_name": "bgdnvk/clanker",
+      "html_url": "https://github.com/bgdnvk/clanker",
+      "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
+      "stars": 282,
+      "forks": 15,
+      "language": "Go",
+      "pushed_at": "2026-04-27T09:30:20Z",
+      "updated_at": "2026-04-27T09:30:26Z"
     }
   ]
 }
