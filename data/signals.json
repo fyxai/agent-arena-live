@@ -5,6 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 0,
-  "items": []
+  "total_found": 597,
+  "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 120433,
+      "forks": 17900,
+      "language": "Python",
+      "pushed_at": "2026-04-27T20:58:14Z",
+      "updated_at": "2026-04-27T21:07:14Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30464,
+      "forks": 3935,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T21:07:32Z",
+      "updated_at": "2026-04-27T20:50:18Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21939,
+      "forks": 3602,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T21:04:03Z",
+      "updated_at": "2026-04-27T19:55:44Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 14731,
+      "forks": 925,
+      "language": "HTML",
+      "pushed_at": "2026-04-27T19:21:01Z",
+      "updated_at": "2026-04-27T20:59:55Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 11945,
+      "forks": 881,
+      "language": "Python",
+      "pushed_at": "2026-04-27T21:07:19Z",
+      "updated_at": "2026-04-27T20:08:18Z"
+    },
+    {
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "The computer for you and your agent.",
+      "stars": 3454,
+      "forks": 237,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T19:31:06Z",
+      "updated_at": "2026-04-27T18:00:55Z"
+    },
+    {
+      "id": 1142274728,
+      "full_name": "jo-inc/camofox-browser",
+      "html_url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": 3312,
+      "forks": 333,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-27T20:33:58Z",
+      "updated_at": "2026-04-27T21:06:42Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2615,
+      "forks": 309,
+      "language": "Rust",
+      "pushed_at": "2026-04-27T20:57:28Z",
+      "updated_at": "2026-04-27T20:57:32Z"
+    },
+    {
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 1538,
+      "forks": 164,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T20:07:43Z",
+      "updated_at": "2026-04-27T20:19:03Z"
+    },
+    {
+      "id": 1142800652,
+      "full_name": "TabularisDB/tabularis",
+      "html_url": "https://github.com/TabularisDB/tabularis",
+      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 1237,
+      "forks": 80,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T20:08:29Z",
+      "updated_at": "2026-04-27T20:08:24Z"
+    },
+    {
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 1224,
+      "forks": 333,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T20:31:15Z",
+      "updated_at": "2026-04-27T21:02:19Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 736,
+      "forks": 73,
+      "language": "Python",
+      "pushed_at": "2026-04-27T19:20:50Z",
+      "updated_at": "2026-04-27T19:20:55Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 595,
+      "forks": 43,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T19:04:37Z",
+      "updated_at": "2026-04-27T19:04:43Z"
+    },
+    {
+      "id": 1132275655,
+      "full_name": "cordum-io/cordum",
+      "html_url": "https://github.com/cordum-io/cordum",
+      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+      "stars": 468,
+      "forks": 25,
+      "language": "Go",
+      "pushed_at": "2026-04-27T19:31:01Z",
+      "updated_at": "2026-04-27T20:46:14Z"
+    },
+    {
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 380,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-27T19:02:44Z",
+      "updated_at": "2026-04-27T19:02:48Z"
+    }
+  ]
 }
