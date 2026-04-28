@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 602,
+  "total_found": 605,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 122176,
-      "forks": 18188,
+      "stars": 122506,
+      "forks": 18242,
       "language": "Python",
-      "pushed_at": "2026-04-28T14:12:36Z",
-      "updated_at": "2026-04-28T14:24:13Z"
+      "pushed_at": "2026-04-28T17:29:48Z",
+      "updated_at": "2026-04-28T17:49:29Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30481,
-      "forks": 3940,
+      "stars": 30482,
+      "forks": 3939,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T14:22:36Z",
-      "updated_at": "2026-04-28T14:14:30Z"
+      "pushed_at": "2026-04-28T17:44:08Z",
+      "updated_at": "2026-04-28T17:44:11Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21957,
+      "stars": 21958,
       "forks": 3606,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T14:13:19Z",
-      "updated_at": "2026-04-28T14:19:53Z"
+      "pushed_at": "2026-04-28T17:07:54Z",
+      "updated_at": "2026-04-28T17:24:37Z"
     },
     {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 7940,
-      "forks": 914,
-      "language": "Python",
-      "pushed_at": "2026-04-28T14:15:15Z",
-      "updated_at": "2026-04-28T14:21:51Z"
-    },
-    {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3593,
-      "forks": 392,
-      "language": "Unknown",
-      "pushed_at": "2026-04-28T13:44:33Z",
-      "updated_at": "2026-04-28T14:12:13Z"
-    },
-    {
-      "id": 997136302,
-      "full_name": "UnicomAI/wanwu",
-      "html_url": "https://github.com/UnicomAI/wanwu",
-      "description": "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.",
-      "stars": 2897,
-      "forks": 94,
-      "language": "Go",
-      "pushed_at": "2026-04-28T14:13:36Z",
-      "updated_at": "2026-04-28T14:20:07Z"
+      "id": 1142274728,
+      "full_name": "jo-inc/camofox-browser",
+      "html_url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": 3378,
+      "forks": 339,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-28T17:36:24Z",
+      "updated_at": "2026-04-28T17:36:28Z"
     },
     {
       "id": 1145420469,
@@ -79,21 +57,10 @@
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
       "stars": 2615,
-      "forks": 309,
+      "forks": 310,
       "language": "Rust",
-      "pushed_at": "2026-04-28T14:23:20Z",
-      "updated_at": "2026-04-28T13:40:22Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Web crawler and scraper for Rust",
-      "stars": 2442,
-      "forks": 198,
-      "language": "Rust",
-      "pushed_at": "2026-04-28T14:14:00Z",
-      "updated_at": "2026-04-28T14:18:49Z"
+      "pushed_at": "2026-04-28T17:50:11Z",
+      "updated_at": "2026-04-28T17:45:14Z"
     },
     {
       "id": 1096175506,
@@ -103,8 +70,41 @@
       "stars": 1071,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T14:22:27Z",
-      "updated_at": "2026-04-28T13:52:06Z"
+      "pushed_at": "2026-04-28T17:44:42Z",
+      "updated_at": "2026-04-28T16:54:17Z"
+    },
+    {
+      "id": 1187461911,
+      "full_name": "openyak/openyak",
+      "html_url": "https://github.com/openyak/openyak",
+      "description": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
+      "stars": 754,
+      "forks": 49,
+      "language": "Python",
+      "pushed_at": "2026-04-28T17:38:19Z",
+      "updated_at": "2026-04-28T17:38:22Z"
+    },
+    {
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
+      "stars": 685,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-04-28T16:58:04Z",
+      "updated_at": "2026-04-28T16:58:07Z"
+    },
+    {
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+      "stars": 599,
+      "forks": 86,
+      "language": "Rust",
+      "pushed_at": "2026-04-28T17:44:41Z",
+      "updated_at": "2026-04-28T17:44:43Z"
     },
     {
       "id": 1160289313,
@@ -114,63 +114,63 @@
       "stars": 597,
       "forks": 44,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T14:23:40Z",
-      "updated_at": "2026-04-28T14:23:58Z"
+      "pushed_at": "2026-04-28T17:40:10Z",
+      "updated_at": "2026-04-28T17:40:14Z"
     },
     {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 395,
-      "forks": 30,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T14:23:47Z",
-      "updated_at": "2026-04-28T14:09:58Z"
-    },
-    {
-      "id": 1201201482,
-      "full_name": "matevip/mateclaw",
-      "html_url": "https://github.com/matevip/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 299,
-      "forks": 96,
-      "language": "Java",
-      "pushed_at": "2026-04-28T13:45:08Z",
-      "updated_at": "2026-04-28T13:57:13Z"
-    },
-    {
-      "id": 1193465306,
-      "full_name": "iusztinpaul/designing-real-world-ai-agents-workshop",
-      "html_url": "https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop",
-      "description": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video",
-      "stars": 198,
-      "forks": 54,
+      "id": 1177129875,
+      "full_name": "ZimoLiao/scholaraio",
+      "html_url": "https://github.com/ZimoLiao/scholaraio",
+      "description": "Scholar All-In-One: A research infrastructure for AI agents",
+      "stars": 388,
+      "forks": 56,
       "language": "Python",
-      "pushed_at": "2026-04-28T14:21:54Z",
-      "updated_at": "2026-04-28T11:48:23Z"
+      "pushed_at": "2026-04-28T17:40:47Z",
+      "updated_at": "2026-04-28T17:35:12Z"
     },
     {
-      "id": 1185308721,
-      "full_name": "gbessoni/seobuild-onpage",
-      "html_url": "https://github.com/gbessoni/seobuild-onpage",
-      "description": "SEOBuild Onpage - The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK GSC, DataforSEO. Works w/ OpenClaw, Claude Code, Codex",
-      "stars": 192,
-      "forks": 34,
-      "language": "Python",
-      "pushed_at": "2026-04-28T14:19:25Z",
-      "updated_at": "2026-04-28T14:10:06Z"
+      "id": 1185714860,
+      "full_name": "mcpware/claude-code-organizer",
+      "html_url": "https://github.com/mcpware/claude-code-organizer",
+      "description": "Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-organizer",
+      "stars": 283,
+      "forks": 25,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-28T17:49:24Z",
+      "updated_at": "2026-04-28T17:49:32Z"
     },
     {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-coder",
-      "html_url": "https://github.com/dcostenco/prism-coder",
-      "description": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
-      "stars": 131,
-      "forks": 22,
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
+      "stars": 126,
+      "forks": 29,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T14:10:07Z",
-      "updated_at": "2026-04-28T14:19:59Z"
+      "pushed_at": "2026-04-28T17:28:04Z",
+      "updated_at": "2026-04-28T17:28:07Z"
+    },
+    {
+      "id": 1170121678,
+      "full_name": "iii-experimental/agentos",
+      "html_url": "https://github.com/iii-experimental/agentos",
+      "description": "The agent OS that evolves itself. 51 workers, 18 security layers, self-improving functions. Built on iii-engine.",
+      "stars": 124,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-28T17:49:51Z",
+      "updated_at": "2026-04-28T16:49:36Z"
+    },
+    {
+      "id": 1148233533,
+      "full_name": "sepivip/SeekerClaw",
+      "html_url": "https://github.com/sepivip/SeekerClaw",
+      "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
+      "stars": 98,
+      "forks": 28,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-28T17:43:56Z",
+      "updated_at": "2026-04-28T17:06:57Z"
     }
   ]
 }
