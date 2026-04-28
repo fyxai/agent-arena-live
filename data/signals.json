@@ -12,55 +12,77 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 120950,
-      "forks": 17995,
+      "stars": 121225,
+      "forks": 18038,
       "language": "Python",
-      "pushed_at": "2026-04-28T03:33:12Z",
-      "updated_at": "2026-04-28T03:38:56Z"
+      "pushed_at": "2026-04-28T06:22:46Z",
+      "updated_at": "2026-04-28T06:32:15Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44600,
-      "forks": 4232,
+      "stars": 44616,
+      "forks": 4234,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:32:46Z",
-      "updated_at": "2026-04-28T03:37:14Z"
+      "pushed_at": "2026-04-28T06:28:18Z",
+      "updated_at": "2026-04-28T06:32:28Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 22707,
-      "forks": 1926,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:10:17Z",
-      "updated_at": "2026-04-28T03:34:34Z"
-    },
-    {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 7030,
-      "forks": 700,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-28T03:37:13Z",
-      "updated_at": "2026-04-28T03:37:08Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 1994,
-      "forks": 421,
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 41104,
+      "forks": 7211,
       "language": "Python",
-      "pushed_at": "2026-04-28T02:27:59Z",
-      "updated_at": "2026-04-28T02:26:04Z"
+      "pushed_at": "2026-04-28T06:27:16Z",
+      "updated_at": "2026-04-28T06:30:31Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30473,
+      "forks": 3938,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-28T06:31:23Z",
+      "updated_at": "2026-04-28T06:30:46Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 17709,
+      "forks": 1742,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-28T06:18:30Z",
+      "updated_at": "2026-04-28T06:31:48Z"
+    },
+    {
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
+      "stars": 8817,
+      "forks": 970,
+      "language": "Python",
+      "pushed_at": "2026-04-28T05:16:35Z",
+      "updated_at": "2026-04-28T06:31:36Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2205,
+      "forks": 245,
+      "language": "Go",
+      "pushed_at": "2026-04-28T05:14:25Z",
+      "updated_at": "2026-04-28T06:02:29Z"
     },
     {
       "id": 1096175506,
@@ -70,85 +92,52 @@
       "stars": 1071,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:39:15Z",
-      "updated_at": "2026-04-28T03:35:28Z"
+      "pushed_at": "2026-04-28T06:32:16Z",
+      "updated_at": "2026-04-28T06:32:19Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 595,
-      "forks": 43,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1019,
+      "forks": 176,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:11:40Z",
-      "updated_at": "2026-04-28T03:11:45Z"
+      "pushed_at": "2026-04-28T05:45:49Z",
+      "updated_at": "2026-04-28T05:45:52Z"
     },
     {
-      "id": 1146091496,
-      "full_name": "Enderfga/openclaw-claude-code",
-      "html_url": "https://github.com/Enderfga/openclaw-claude-code",
-      "description": "OpenClaw plugin — turn Claude Code CLI into a programmable, headless coding engine with plenty of tools, agent teams, and multi-model proxy",
-      "stars": 408,
-      "forks": 62,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T02:58:36Z",
-      "updated_at": "2026-04-28T02:58:37Z"
+      "id": 1163722224,
+      "full_name": "clawdotnet/openclaw.net",
+      "html_url": "https://github.com/clawdotnet/openclaw.net",
+      "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
+      "stars": 284,
+      "forks": 50,
+      "language": "C#",
+      "pushed_at": "2026-04-28T05:23:12Z",
+      "updated_at": "2026-04-28T05:23:14Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 363,
-      "forks": 84,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:29:18Z",
-      "updated_at": "2026-04-28T02:54:11Z"
+      "id": 1154273018,
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
+      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
+      "stars": 279,
+      "forks": 69,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-28T06:10:13Z",
+      "updated_at": "2026-04-28T06:10:17Z"
     },
     {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 356,
-      "forks": 75,
+      "id": 1206648335,
+      "full_name": "AaronWong1999/hermesclaw",
+      "html_url": "https://github.com/AaronWong1999/hermesclaw",
+      "description": "Run Hermes Agent and OpenClaw on the same WeChat account",
+      "stars": 252,
+      "forks": 20,
       "language": "Python",
-      "pushed_at": "2026-04-28T02:41:30Z",
-      "updated_at": "2026-04-28T02:41:34Z"
-    },
-    {
-      "id": 1201201482,
-      "full_name": "matevip/mateclaw",
-      "html_url": "https://github.com/matevip/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 285,
-      "forks": 89,
-      "language": "Java",
-      "pushed_at": "2026-04-28T03:14:16Z",
-      "updated_at": "2026-04-28T03:14:20Z"
-    },
-    {
-      "id": 1186087407,
-      "full_name": "Open-ACP/OpenACP",
-      "html_url": "https://github.com/Open-ACP/OpenACP",
-      "description": "Self-hosted bridge that lets you interact with AI coding agents (Claude Code, Codex, etc.) from messaging platforms (Telegram, Discord, etc.) via the Agent Client Protocol (ACP).",
-      "stars": 263,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T02:59:54Z",
-      "updated_at": "2026-04-28T02:57:07Z"
-    },
-    {
-      "id": 1122681704,
-      "full_name": "team9ai/team9",
-      "html_url": "https://github.com/team9ai/team9",
-      "description": "Team9 is a collaborative workspace for AI agents, currently built on OpenClaw and its ecosystem.",
-      "stars": 236,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:36:09Z",
-      "updated_at": "2026-04-28T03:33:55Z"
+      "pushed_at": "2026-04-28T05:19:23Z",
+      "updated_at": "2026-04-28T06:23:41Z"
     },
     {
       "id": 1186828270,
@@ -158,19 +147,30 @@
       "stars": 189,
       "forks": 42,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:36:56Z",
-      "updated_at": "2026-04-28T03:37:01Z"
+      "pushed_at": "2026-04-28T05:51:52Z",
+      "updated_at": "2026-04-28T05:51:57Z"
     },
     {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-mcp",
-      "html_url": "https://github.com/dcostenco/prism-mcp",
-      "description": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
-      "stars": 131,
-      "forks": 22,
+      "id": 1168375739,
+      "full_name": "ntygod/ZhiWei",
+      "html_url": "https://github.com/ntygod/ZhiWei",
+      "description": "本地优先的个人 AI Agent 助手，支持记忆、自主任务、工具授权和工作流。",
+      "stars": 163,
+      "forks": 3,
+      "language": "Java",
+      "pushed_at": "2026-04-28T06:19:19Z",
+      "updated_at": "2026-04-28T06:19:23Z"
+    },
+    {
+      "id": 1170397757,
+      "full_name": "scitix/siclaw",
+      "html_url": "https://github.com/scitix/siclaw",
+      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
+      "stars": 145,
+      "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T03:25:53Z",
-      "updated_at": "2026-04-28T03:25:57Z"
+      "pushed_at": "2026-04-28T06:14:02Z",
+      "updated_at": "2026-04-28T06:00:13Z"
     }
   ]
 }
