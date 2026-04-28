@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 605,
+  "total_found": 604,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 122506,
-      "forks": 18242,
+      "stars": 122738,
+      "forks": 18275,
       "language": "Python",
-      "pushed_at": "2026-04-28T17:29:48Z",
-      "updated_at": "2026-04-28T17:49:29Z"
+      "pushed_at": "2026-04-28T21:11:05Z",
+      "updated_at": "2026-04-28T21:09:04Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30482,
+      "stars": 30487,
       "forks": 3939,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T17:44:08Z",
-      "updated_at": "2026-04-28T17:44:11Z"
+      "pushed_at": "2026-04-28T21:07:47Z",
+      "updated_at": "2026-04-28T20:43:31Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21958,
-      "forks": 3606,
+      "stars": 21964,
+      "forks": 3607,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T17:07:54Z",
-      "updated_at": "2026-04-28T17:24:37Z"
-    },
-    {
-      "id": 1142274728,
-      "full_name": "jo-inc/camofox-browser",
-      "html_url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "stars": 3378,
-      "forks": 339,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-28T17:36:24Z",
-      "updated_at": "2026-04-28T17:36:28Z"
+      "pushed_at": "2026-04-28T20:21:39Z",
+      "updated_at": "2026-04-28T20:49:56Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
-      "stars": 2615,
+      "stars": 2616,
       "forks": 310,
       "language": "Rust",
-      "pushed_at": "2026-04-28T17:50:11Z",
-      "updated_at": "2026-04-28T17:45:14Z"
+      "pushed_at": "2026-04-28T20:47:56Z",
+      "updated_at": "2026-04-28T20:19:01Z"
+    },
+    {
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 2602,
+      "forks": 170,
+      "language": "Python",
+      "pushed_at": "2026-04-28T20:27:02Z",
+      "updated_at": "2026-04-28T20:27:04Z"
+    },
+    {
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 1620,
+      "forks": 172,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-28T20:17:07Z",
+      "updated_at": "2026-04-28T21:05:35Z"
     },
     {
       "id": 1096175506,
@@ -70,8 +81,8 @@
       "stars": 1071,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T17:44:42Z",
-      "updated_at": "2026-04-28T16:54:17Z"
+      "pushed_at": "2026-04-28T21:06:14Z",
+      "updated_at": "2026-04-28T20:46:26Z"
     },
     {
       "id": 1187461911,
@@ -81,30 +92,30 @@
       "stars": 754,
       "forks": 49,
       "language": "Python",
-      "pushed_at": "2026-04-28T17:38:19Z",
-      "updated_at": "2026-04-28T17:38:22Z"
+      "pushed_at": "2026-04-28T20:58:18Z",
+      "updated_at": "2026-04-28T20:58:22Z"
     },
     {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 685,
-      "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-04-28T16:58:04Z",
-      "updated_at": "2026-04-28T16:58:07Z"
+      "id": 1202634727,
+      "full_name": "agents-io/PokeClaw",
+      "html_url": "https://github.com/agents-io/PokeClaw",
+      "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
+      "stars": 737,
+      "forks": 108,
+      "language": "Kotlin",
+      "pushed_at": "2026-04-28T21:08:42Z",
+      "updated_at": "2026-04-28T21:08:44Z"
     },
     {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-      "stars": 599,
-      "forks": 86,
-      "language": "Rust",
-      "pushed_at": "2026-04-28T17:44:41Z",
-      "updated_at": "2026-04-28T17:44:43Z"
+      "id": 1153919891,
+      "full_name": "redwoodjs/agent-ci",
+      "html_url": "https://github.com/redwoodjs/agent-ci",
+      "description": "Agent-CI is local GitHub Actions for your agents.",
+      "stars": 611,
+      "forks": 16,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-28T20:08:38Z",
+      "updated_at": "2026-04-28T19:58:40Z"
     },
     {
       "id": 1160289313,
@@ -114,63 +125,52 @@
       "stars": 597,
       "forks": 44,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T17:40:10Z",
-      "updated_at": "2026-04-28T17:40:14Z"
+      "pushed_at": "2026-04-28T20:30:40Z",
+      "updated_at": "2026-04-28T20:30:42Z"
     },
     {
-      "id": 1177129875,
-      "full_name": "ZimoLiao/scholaraio",
-      "html_url": "https://github.com/ZimoLiao/scholaraio",
-      "description": "Scholar All-In-One: A research infrastructure for AI agents",
-      "stars": 388,
-      "forks": 56,
-      "language": "Python",
-      "pushed_at": "2026-04-28T17:40:47Z",
-      "updated_at": "2026-04-28T17:35:12Z"
+      "id": 1200204014,
+      "full_name": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "html_url": "https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+      "stars": 491,
+      "forks": 103,
+      "language": "Stata",
+      "pushed_at": "2026-04-28T21:00:15Z",
+      "updated_at": "2026-04-28T21:00:22Z"
     },
     {
-      "id": 1185714860,
-      "full_name": "mcpware/claude-code-organizer",
-      "html_url": "https://github.com/mcpware/claude-code-organizer",
-      "description": "Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-organizer",
-      "stars": 283,
-      "forks": 25,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-28T17:49:24Z",
-      "updated_at": "2026-04-28T17:49:32Z"
+      "id": 1163722224,
+      "full_name": "clawdotnet/openclaw.net",
+      "html_url": "https://github.com/clawdotnet/openclaw.net",
+      "description": "Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)",
+      "stars": 285,
+      "forks": 50,
+      "language": "C#",
+      "pushed_at": "2026-04-28T20:53:27Z",
+      "updated_at": "2026-04-28T20:53:30Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
-      "stars": 126,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T17:28:04Z",
-      "updated_at": "2026-04-28T17:28:07Z"
-    },
-    {
-      "id": 1170121678,
-      "full_name": "iii-experimental/agentos",
-      "html_url": "https://github.com/iii-experimental/agentos",
-      "description": "The agent OS that evolves itself. 51 workers, 18 security layers, self-improving functions. Built on iii-engine.",
-      "stars": 124,
+      "id": 1166203076,
+      "full_name": "Alex8791-cyber/cognithor",
+      "html_url": "https://github.com/Alex8791-cyber/cognithor",
+      "description": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
+      "stars": 115,
       "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T17:49:51Z",
-      "updated_at": "2026-04-28T16:49:36Z"
+      "language": "Python",
+      "pushed_at": "2026-04-28T21:08:42Z",
+      "updated_at": "2026-04-28T21:08:44Z"
     },
     {
-      "id": 1148233533,
-      "full_name": "sepivip/SeekerClaw",
-      "html_url": "https://github.com/sepivip/SeekerClaw",
-      "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
-      "stars": 98,
-      "forks": 28,
-      "language": "JavaScript",
-      "pushed_at": "2026-04-28T17:43:56Z",
-      "updated_at": "2026-04-28T17:06:57Z"
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 115,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-04-28T21:00:22Z",
+      "updated_at": "2026-04-28T20:40:49Z"
     }
   ]
 }
