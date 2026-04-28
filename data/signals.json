@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 601,
+  "total_found": 602,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44633,
-      "forks": 4239,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T10:14:10Z",
-      "updated_at": "2026-04-28T10:18:15Z"
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 122176,
+      "forks": 18188,
+      "language": "Python",
+      "pushed_at": "2026-04-28T14:12:36Z",
+      "updated_at": "2026-04-28T14:24:13Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 41128,
-      "forks": 7214,
-      "language": "Python",
-      "pushed_at": "2026-04-28T09:29:13Z",
-      "updated_at": "2026-04-28T09:53:39Z"
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30481,
+      "forks": 3940,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-28T14:22:36Z",
+      "updated_at": "2026-04-28T14:14:30Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21953,
-      "forks": 3603,
+      "stars": 21957,
+      "forks": 3606,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T10:19:51Z",
-      "updated_at": "2026-04-28T10:20:25Z"
+      "pushed_at": "2026-04-28T14:13:19Z",
+      "updated_at": "2026-04-28T14:19:53Z"
     },
     {
       "id": 1135791677,
       "full_name": "lsdefine/GenericAgent",
       "html_url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 7896,
-      "forks": 911,
+      "stars": 7940,
+      "forks": 914,
       "language": "Python",
-      "pushed_at": "2026-04-28T09:54:44Z",
-      "updated_at": "2026-04-28T10:08:18Z"
+      "pushed_at": "2026-04-28T14:15:15Z",
+      "updated_at": "2026-04-28T14:21:51Z"
     },
     {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 3389,
-      "forks": 715,
-      "language": "Python",
-      "pushed_at": "2026-04-28T09:49:05Z",
-      "updated_at": "2026-04-28T10:07:23Z"
+      "id": 704959035,
+      "full_name": "WeThinkIn/AIGC-Interview-Book",
+      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+      "stars": 3593,
+      "forks": 392,
+      "language": "Unknown",
+      "pushed_at": "2026-04-28T13:44:33Z",
+      "updated_at": "2026-04-28T14:12:13Z"
+    },
+    {
+      "id": 997136302,
+      "full_name": "UnicomAI/wanwu",
+      "html_url": "https://github.com/UnicomAI/wanwu",
+      "description": "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.",
+      "stars": 2897,
+      "forks": 94,
+      "language": "Go",
+      "pushed_at": "2026-04-28T14:13:36Z",
+      "updated_at": "2026-04-28T14:20:07Z"
     },
     {
       "id": 1145420469,
@@ -70,8 +81,19 @@
       "stars": 2615,
       "forks": 309,
       "language": "Rust",
-      "pushed_at": "2026-04-28T09:28:20Z",
-      "updated_at": "2026-04-28T09:28:23Z"
+      "pushed_at": "2026-04-28T14:23:20Z",
+      "updated_at": "2026-04-28T13:40:22Z"
+    },
+    {
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Web crawler and scraper for Rust",
+      "stars": 2442,
+      "forks": 198,
+      "language": "Rust",
+      "pushed_at": "2026-04-28T14:14:00Z",
+      "updated_at": "2026-04-28T14:18:49Z"
     },
     {
       "id": 1096175506,
@@ -81,19 +103,8 @@
       "stars": 1071,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T10:17:01Z",
-      "updated_at": "2026-04-28T10:16:34Z"
-    },
-    {
-      "id": 945671748,
-      "full_name": "openops-cloud/openops",
-      "html_url": "https://github.com/openops-cloud/openops",
-      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 1019,
-      "forks": 176,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-28T09:32:00Z",
-      "updated_at": "2026-04-28T09:32:03Z"
+      "pushed_at": "2026-04-28T14:22:27Z",
+      "updated_at": "2026-04-28T13:52:06Z"
     },
     {
       "id": 1160289313,
@@ -103,74 +114,63 @@
       "stars": 597,
       "forks": 44,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T10:09:33Z",
-      "updated_at": "2026-04-28T10:09:37Z"
+      "pushed_at": "2026-04-28T14:23:40Z",
+      "updated_at": "2026-04-28T14:23:58Z"
     },
     {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Plan-first AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
-      "stars": 576,
-      "forks": 44,
-      "language": "Python",
-      "pushed_at": "2026-04-28T09:51:43Z",
-      "updated_at": "2026-04-28T09:51:46Z"
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 395,
+      "forks": 30,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-28T14:23:47Z",
+      "updated_at": "2026-04-28T14:09:58Z"
+    },
+    {
+      "id": 1201201482,
+      "full_name": "matevip/mateclaw",
+      "html_url": "https://github.com/matevip/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "stars": 299,
+      "forks": 96,
+      "language": "Java",
+      "pushed_at": "2026-04-28T13:45:08Z",
+      "updated_at": "2026-04-28T13:57:13Z"
     },
     {
       "id": 1193465306,
       "full_name": "iusztinpaul/designing-real-world-ai-agents-workshop",
       "html_url": "https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop",
       "description": "Hands-on workshop: Build a multi-agent AI system from scratch — Deep Research Agent + Writing Workflow served as MCP servers. Includes code, slides, and video",
-      "stars": 197,
+      "stars": 198,
       "forks": 54,
       "language": "Python",
-      "pushed_at": "2026-04-28T09:34:24Z",
-      "updated_at": "2026-04-28T09:34:28Z"
+      "pushed_at": "2026-04-28T14:21:54Z",
+      "updated_at": "2026-04-28T11:48:23Z"
     },
     {
-      "id": 1193276701,
-      "full_name": "iamtouchskyer/opc",
-      "html_url": "https://github.com/iamtouchskyer/opc",
-      "description": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
-      "stars": 161,
+      "id": 1185308721,
+      "full_name": "gbessoni/seobuild-onpage",
+      "html_url": "https://github.com/gbessoni/seobuild-onpage",
+      "description": "SEOBuild Onpage - The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK GSC, DataforSEO. Works w/ OpenClaw, Claude Code, Codex",
+      "stars": 192,
       "forks": 34,
-      "language": "Shell",
-      "pushed_at": "2026-04-28T09:47:30Z",
-      "updated_at": "2026-04-28T09:47:34Z"
-    },
-    {
-      "id": 988856738,
-      "full_name": "RekklesNA/ProxmoxMCP-Plus",
-      "html_url": "https://github.com/RekklesNA/ProxmoxMCP-Plus",
-      "description": "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
-      "stars": 154,
-      "forks": 43,
       "language": "Python",
-      "pushed_at": "2026-04-28T09:18:20Z",
-      "updated_at": "2026-04-28T09:18:12Z"
+      "pushed_at": "2026-04-28T14:19:25Z",
+      "updated_at": "2026-04-28T14:10:06Z"
     },
     {
-      "id": 1170121678,
-      "full_name": "iii-experimental/agentos",
-      "html_url": "https://github.com/iii-experimental/agentos",
-      "description": "The agent OS that evolves itself. 51 workers, 18 security layers, self-improving functions. Built on iii-engine.",
-      "stars": 123,
-      "forks": 17,
+      "id": 1156623779,
+      "full_name": "dcostenco/prism-coder",
+      "html_url": "https://github.com/dcostenco/prism-coder",
+      "description": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
+      "stars": 131,
+      "forks": 22,
       "language": "TypeScript",
-      "pushed_at": "2026-04-28T10:17:20Z",
-      "updated_at": "2026-04-28T10:13:26Z"
-    },
-    {
-      "id": 1166203076,
-      "full_name": "Alex8791-cyber/cognithor",
-      "html_url": "https://github.com/Alex8791-cyber/cognithor",
-      "description": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
-      "stars": 115,
-      "forks": 17,
-      "language": "Python",
-      "pushed_at": "2026-04-28T09:42:19Z",
-      "updated_at": "2026-04-28T09:42:11Z"
+      "pushed_at": "2026-04-28T14:10:07Z",
+      "updated_at": "2026-04-28T14:19:59Z"
     }
   ]
 }
