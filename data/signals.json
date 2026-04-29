@@ -5,95 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 607,
+  "total_found": 608,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 124359,
-      "forks": 18526,
+      "stars": 124647,
+      "forks": 18575,
       "language": "Python",
-      "pushed_at": "2026-04-29T14:02:04Z",
-      "updated_at": "2026-04-29T14:10:01Z"
+      "pushed_at": "2026-04-29T17:35:31Z",
+      "updated_at": "2026-04-29T17:41:42Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44740,
-      "forks": 4253,
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+      "stars": 25016,
+      "forks": 8132,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:54:48Z",
-      "updated_at": "2026-04-29T14:00:56Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30506,
-      "forks": 3941,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T14:09:22Z",
-      "updated_at": "2026-04-29T13:51:39Z"
+      "pushed_at": "2026-04-29T16:59:27Z",
+      "updated_at": "2026-04-29T17:36:41Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 22905,
-      "forks": 1949,
+      "stars": 22957,
+      "forks": 1954,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T14:00:50Z",
-      "updated_at": "2026-04-29T14:09:08Z"
+      "pushed_at": "2026-04-29T17:42:28Z",
+      "updated_at": "2026-04-29T17:31:51Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 21984,
-      "forks": 3608,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-29T14:03:06Z",
-      "updated_at": "2026-04-29T13:55:51Z"
+      "id": 1142274728,
+      "full_name": "jo-inc/camofox-browser",
+      "html_url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": 3442,
+      "forks": 342,
+      "language": "JavaScript",
+      "pushed_at": "2026-04-29T16:56:09Z",
+      "updated_at": "2026-04-29T17:22:33Z"
     },
     {
-      "id": 1139782619,
-      "full_name": "saturndec/waoowaoo",
-      "html_url": "https://github.com/saturndec/waoowaoo",
-      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
-      "stars": 11871,
-      "forks": 2684,
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "An Open Agent Computer for ANY digital work.",
+      "stars": 3405,
+      "forks": 242,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:48:32Z",
-      "updated_at": "2026-04-29T14:02:52Z"
-    },
-    {
-      "id": 1118085970,
-      "full_name": "alibaba/OpenSandbox",
-      "html_url": "https://github.com/alibaba/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10359,
-      "forks": 821,
-      "language": "Python",
-      "pushed_at": "2026-04-29T13:40:55Z",
-      "updated_at": "2026-04-29T14:02:17Z"
+      "pushed_at": "2026-04-29T17:25:33Z",
+      "updated_at": "2026-04-29T17:27:38Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 2796,
+      "stars": 2800,
       "forks": 268,
       "language": "Python",
-      "pushed_at": "2026-04-29T13:56:50Z",
-      "updated_at": "2026-04-29T13:43:18Z"
+      "pushed_at": "2026-04-29T17:15:28Z",
+      "updated_at": "2026-04-29T17:15:32Z"
+    },
+    {
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 2023,
+      "forks": 426,
+      "language": "Python",
+      "pushed_at": "2026-04-29T16:57:47Z",
+      "updated_at": "2026-04-29T16:55:13Z"
+    },
+    {
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 1752,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T17:31:27Z",
+      "updated_at": "2026-04-29T17:39:14Z"
     },
     {
       "id": 1096175506,
@@ -103,52 +103,52 @@
       "stars": 1072,
       "forks": 58,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T14:06:10Z",
-      "updated_at": "2026-04-29T14:04:27Z"
+      "pushed_at": "2026-04-29T17:21:05Z",
+      "updated_at": "2026-04-29T17:11:04Z"
+    },
+    {
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+      "stars": 622,
+      "forks": 89,
+      "language": "Rust",
+      "pushed_at": "2026-04-29T17:29:04Z",
+      "updated_at": "2026-04-29T17:29:08Z"
     },
     {
       "id": 1153919891,
       "full_name": "redwoodjs/agent-ci",
       "html_url": "https://github.com/redwoodjs/agent-ci",
       "description": "Agent-CI is local GitHub Actions for your agents.",
-      "stars": 613,
+      "stars": 616,
       "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:53:46Z",
-      "updated_at": "2026-04-29T13:53:42Z"
+      "pushed_at": "2026-04-29T17:25:32Z",
+      "updated_at": "2026-04-29T17:34:44Z"
     },
     {
       "id": 1160289313,
       "full_name": "rcarmo/piclaw",
       "html_url": "https://github.com/rcarmo/piclaw",
       "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 598,
-      "forks": 44,
+      "stars": 599,
+      "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-04-29T13:56:14Z",
-      "updated_at": "2026-04-29T13:57:25Z"
+      "pushed_at": "2026-04-29T17:05:30Z",
+      "updated_at": "2026-04-29T17:05:35Z"
     },
     {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 345,
-      "forks": 15,
-      "language": "ReScript",
-      "pushed_at": "2026-04-29T13:33:04Z",
-      "updated_at": "2026-04-29T14:03:33Z"
-    },
-    {
-      "id": 1193276701,
-      "full_name": "iamtouchskyer/opc",
-      "html_url": "https://github.com/iamtouchskyer/opc",
-      "description": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
-      "stars": 163,
-      "forks": 35,
-      "language": "Shell",
-      "pushed_at": "2026-04-29T13:55:53Z",
-      "updated_at": "2026-04-29T13:56:29Z"
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 423,
+      "forks": 31,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-29T17:07:56Z",
+      "updated_at": "2026-04-29T17:07:58Z"
     },
     {
       "id": 1170121678,
@@ -158,8 +158,8 @@
       "stars": 126,
       "forks": 18,
       "language": "Rust",
-      "pushed_at": "2026-04-29T14:02:35Z",
-      "updated_at": "2026-04-29T14:06:02Z"
+      "pushed_at": "2026-04-29T16:59:00Z",
+      "updated_at": "2026-04-29T16:57:11Z"
     },
     {
       "id": 1166203076,
@@ -169,8 +169,8 @@
       "stars": 116,
       "forks": 17,
       "language": "Python",
-      "pushed_at": "2026-04-29T14:09:44Z",
-      "updated_at": "2026-04-29T14:01:44Z"
+      "pushed_at": "2026-04-29T17:36:15Z",
+      "updated_at": "2026-04-29T17:34:16Z"
     }
   ]
 }
