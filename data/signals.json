@@ -12,110 +12,88 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 125321,
-      "forks": 18703,
+      "stars": 125554,
+      "forks": 18755,
       "language": "Python",
-      "pushed_at": "2026-04-30T03:33:32Z",
-      "updated_at": "2026-04-30T03:35:19Z"
+      "pushed_at": "2026-04-30T06:24:00Z",
+      "updated_at": "2026-04-30T06:31:15Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44768,
+      "stars": 44781,
       "forks": 4257,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T03:32:54Z",
-      "updated_at": "2026-04-30T03:27:19Z"
+      "pushed_at": "2026-04-30T06:29:44Z",
+      "updated_at": "2026-04-30T06:17:54Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 41312,
-      "forks": 7244,
+      "stars": 41321,
+      "forks": 7245,
       "language": "Python",
-      "pushed_at": "2026-04-30T03:28:20Z",
-      "updated_at": "2026-04-30T03:34:03Z"
+      "pushed_at": "2026-04-30T06:05:25Z",
+      "updated_at": "2026-04-30T06:25:47Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30516,
+      "stars": 30520,
       "forks": 3940,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T03:30:57Z",
-      "updated_at": "2026-04-30T03:37:50Z"
-    },
-    {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "Any model. Every tool. Zero limits.",
-      "stars": 25088,
-      "forks": 8151,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-30T02:25:03Z",
-      "updated_at": "2026-04-30T03:27:07Z"
+      "pushed_at": "2026-04-30T06:27:19Z",
+      "updated_at": "2026-04-30T06:20:14Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-      "stars": 23043,
-      "forks": 1968,
+      "stars": 23071,
+      "forks": 1973,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T02:38:34Z",
-      "updated_at": "2026-04-30T03:36:42Z"
+      "pushed_at": "2026-04-30T05:53:33Z",
+      "updated_at": "2026-04-30T06:24:51Z"
     },
     {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
-      "stars": 9643,
-      "forks": 1037,
-      "language": "Python",
-      "pushed_at": "2026-04-30T03:18:34Z",
-      "updated_at": "2026-04-30T03:32:59Z"
-    },
-    {
-      "id": 243201359,
-      "full_name": "killop/anything_about_game",
-      "html_url": "https://github.com/killop/anything_about_game",
-      "description": "A wonderful list of Game Development resources.",
-      "stars": 3882,
-      "forks": 499,
-      "language": "Unknown",
-      "pushed_at": "2026-04-30T02:19:57Z",
-      "updated_at": "2026-04-30T02:20:02Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 3670,
-      "forks": 339,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 21991,
+      "forks": 3608,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T03:35:02Z",
-      "updated_at": "2026-04-30T03:35:06Z"
+      "pushed_at": "2026-04-30T06:14:18Z",
+      "updated_at": "2026-04-30T06:14:54Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 2971,
-      "forks": 372,
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 4842,
+      "forks": 951,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T02:55:34Z",
-      "updated_at": "2026-04-30T03:32:58Z"
+      "pushed_at": "2026-04-30T06:28:46Z",
+      "updated_at": "2026-04-30T06:09:23Z"
+    },
+    {
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "An Open Agent Computer for ANY digital work.",
+      "stars": 3452,
+      "forks": 247,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-30T06:26:55Z",
+      "updated_at": "2026-04-30T06:13:48Z"
     },
     {
       "id": 1109341946,
@@ -125,8 +103,19 @@
       "stars": 2229,
       "forks": 255,
       "language": "Go",
-      "pushed_at": "2026-04-30T02:51:14Z",
-      "updated_at": "2026-04-30T02:51:13Z"
+      "pushed_at": "2026-04-30T06:10:19Z",
+      "updated_at": "2026-04-30T06:10:15Z"
+    },
+    {
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 1799,
+      "forks": 181,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-30T05:36:55Z",
+      "updated_at": "2026-04-30T06:21:01Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +125,52 @@
       "stars": 1071,
       "forks": 58,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T03:34:59Z",
-      "updated_at": "2026-04-30T03:23:39Z"
+      "pushed_at": "2026-04-30T06:19:29Z",
+      "updated_at": "2026-04-30T06:03:56Z"
+    },
+    {
+      "id": 1200204014,
+      "full_name": "brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "html_url": "https://github.com/brycewang-stanford/Awesome-Agent-Skills-for-Empirical-Research",
+      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+      "stars": 540,
+      "forks": 107,
+      "language": "Stata",
+      "pushed_at": "2026-04-30T06:22:07Z",
+      "updated_at": "2026-04-30T06:22:12Z"
     },
     {
       "id": 1188475888,
       "full_name": "BlockRunAI/Franklin",
       "html_url": "https://github.com/BlockRunAI/Franklin",
       "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 430,
-      "forks": 31,
+      "stars": 435,
+      "forks": 34,
       "language": "TypeScript",
-      "pushed_at": "2026-04-30T03:26:39Z",
-      "updated_at": "2026-04-30T03:32:28Z"
+      "pushed_at": "2026-04-30T05:25:35Z",
+      "updated_at": "2026-04-30T06:13:06Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 367,
-      "forks": 83,
-      "language": "TypeScript",
-      "pushed_at": "2026-04-30T03:08:06Z",
-      "updated_at": "2026-04-30T03:08:10Z"
-    },
-    {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 360,
-      "forks": 78,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 283,
+      "forks": 47,
       "language": "Python",
-      "pushed_at": "2026-04-30T02:42:27Z",
-      "updated_at": "2026-04-30T02:42:31Z"
+      "pushed_at": "2026-04-30T05:20:51Z",
+      "updated_at": "2026-04-30T05:20:54Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
+      "stars": 128,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-04-30T06:23:58Z",
+      "updated_at": "2026-04-30T06:24:00Z"
     }
   ]
 }
