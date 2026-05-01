@@ -12,88 +12,77 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 127305,
-      "forks": 19097,
+      "stars": 127564,
+      "forks": 19151,
       "language": "Python",
-      "pushed_at": "2026-05-01T09:50:39Z",
-      "updated_at": "2026-05-01T09:50:18Z"
+      "pushed_at": "2026-05-01T13:15:54Z",
+      "updated_at": "2026-05-01T13:37:41Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 44844,
-      "forks": 4261,
+      "stars": 44852,
+      "forks": 4262,
       "language": "TypeScript",
-      "pushed_at": "2026-05-01T09:19:05Z",
-      "updated_at": "2026-05-01T09:25:26Z"
+      "pushed_at": "2026-05-01T12:39:48Z",
+      "updated_at": "2026-05-01T13:27:51Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30548,
+      "stars": 30555,
       "forks": 3945,
       "language": "TypeScript",
-      "pushed_at": "2026-05-01T09:50:34Z",
-      "updated_at": "2026-05-01T09:36:22Z"
+      "pushed_at": "2026-05-01T13:32:24Z",
+      "updated_at": "2026-05-01T13:23:38Z"
     },
     {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
-      "stars": 10217,
-      "forks": 1086,
-      "language": "Python",
-      "pushed_at": "2026-05-01T08:43:17Z",
-      "updated_at": "2026-05-01T09:49:27Z"
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 18395,
+      "forks": 1813,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-01T12:18:58Z",
+      "updated_at": "2026-05-01T13:06:50Z"
     },
     {
       "id": 981177285,
       "full_name": "presenton/presenton",
       "html_url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 4855,
-      "forks": 951,
+      "stars": 4859,
+      "forks": 952,
       "language": "JavaScript",
-      "pushed_at": "2026-05-01T08:30:16Z",
-      "updated_at": "2026-05-01T09:38:38Z"
+      "pushed_at": "2026-05-01T13:20:59Z",
+      "updated_at": "2026-05-01T13:33:13Z"
     },
     {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3607,
-      "forks": 394,
-      "language": "Unknown",
-      "pushed_at": "2026-05-01T09:49:48Z",
-      "updated_at": "2026-05-01T09:49:52Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3176,
-      "forks": 394,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 3742,
+      "forks": 349,
       "language": "TypeScript",
-      "pushed_at": "2026-05-01T08:05:16Z",
-      "updated_at": "2026-05-01T09:36:16Z"
+      "pushed_at": "2026-05-01T13:27:42Z",
+      "updated_at": "2026-05-01T13:32:29Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 2988,
-      "forks": 797,
+      "stars": 2991,
+      "forks": 800,
       "language": "Go",
-      "pushed_at": "2026-05-01T08:07:48Z",
-      "updated_at": "2026-05-01T09:39:34Z"
+      "pushed_at": "2026-05-01T12:46:33Z",
+      "updated_at": "2026-05-01T13:33:54Z"
     },
     {
       "id": 1145420469,
@@ -103,19 +92,41 @@
       "stars": 2629,
       "forks": 311,
       "language": "Rust",
-      "pushed_at": "2026-05-01T08:22:17Z",
-      "updated_at": "2026-05-01T08:10:17Z"
+      "pushed_at": "2026-05-01T13:29:07Z",
+      "updated_at": "2026-05-01T12:54:50Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2045,
-      "forks": 433,
-      "language": "Python",
-      "pushed_at": "2026-05-01T08:53:37Z",
-      "updated_at": "2026-05-01T08:30:35Z"
+      "id": 116590428,
+      "full_name": "spider-rs/spider",
+      "html_url": "https://github.com/spider-rs/spider",
+      "description": "Low latency web data collector",
+      "stars": 2446,
+      "forks": 197,
+      "language": "Rust",
+      "pushed_at": "2026-05-01T13:33:45Z",
+      "updated_at": "2026-05-01T13:33:47Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 1845,
+      "forks": 191,
+      "language": "Go",
+      "pushed_at": "2026-05-01T13:34:44Z",
+      "updated_at": "2026-05-01T13:03:07Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1512,
+      "forks": 151,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-01T13:31:14Z",
+      "updated_at": "2026-05-01T13:31:20Z"
     },
     {
       "id": 1133660268,
@@ -125,52 +136,41 @@
       "stars": 1097,
       "forks": 141,
       "language": "TypeScript",
-      "pushed_at": "2026-05-01T08:38:49Z",
-      "updated_at": "2026-05-01T09:21:37Z"
+      "pushed_at": "2026-05-01T13:21:46Z",
+      "updated_at": "2026-05-01T13:18:54Z"
     },
     {
-      "id": 945671748,
-      "full_name": "openops-cloud/openops",
-      "html_url": "https://github.com/openops-cloud/openops",
-      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 1020,
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 971,
       "forks": 176,
+      "language": "Go",
+      "pushed_at": "2026-05-01T13:30:30Z",
+      "updated_at": "2026-05-01T13:17:57Z"
+    },
+    {
+      "id": 1196898989,
+      "full_name": "awizemann/scarf",
+      "html_url": "https://github.com/awizemann/scarf",
+      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+      "stars": 353,
+      "forks": 19,
+      "language": "Swift",
+      "pushed_at": "2026-05-01T13:17:42Z",
+      "updated_at": "2026-05-01T13:17:48Z"
+    },
+    {
+      "id": 1158138383,
+      "full_name": "CyberStrikeus/CyberStrike",
+      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "stars": 245,
+      "forks": 51,
       "language": "TypeScript",
-      "pushed_at": "2026-05-01T08:11:29Z",
-      "updated_at": "2026-05-01T08:00:30Z"
-    },
-    {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 755,
-      "forks": 40,
-      "language": "Python",
-      "pushed_at": "2026-05-01T09:13:54Z",
-      "updated_at": "2026-05-01T09:32:36Z"
-    },
-    {
-      "id": 1153494379,
-      "full_name": "grinev/opencode-telegram-bot",
-      "html_url": "https://github.com/grinev/opencode-telegram-bot",
-      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.",
-      "stars": 569,
-      "forks": 100,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-01T09:43:04Z",
-      "updated_at": "2026-05-01T09:43:07Z"
-    },
-    {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 363,
-      "forks": 15,
-      "language": "ReScript",
-      "pushed_at": "2026-05-01T08:51:26Z",
-      "updated_at": "2026-05-01T08:51:28Z"
+      "pushed_at": "2026-05-01T12:58:57Z",
+      "updated_at": "2026-05-01T12:59:01Z"
     }
   ]
 }
