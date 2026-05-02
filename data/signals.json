@@ -8,103 +8,136 @@
   "total_found": 621,
   "items": [
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30576,
-      "forks": 3948,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-02T05:51:37Z",
-      "updated_at": "2026-05-02T06:00:11Z"
-    },
-    {
-      "id": 169975410,
-      "full_name": "leon-ai/leon",
-      "html_url": "https://github.com/leon-ai/leon",
-      "description": "🧠 Leon is your open-source personal assistant.",
-      "stars": 17204,
-      "forks": 1440,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-02T06:00:13Z",
-      "updated_at": "2026-05-02T06:00:17Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
-      "stars": 10510,
-      "forks": 1105,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 128834,
+      "forks": 19412,
       "language": "Python",
-      "pushed_at": "2026-05-02T05:56:00Z",
-      "updated_at": "2026-05-02T06:09:48Z"
+      "pushed_at": "2026-05-02T09:09:48Z",
+      "updated_at": "2026-05-02T09:11:52Z"
     },
     {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 7162,
-      "forks": 722,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-02T05:53:17Z",
-      "updated_at": "2026-05-02T06:05:32Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 3798,
-      "forks": 353,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 44883,
+      "forks": 4264,
       "language": "TypeScript",
-      "pushed_at": "2026-05-02T06:10:16Z",
-      "updated_at": "2026-05-02T06:10:21Z"
+      "pushed_at": "2026-05-02T08:18:20Z",
+      "updated_at": "2026-05-02T08:39:58Z"
+    },
+    {
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 41494,
+      "forks": 7288,
+      "language": "Python",
+      "pushed_at": "2026-05-02T07:40:32Z",
+      "updated_at": "2026-05-02T09:01:05Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 18451,
+      "forks": 1814,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-02T08:51:19Z",
+      "updated_at": "2026-05-02T08:59:58Z"
+    },
+    {
+      "id": 1179413000,
+      "full_name": "Narcooo/inkos",
+      "html_url": "https://github.com/Narcooo/inkos",
+      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
+      "stars": 5401,
+      "forks": 1019,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-02T09:08:40Z",
+      "updated_at": "2026-05-02T09:08:44Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 3649,
-      "forks": 255,
+      "stars": 3687,
+      "forks": 257,
       "language": "TypeScript",
-      "pushed_at": "2026-05-02T06:01:23Z",
-      "updated_at": "2026-05-02T06:04:13Z"
-    },
-    {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3609,
-      "forks": 394,
-      "language": "Unknown",
-      "pushed_at": "2026-05-02T05:00:52Z",
-      "updated_at": "2026-05-02T05:09:11Z"
+      "pushed_at": "2026-05-02T08:56:16Z",
+      "updated_at": "2026-05-02T09:07:10Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3252,
-      "forks": 402,
+      "stars": 3265,
+      "forks": 405,
       "language": "TypeScript",
-      "pushed_at": "2026-05-02T05:26:57Z",
-      "updated_at": "2026-05-02T05:55:15Z"
+      "pushed_at": "2026-05-02T09:10:47Z",
+      "updated_at": "2026-05-02T09:05:31Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2634,
+      "forks": 311,
+      "language": "Rust",
+      "pushed_at": "2026-05-02T09:06:52Z",
+      "updated_at": "2026-05-02T09:06:54Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1072,
+      "forks": 59,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-02T09:11:49Z",
+      "updated_at": "2026-05-02T08:25:04Z"
+    },
+    {
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1020,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-02T08:58:32Z",
+      "updated_at": "2026-05-02T08:58:35Z"
     },
     {
       "id": 1160289313,
       "full_name": "rcarmo/piclaw",
       "html_url": "https://github.com/rcarmo/piclaw",
       "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 612,
+      "stars": 613,
       "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-05-02T05:17:05Z",
-      "updated_at": "2026-05-02T05:43:29Z"
+      "pushed_at": "2026-05-02T08:58:14Z",
+      "updated_at": "2026-05-02T08:58:17Z"
+    },
+    {
+      "id": 1145881485,
+      "full_name": "Arvincreator/project-golem",
+      "html_url": "https://github.com/Arvincreator/project-golem",
+      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
+      "stars": 479,
+      "forks": 76,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-02T08:27:44Z",
+      "updated_at": "2026-05-02T09:01:41Z"
     },
     {
       "id": 927203006,
@@ -114,8 +147,8 @@
       "stars": 412,
       "forks": 56,
       "language": "Go",
-      "pushed_at": "2026-05-02T05:32:19Z",
-      "updated_at": "2026-05-02T05:32:24Z"
+      "pushed_at": "2026-05-02T09:10:03Z",
+      "updated_at": "2026-05-02T09:10:08Z"
     },
     {
       "id": 1066256303,
@@ -125,52 +158,19 @@
       "stars": 378,
       "forks": 15,
       "language": "ReScript",
-      "pushed_at": "2026-05-02T05:46:29Z",
-      "updated_at": "2026-05-02T05:37:18Z"
+      "pushed_at": "2026-05-02T09:06:08Z",
+      "updated_at": "2026-05-02T08:26:11Z"
     },
     {
-      "id": 1160505943,
-      "full_name": "jaechang-hits/SciAgent-Skills",
-      "html_url": "https://github.com/jaechang-hits/SciAgent-Skills",
-      "description": "197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, proteomics, and more. Powers OmicsHorizon.",
-      "stars": 135,
-      "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-05-02T06:04:34Z",
-      "updated_at": "2026-05-02T05:37:34Z"
-    },
-    {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-coder",
-      "html_url": "https://github.com/dcostenco/prism-coder",
-      "description": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
-      "stars": 132,
-      "forks": 22,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-02T06:07:53Z",
-      "updated_at": "2026-05-02T06:07:56Z"
-    },
-    {
-      "id": 1166203076,
-      "full_name": "Alex8791-cyber/cognithor",
-      "html_url": "https://github.com/Alex8791-cyber/cognithor",
-      "description": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
-      "stars": 118,
-      "forks": 18,
-      "language": "Python",
-      "pushed_at": "2026-05-02T06:03:51Z",
-      "updated_at": "2026-05-02T05:59:47Z"
-    },
-    {
-      "id": 1150205195,
-      "full_name": "pardnchiu/Agenvoy",
-      "html_url": "https://github.com/pardnchiu/Agenvoy",
-      "description": "Agentic framework | Self-improving memory | Pluggable tool extensions | Sandbox execution",
-      "stars": 75,
-      "forks": 10,
-      "language": "Go",
-      "pushed_at": "2026-05-02T05:41:02Z",
-      "updated_at": "2026-05-02T05:41:06Z"
+      "id": 1201201482,
+      "full_name": "matevip/mateclaw",
+      "html_url": "https://github.com/matevip/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "stars": 368,
+      "forks": 118,
+      "language": "Java",
+      "pushed_at": "2026-05-02T07:42:15Z",
+      "updated_at": "2026-05-02T07:42:19Z"
     }
   ]
 }
