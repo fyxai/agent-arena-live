@@ -8,48 +8,81 @@
   "total_found": 623,
   "items": [
     {
-      "id": 1118085970,
-      "full_name": "alibaba/OpenSandbox",
-      "html_url": "https://github.com/alibaba/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10407,
-      "forks": 827,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 130286,
+      "forks": 19716,
       "language": "Python",
-      "pushed_at": "2026-05-03T05:37:57Z",
-      "updated_at": "2026-05-03T05:46:23Z"
+      "pushed_at": "2026-05-03T09:19:56Z",
+      "updated_at": "2026-05-03T09:23:09Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22020,
+      "forks": 3612,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-03T09:18:07Z",
+      "updated_at": "2026-05-03T09:03:22Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 18528,
+      "forks": 1823,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-03T09:21:44Z",
+      "updated_at": "2026-05-03T09:20:59Z"
+    },
+    {
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 8863,
+      "forks": 1016,
+      "language": "Python",
+      "pushed_at": "2026-05-03T08:36:58Z",
+      "updated_at": "2026-05-03T09:22:02Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 3905,
-      "forks": 257,
+      "stars": 3937,
+      "forks": 256,
       "language": "TypeScript",
-      "pushed_at": "2026-05-03T05:43:47Z",
-      "updated_at": "2026-05-03T06:26:21Z"
+      "pushed_at": "2026-05-03T09:11:47Z",
+      "updated_at": "2026-05-03T09:13:54Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 3842,
-      "forks": 355,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-03T06:10:16Z",
-      "updated_at": "2026-05-03T06:17:12Z"
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 3764,
+      "forks": 470,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-03T09:12:30Z",
+      "updated_at": "2026-05-03T09:20:38Z"
     },
     {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3614,
-      "forks": 394,
-      "language": "Unknown",
-      "pushed_at": "2026-05-03T05:47:54Z",
-      "updated_at": "2026-05-03T05:47:59Z"
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "stars": 3363,
+      "forks": 420,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-03T08:54:05Z",
+      "updated_at": "2026-05-03T08:59:55Z"
     },
     {
       "id": 1145420469,
@@ -59,19 +92,19 @@
       "stars": 2640,
       "forks": 311,
       "language": "Rust",
-      "pushed_at": "2026-05-03T06:17:28Z",
-      "updated_at": "2026-05-03T06:17:30Z"
+      "pushed_at": "2026-05-03T09:19:47Z",
+      "updated_at": "2026-05-03T09:19:49Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2057,
-      "forks": 438,
-      "language": "Python",
-      "pushed_at": "2026-05-03T05:23:40Z",
-      "updated_at": "2026-05-03T06:18:26Z"
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 1886,
+      "forks": 195,
+      "language": "Go",
+      "pushed_at": "2026-05-03T09:16:52Z",
+      "updated_at": "2026-05-03T09:17:02Z"
     },
     {
       "id": 1096175506,
@@ -81,74 +114,52 @@
       "stars": 1072,
       "forks": 59,
       "language": "TypeScript",
-      "pushed_at": "2026-05-03T06:25:55Z",
-      "updated_at": "2026-05-03T06:16:42Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 623,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-03T05:59:51Z",
-      "updated_at": "2026-05-03T05:59:55Z"
+      "pushed_at": "2026-05-03T09:22:21Z",
+      "updated_at": "2026-05-03T09:02:02Z"
     },
     {
       "id": 1188475888,
       "full_name": "BlockRunAI/Franklin",
       "html_url": "https://github.com/BlockRunAI/Franklin",
       "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 493,
+      "stars": 495,
       "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-05-03T05:47:58Z",
-      "updated_at": "2026-05-03T05:48:02Z"
+      "pushed_at": "2026-05-03T09:21:03Z",
+      "updated_at": "2026-05-03T09:16:33Z"
     },
     {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
       "stars": 389,
-      "forks": 24,
-      "language": "Unknown",
-      "pushed_at": "2026-05-03T06:26:25Z",
-      "updated_at": "2026-05-03T06:26:29Z"
+      "forks": 16,
+      "language": "ReScript",
+      "pushed_at": "2026-05-03T09:09:27Z",
+      "updated_at": "2026-05-03T09:09:30Z"
     },
     {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 283,
-      "forks": 47,
-      "language": "Python",
-      "pushed_at": "2026-05-03T05:54:48Z",
-      "updated_at": "2026-05-03T06:09:14Z"
+      "id": 1201201482,
+      "full_name": "matevip/mateclaw",
+      "html_url": "https://github.com/matevip/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "stars": 377,
+      "forks": 122,
+      "language": "Java",
+      "pushed_at": "2026-05-03T09:16:07Z",
+      "updated_at": "2026-05-03T09:16:11Z"
     },
     {
-      "id": 1148395300,
-      "full_name": "princezuda/safestclaw",
-      "html_url": "https://github.com/princezuda/safestclaw",
-      "description": "Safestclaw is the alternative to openclaw.. You can naturally chat with it via text and voice, and you can choose not to use a language model., By default it picks up on intent and semantics..  No prompt injection while you get over ninety percent of what openclaw does plus tts and voice to text  ",
-      "stars": 271,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-05-03T06:14:26Z",
-      "updated_at": "2026-05-03T06:14:30Z"
-    },
-    {
-      "id": 1188833811,
-      "full_name": "krzysztofdudek/ResearcherSkill",
-      "html_url": "https://github.com/krzysztofdudek/ResearcherSkill",
-      "description": "One file. Your AI agent becomes a scientist. 30+ experiments while you sleep.",
-      "stars": 209,
-      "forks": 24,
-      "language": "Python",
-      "pushed_at": "2026-05-03T05:34:04Z",
-      "updated_at": "2026-05-03T05:33:59Z"
+      "id": 1067194496,
+      "full_name": "microsoft/DebugMCP",
+      "html_url": "https://github.com/microsoft/DebugMCP",
+      "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
+      "stars": 322,
+      "forks": 26,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-03T08:58:28Z",
+      "updated_at": "2026-05-03T08:58:33Z"
     },
     {
       "id": 1166203076,
@@ -158,19 +169,8 @@
       "stars": 121,
       "forks": 18,
       "language": "Python",
-      "pushed_at": "2026-05-03T06:18:15Z",
-      "updated_at": "2026-05-03T06:18:21Z"
-    },
-    {
-      "id": 1214283720,
-      "full_name": "JackLuguibin/OpenPawlet",
-      "html_url": "https://github.com/JackLuguibin/OpenPawlet",
-      "description": "OpenPawlet (PyPI package name open-pawlet) is a single-process web console for the OpenPawlet ecosystem. It exposes an HTTP API, a browser UI, an OpenAI-compatible /v1/* surface and the embedded agent runtime",
-      "stars": 101,
-      "forks": 37,
-      "language": "Python",
-      "pushed_at": "2026-05-03T06:02:43Z",
-      "updated_at": "2026-05-03T06:02:47Z"
+      "pushed_at": "2026-05-03T09:19:14Z",
+      "updated_at": "2026-05-03T09:19:19Z"
     }
   ]
 }
