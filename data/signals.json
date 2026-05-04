@@ -5,18 +5,18 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 630,
+  "total_found": 631,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 132402,
-      "forks": 20113,
+      "stars": 132575,
+      "forks": 20147,
       "language": "Python",
-      "pushed_at": "2026-05-04T17:41:58Z",
-      "updated_at": "2026-05-04T17:44:26Z"
+      "pushed_at": "2026-05-04T21:04:19Z",
+      "updated_at": "2026-05-04T21:12:14Z"
     },
     {
       "id": 655515393,
@@ -26,96 +26,107 @@
       "stars": 30602,
       "forks": 3950,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T17:39:16Z",
-      "updated_at": "2026-05-04T17:44:02Z"
+      "pushed_at": "2026-05-04T21:05:48Z",
+      "updated_at": "2026-05-04T21:01:33Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 18675,
-      "forks": 1830,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-04T17:44:31Z",
-      "updated_at": "2026-05-04T17:39:27Z"
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22043,
+      "forks": 3616,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T20:58:26Z",
+      "updated_at": "2026-05-04T20:58:32Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 15605,
-      "forks": 962,
+      "stars": 15610,
+      "forks": 963,
       "language": "HTML",
-      "pushed_at": "2026-05-04T16:55:42Z",
-      "updated_at": "2026-05-04T17:38:01Z"
+      "pushed_at": "2026-05-04T19:47:56Z",
+      "updated_at": "2026-05-04T20:58:57Z"
     },
     {
-      "id": 1179413000,
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 5602,
-      "forks": 1045,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-04T16:48:13Z",
-      "updated_at": "2026-05-04T17:15:41Z"
+      "id": 114870155,
+      "full_name": "CommandCodeAI/command-code",
+      "html_url": "https://github.com/CommandCodeAI/command-code",
+      "description": "Command Code AI",
+      "stars": 3140,
+      "forks": 325,
+      "language": "Unknown",
+      "pushed_at": "2026-05-04T20:31:05Z",
+      "updated_at": "2026-05-04T20:46:06Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2738,
-      "forks": 175,
-      "language": "Python",
-      "pushed_at": "2026-05-04T17:26:06Z",
-      "updated_at": "2026-05-04T17:19:42Z"
+      "id": 114540126,
+      "full_name": "SciSharp/BotSharp",
+      "html_url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "stars": 3055,
+      "forks": 631,
+      "language": "C#",
+      "pushed_at": "2026-05-04T19:56:24Z",
+      "updated_at": "2026-05-04T19:56:31Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
-      "stars": 2646,
+      "stars": 2647,
       "forks": 311,
       "language": "Rust",
-      "pushed_at": "2026-05-04T17:05:04Z",
-      "updated_at": "2026-05-04T17:05:07Z"
-    },
-    {
-      "id": 1003614809,
-      "full_name": "kite-org/kite",
-      "html_url": "https://github.com/kite-org/kite",
-      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
-      "stars": 2607,
-      "forks": 223,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-04T17:41:07Z",
-      "updated_at": "2026-05-04T17:35:50Z"
-    },
-    {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 1915,
-      "forks": 196,
-      "language": "Go",
-      "pushed_at": "2026-05-04T17:24:12Z",
-      "updated_at": "2026-05-04T17:24:21Z"
+      "pushed_at": "2026-05-04T20:34:28Z",
+      "updated_at": "2026-05-04T20:36:56Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1097,
+      "stars": 1100,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T17:44:24Z",
-      "updated_at": "2026-05-04T17:36:33Z"
+      "pushed_at": "2026-05-04T20:57:36Z",
+      "updated_at": "2026-05-04T20:44:19Z"
+    },
+    {
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1020,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T20:32:03Z",
+      "updated_at": "2026-05-04T20:36:00Z"
+    },
+    {
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
+      "stars": 956,
+      "forks": 50,
+      "language": "Python",
+      "pushed_at": "2026-05-04T20:56:51Z",
+      "updated_at": "2026-05-04T20:59:05Z"
+    },
+    {
+      "id": 1187461911,
+      "full_name": "openyak/openyak",
+      "html_url": "https://github.com/openyak/openyak",
+      "description": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
+      "stars": 807,
+      "forks": 49,
+      "language": "Python",
+      "pushed_at": "2026-05-04T20:59:43Z",
+      "updated_at": "2026-05-04T20:59:46Z"
     },
     {
       "id": 1160289313,
@@ -125,8 +136,19 @@
       "stars": 630,
       "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T17:18:07Z",
-      "updated_at": "2026-05-04T17:18:13Z"
+      "pushed_at": "2026-05-04T20:14:58Z",
+      "updated_at": "2026-05-04T20:15:03Z"
+    },
+    {
+      "id": 1153494379,
+      "full_name": "grinev/opencode-telegram-bot",
+      "html_url": "https://github.com/grinev/opencode-telegram-bot",
+      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alternative.",
+      "stars": 588,
+      "forks": 106,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T19:54:53Z",
+      "updated_at": "2026-05-04T19:54:59Z"
     },
     {
       "id": 1188475888,
@@ -136,8 +158,8 @@
       "stars": 511,
       "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T17:40:59Z",
-      "updated_at": "2026-05-04T17:41:02Z"
+      "pushed_at": "2026-05-04T19:31:17Z",
+      "updated_at": "2026-05-04T19:31:20Z"
     },
     {
       "id": 1142397834,
@@ -147,30 +169,8 @@
       "stars": 468,
       "forks": 37,
       "language": "Go",
-      "pushed_at": "2026-05-04T17:43:39Z",
-      "updated_at": "2026-05-04T17:26:38Z"
-    },
-    {
-      "id": 1179222510,
-      "full_name": "macOS26/Agent",
-      "html_url": "https://github.com/macOS26/Agent",
-      "description": "Any AI, replaces Claude Code, Cursor, OpenClaw. Over 18 LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automates Safari, use AppleScript, JS or Accessibility, extend Agent! w/ MCP Servers, run tasks from your iPhone via Messages.",
-      "stars": 407,
-      "forks": 30,
-      "language": "Swift",
-      "pushed_at": "2026-05-04T17:07:48Z",
-      "updated_at": "2026-05-04T17:07:54Z"
-    },
-    {
-      "id": 1166203076,
-      "full_name": "Alex8791-cyber/cognithor",
-      "html_url": "https://github.com/Alex8791-cyber/cognithor",
-      "description": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
-      "stars": 123,
-      "forks": 19,
-      "language": "Python",
-      "pushed_at": "2026-05-04T17:12:52Z",
-      "updated_at": "2026-05-04T17:11:22Z"
+      "pushed_at": "2026-05-04T20:28:18Z",
+      "updated_at": "2026-05-04T20:28:21Z"
     }
   ]
 }
