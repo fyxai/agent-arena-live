@@ -12,110 +12,132 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 132141,
-      "forks": 20066,
+      "stars": 132402,
+      "forks": 20113,
       "language": "Python",
-      "pushed_at": "2026-05-04T13:54:30Z",
-      "updated_at": "2026-05-04T14:12:07Z"
+      "pushed_at": "2026-05-04T17:41:58Z",
+      "updated_at": "2026-05-04T17:44:26Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30602,
+      "forks": 3950,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T17:39:16Z",
+      "updated_at": "2026-05-04T17:44:02Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 18667,
+      "stars": 18675,
       "forks": 1830,
       "language": "JavaScript",
-      "pushed_at": "2026-05-04T14:10:33Z",
-      "updated_at": "2026-05-04T14:05:20Z"
+      "pushed_at": "2026-05-04T17:44:31Z",
+      "updated_at": "2026-05-04T17:39:27Z"
     },
     {
-      "id": 169975410,
-      "full_name": "leon-ai/leon",
-      "html_url": "https://github.com/leon-ai/leon",
-      "description": "🧠 Leon is your open-source personal assistant.",
-      "stars": 17211,
-      "forks": 1440,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 15605,
+      "forks": 962,
+      "language": "HTML",
+      "pushed_at": "2026-05-04T16:55:42Z",
+      "updated_at": "2026-05-04T17:38:01Z"
+    },
+    {
+      "id": 1179413000,
+      "full_name": "Narcooo/inkos",
+      "html_url": "https://github.com/Narcooo/inkos",
+      "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
+      "stars": 5602,
+      "forks": 1045,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T13:45:26Z",
-      "updated_at": "2026-05-04T13:46:28Z"
+      "pushed_at": "2026-05-04T16:48:13Z",
+      "updated_at": "2026-05-04T17:15:41Z"
     },
     {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
-      "stars": 11156,
-      "forks": 1162,
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 2738,
+      "forks": 175,
       "language": "Python",
-      "pushed_at": "2026-05-04T13:28:01Z",
-      "updated_at": "2026-05-04T14:12:13Z"
+      "pushed_at": "2026-05-04T17:26:06Z",
+      "updated_at": "2026-05-04T17:19:42Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3488,
-      "forks": 425,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-04T13:34:45Z",
-      "updated_at": "2026-05-04T14:05:11Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3235,
-      "forks": 316,
-      "language": "Python",
-      "pushed_at": "2026-05-04T14:08:02Z",
-      "updated_at": "2026-05-04T14:09:58Z"
-    },
-    {
-      "id": 901554449,
-      "full_name": "stakpak/agent",
-      "html_url": "https://github.com/stakpak/agent",
-      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
-      "stars": 1470,
-      "forks": 139,
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2646,
+      "forks": 311,
       "language": "Rust",
-      "pushed_at": "2026-05-04T14:07:34Z",
-      "updated_at": "2026-05-04T14:08:06Z"
+      "pushed_at": "2026-05-04T17:05:04Z",
+      "updated_at": "2026-05-04T17:05:07Z"
     },
     {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 944,
-      "forks": 50,
-      "language": "Python",
-      "pushed_at": "2026-05-04T13:54:27Z",
-      "updated_at": "2026-05-04T14:02:31Z"
+      "id": 1003614809,
+      "full_name": "kite-org/kite",
+      "html_url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2607,
+      "forks": 223,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T17:41:07Z",
+      "updated_at": "2026-05-04T17:35:50Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 1915,
+      "forks": 196,
+      "language": "Go",
+      "pushed_at": "2026-05-04T17:24:12Z",
+      "updated_at": "2026-05-04T17:24:21Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1097,
+      "forks": 61,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T17:44:24Z",
+      "updated_at": "2026-05-04T17:36:33Z"
     },
     {
       "id": 1160289313,
       "full_name": "rcarmo/piclaw",
       "html_url": "https://github.com/rcarmo/piclaw",
       "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 627,
-      "forks": 49,
+      "stars": 630,
+      "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-05-04T14:01:11Z",
-      "updated_at": "2026-05-04T14:05:00Z"
+      "pushed_at": "2026-05-04T17:18:07Z",
+      "updated_at": "2026-05-04T17:18:13Z"
     },
     {
-      "id": 1145881485,
-      "full_name": "Arvincreator/project-golem",
-      "html_url": "https://github.com/Arvincreator/project-golem",
-      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
-      "stars": 556,
-      "forks": 89,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-04T13:59:45Z",
-      "updated_at": "2026-05-04T14:04:57Z"
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 511,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-04T17:40:59Z",
+      "updated_at": "2026-05-04T17:41:02Z"
     },
     {
       "id": 1142397834,
@@ -125,41 +147,19 @@
       "stars": 468,
       "forks": 37,
       "language": "Go",
-      "pushed_at": "2026-05-04T13:55:22Z",
-      "updated_at": "2026-05-04T14:00:43Z"
+      "pushed_at": "2026-05-04T17:43:39Z",
+      "updated_at": "2026-05-04T17:26:38Z"
     },
     {
-      "id": 1196898989,
-      "full_name": "awizemann/scarf",
-      "html_url": "https://github.com/awizemann/scarf",
-      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
-      "stars": 376,
-      "forks": 19,
+      "id": 1179222510,
+      "full_name": "macOS26/Agent",
+      "html_url": "https://github.com/macOS26/Agent",
+      "description": "Any AI, replaces Claude Code, Cursor, OpenClaw. Over 18 LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automates Safari, use AppleScript, JS or Accessibility, extend Agent! w/ MCP Servers, run tasks from your iPhone via Messages.",
+      "stars": 407,
+      "forks": 30,
       "language": "Swift",
-      "pushed_at": "2026-05-04T13:40:33Z",
-      "updated_at": "2026-05-04T13:41:01Z"
-    },
-    {
-      "id": 80163148,
-      "full_name": "tinystruct/tinystruct",
-      "html_url": "https://github.com/tinystruct/tinystruct",
-      "description": "A lightweight, modular Java application framework for web and CLI development,         designed for AI integration and plugin-based architecture.         Enabling developers to create robust solutions with ease for building efficient and scalable applications.",
-      "stars": 332,
-      "forks": 46,
-      "language": "Java",
-      "pushed_at": "2026-05-04T14:02:28Z",
-      "updated_at": "2026-05-04T14:05:44Z"
-    },
-    {
-      "id": 1124639648,
-      "full_name": "adnaan-worker/Adnify",
-      "html_url": "https://github.com/adnaan-worker/Adnify",
-      "description": "Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。",
-      "stars": 206,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-04T14:07:37Z",
-      "updated_at": "2026-05-04T14:11:13Z"
+      "pushed_at": "2026-05-04T17:07:48Z",
+      "updated_at": "2026-05-04T17:07:54Z"
     },
     {
       "id": 1166203076,
@@ -169,8 +169,8 @@
       "stars": 123,
       "forks": 19,
       "language": "Python",
-      "pushed_at": "2026-05-04T14:11:28Z",
-      "updated_at": "2026-05-04T14:09:35Z"
+      "pushed_at": "2026-05-04T17:12:52Z",
+      "updated_at": "2026-05-04T17:11:22Z"
     }
   ]
 }
