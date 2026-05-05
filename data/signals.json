@@ -5,106 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 635,
+  "total_found": 640,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 133328,
-      "forks": 20313,
+      "stars": 133885,
+      "forks": 20419,
       "language": "Python",
-      "pushed_at": "2026-05-05T10:02:22Z",
-      "updated_at": "2026-05-05T10:06:44Z"
+      "pushed_at": "2026-05-05T17:34:52Z",
+      "updated_at": "2026-05-05T17:41:45Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45027,
-      "forks": 4278,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-05T09:20:26Z",
-      "updated_at": "2026-05-05T10:04:49Z"
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 42718,
+      "forks": 8911,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-05T17:28:41Z",
+      "updated_at": "2026-05-05T17:35:09Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 25862,
-      "forks": 8292,
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 41691,
+      "forks": 7332,
+      "language": "Python",
+      "pushed_at": "2026-05-05T16:43:00Z",
+      "updated_at": "2026-05-05T17:40:59Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30616,
+      "forks": 3951,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T09:57:24Z",
-      "updated_at": "2026-05-05T10:00:25Z"
+      "pushed_at": "2026-05-05T16:27:51Z",
+      "updated_at": "2026-05-05T17:34:21Z"
+    },
+    {
+      "id": 1171026502,
+      "full_name": "googleworkspace/cli",
+      "html_url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "stars": 25776,
+      "forks": 1337,
+      "language": "Rust",
+      "pushed_at": "2026-05-05T16:35:13Z",
+      "updated_at": "2026-05-05T17:29:21Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 18730,
-      "forks": 1846,
+      "stars": 18771,
+      "forks": 1849,
       "language": "JavaScript",
-      "pushed_at": "2026-05-05T10:00:33Z",
-      "updated_at": "2026-05-05T10:00:38Z"
+      "pushed_at": "2026-05-05T16:58:39Z",
+      "updated_at": "2026-05-05T17:35:56Z"
     },
     {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3766,
-      "forks": 471,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-05T09:35:43Z",
-      "updated_at": "2026-05-05T09:41:29Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3564,
-      "forks": 433,
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "An Open Agent Computer for ANY digital work.",
+      "stars": 4758,
+      "forks": 274,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T09:07:16Z",
-      "updated_at": "2026-05-05T10:02:45Z"
-    },
-    {
-      "id": 629849791,
-      "full_name": "smallcloudai/refact",
-      "html_url": "https://github.com/smallcloudai/refact",
-      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
-      "stars": 3539,
-      "forks": 310,
-      "language": "Rust",
-      "pushed_at": "2026-05-05T09:42:23Z",
-      "updated_at": "2026-05-05T09:42:30Z"
+      "pushed_at": "2026-05-05T17:23:55Z",
+      "updated_at": "2026-05-05T17:15:54Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
-      "stars": 2648,
+      "stars": 2650,
       "forks": 312,
       "language": "Rust",
-      "pushed_at": "2026-05-05T09:48:51Z",
-      "updated_at": "2026-05-05T09:48:56Z"
+      "pushed_at": "2026-05-05T16:29:01Z",
+      "updated_at": "2026-05-05T16:29:06Z"
+    },
+    {
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 2082,
+      "forks": 444,
+      "language": "Python",
+      "pushed_at": "2026-05-05T16:25:11Z",
+      "updated_at": "2026-05-05T17:05:34Z"
     },
     {
       "id": 1169101061,
       "full_name": "AgentsMesh/AgentsMesh",
       "html_url": "https://github.com/AgentsMesh/AgentsMesh",
       "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 1926,
-      "forks": 198,
+      "stars": 1933,
+      "forks": 199,
       "language": "Go",
-      "pushed_at": "2026-05-05T09:54:43Z",
-      "updated_at": "2026-05-05T09:49:59Z"
+      "pushed_at": "2026-05-05T17:10:55Z",
+      "updated_at": "2026-05-05T16:45:18Z"
+    },
+    {
+      "id": 965174143,
+      "full_name": "PaperDebugger/paperdebugger",
+      "html_url": "https://github.com/PaperDebugger/paperdebugger",
+      "description": "A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing",
+      "stars": 1450,
+      "forks": 70,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-05T16:26:34Z",
+      "updated_at": "2026-05-05T16:26:20Z"
     },
     {
       "id": 1096175506,
@@ -114,8 +136,19 @@
       "stars": 1100,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T10:05:25Z",
-      "updated_at": "2026-05-05T09:07:55Z"
+      "pushed_at": "2026-05-05T17:39:35Z",
+      "updated_at": "2026-05-05T17:30:17Z"
+    },
+    {
+      "id": 1186701238,
+      "full_name": "K-Dense-AI/k-dense-byok",
+      "html_url": "https://github.com/K-Dense-AI/k-dense-byok",
+      "description": "An AI co-scientist powered by Scientific Agent Skills running on your desktop.",
+      "stars": 631,
+      "forks": 69,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-05T17:23:30Z",
+      "updated_at": "2026-05-05T16:34:24Z"
     },
     {
       "id": 1142397834,
@@ -125,52 +158,19 @@
       "stars": 468,
       "forks": 37,
       "language": "Go",
-      "pushed_at": "2026-05-05T09:10:09Z",
-      "updated_at": "2026-05-05T09:02:15Z"
+      "pushed_at": "2026-05-05T17:30:11Z",
+      "updated_at": "2026-05-05T17:13:58Z"
     },
     {
-      "id": 927203006,
-      "full_name": "VersusControl/versus-incident",
-      "html_url": "https://github.com/VersusControl/versus-incident",
-      "description": "An incident management tool supporting multi-channel alerting, customizable messages, on-call integrations, and the built-in AI SRE Agent. Compatible with any tool supporting webhook alerts.",
-      "stars": 417,
-      "forks": 57,
-      "language": "Go",
-      "pushed_at": "2026-05-05T08:54:37Z",
-      "updated_at": "2026-05-05T08:54:42Z"
-    },
-    {
-      "id": 1196898989,
-      "full_name": "awizemann/scarf",
-      "html_url": "https://github.com/awizemann/scarf",
-      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
-      "stars": 390,
-      "forks": 20,
-      "language": "Swift",
-      "pushed_at": "2026-05-05T10:05:29Z",
-      "updated_at": "2026-05-05T10:05:33Z"
-    },
-    {
-      "id": 967472164,
-      "full_name": "burugo/one-mcp",
-      "html_url": "https://github.com/burugo/one-mcp",
-      "description": "A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.",
-      "stars": 385,
-      "forks": 44,
-      "language": "Go",
-      "pushed_at": "2026-05-05T09:40:05Z",
-      "updated_at": "2026-05-05T09:40:11Z"
-    },
-    {
-      "id": 1158263687,
-      "full_name": "redf0x1/camofox-browser",
-      "html_url": "https://github.com/redf0x1/camofox-browser",
-      "description": "Anti-detection browser server for AI agents — REST API wrapping Camoufox engine with OpenClaw plugin support",
-      "stars": 199,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-05T09:58:45Z",
-      "updated_at": "2026-05-05T09:58:49Z"
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 439,
+      "forks": 18,
+      "language": "ReScript",
+      "pushed_at": "2026-05-05T17:33:50Z",
+      "updated_at": "2026-05-05T16:45:16Z"
     }
   ]
 }
