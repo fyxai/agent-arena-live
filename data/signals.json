@@ -5,84 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 633,
+  "total_found": 635,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 133020,
-      "forks": 20250,
+      "stars": 133328,
+      "forks": 20313,
       "language": "Python",
-      "pushed_at": "2026-05-05T06:11:15Z",
-      "updated_at": "2026-05-05T06:20:15Z"
+      "pushed_at": "2026-05-05T10:02:22Z",
+      "updated_at": "2026-05-05T10:06:44Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
-      "stars": 44008,
-      "forks": 10045,
-      "language": "Python",
-      "pushed_at": "2026-05-05T06:15:36Z",
-      "updated_at": "2026-05-05T06:15:47Z"
-    },
-    {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22263,
-      "forks": 2571,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 45027,
+      "forks": 4278,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T05:25:49Z",
-      "updated_at": "2026-05-05T06:17:41Z"
+      "pushed_at": "2026-05-05T09:20:26Z",
+      "updated_at": "2026-05-05T10:04:49Z"
     },
     {
-      "id": 1188521544,
-      "full_name": "holaboss-ai/holaOS",
-      "html_url": "https://github.com/holaboss-ai/holaOS",
-      "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 4749,
-      "forks": 270,
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 25862,
+      "forks": 8292,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T06:17:38Z",
-      "updated_at": "2026-05-05T06:14:24Z"
+      "pushed_at": "2026-05-05T09:57:24Z",
+      "updated_at": "2026-05-05T10:00:25Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 18730,
+      "forks": 1846,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-05T10:00:33Z",
+      "updated_at": "2026-05-05T10:00:38Z"
+    },
+    {
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 3766,
+      "forks": 471,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-05T09:35:43Z",
+      "updated_at": "2026-05-05T09:41:29Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3541,
-      "forks": 429,
+      "stars": 3564,
+      "forks": 433,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T06:05:29Z",
-      "updated_at": "2026-05-05T06:03:35Z"
+      "pushed_at": "2026-05-05T09:07:16Z",
+      "updated_at": "2026-05-05T10:02:45Z"
     },
     {
-      "id": 846579774,
-      "full_name": "i-am-bee/beeai-framework",
-      "html_url": "https://github.com/i-am-bee/beeai-framework",
-      "description": "Build production-ready AI agents in both Python and Typescript.",
-      "stars": 3241,
-      "forks": 430,
-      "language": "Python",
-      "pushed_at": "2026-05-05T05:51:13Z",
-      "updated_at": "2026-05-05T05:51:17Z"
+      "id": 629849791,
+      "full_name": "smallcloudai/refact",
+      "html_url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
+      "stars": 3539,
+      "forks": 310,
+      "language": "Rust",
+      "pushed_at": "2026-05-05T09:42:23Z",
+      "updated_at": "2026-05-05T09:42:30Z"
     },
     {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundermentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundermentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识（https://forceinjection.github.io/）",
-      "stars": 1152,
-      "forks": 181,
-      "language": "HTML",
-      "pushed_at": "2026-05-05T05:23:23Z",
-      "updated_at": "2026-05-05T05:47:02Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2648,
+      "forks": 312,
+      "language": "Rust",
+      "pushed_at": "2026-05-05T09:48:51Z",
+      "updated_at": "2026-05-05T09:48:56Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 1926,
+      "forks": 198,
+      "language": "Go",
+      "pushed_at": "2026-05-05T09:54:43Z",
+      "updated_at": "2026-05-05T09:49:59Z"
     },
     {
       "id": 1096175506,
@@ -92,52 +114,8 @@
       "stars": 1100,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T06:16:27Z",
-      "updated_at": "2026-05-05T05:38:19Z"
-    },
-    {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 966,
-      "forks": 51,
-      "language": "Python",
-      "pushed_at": "2026-05-05T06:04:04Z",
-      "updated_at": "2026-05-05T06:04:08Z"
-    },
-    {
-      "id": 1214783544,
-      "full_name": "oritera/Cairn",
-      "html_url": "https://github.com/oritera/Cairn",
-      "description": "A AI general-purpose state-space search engine, validated first on autonomous penetration testing.",
-      "stars": 657,
-      "forks": 34,
-      "language": "Python",
-      "pushed_at": "2026-05-05T05:32:47Z",
-      "updated_at": "2026-05-05T05:41:44Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 631,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-05T05:59:59Z",
-      "updated_at": "2026-05-05T05:51:20Z"
-    },
-    {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 517,
-      "forks": 38,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-05T05:44:29Z",
-      "updated_at": "2026-05-05T05:44:25Z"
+      "pushed_at": "2026-05-05T10:05:25Z",
+      "updated_at": "2026-05-05T09:07:55Z"
     },
     {
       "id": 1142397834,
@@ -147,19 +125,41 @@
       "stars": 468,
       "forks": 37,
       "language": "Go",
-      "pushed_at": "2026-05-05T06:16:19Z",
-      "updated_at": "2026-05-05T06:16:21Z"
+      "pushed_at": "2026-05-05T09:10:09Z",
+      "updated_at": "2026-05-05T09:02:15Z"
     },
     {
-      "id": 1210124282,
-      "full_name": "minicoohei/ai-agent-camp",
-      "html_url": "https://github.com/minicoohei/ai-agent-camp",
-      "description": "AI Agent Camp — non-engineer-friendly AI agent training curriculum. Lessons, skills, commands, and hooks for Claude Code, Cursor, and Codex.",
-      "stars": 360,
-      "forks": 13,
-      "language": "Python",
-      "pushed_at": "2026-05-05T05:25:10Z",
-      "updated_at": "2026-05-05T05:25:14Z"
+      "id": 927203006,
+      "full_name": "VersusControl/versus-incident",
+      "html_url": "https://github.com/VersusControl/versus-incident",
+      "description": "An incident management tool supporting multi-channel alerting, customizable messages, on-call integrations, and the built-in AI SRE Agent. Compatible with any tool supporting webhook alerts.",
+      "stars": 417,
+      "forks": 57,
+      "language": "Go",
+      "pushed_at": "2026-05-05T08:54:37Z",
+      "updated_at": "2026-05-05T08:54:42Z"
+    },
+    {
+      "id": 1196898989,
+      "full_name": "awizemann/scarf",
+      "html_url": "https://github.com/awizemann/scarf",
+      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+      "stars": 390,
+      "forks": 20,
+      "language": "Swift",
+      "pushed_at": "2026-05-05T10:05:29Z",
+      "updated_at": "2026-05-05T10:05:33Z"
+    },
+    {
+      "id": 967472164,
+      "full_name": "burugo/one-mcp",
+      "html_url": "https://github.com/burugo/one-mcp",
+      "description": "A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.",
+      "stars": 385,
+      "forks": 44,
+      "language": "Go",
+      "pushed_at": "2026-05-05T09:40:05Z",
+      "updated_at": "2026-05-05T09:40:11Z"
     },
     {
       "id": 1158263687,
@@ -169,8 +169,8 @@
       "stars": 199,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-05-05T05:25:54Z",
-      "updated_at": "2026-05-05T05:36:36Z"
+      "pushed_at": "2026-05-05T09:58:45Z",
+      "updated_at": "2026-05-05T09:58:49Z"
     }
   ]
 }
