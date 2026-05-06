@@ -5,128 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 645,
+  "total_found": 646,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 134654,
-      "forks": 20561,
+      "stars": 135088,
+      "forks": 20644,
       "language": "Python",
-      "pushed_at": "2026-05-06T05:33:48Z",
-      "updated_at": "2026-05-06T06:32:31Z"
+      "pushed_at": "2026-05-06T09:59:44Z",
+      "updated_at": "2026-05-06T10:21:02Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45064,
-      "forks": 4285,
+      "stars": 45079,
+      "forks": 4287,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T06:17:52Z",
-      "updated_at": "2026-05-06T06:32:06Z"
+      "pushed_at": "2026-05-06T09:44:31Z",
+      "updated_at": "2026-05-06T10:20:04Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 41737,
-      "forks": 7337,
-      "language": "Python",
-      "pushed_at": "2026-05-06T06:32:53Z",
-      "updated_at": "2026-05-06T06:30:08Z"
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 30705,
+      "forks": 3963,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T10:18:47Z",
+      "updated_at": "2026-05-06T10:14:03Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 18851,
-      "forks": 1858,
+      "stars": 18908,
+      "forks": 1865,
       "language": "JavaScript",
-      "pushed_at": "2026-05-06T06:25:40Z",
-      "updated_at": "2026-05-06T06:30:47Z"
-    },
-    {
-      "id": 1118085970,
-      "full_name": "alibaba/OpenSandbox",
-      "html_url": "https://github.com/alibaba/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10442,
-      "forks": 827,
-      "language": "Python",
-      "pushed_at": "2026-05-06T06:01:10Z",
-      "updated_at": "2026-05-06T06:26:34Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 9259,
-      "forks": 1078,
-      "language": "Python",
-      "pushed_at": "2026-05-06T05:33:36Z",
-      "updated_at": "2026-05-06T06:33:12Z"
+      "pushed_at": "2026-05-06T09:57:15Z",
+      "updated_at": "2026-05-06T10:20:15Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 4765,
-      "forks": 274,
+      "stars": 4858,
+      "forks": 275,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T06:07:22Z",
-      "updated_at": "2026-05-06T06:04:21Z"
+      "pushed_at": "2026-05-06T10:21:12Z",
+      "updated_at": "2026-05-06T10:21:20Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3640,
-      "forks": 451,
+      "id": 1152166697,
+      "full_name": "matt1398/claude-devtools",
+      "html_url": "https://github.com/matt1398/claude-devtools",
+      "description": "The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.",
+      "stars": 3288,
+      "forks": 244,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T06:23:12Z",
-      "updated_at": "2026-05-06T06:33:10Z"
+      "pushed_at": "2026-05-06T10:22:09Z",
+      "updated_at": "2026-05-06T10:21:45Z"
     },
     {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3466,
-      "forks": 339,
-      "language": "Python",
-      "pushed_at": "2026-05-06T05:57:51Z",
-      "updated_at": "2026-05-06T06:30:22Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2653,
+      "forks": 311,
+      "language": "Rust",
+      "pushed_at": "2026-05-06T10:09:27Z",
+      "updated_at": "2026-05-06T10:09:31Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2087,
-      "forks": 444,
-      "language": "Python",
-      "pushed_at": "2026-05-06T06:33:32Z",
-      "updated_at": "2026-05-06T05:29:44Z"
+      "id": 1003614809,
+      "full_name": "kite-org/kite",
+      "html_url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2611,
+      "forks": 222,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T10:11:20Z",
+      "updated_at": "2026-05-06T10:11:25Z"
+    },
+    {
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 1996,
+      "forks": 207,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T10:19:03Z",
+      "updated_at": "2026-05-06T10:07:24Z"
     },
     {
       "id": 1169101061,
       "full_name": "AgentsMesh/AgentsMesh",
       "html_url": "https://github.com/AgentsMesh/AgentsMesh",
       "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 1943,
+      "stars": 1946,
       "forks": 200,
       "language": "Go",
-      "pushed_at": "2026-05-06T06:03:32Z",
-      "updated_at": "2026-05-06T06:27:17Z"
+      "pushed_at": "2026-05-06T10:10:11Z",
+      "updated_at": "2026-05-06T09:42:41Z"
     },
     {
       "id": 1096175506,
@@ -136,19 +125,8 @@
       "stars": 1102,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-06T06:29:52Z",
-      "updated_at": "2026-05-06T06:29:55Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 634,
-      "forks": 50,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-06T06:25:13Z",
-      "updated_at": "2026-05-06T06:25:15Z"
+      "pushed_at": "2026-05-06T10:21:50Z",
+      "updated_at": "2026-05-06T10:21:05Z"
     },
     {
       "id": 1142397834,
@@ -158,8 +136,19 @@
       "stars": 467,
       "forks": 37,
       "language": "Go",
-      "pushed_at": "2026-05-06T06:30:50Z",
-      "updated_at": "2026-05-06T06:30:52Z"
+      "pushed_at": "2026-05-06T10:08:06Z",
+      "updated_at": "2026-05-06T10:08:13Z"
+    },
+    {
+      "id": 463439055,
+      "full_name": "mynaparrot/plugNmeet-server",
+      "html_url": "https://github.com/mynaparrot/plugNmeet-server",
+      "description": "The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent.",
+      "stars": 456,
+      "forks": 113,
+      "language": "Go",
+      "pushed_at": "2026-05-06T09:48:07Z",
+      "updated_at": "2026-05-06T09:45:57Z"
     },
     {
       "id": 1066256303,
@@ -169,8 +158,19 @@
       "stars": 444,
       "forks": 18,
       "language": "ReScript",
-      "pushed_at": "2026-05-06T06:19:15Z",
-      "updated_at": "2026-05-06T06:19:18Z"
+      "pushed_at": "2026-05-06T10:02:46Z",
+      "updated_at": "2026-05-06T10:02:49Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/deepseek-reasonix",
+      "html_url": "https://github.com/esengine/deepseek-reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 398,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-06T10:18:46Z",
+      "updated_at": "2026-05-06T10:16:23Z"
     }
   ]
 }
