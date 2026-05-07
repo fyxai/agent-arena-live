@@ -12,121 +12,99 @@
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45138,
+      "stars": 45152,
       "forks": 4292,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T03:22:45Z",
-      "updated_at": "2026-05-07T03:31:31Z"
-    },
-    {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 41829,
-      "forks": 7353,
-      "language": "Python",
-      "pushed_at": "2026-05-07T03:20:01Z",
-      "updated_at": "2026-05-07T03:28:43Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 30753,
-      "forks": 3969,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-07T03:26:13Z",
-      "updated_at": "2026-05-07T03:30:20Z"
+      "pushed_at": "2026-05-07T06:34:33Z",
+      "updated_at": "2026-05-07T06:38:35Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 23904,
-      "forks": 2132,
+      "stars": 23922,
+      "forks": 2134,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T02:47:51Z",
-      "updated_at": "2026-05-07T02:58:28Z"
+      "pushed_at": "2026-05-07T06:30:11Z",
+      "updated_at": "2026-05-07T06:39:38Z"
     },
     {
       "id": 1118085970,
       "full_name": "alibaba/OpenSandbox",
       "html_url": "https://github.com/alibaba/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10466,
-      "forks": 829,
+      "stars": 10468,
+      "forks": 831,
       "language": "Python",
-      "pushed_at": "2026-05-07T03:10:04Z",
-      "updated_at": "2026-05-07T03:20:35Z"
+      "pushed_at": "2026-05-07T06:31:56Z",
+      "updated_at": "2026-05-07T06:32:01Z"
     },
     {
-      "id": 1188521544,
-      "full_name": "holaboss-ai/holaOS",
-      "html_url": "https://github.com/holaboss-ai/holaOS",
-      "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 4938,
-      "forks": 285,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-07T03:19:53Z",
-      "updated_at": "2026-05-07T03:21:44Z"
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 5407,
+      "forks": 1106,
+      "language": "Python",
+      "pushed_at": "2026-05-07T05:42:42Z",
+      "updated_at": "2026-05-07T06:41:05Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 4052,
-      "forks": 372,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-07T03:09:39Z",
-      "updated_at": "2026-05-07T03:23:47Z"
+      "id": 810121174,
+      "full_name": "LazyAGI/LazyLLM",
+      "html_url": "https://github.com/LazyAGI/LazyLLM",
+      "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
+      "stars": 3816,
+      "forks": 386,
+      "language": "Python",
+      "pushed_at": "2026-05-07T06:16:14Z",
+      "updated_at": "2026-05-07T06:16:19Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3767,
-      "forks": 468,
+      "stars": 3792,
+      "forks": 471,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T03:30:34Z",
-      "updated_at": "2026-05-07T03:35:43Z"
+      "pushed_at": "2026-05-07T05:50:33Z",
+      "updated_at": "2026-05-07T06:18:49Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3550,
+      "stars": 3564,
       "forks": 344,
       "language": "Python",
-      "pushed_at": "2026-05-07T03:34:55Z",
-      "updated_at": "2026-05-07T03:28:24Z"
+      "pushed_at": "2026-05-07T06:24:35Z",
+      "updated_at": "2026-05-07T06:37:08Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 2673,
-      "forks": 176,
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 2104,
+      "forks": 446,
       "language": "Python",
-      "pushed_at": "2026-05-07T03:17:56Z",
-      "updated_at": "2026-05-07T03:29:46Z"
+      "pushed_at": "2026-05-07T05:56:50Z",
+      "updated_at": "2026-05-07T06:34:51Z"
     },
     {
-      "id": 1166321809,
-      "full_name": "chrysb/alphaclaw",
-      "html_url": "https://github.com/chrysb/alphaclaw",
-      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
-      "stars": 1267,
-      "forks": 165,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-07T03:24:35Z",
-      "updated_at": "2026-05-07T03:24:38Z"
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 1956,
+      "forks": 201,
+      "language": "Go",
+      "pushed_at": "2026-05-07T06:18:17Z",
+      "updated_at": "2026-05-07T06:39:23Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +114,63 @@
       "stars": 1102,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-07T03:36:55Z",
-      "updated_at": "2026-05-07T03:19:15Z"
+      "pushed_at": "2026-05-07T06:38:59Z",
+      "updated_at": "2026-05-07T06:33:21Z"
     },
     {
       "id": 1215501706,
       "full_name": "thClaws/thClaws",
       "html_url": "https://github.com/thClaws/thClaws",
       "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-      "stars": 816,
+      "stars": 823,
       "forks": 106,
       "language": "Rust",
-      "pushed_at": "2026-05-07T02:49:50Z",
-      "updated_at": "2026-05-07T03:35:42Z"
+      "pushed_at": "2026-05-07T06:29:23Z",
+      "updated_at": "2026-05-07T06:29:27Z"
     },
     {
       "id": 1144764199,
       "full_name": "didilili/ai-agents-from-zero",
       "html_url": "https://github.com/didilili/ai-agents-from-zero",
       "description": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
-      "stars": 722,
-      "forks": 104,
+      "stars": 729,
+      "forks": 105,
       "language": "Python",
-      "pushed_at": "2026-05-07T03:07:23Z",
-      "updated_at": "2026-05-07T03:30:52Z"
+      "pushed_at": "2026-05-07T06:33:27Z",
+      "updated_at": "2026-05-07T06:33:31Z"
     },
     {
       "id": 1186036632,
       "full_name": "openmemind/memind",
       "html_url": "https://github.com/openmemind/memind",
       "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-      "stars": 662,
+      "stars": 663,
       "forks": 62,
       "language": "Java",
-      "pushed_at": "2026-05-07T03:15:14Z",
-      "updated_at": "2026-05-07T03:15:19Z"
+      "pushed_at": "2026-05-07T05:56:17Z",
+      "updated_at": "2026-05-07T06:21:35Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 635,
+      "forks": 51,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-07T06:14:23Z",
+      "updated_at": "2026-05-07T06:14:27Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 475,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-07T06:07:55Z",
+      "updated_at": "2026-05-07T06:21:48Z"
     }
   ]
 }
