@@ -5,95 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 654,
+  "total_found": 655,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 138373,
+      "forks": 21329,
+      "language": "Python",
+      "pushed_at": "2026-05-08T09:43:05Z",
+      "updated_at": "2026-05-08T09:43:51Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45219,
-      "forks": 4297,
+      "stars": 45242,
+      "forks": 4298,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:47:50Z",
-      "updated_at": "2026-05-08T05:48:20Z"
+      "pushed_at": "2026-05-08T09:27:17Z",
+      "updated_at": "2026-05-08T09:43:53Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 41949,
-      "forks": 7377,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 24042,
+      "forks": 2155,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T09:37:42Z",
+      "updated_at": "2026-05-08T09:37:44Z"
+    },
+    {
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 9588,
+      "forks": 1117,
       "language": "Python",
-      "pushed_at": "2026-05-08T05:58:17Z",
-      "updated_at": "2026-05-08T05:56:50Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31016,
-      "forks": 3996,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:46:55Z",
-      "updated_at": "2026-05-08T05:53:16Z"
-    },
-    {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22305,
-      "forks": 2582,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:50:24Z",
-      "updated_at": "2026-05-08T05:56:23Z"
+      "pushed_at": "2026-05-08T09:40:12Z",
+      "updated_at": "2026-05-08T09:40:18Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 5253,
+      "stars": 5275,
       "forks": 328,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:57:14Z",
-      "updated_at": "2026-05-08T05:59:50Z"
+      "pushed_at": "2026-05-08T09:32:33Z",
+      "updated_at": "2026-05-08T09:32:37Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stars": 3915,
-      "forks": 483,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 4132,
+      "forks": 382,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:57:42Z",
-      "updated_at": "2026-05-08T05:53:44Z"
+      "pushed_at": "2026-05-08T09:40:58Z",
+      "updated_at": "2026-05-08T09:41:02Z"
     },
     {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3665,
-      "forks": 357,
-      "language": "Python",
-      "pushed_at": "2026-05-08T05:35:29Z",
-      "updated_at": "2026-05-08T05:35:34Z"
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1104,
+      "forks": 60,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T09:41:34Z",
+      "updated_at": "2026-05-08T09:35:32Z"
     },
     {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 1963,
-      "forks": 203,
-      "language": "Go",
-      "pushed_at": "2026-05-08T05:44:13Z",
-      "updated_at": "2026-05-08T05:44:18Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 673,
+      "forks": 36,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-08T09:31:49Z",
+      "updated_at": "2026-05-08T09:26:00Z"
     },
     {
       "id": 1160289313,
@@ -103,30 +103,19 @@
       "stars": 640,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:51:27Z",
-      "updated_at": "2026-05-08T05:51:30Z"
+      "pushed_at": "2026-05-08T09:27:57Z",
+      "updated_at": "2026-05-08T09:17:25Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 639,
-      "forks": 34,
+      "id": 1179548338,
+      "full_name": "clawwork-ai/ClawWork",
+      "html_url": "https://github.com/clawwork-ai/ClawWork",
+      "description": "Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.",
+      "stars": 497,
+      "forks": 58,
       "language": "TypeScript",
-      "pushed_at": "2026-05-08T05:33:35Z",
-      "updated_at": "2026-05-08T05:45:24Z"
-    },
-    {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 457,
-      "forks": 19,
-      "language": "ReScript",
-      "pushed_at": "2026-05-08T05:42:40Z",
-      "updated_at": "2026-05-08T05:48:41Z"
+      "pushed_at": "2026-05-08T09:41:10Z",
+      "updated_at": "2026-05-08T09:41:16Z"
     },
     {
       "id": 927203006,
@@ -136,30 +125,41 @@
       "stars": 427,
       "forks": 60,
       "language": "Go",
-      "pushed_at": "2026-05-08T05:23:06Z",
-      "updated_at": "2026-05-08T05:22:04Z"
+      "pushed_at": "2026-05-08T09:26:30Z",
+      "updated_at": "2026-05-08T09:26:36Z"
     },
     {
-      "id": 1146959118,
-      "full_name": "opengeos/GeoAgent",
-      "html_url": "https://github.com/opengeos/GeoAgent",
-      "description": "A multimodal AI agent for geospatial data analysis and interactive visualization",
-      "stars": 274,
-      "forks": 45,
-      "language": "Python",
-      "pushed_at": "2026-05-08T05:18:11Z",
-      "updated_at": "2026-05-08T05:17:09Z"
+      "id": 1201201482,
+      "full_name": "matevip/mateclaw",
+      "html_url": "https://github.com/matevip/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "stars": 420,
+      "forks": 144,
+      "language": "Java",
+      "pushed_at": "2026-05-08T09:09:24Z",
+      "updated_at": "2026-05-08T09:09:29Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "Summon your AI superpower — grows with you through voice, vision, and autonomous action",
-      "stars": 171,
-      "forks": 40,
+      "id": 1086124473,
+      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 400,
+      "forks": 27,
+      "language": "Unknown",
+      "pushed_at": "2026-05-08T09:26:00Z",
+      "updated_at": "2026-05-08T09:26:04Z"
+    },
+    {
+      "id": 1148395300,
+      "full_name": "princezuda/safestclaw",
+      "html_url": "https://github.com/princezuda/safestclaw",
+      "description": "Safestclaw is the alternative to openclaw.. You can naturally chat with it via text and voice, and you can choose not to use a language model., By default it picks up on intent and semantics..  No prompt injection while you get over ninety percent of what openclaw does plus tts and voice to text  ",
+      "stars": 279,
+      "forks": 35,
       "language": "Python",
-      "pushed_at": "2026-05-08T05:59:56Z",
-      "updated_at": "2026-05-08T05:59:59Z"
+      "pushed_at": "2026-05-08T09:38:48Z",
+      "updated_at": "2026-05-08T09:24:48Z"
     },
     {
       "id": 772408997,
@@ -169,8 +169,8 @@
       "stars": 117,
       "forks": 15,
       "language": "Python",
-      "pushed_at": "2026-05-08T05:27:29Z",
-      "updated_at": "2026-05-08T05:27:32Z"
+      "pushed_at": "2026-05-08T09:36:46Z",
+      "updated_at": "2026-05-08T09:36:50Z"
     }
   ]
 }
