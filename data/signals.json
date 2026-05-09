@@ -5,51 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 661,
+  "total_found": 662,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 140612,
+      "forks": 21798,
+      "language": "Python",
+      "pushed_at": "2026-05-09T16:48:49Z",
+      "updated_at": "2026-05-09T16:58:24Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45311,
-      "forks": 4300,
+      "stars": 45321,
+      "forks": 4302,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T13:20:59Z",
-      "updated_at": "2026-05-09T13:25:34Z"
+      "pushed_at": "2026-05-09T16:46:24Z",
+      "updated_at": "2026-05-09T16:33:49Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 31170,
+      "forks": 4034,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T16:17:05Z",
+      "updated_at": "2026-05-09T16:45:35Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 24177,
-      "forks": 2175,
+      "stars": 24201,
+      "forks": 2178,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T13:03:33Z",
-      "updated_at": "2026-05-09T13:22:41Z"
+      "pushed_at": "2026-05-09T16:28:01Z",
+      "updated_at": "2026-05-09T16:42:30Z"
     },
     {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3780,
-      "forks": 472,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-09T12:43:58Z",
-      "updated_at": "2026-05-09T13:07:05Z"
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 22321,
+      "forks": 2585,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-09T16:23:43Z",
+      "updated_at": "2026-05-09T16:25:35Z"
     },
     {
-      "id": 1152166697,
-      "full_name": "matt1398/claude-devtools",
-      "html_url": "https://github.com/matt1398/claude-devtools",
-      "description": "The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.",
-      "stars": 3319,
-      "forks": 247,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12123,
+      "forks": 899,
+      "language": "Python",
+      "pushed_at": "2026-05-09T16:45:15Z",
+      "updated_at": "2026-05-09T16:45:22Z"
+    },
+    {
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "An Open Agent Computer for ANY digital work.",
+      "stars": 5401,
+      "forks": 348,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T13:13:27Z",
-      "updated_at": "2026-05-09T13:09:17Z"
+      "pushed_at": "2026-05-09T16:43:00Z",
+      "updated_at": "2026-05-09T16:41:12Z"
+    },
+    {
+      "id": 704959035,
+      "full_name": "WeThinkIn/AIGC-Interview-Book",
+      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+      "stars": 3666,
+      "forks": 395,
+      "language": "Unknown",
+      "pushed_at": "2026-05-09T16:52:43Z",
+      "updated_at": "2026-05-09T16:52:47Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2665,
+      "forks": 310,
+      "language": "Rust",
+      "pushed_at": "2026-05-09T16:43:14Z",
+      "updated_at": "2026-05-09T16:43:16Z"
     },
     {
       "id": 116590428,
@@ -59,30 +114,30 @@
       "stars": 2464,
       "forks": 201,
       "language": "Rust",
-      "pushed_at": "2026-05-09T13:20:09Z",
-      "updated_at": "2026-05-09T13:20:12Z"
+      "pushed_at": "2026-05-09T16:21:40Z",
+      "updated_at": "2026-05-09T16:21:43Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2134,
-      "forks": 453,
-      "language": "Python",
-      "pushed_at": "2026-05-09T12:39:56Z",
-      "updated_at": "2026-05-09T12:39:23Z"
+      "id": 1132020002,
+      "full_name": "geekjourneyx/md2wechat-skill",
+      "html_url": "https://github.com/geekjourneyx/md2wechat-skill",
+      "description": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布",
+      "stars": 2132,
+      "forks": 276,
+      "language": "Go",
+      "pushed_at": "2026-05-09T16:14:03Z",
+      "updated_at": "2026-05-09T16:46:38Z"
     },
     {
       "id": 1169101061,
       "full_name": "AgentsMesh/AgentsMesh",
       "html_url": "https://github.com/AgentsMesh/AgentsMesh",
       "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 1988,
+      "stars": 1993,
       "forks": 202,
       "language": "Go",
-      "pushed_at": "2026-05-09T12:42:27Z",
-      "updated_at": "2026-05-09T13:21:41Z"
+      "pushed_at": "2026-05-09T16:22:26Z",
+      "updated_at": "2026-05-09T16:40:49Z"
     },
     {
       "id": 1096175506,
@@ -92,8 +147,8 @@
       "stars": 1105,
       "forks": 60,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T13:23:58Z",
-      "updated_at": "2026-05-09T13:19:28Z"
+      "pushed_at": "2026-05-09T16:57:49Z",
+      "updated_at": "2026-05-09T16:57:52Z"
     },
     {
       "id": 1057975087,
@@ -103,74 +158,19 @@
       "stars": 990,
       "forks": 178,
       "language": "Go",
-      "pushed_at": "2026-05-09T13:13:57Z",
-      "updated_at": "2026-05-09T13:14:00Z"
-    },
-    {
-      "id": 1218208502,
-      "full_name": "worldwonderer/oh-story-claudecode",
-      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
-      "description": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-      "stars": 927,
-      "forks": 232,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-09T13:01:46Z",
-      "updated_at": "2026-05-09T13:08:57Z"
+      "pushed_at": "2026-05-09T16:59:20Z",
+      "updated_at": "2026-05-09T16:59:22Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 879,
+      "stars": 913,
       "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-05-09T13:08:53Z",
-      "updated_at": "2026-05-09T13:25:51Z"
-    },
-    {
-      "id": 463439055,
-      "full_name": "mynaparrot/plugNmeet-server",
-      "html_url": "https://github.com/mynaparrot/plugNmeet-server",
-      "description": "The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent.",
-      "stars": 458,
-      "forks": 113,
-      "language": "Go",
-      "pushed_at": "2026-05-09T13:09:12Z",
-      "updated_at": "2026-05-09T13:09:04Z"
-    },
-    {
-      "id": 1154273018,
-      "full_name": "xuanyustudio/LocalMiniDrama",
-      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
-      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
-      "stars": 340,
-      "forks": 87,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-09T12:27:22Z",
-      "updated_at": "2026-05-09T12:27:26Z"
-    },
-    {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 258,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T12:57:16Z",
-      "updated_at": "2026-05-09T12:57:20Z"
-    },
-    {
-      "id": 1186828270,
-      "full_name": "iamtouchskyer/memex",
-      "html_url": "https://github.com/iamtouchskyer/memex",
-      "description": "Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.",
-      "stars": 196,
-      "forks": 44,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-09T13:09:47Z",
-      "updated_at": "2026-05-09T13:09:50Z"
+      "pushed_at": "2026-05-09T16:26:08Z",
+      "updated_at": "2026-05-09T16:59:08Z"
     }
   ]
 }
