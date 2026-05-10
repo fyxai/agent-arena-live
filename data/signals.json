@@ -5,95 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 664,
+  "total_found": 666,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 141135,
-      "forks": 21921,
+      "stars": 141319,
+      "forks": 21959,
       "language": "Python",
-      "pushed_at": "2026-05-10T03:09:49Z",
-      "updated_at": "2026-05-10T03:45:58Z"
-    },
-    {
-      "id": 995029641,
-      "full_name": "ruvnet/ruflo",
-      "html_url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 47913,
-      "forks": 5312,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T02:51:22Z",
-      "updated_at": "2026-05-10T03:45:17Z"
+      "pushed_at": "2026-05-10T06:17:25Z",
+      "updated_at": "2026-05-10T06:36:49Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45334,
+      "stars": 45343,
       "forks": 4304,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T03:45:45Z",
-      "updated_at": "2026-05-10T03:40:54Z"
+      "pushed_at": "2026-05-10T06:36:20Z",
+      "updated_at": "2026-05-10T06:29:48Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 31189,
+      "forks": 4035,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T06:23:31Z",
+      "updated_at": "2026-05-10T06:23:38Z"
+    },
+    {
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 24261,
+      "forks": 2188,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T06:12:59Z",
+      "updated_at": "2026-05-10T06:22:08Z"
+    },
+    {
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "An Open Agent Computer for ANY digital work.",
+      "stars": 5433,
+      "forks": 353,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T06:06:02Z",
+      "updated_at": "2026-05-10T06:26:24Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 4208,
-      "forks": 388,
+      "stars": 4215,
+      "forks": 389,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T03:31:41Z",
-      "updated_at": "2026-05-10T03:31:42Z"
+      "pushed_at": "2026-05-10T06:01:20Z",
+      "updated_at": "2026-05-10T06:34:55Z"
     },
     {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3667,
-      "forks": 395,
-      "language": "Unknown",
-      "pushed_at": "2026-05-10T03:00:43Z",
-      "updated_at": "2026-05-10T03:00:47Z"
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "stars": 4205,
+      "forks": 507,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T06:31:36Z",
+      "updated_at": "2026-05-10T06:31:35Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2143,
-      "forks": 454,
-      "language": "Python",
-      "pushed_at": "2026-05-10T03:44:14Z",
-      "updated_at": "2026-05-10T03:43:38Z"
+      "id": 1003614809,
+      "full_name": "kite-org/kite",
+      "html_url": "https://github.com/kite-org/kite",
+      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
+      "stars": 2674,
+      "forks": 232,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-10T05:36:43Z",
+      "updated_at": "2026-05-10T05:36:47Z"
     },
     {
-      "id": 1212718768,
-      "full_name": "ciembor/agent-rules-books",
-      "html_url": "https://github.com/ciembor/agent-rules-books",
-      "description": "AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.",
-      "stars": 1265,
-      "forks": 182,
-      "language": "Unknown",
-      "pushed_at": "2026-05-10T03:11:34Z",
-      "updated_at": "2026-05-10T03:22:05Z"
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 2002,
+      "forks": 203,
+      "language": "Go",
+      "pushed_at": "2026-05-10T06:29:43Z",
+      "updated_at": "2026-05-10T06:32:51Z"
     },
     {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundermentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundermentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识（https://forceinjection.github.io/）",
-      "stars": 1182,
-      "forks": 187,
-      "language": "HTML",
-      "pushed_at": "2026-05-10T02:59:47Z",
-      "updated_at": "2026-05-10T02:59:51Z"
+      "id": 901554449,
+      "full_name": "stakpak/agent",
+      "html_url": "https://github.com/stakpak/agent",
+      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+      "stars": 1512,
+      "forks": 146,
+      "language": "Rust",
+      "pushed_at": "2026-05-10T06:02:51Z",
+      "updated_at": "2026-05-10T06:02:55Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +125,52 @@
       "stars": 1106,
       "forks": 60,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T03:05:12Z",
-      "updated_at": "2026-05-10T03:04:37Z"
-    },
-    {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 990,
-      "forks": 178,
-      "language": "Go",
-      "pushed_at": "2026-05-10T03:44:50Z",
-      "updated_at": "2026-05-10T03:44:54Z"
+      "pushed_at": "2026-05-10T06:35:40Z",
+      "updated_at": "2026-05-10T06:23:57Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 954,
-      "forks": 55,
+      "stars": 966,
+      "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T03:36:35Z",
-      "updated_at": "2026-05-10T03:35:22Z"
+      "pushed_at": "2026-05-10T06:35:44Z",
+      "updated_at": "2026-05-10T06:35:47Z"
     },
     {
       "id": 1215501706,
       "full_name": "thClaws/thClaws",
       "html_url": "https://github.com/thClaws/thClaws",
       "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-      "stars": 861,
+      "stars": 863,
       "forks": 114,
       "language": "Rust",
-      "pushed_at": "2026-05-10T03:33:05Z",
-      "updated_at": "2026-05-10T03:33:10Z"
+      "pushed_at": "2026-05-10T05:53:09Z",
+      "updated_at": "2026-05-10T06:06:53Z"
     },
     {
-      "id": 1201201482,
-      "full_name": "matevip/mateclaw",
-      "html_url": "https://github.com/matevip/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 435,
-      "forks": 148,
-      "language": "Java",
-      "pushed_at": "2026-05-10T03:38:38Z",
-      "updated_at": "2026-05-10T03:38:42Z"
-    },
-    {
-      "id": 1154273018,
-      "full_name": "xuanyustudio/LocalMiniDrama",
-      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
-      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
-      "stars": 343,
-      "forks": 87,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-10T03:20:10Z",
-      "updated_at": "2026-05-10T03:20:14Z"
-    },
-    {
-      "id": 1146959118,
-      "full_name": "opengeos/GeoAgent",
-      "html_url": "https://github.com/opengeos/GeoAgent",
-      "description": "A multimodal AI agent for geospatial data analysis and interactive visualization",
-      "stars": 284,
-      "forks": 47,
+      "id": 1214783544,
+      "full_name": "oritera/Cairn",
+      "html_url": "https://github.com/oritera/Cairn",
+      "description": "A AI general-purpose state-space search engine, validated first on autonomous penetration testing.",
+      "stars": 802,
+      "forks": 68,
       "language": "Python",
-      "pushed_at": "2026-05-10T03:46:00Z",
-      "updated_at": "2026-05-10T03:46:03Z"
+      "pushed_at": "2026-05-10T06:33:46Z",
+      "updated_at": "2026-05-10T06:33:50Z"
+    },
+    {
+      "id": 1186036632,
+      "full_name": "openmemind/memind",
+      "html_url": "https://github.com/openmemind/memind",
+      "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
+      "stars": 699,
+      "forks": 64,
+      "language": "Java",
+      "pushed_at": "2026-05-10T06:07:34Z",
+      "updated_at": "2026-05-10T06:07:40Z"
     }
   ]
 }
