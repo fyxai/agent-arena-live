@@ -5,128 +5,150 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 670,
+  "total_found": 672,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 143247,
-      "forks": 22351,
+      "stars": 143642,
+      "forks": 22418,
       "language": "Python",
-      "pushed_at": "2026-05-11T07:30:00Z",
-      "updated_at": "2026-05-11T07:50:23Z"
+      "pushed_at": "2026-05-11T11:04:28Z",
+      "updated_at": "2026-05-11T11:28:58Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42176,
-      "forks": 7407,
-      "language": "Python",
-      "pushed_at": "2026-05-11T07:39:05Z",
-      "updated_at": "2026-05-11T07:42:38Z"
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 31239,
+      "forks": 4042,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T11:26:21Z",
+      "updated_at": "2026-05-11T11:26:25Z"
+    },
+    {
+      "id": 1171026502,
+      "full_name": "googleworkspace/cli",
+      "html_url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "stars": 26056,
+      "forks": 1354,
+      "language": "Rust",
+      "pushed_at": "2026-05-11T11:06:33Z",
+      "updated_at": "2026-05-11T11:21:49Z"
+    },
+    {
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 24455,
+      "forks": 2206,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T11:02:25Z",
+      "updated_at": "2026-05-11T11:17:53Z"
     },
     {
       "id": 306829688,
       "full_name": "nocobase/nocobase",
       "html_url": "https://github.com/nocobase/nocobase",
       "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22339,
+      "stars": 22342,
       "forks": 2590,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:41:42Z",
-      "updated_at": "2026-05-11T07:50:35Z"
+      "pushed_at": "2026-05-11T11:20:51Z",
+      "updated_at": "2026-05-11T10:53:17Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22141,
-      "forks": 3636,
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6306,
+      "forks": 1346,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:31:58Z",
-      "updated_at": "2026-05-11T07:46:33Z"
+      "pushed_at": "2026-05-11T10:55:53Z",
+      "updated_at": "2026-05-11T11:10:08Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 5529,
+      "stars": 5540,
       "forks": 369,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:41:01Z",
-      "updated_at": "2026-05-11T07:49:17Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 4331,
-      "forks": 532,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:30:56Z",
-      "updated_at": "2026-05-11T07:46:50Z"
+      "pushed_at": "2026-05-11T11:11:38Z",
+      "updated_at": "2026-05-11T11:20:13Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3935,
+      "stars": 3947,
       "forks": 376,
       "language": "Python",
-      "pushed_at": "2026-05-11T07:35:56Z",
-      "updated_at": "2026-05-11T07:50:06Z"
+      "pushed_at": "2026-05-11T11:01:14Z",
+      "updated_at": "2026-05-11T11:27:32Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 1338,
-      "forks": 90,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:46:46Z",
-      "updated_at": "2026-05-11T07:46:51Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2378,
+      "forks": 274,
+      "language": "Go",
+      "pushed_at": "2026-05-11T10:49:36Z",
+      "updated_at": "2026-05-11T10:59:09Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 1152,
-      "forks": 74,
+      "stars": 1187,
+      "forks": 79,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:49:42Z",
-      "updated_at": "2026-05-11T07:48:56Z"
+      "pushed_at": "2026-05-11T11:27:39Z",
+      "updated_at": "2026-05-11T11:27:41Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1106,
+      "stars": 1108,
       "forks": 60,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:49:47Z",
-      "updated_at": "2026-05-11T07:48:03Z"
+      "pushed_at": "2026-05-11T11:29:05Z",
+      "updated_at": "2026-05-11T11:27:35Z"
     },
     {
-      "id": 1186036632,
-      "full_name": "openmemind/memind",
-      "html_url": "https://github.com/openmemind/memind",
-      "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-      "stars": 715,
-      "forks": 64,
-      "language": "Java",
-      "pushed_at": "2026-05-11T07:28:22Z",
-      "updated_at": "2026-05-11T07:43:45Z"
+      "id": 1190557545,
+      "full_name": "eugeniughelbur/obsidian-second-brain",
+      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "Claude Code skill for Obsidian. Turn your vault into a living AI-first second brain. 31 commands, vault-first research, scheduled agents.",
+      "stars": 1040,
+      "forks": 100,
+      "language": "Python",
+      "pushed_at": "2026-05-11T11:13:25Z",
+      "updated_at": "2026-05-11T11:13:30Z"
+    },
+    {
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1022,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T10:51:37Z",
+      "updated_at": "2026-05-11T10:51:39Z"
     },
     {
       "id": 1160289313,
@@ -136,41 +158,19 @@
       "stars": 648,
       "forks": 53,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:48:52Z",
-      "updated_at": "2026-05-11T07:48:58Z"
+      "pushed_at": "2026-05-11T11:13:03Z",
+      "updated_at": "2026-05-11T11:13:05Z"
     },
     {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 615,
-      "forks": 42,
+      "id": 1153919891,
+      "full_name": "redwoodjs/agent-ci",
+      "html_url": "https://github.com/redwoodjs/agent-ci",
+      "description": "Agent-CI is local GitHub Actions for your agents.",
+      "stars": 635,
+      "forks": 16,
       "language": "TypeScript",
-      "pushed_at": "2026-05-11T07:21:22Z",
-      "updated_at": "2026-05-11T07:22:00Z"
-    },
-    {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 405,
-      "forks": 28,
-      "language": "Unknown",
-      "pushed_at": "2026-05-11T07:22:11Z",
-      "updated_at": "2026-05-11T07:22:16Z"
-    },
-    {
-      "id": 1192620050,
-      "full_name": "MinaSaad1/pbi-cli",
-      "html_url": "https://github.com/MinaSaad1/pbi-cli",
-      "description": "Power BI CLI - semantic models (.NET TOM) and PBIR reports for token-efficient AI agent usage, built for Claude Code",
-      "stars": 275,
-      "forks": 78,
-      "language": "Python",
-      "pushed_at": "2026-05-11T07:34:12Z",
-      "updated_at": "2026-05-11T07:34:17Z"
+      "pushed_at": "2026-05-11T11:29:02Z",
+      "updated_at": "2026-05-11T11:08:03Z"
     }
   ]
 }
