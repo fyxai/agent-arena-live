@@ -5,62 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 668,
+  "total_found": 669,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 142299,
-      "forks": 22176,
+      "stars": 142865,
+      "forks": 22289,
       "language": "Python",
-      "pushed_at": "2026-05-10T20:20:28Z",
-      "updated_at": "2026-05-10T20:52:55Z"
+      "pushed_at": "2026-05-11T03:55:04Z",
+      "updated_at": "2026-05-11T03:57:45Z"
     },
     {
       "id": 995029641,
       "full_name": "ruvnet/ruflo",
       "html_url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 48421,
-      "forks": 5366,
+      "stars": 48563,
+      "forks": 5382,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:30:31Z",
-      "updated_at": "2026-05-10T20:51:43Z"
+      "pushed_at": "2026-05-11T03:43:39Z",
+      "updated_at": "2026-05-11T03:57:51Z"
     },
     {
-      "id": 1171026502,
-      "full_name": "googleworkspace/cli",
-      "html_url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "stars": 26027,
-      "forks": 1355,
-      "language": "Rust",
-      "pushed_at": "2026-05-10T19:26:21Z",
-      "updated_at": "2026-05-10T20:12:16Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 45410,
+      "forks": 4308,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T03:56:59Z",
+      "updated_at": "2026-05-11T03:42:10Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 19579,
-      "forks": 1924,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-10T20:46:15Z",
-      "updated_at": "2026-05-10T20:29:58Z"
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 42161,
+      "forks": 7401,
+      "language": "Python",
+      "pushed_at": "2026-05-11T03:50:18Z",
+      "updated_at": "2026-05-11T03:50:25Z"
     },
     {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3785,
-      "forks": 473,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-10T19:49:25Z",
-      "updated_at": "2026-05-10T20:15:43Z"
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 24358,
+      "forks": 2196,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T03:53:50Z",
+      "updated_at": "2026-05-11T03:55:19Z"
+    },
+    {
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 22338,
+      "forks": 2590,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T03:39:15Z",
+      "updated_at": "2026-05-11T03:50:15Z"
+    },
+    {
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 10543,
+      "forks": 843,
+      "language": "Python",
+      "pushed_at": "2026-05-11T03:16:45Z",
+      "updated_at": "2026-05-11T03:54:40Z"
+    },
+    {
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 2159,
+      "forks": 457,
+      "language": "Python",
+      "pushed_at": "2026-05-11T03:57:02Z",
+      "updated_at": "2026-05-11T03:57:04Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 2017,
+      "forks": 203,
+      "language": "Go",
+      "pushed_at": "2026-05-11T03:42:31Z",
+      "updated_at": "2026-05-11T03:42:36Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 1117,
+      "forks": 71,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T03:53:44Z",
+      "updated_at": "2026-05-11T03:56:27Z"
     },
     {
       "id": 1096175506,
@@ -70,107 +125,52 @@
       "stars": 1106,
       "forks": 60,
       "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:11:50Z",
-      "updated_at": "2026-05-10T20:04:05Z"
+      "pushed_at": "2026-05-11T03:55:35Z",
+      "updated_at": "2026-05-11T03:21:20Z"
     },
     {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 1040,
-      "forks": 52,
-      "language": "Python",
-      "pushed_at": "2026-05-10T20:46:40Z",
-      "updated_at": "2026-05-10T20:46:44Z"
-    },
-    {
-      "id": 1175857225,
-      "full_name": "skalesapp/skales",
-      "html_url": "https://github.com/skalesapp/skales",
-      "description": "Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free.",
-      "stars": 921,
-      "forks": 154,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:50:30Z",
-      "updated_at": "2026-05-10T20:50:35Z"
-    },
-    {
-      "id": 1187461911,
-      "full_name": "openyak/openyak",
-      "html_url": "https://github.com/openyak/openyak",
-      "description": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
-      "stars": 778,
-      "forks": 52,
-      "language": "Python",
-      "pushed_at": "2026-05-10T19:18:27Z",
-      "updated_at": "2026-05-10T19:18:31Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
-      "stars": 643,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T19:45:20Z",
-      "updated_at": "2026-05-10T19:45:25Z"
-    },
-    {
-      "id": 1153494379,
-      "full_name": "grinev/opencode-telegram-bot",
-      "html_url": "https://github.com/grinev/opencode-telegram-bot",
-      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.",
-      "stars": 618,
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+      "stars": 868,
       "forks": 114,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:06:33Z",
-      "updated_at": "2026-05-10T20:22:19Z"
-    },
-    {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 607,
-      "forks": 42,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-10T20:51:04Z",
-      "updated_at": "2026-05-10T20:43:05Z"
-    },
-    {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 488,
-      "forks": 21,
-      "language": "ReScript",
-      "pushed_at": "2026-05-10T20:09:58Z",
-      "updated_at": "2026-05-10T20:10:01Z"
-    },
-    {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 289,
-      "forks": 50,
-      "language": "Python",
-      "pushed_at": "2026-05-10T20:52:52Z",
-      "updated_at": "2026-05-10T20:50:58Z"
-    },
-    {
-      "id": 1164646909,
-      "full_name": "jazzenchen/VibeAround",
-      "html_url": "https://github.com/jazzenchen/VibeAround",
-      "description": "Vibe coding companion: work with your local AI agents from anywhere. Chat on your phone or through a browser terminal, with instant previews for your work. Switch profiles freely, run multiple agents in parallel, and third-party APIs are supported.",
-      "stars": 235,
-      "forks": 26,
       "language": "Rust",
-      "pushed_at": "2026-05-10T19:26:34Z",
-      "updated_at": "2026-05-10T19:26:38Z"
+      "pushed_at": "2026-05-11T03:38:19Z",
+      "updated_at": "2026-05-11T03:38:22Z"
+    },
+    {
+      "id": 1201201482,
+      "full_name": "matevip/mateclaw",
+      "html_url": "https://github.com/matevip/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "stars": 439,
+      "forks": 150,
+      "language": "Java",
+      "pushed_at": "2026-05-11T03:22:25Z",
+      "updated_at": "2026-05-11T03:22:29Z"
+    },
+    {
+      "id": 1172782796,
+      "full_name": "AI-Shell-Team/aish",
+      "html_url": "https://github.com/AI-Shell-Team/aish",
+      "description": "Empower the Shell to think. Evolve Operations. ",
+      "stars": 380,
+      "forks": 72,
+      "language": "Python",
+      "pushed_at": "2026-05-11T03:39:29Z",
+      "updated_at": "2026-05-11T03:44:44Z"
+    },
+    {
+      "id": 1161723599,
+      "full_name": "AmrDab/clawdcursor",
+      "html_url": "https://github.com/AmrDab/clawdcursor",
+      "description": "OS-agnostic, model-agnostic desktop automation server. Gives any AI agent eyes, hands, and ground-truth verification on Windows, macOS, and Linux.",
+      "stars": 307,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-11T03:25:44Z",
+      "updated_at": "2026-05-11T02:53:37Z"
     }
   ]
 }
