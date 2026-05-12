@@ -12,88 +12,110 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 145470,
-      "forks": 22763,
+      "stars": 145980,
+      "forks": 22841,
       "language": "Python",
-      "pushed_at": "2026-05-12T06:02:17Z",
-      "updated_at": "2026-05-12T06:38:57Z"
+      "pushed_at": "2026-05-12T10:20:18Z",
+      "updated_at": "2026-05-12T10:34:51Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45486,
+      "stars": 45498,
       "forks": 4314,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:36:40Z",
-      "updated_at": "2026-05-12T06:31:17Z"
+      "pushed_at": "2026-05-12T10:36:15Z",
+      "updated_at": "2026-05-12T10:25:34Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42242,
-      "forks": 7421,
+      "stars": 42260,
+      "forks": 7424,
       "language": "Python",
-      "pushed_at": "2026-05-12T05:57:07Z",
-      "updated_at": "2026-05-12T06:36:59Z"
+      "pushed_at": "2026-05-12T10:36:17Z",
+      "updated_at": "2026-05-12T10:32:06Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 26409,
-      "forks": 8401,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 24789,
+      "forks": 2240,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:16:39Z",
-      "updated_at": "2026-05-12T06:36:48Z"
+      "pushed_at": "2026-05-12T10:27:21Z",
+      "updated_at": "2026-05-12T10:33:30Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22351,
-      "forks": 2591,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22153,
+      "forks": 3642,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:38:34Z",
-      "updated_at": "2026-05-12T06:27:56Z"
+      "pushed_at": "2026-05-12T10:34:43Z",
+      "updated_at": "2026-05-12T10:01:44Z"
+    },
+    {
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 10578,
+      "forks": 845,
+      "language": "Python",
+      "pushed_at": "2026-05-12T10:27:15Z",
+      "updated_at": "2026-05-12T10:27:20Z"
+    },
+    {
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 7049,
+      "forks": 1395,
+      "language": "Python",
+      "pushed_at": "2026-05-12T10:34:36Z",
+      "updated_at": "2026-05-12T10:34:41Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
-      "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 5568,
-      "forks": 372,
+      "description": "Turn repeat work into running AI work-streams.",
+      "stars": 5574,
+      "forks": 373,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:38:03Z",
-      "updated_at": "2026-05-12T06:37:55Z"
+      "pushed_at": "2026-05-12T10:21:20Z",
+      "updated_at": "2026-05-12T10:23:41Z"
     },
     {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 3971,
-      "forks": 377,
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 2913,
+      "forks": 185,
       "language": "Python",
-      "pushed_at": "2026-05-12T05:50:17Z",
-      "updated_at": "2026-05-12T06:29:55Z"
+      "pushed_at": "2026-05-12T10:09:59Z",
+      "updated_at": "2026-05-12T10:19:44Z"
     },
     {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1135,
-      "forks": 137,
+      "id": 1142800652,
+      "full_name": "TabularisDB/tabularis",
+      "html_url": "https://github.com/TabularisDB/tabularis",
+      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
+      "stars": 1354,
+      "forks": 91,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:25:38Z",
-      "updated_at": "2026-05-12T06:25:40Z"
+      "pushed_at": "2026-05-12T10:10:41Z",
+      "updated_at": "2026-05-12T10:28:01Z"
     },
     {
       "id": 1096175506,
@@ -103,30 +125,19 @@
       "stars": 1108,
       "forks": 60,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:39:38Z",
-      "updated_at": "2026-05-12T06:36:24Z"
+      "pushed_at": "2026-05-12T10:34:36Z",
+      "updated_at": "2026-05-12T10:26:40Z"
     },
     {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-      "stars": 871,
-      "forks": 116,
-      "language": "Rust",
-      "pushed_at": "2026-05-12T06:27:58Z",
-      "updated_at": "2026-05-12T06:28:03Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 648,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:35:26Z",
-      "updated_at": "2026-05-12T06:35:31Z"
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 994,
+      "forks": 179,
+      "language": "Go",
+      "pushed_at": "2026-05-12T10:28:05Z",
+      "updated_at": "2026-05-12T10:28:08Z"
     },
     {
       "id": 1155123554,
@@ -134,10 +145,10 @@
       "html_url": "https://github.com/affaan-m/agentshield",
       "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️",
       "stars": 625,
-      "forks": 133,
+      "forks": 134,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:03:10Z",
-      "updated_at": "2026-05-12T06:03:12Z"
+      "pushed_at": "2026-05-12T10:35:53Z",
+      "updated_at": "2026-05-12T09:53:54Z"
     },
     {
       "id": 1203682349,
@@ -147,8 +158,8 @@
       "stars": 530,
       "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-05-12T06:09:49Z",
-      "updated_at": "2026-05-12T06:08:15Z"
+      "pushed_at": "2026-05-12T10:32:12Z",
+      "updated_at": "2026-05-12T10:32:16Z"
     },
     {
       "id": 1201201482,
@@ -158,19 +169,8 @@
       "stars": 448,
       "forks": 152,
       "language": "Java",
-      "pushed_at": "2026-05-12T06:35:41Z",
-      "updated_at": "2026-05-12T06:35:44Z"
-    },
-    {
-      "id": 932008418,
-      "full_name": "cloudwego/abcoder",
-      "html_url": "https://github.com/cloudwego/abcoder",
-      "description": "deep, reliable and confidential coding-context",
-      "stars": 366,
-      "forks": 55,
-      "language": "Go",
-      "pushed_at": "2026-05-12T06:12:20Z",
-      "updated_at": "2026-05-12T06:12:25Z"
+      "pushed_at": "2026-05-12T10:18:52Z",
+      "updated_at": "2026-05-12T10:18:56Z"
     }
   ]
 }
