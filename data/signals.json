@@ -5,106 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 688,
+  "total_found": 689,
   "items": [
     {
-      "id": 995029641,
-      "full_name": "ruvnet/ruflo",
-      "html_url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 50196,
-      "forks": 5601,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-13T17:43:07Z",
-      "updated_at": "2026-05-13T18:01:45Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45582,
-      "forks": 4326,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-13T17:45:55Z",
-      "updated_at": "2026-05-13T18:04:00Z"
-    },
-    {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42365,
-      "forks": 7438,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 148525,
+      "forks": 23384,
       "language": "Python",
-      "pushed_at": "2026-05-13T17:46:36Z",
-      "updated_at": "2026-05-13T17:55:52Z"
+      "pushed_at": "2026-05-13T21:02:38Z",
+      "updated_at": "2026-05-13T21:38:44Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31350,
-      "forks": 4050,
+      "stars": 31364,
+      "forks": 4051,
       "language": "TypeScript",
-      "pushed_at": "2026-05-13T17:59:06Z",
-      "updated_at": "2026-05-13T18:02:13Z"
+      "pushed_at": "2026-05-13T21:32:21Z",
+      "updated_at": "2026-05-13T21:04:00Z"
     },
     {
-      "id": 1188521544,
-      "full_name": "holaboss-ai/holaOS",
-      "html_url": "https://github.com/holaboss-ai/holaOS",
-      "description": "Turn repeat work into running AI work-streams.",
-      "stars": 5642,
-      "forks": 376,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22170,
+      "forks": 3649,
       "language": "TypeScript",
-      "pushed_at": "2026-05-13T17:44:09Z",
-      "updated_at": "2026-05-13T18:01:00Z"
+      "pushed_at": "2026-05-13T21:37:26Z",
+      "updated_at": "2026-05-13T21:19:55Z"
     },
     {
-      "id": 949646929,
-      "full_name": "GetBindu/Bindu",
-      "html_url": "https://github.com/GetBindu/Bindu",
-      "description": "Bindu: Turn any AI agent into a living microservice -  interoperable, observable, composable.",
-      "stars": 5443,
-      "forks": 364,
-      "language": "Python",
-      "pushed_at": "2026-05-13T18:02:27Z",
-      "updated_at": "2026-05-13T18:02:33Z"
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 20438,
+      "forks": 2075,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-13T20:13:39Z",
+      "updated_at": "2026-05-13T20:27:31Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 4403,
-      "forks": 400,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-13T17:53:32Z",
-      "updated_at": "2026-05-13T18:00:32Z"
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 16504,
+      "forks": 1038,
+      "language": "HTML",
+      "pushed_at": "2026-05-13T20:32:44Z",
+      "updated_at": "2026-05-13T21:37:29Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4013,
+      "stars": 4016,
       "forks": 381,
       "language": "Python",
-      "pushed_at": "2026-05-13T17:43:00Z",
-      "updated_at": "2026-05-13T17:43:10Z"
+      "pushed_at": "2026-05-13T21:36:13Z",
+      "updated_at": "2026-05-13T21:36:16Z"
     },
     {
-      "id": 1003614809,
-      "full_name": "kite-org/kite",
-      "html_url": "https://github.com/kite-org/kite",
-      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
-      "stars": 2694,
-      "forks": 241,
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+      "stars": 2705,
+      "forks": 337,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-13T21:36:56Z",
+      "updated_at": "2026-05-13T21:37:00Z"
+    },
+    {
+      "id": 1178437140,
+      "full_name": "czl9707/build-your-own-openclaw",
+      "html_url": "https://github.com/czl9707/build-your-own-openclaw",
+      "description": "A step-by-step guide to build your own AI agent.",
+      "stars": 1624,
+      "forks": 292,
+      "language": "Python",
+      "pushed_at": "2026-05-13T20:48:57Z",
+      "updated_at": "2026-05-13T21:26:51Z"
+    },
+    {
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 1558,
+      "forks": 427,
       "language": "TypeScript",
-      "pushed_at": "2026-05-13T18:02:01Z",
-      "updated_at": "2026-05-13T18:02:08Z"
+      "pushed_at": "2026-05-13T21:23:56Z",
+      "updated_at": "2026-05-13T21:33:59Z"
     },
     {
       "id": 1051086270,
@@ -114,30 +114,41 @@
       "stars": 1136,
       "forks": 138,
       "language": "TypeScript",
-      "pushed_at": "2026-05-13T17:48:11Z",
-      "updated_at": "2026-05-13T17:48:13Z"
+      "pushed_at": "2026-05-13T21:38:35Z",
+      "updated_at": "2026-05-13T21:38:47Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1109,
+      "forks": 61,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-13T21:30:48Z",
+      "updated_at": "2026-05-13T21:30:51Z"
     },
     {
       "id": 1169880696,
       "full_name": "LetsFG/LetsFG",
       "html_url": "https://github.com/LetsFG/LetsFG",
       "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 1059,
+      "stars": 1060,
       "forks": 54,
       "language": "Python",
-      "pushed_at": "2026-05-13T17:56:27Z",
-      "updated_at": "2026-05-13T17:56:31Z"
+      "pushed_at": "2026-05-13T21:19:22Z",
+      "updated_at": "2026-05-13T21:19:26Z"
     },
     {
-      "id": 1218208502,
-      "full_name": "worldwonderer/oh-story-claudecode",
-      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
-      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-      "stars": 1056,
-      "forks": 254,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-13T18:01:39Z",
-      "updated_at": "2026-05-13T17:50:06Z"
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 660,
+      "forks": 54,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-13T21:16:16Z",
+      "updated_at": "2026-05-13T21:16:20Z"
     },
     {
       "id": 1156882085,
@@ -147,30 +158,19 @@
       "stars": 289,
       "forks": 49,
       "language": "Python",
-      "pushed_at": "2026-05-13T18:04:20Z",
-      "updated_at": "2026-05-13T18:04:25Z"
+      "pushed_at": "2026-05-13T21:38:21Z",
+      "updated_at": "2026-05-13T21:38:39Z"
     },
     {
-      "id": 1140152286,
-      "full_name": "heygen-com/skills",
-      "html_url": "https://github.com/heygen-com/skills",
-      "description": "HeyGen AI agent skills — avatar creation and video production via the v3 Video Agent pipeline",
-      "stars": 229,
-      "forks": 41,
-      "language": "Shell",
-      "pushed_at": "2026-05-13T17:59:23Z",
-      "updated_at": "2026-05-13T17:59:02Z"
-    },
-    {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "ClawCodex - Claude Code full rebuilt in Python. Support DeepSeek V4 Pro. LLM-agnostic Coding Agent.",
-      "stars": 228,
-      "forks": 17,
-      "language": "Python",
-      "pushed_at": "2026-05-13T17:42:42Z",
-      "updated_at": "2026-05-13T17:42:47Z"
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 145,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-05-13T21:16:23Z",
+      "updated_at": "2026-05-13T21:16:29Z"
     }
   ]
 }
