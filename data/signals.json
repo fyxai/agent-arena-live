@@ -5,84 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 692,
+  "total_found": 695,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 149800,
+      "forks": 23673,
+      "language": "Python",
+      "pushed_at": "2026-05-14T14:08:48Z",
+      "updated_at": "2026-05-14T14:22:36Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45638,
-      "forks": 4331,
+      "stars": 45654,
+      "forks": 4334,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T10:18:30Z",
-      "updated_at": "2026-05-14T10:18:36Z"
+      "pushed_at": "2026-05-14T14:12:54Z",
+      "updated_at": "2026-05-14T14:21:29Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42421,
-      "forks": 7447,
-      "language": "Python",
-      "pushed_at": "2026-05-14T09:54:54Z",
-      "updated_at": "2026-05-14T10:22:45Z"
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 26622,
+      "forks": 8441,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T14:25:12Z",
+      "updated_at": "2026-05-14T14:24:35Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 25100,
-      "forks": 2289,
+      "stars": 25125,
+      "forks": 2290,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T10:23:03Z",
-      "updated_at": "2026-05-14T10:23:09Z"
+      "pushed_at": "2026-05-14T13:45:23Z",
+      "updated_at": "2026-05-14T13:58:51Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 20524,
-      "forks": 2081,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-14T10:04:07Z",
-      "updated_at": "2026-05-14T10:21:45Z"
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22184,
+      "forks": 3651,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T14:20:39Z",
+      "updated_at": "2026-05-14T14:20:49Z"
+    },
+    {
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 7307,
+      "forks": 1454,
+      "language": "Python",
+      "pushed_at": "2026-05-14T14:18:21Z",
+      "updated_at": "2026-05-14T14:22:32Z"
     },
     {
       "id": 1188521544,
       "full_name": "holaboss-ai/holaOS",
       "html_url": "https://github.com/holaboss-ai/holaOS",
       "description": "Turn repeat work into running AI work-streams.",
-      "stars": 5689,
-      "forks": 382,
+      "stars": 5577,
+      "forks": 381,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T09:55:23Z",
-      "updated_at": "2026-05-14T10:21:27Z"
+      "pushed_at": "2026-05-14T14:00:53Z",
+      "updated_at": "2026-05-14T14:22:50Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 2003,
-      "forks": 113,
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 4788,
+      "forks": 602,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T10:21:04Z",
-      "updated_at": "2026-05-14T10:21:07Z"
+      "pushed_at": "2026-05-14T14:04:08Z",
+      "updated_at": "2026-05-14T14:20:46Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4035,
+      "forks": 381,
+      "language": "Python",
+      "pushed_at": "2026-05-14T14:21:02Z",
+      "updated_at": "2026-05-14T13:40:58Z"
+    },
+    {
+      "id": 1111937658,
+      "full_name": "boxlite-ai/boxlite",
+      "html_url": "https://github.com/boxlite-ai/boxlite",
+      "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
+      "stars": 2056,
+      "forks": 125,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-14T13:56:08Z",
+      "updated_at": "2026-05-14T13:56:10Z"
     },
     {
       "id": 1142800652,
       "full_name": "TabularisDB/tabularis",
       "html_url": "https://github.com/TabularisDB/tabularis",
       "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 1702,
+      "stars": 1709,
       "forks": 110,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T09:53:30Z",
-      "updated_at": "2026-05-14T09:53:34Z"
+      "pushed_at": "2026-05-14T13:51:22Z",
+      "updated_at": "2026-05-14T14:12:58Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +136,41 @@
       "stars": 1111,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T10:23:51Z",
-      "updated_at": "2026-05-14T10:17:24Z"
+      "pushed_at": "2026-05-14T14:14:41Z",
+      "updated_at": "2026-05-14T13:52:58Z"
     },
     {
-      "id": 1144764199,
-      "full_name": "didilili/ai-agents-from-zero",
-      "html_url": "https://github.com/didilili/ai-agents-from-zero",
-      "description": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
-      "stars": 984,
-      "forks": 136,
-      "language": "Python",
-      "pushed_at": "2026-05-14T10:07:28Z",
-      "updated_at": "2026-05-14T10:07:32Z"
-    },
-    {
-      "id": 1201201482,
-      "full_name": "matevip/mateclaw",
-      "html_url": "https://github.com/matevip/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 458,
-      "forks": 154,
-      "language": "Java",
-      "pushed_at": "2026-05-14T10:18:24Z",
-      "updated_at": "2026-05-14T10:18:30Z"
-    },
-    {
-      "id": 1161723599,
-      "full_name": "AmrDab/clawdcursor",
-      "html_url": "https://github.com/AmrDab/clawdcursor",
-      "description": "OS-agnostic, model-agnostic desktop automation server. Gives any AI agent eyes, hands, and ground-truth verification on Windows, macOS, and Linux.",
-      "stars": 315,
-      "forks": 49,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 663,
+      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T10:10:02Z",
-      "updated_at": "2026-05-14T10:08:56Z"
+      "pushed_at": "2026-05-14T13:41:29Z",
+      "updated_at": "2026-05-14T14:20:19Z"
     },
     {
-      "id": 1206100170,
-      "full_name": "SudoJacky/tinybot",
-      "html_url": "https://github.com/SudoJacky/tinybot",
-      "description": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-      "stars": 179,
-      "forks": 22,
-      "language": "Python",
-      "pushed_at": "2026-05-14T10:11:49Z",
-      "updated_at": "2026-05-14T10:18:32Z"
+      "id": 1154273018,
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
+      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
+      "stars": 375,
+      "forks": 91,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-14T14:22:34Z",
+      "updated_at": "2026-05-14T14:22:39Z"
     },
     {
-      "id": 990355747,
-      "full_name": "taskade/mcp",
-      "html_url": "https://github.com/taskade/mcp",
-      "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
-      "stars": 126,
-      "forks": 37,
+      "id": 1158138383,
+      "full_name": "CyberStrikeus/CyberStrike",
+      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "stars": 269,
+      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-05-14T10:03:02Z",
-      "updated_at": "2026-05-14T10:02:35Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 119,
-      "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-05-14T09:54:49Z",
-      "updated_at": "2026-05-14T09:54:54Z"
-    },
-    {
-      "id": 1185162676,
-      "full_name": "InternScience/ResearchClawBench",
-      "html_url": "https://github.com/InternScience/ResearchClawBench",
-      "description": "🦞 ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery",
-      "stars": 113,
-      "forks": 9,
-      "language": "Jupyter Notebook",
-      "pushed_at": "2026-05-14T10:00:57Z",
-      "updated_at": "2026-05-14T10:01:02Z"
+      "pushed_at": "2026-05-14T13:48:22Z",
+      "updated_at": "2026-05-14T13:48:27Z"
     }
   ]
 }
