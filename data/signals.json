@@ -5,106 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 704,
+  "total_found": 706,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 151478,
+      "forks": 24019,
+      "language": "Python",
+      "pushed_at": "2026-05-15T14:01:03Z",
+      "updated_at": "2026-05-15T14:18:57Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45707,
-      "forks": 4339,
+      "stars": 45715,
+      "forks": 4341,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:20:35Z",
-      "updated_at": "2026-05-15T10:05:43Z"
+      "pushed_at": "2026-05-15T14:07:10Z",
+      "updated_at": "2026-05-15T14:11:49Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
-      "stars": 44479,
-      "forks": 10101,
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 36011,
+      "forks": 35487,
       "language": "Python",
-      "pushed_at": "2026-05-15T10:18:15Z",
-      "updated_at": "2026-05-15T10:18:42Z"
+      "pushed_at": "2026-05-15T14:15:16Z",
+      "updated_at": "2026-05-15T14:10:47Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42511,
-      "forks": 7469,
-      "language": "Python",
-      "pushed_at": "2026-05-15T10:19:49Z",
-      "updated_at": "2026-05-15T10:06:23Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 25211,
-      "forks": 2299,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 31426,
+      "forks": 4064,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:11:10Z",
-      "updated_at": "2026-05-15T10:26:46Z"
+      "pushed_at": "2026-05-15T14:14:33Z",
+      "updated_at": "2026-05-15T14:09:50Z"
     },
     {
       "id": 306829688,
       "full_name": "nocobase/nocobase",
       "html_url": "https://github.com/nocobase/nocobase",
       "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22392,
-      "forks": 2602,
+      "stars": 22394,
+      "forks": 2603,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:04:06Z",
-      "updated_at": "2026-05-15T10:00:22Z"
+      "pushed_at": "2026-05-15T13:51:13Z",
+      "updated_at": "2026-05-15T13:55:56Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22192,
-      "forks": 3654,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:19:40Z",
-      "updated_at": "2026-05-15T10:19:45Z"
-    },
-    {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
-      "stars": 20653,
-      "forks": 2089,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-15T10:21:16Z",
-      "updated_at": "2026-05-15T10:21:20Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 11484,
-      "forks": 1310,
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4051,
+      "forks": 386,
       "language": "Python",
-      "pushed_at": "2026-05-15T10:29:01Z",
-      "updated_at": "2026-05-15T10:29:05Z"
+      "pushed_at": "2026-05-15T13:52:35Z",
+      "updated_at": "2026-05-15T13:49:58Z"
+    },
+    {
+      "id": 810121174,
+      "full_name": "LazyAGI/LazyLLM",
+      "html_url": "https://github.com/LazyAGI/LazyLLM",
+      "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
+      "stars": 3828,
+      "forks": 389,
+      "language": "Python",
+      "pushed_at": "2026-05-15T14:04:10Z",
+      "updated_at": "2026-05-15T14:04:16Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 2705,
-      "forks": 147,
+      "stars": 2813,
+      "forks": 152,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:06:49Z",
-      "updated_at": "2026-05-15T10:17:21Z"
+      "pushed_at": "2026-05-15T14:17:35Z",
+      "updated_at": "2026-05-15T14:17:54Z"
     },
     {
       "id": 1145420469,
@@ -114,19 +103,8 @@
       "stars": 2681,
       "forks": 314,
       "language": "Rust",
-      "pushed_at": "2026-05-15T10:27:25Z",
-      "updated_at": "2026-05-15T10:18:32Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2414,
-      "forks": 282,
-      "language": "Go",
-      "pushed_at": "2026-05-15T10:24:35Z",
-      "updated_at": "2026-05-15T10:03:23Z"
+      "pushed_at": "2026-05-15T13:36:49Z",
+      "updated_at": "2026-05-15T13:36:20Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +114,63 @@
       "stars": 1111,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:27:28Z",
-      "updated_at": "2026-05-15T10:23:23Z"
+      "pushed_at": "2026-05-15T14:15:30Z",
+      "updated_at": "2026-05-15T14:06:13Z"
     },
     {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 510,
-      "forks": 24,
-      "language": "ReScript",
-      "pushed_at": "2026-05-15T10:12:06Z",
-      "updated_at": "2026-05-15T10:12:12Z"
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1007,
+      "forks": 184,
+      "language": "Go",
+      "pushed_at": "2026-05-15T14:14:54Z",
+      "updated_at": "2026-05-15T13:56:29Z"
     },
     {
-      "id": 1206100170,
-      "full_name": "SudoJacky/tinybot",
-      "html_url": "https://github.com/SudoJacky/tinybot",
-      "description": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-      "stars": 184,
-      "forks": 22,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 319,
+      "forks": 51,
       "language": "Python",
-      "pushed_at": "2026-05-15T10:26:06Z",
-      "updated_at": "2026-05-15T10:26:02Z"
+      "pushed_at": "2026-05-15T14:16:06Z",
+      "updated_at": "2026-05-15T14:15:09Z"
     },
     {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 156,
-      "forks": 10,
+      "id": 1158138383,
+      "full_name": "CyberStrikeus/CyberStrike",
+      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "stars": 269,
+      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T10:16:33Z",
-      "updated_at": "2026-05-15T10:16:28Z"
+      "pushed_at": "2026-05-15T13:45:26Z",
+      "updated_at": "2026-05-15T13:45:30Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, coding itself by night.",
+      "stars": 184,
+      "forks": 44,
+      "language": "Python",
+      "pushed_at": "2026-05-15T14:14:43Z",
+      "updated_at": "2026-05-15T14:14:46Z"
+    },
+    {
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 176,
+      "forks": 16,
+      "language": "Python",
+      "pushed_at": "2026-05-15T14:17:02Z",
+      "updated_at": "2026-05-15T14:19:00Z"
     }
   ]
 }
