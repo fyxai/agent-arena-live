@@ -8,114 +8,59 @@
   "total_found": 708,
   "items": [
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42536,
-      "forks": 7471,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 151884,
+      "forks": 24118,
       "language": "Python",
-      "pushed_at": "2026-05-15T17:42:43Z",
-      "updated_at": "2026-05-15T17:42:48Z"
+      "pushed_at": "2026-05-15T21:07:59Z",
+      "updated_at": "2026-05-15T21:08:04Z"
+    },
+    {
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 36029,
+      "forks": 35506,
+      "language": "Python",
+      "pushed_at": "2026-05-15T20:57:43Z",
+      "updated_at": "2026-05-15T20:47:51Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31430,
+      "stars": 31433,
       "forks": 4064,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T17:35:58Z",
-      "updated_at": "2026-05-15T17:41:00Z"
+      "pushed_at": "2026-05-15T20:55:24Z",
+      "updated_at": "2026-05-15T20:55:27Z"
     },
     {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 7379,
-      "forks": 1476,
-      "language": "Python",
-      "pushed_at": "2026-05-15T17:17:47Z",
-      "updated_at": "2026-05-15T17:17:53Z"
-    },
-    {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 5003,
-      "forks": 973,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-15T17:19:37Z",
-      "updated_at": "2026-05-15T17:27:44Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 4506,
-      "forks": 412,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22205,
+      "forks": 3656,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T17:16:22Z",
-      "updated_at": "2026-05-15T17:16:25Z"
+      "pushed_at": "2026-05-15T20:34:08Z",
+      "updated_at": "2026-05-15T20:40:53Z"
     },
     {
-      "id": 1167607007,
-      "full_name": "qingchencloud/clawpanel",
-      "html_url": "https://github.com/qingchencloud/clawpanel",
-      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
-      "stars": 2718,
-      "forks": 336,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-15T16:52:51Z",
-      "updated_at": "2026-05-15T16:52:56Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2419,
-      "forks": 281,
-      "language": "Go",
-      "pushed_at": "2026-05-15T17:33:27Z",
-      "updated_at": "2026-05-15T17:33:31Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 1739,
-      "forks": 116,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-15T17:38:31Z",
-      "updated_at": "2026-05-15T17:38:35Z"
-    },
-    {
-      "id": 1190557545,
-      "full_name": "eugeniughelbur/obsidian-second-brain",
-      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
-      "description": "Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-time AI-first validator.",
-      "stars": 1137,
-      "forks": 118,
-      "language": "Python",
-      "pushed_at": "2026-05-15T17:17:25Z",
-      "updated_at": "2026-05-15T17:17:30Z"
-    },
-    {
-      "id": 1218208502,
-      "full_name": "worldwonderer/oh-story-claudecode",
-      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
-      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-      "stars": 1119,
-      "forks": 261,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-15T17:17:11Z",
-      "updated_at": "2026-05-15T17:32:51Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2683,
+      "forks": 314,
+      "language": "Rust",
+      "pushed_at": "2026-05-15T20:41:05Z",
+      "updated_at": "2026-05-15T19:58:48Z"
     },
     {
       "id": 1096175506,
@@ -125,19 +70,63 @@
       "stars": 1111,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-15T17:41:53Z",
-      "updated_at": "2026-05-15T17:41:57Z"
+      "pushed_at": "2026-05-15T21:08:30Z",
+      "updated_at": "2026-05-15T21:03:10Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 388,
-      "forks": 90,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-15T17:16:45Z",
-      "updated_at": "2026-05-15T17:15:53Z"
+      "id": 1187461911,
+      "full_name": "openyak/openyak",
+      "html_url": "https://github.com/openyak/openyak",
+      "description": "Open-source local-first AI agent for desktop work. No account, no telemetry: use local models with Ollama/Rapid-MLX or bring your own provider key.",
+      "stars": 783,
+      "forks": 54,
+      "language": "Python",
+      "pushed_at": "2026-05-15T20:55:05Z",
+      "updated_at": "2026-05-15T20:57:45Z"
+    },
+    {
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Plan-first AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 585,
+      "forks": 45,
+      "language": "Python",
+      "pushed_at": "2026-05-15T20:56:13Z",
+      "updated_at": "2026-05-15T20:56:18Z"
+    },
+    {
+      "id": 1179222510,
+      "full_name": "macOS26/Agent",
+      "html_url": "https://github.com/macOS26/Agent",
+      "description": "Any AI, replaces Claude Code, Cursor, OpenClaw. Over 18 LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automates Safari, use AppleScript, JS or Accessibility, extend Agent! w/ MCP Servers, run tasks from your iPhone via Messages.",
+      "stars": 428,
+      "forks": 32,
+      "language": "Swift",
+      "pushed_at": "2026-05-15T21:00:24Z",
+      "updated_at": "2026-05-15T21:00:28Z"
+    },
+    {
+      "id": 848182195,
+      "full_name": "Palm1r/QodeAssist",
+      "html_url": "https://github.com/Palm1r/QodeAssist",
+      "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+      "stars": 391,
+      "forks": 56,
+      "language": "C++",
+      "pushed_at": "2026-05-15T20:07:45Z",
+      "updated_at": "2026-05-15T20:07:49Z"
+    },
+    {
+      "id": 1221914096,
+      "full_name": "browser-use/bux",
+      "html_url": "https://github.com/browser-use/bux",
+      "description": "Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own.",
+      "stars": 330,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-05-15T20:29:24Z",
+      "updated_at": "2026-05-15T20:29:32Z"
     },
     {
       "id": 1156882085,
@@ -147,30 +136,41 @@
       "stars": 322,
       "forks": 51,
       "language": "Python",
-      "pushed_at": "2026-05-15T17:41:59Z",
-      "updated_at": "2026-05-15T17:42:00Z"
+      "pushed_at": "2026-05-15T21:08:34Z",
+      "updated_at": "2026-05-15T20:41:38Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "ClawCodex - Claude Code full rebuilt in Python. 167K lines! LLM-agnostic Coding Agent.",
-      "stars": 249,
-      "forks": 18,
-      "language": "Python",
-      "pushed_at": "2026-05-15T17:32:50Z",
-      "updated_at": "2026-05-15T17:38:04Z"
+      "id": 1216010955,
+      "full_name": "Prompthon-IO/agent-systems-handbook",
+      "html_url": "https://github.com/Prompthon-IO/agent-systems-handbook",
+      "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend focus: AI assistant, emerging agent runtimes, and production AI workflow patterns.",
+      "stars": 200,
+      "forks": 28,
+      "language": "MDX",
+      "pushed_at": "2026-05-15T20:31:26Z",
+      "updated_at": "2026-05-15T21:01:40Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, coding itself by night. Summon my AI superpower.",
-      "stars": 187,
-      "forks": 44,
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 183,
+      "forks": 17,
       "language": "Python",
-      "pushed_at": "2026-05-15T17:16:21Z",
-      "updated_at": "2026-05-15T17:18:36Z"
+      "pushed_at": "2026-05-15T19:54:29Z",
+      "updated_at": "2026-05-15T19:54:35Z"
+    },
+    {
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 145,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-05-15T20:20:39Z",
+      "updated_at": "2026-05-15T19:55:08Z"
     }
   ]
 }
