@@ -5,84 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 711,
+  "total_found": 713,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 153601,
-      "forks": 24501,
+      "stars": 153747,
+      "forks": 24543,
       "language": "Python",
-      "pushed_at": "2026-05-17T03:52:22Z",
-      "updated_at": "2026-05-17T03:49:33Z"
+      "pushed_at": "2026-05-17T06:47:28Z",
+      "updated_at": "2026-05-17T06:46:05Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31465,
-      "forks": 4067,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T03:03:10Z",
-      "updated_at": "2026-05-17T03:39:30Z"
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 42611,
+      "forks": 7490,
+      "language": "Python",
+      "pushed_at": "2026-05-17T06:25:35Z",
+      "updated_at": "2026-05-17T06:36:12Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 26926,
-      "forks": 8478,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T03:13:21Z",
-      "updated_at": "2026-05-17T03:40:08Z"
-    },
-    {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 7444,
-      "forks": 759,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-17T03:25:11Z",
-      "updated_at": "2026-05-17T03:25:01Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 5052,
-      "forks": 635,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T03:09:28Z",
-      "updated_at": "2026-05-17T03:44:49Z"
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 10664,
+      "forks": 853,
+      "language": "Python",
+      "pushed_at": "2026-05-17T06:47:48Z",
+      "updated_at": "2026-05-17T06:47:52Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 4583,
-      "forks": 420,
+      "stars": 4596,
+      "forks": 423,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T03:51:51Z",
-      "updated_at": "2026-05-17T03:51:54Z"
+      "pushed_at": "2026-05-17T06:12:12Z",
+      "updated_at": "2026-05-17T06:46:21Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 3402,
-      "forks": 182,
+      "stars": 3466,
+      "forks": 183,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T03:47:57Z",
-      "updated_at": "2026-05-17T03:51:52Z"
+      "pushed_at": "2026-05-17T06:44:02Z",
+      "updated_at": "2026-05-17T06:48:12Z"
     },
     {
       "id": 1152014383,
@@ -92,8 +70,30 @@
       "stars": 2243,
       "forks": 477,
       "language": "Python",
-      "pushed_at": "2026-05-17T03:54:28Z",
-      "updated_at": "2026-05-17T03:50:19Z"
+      "pushed_at": "2026-05-17T06:18:26Z",
+      "updated_at": "2026-05-17T06:17:52Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 2067,
+      "forks": 202,
+      "language": "Go",
+      "pushed_at": "2026-05-17T05:42:59Z",
+      "updated_at": "2026-05-17T06:04:48Z"
+    },
+    {
+      "id": 1218208502,
+      "full_name": "worldwonderer/oh-story-claudecode",
+      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+      "stars": 1161,
+      "forks": 270,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-17T06:16:09Z",
+      "updated_at": "2026-05-17T06:44:28Z"
     },
     {
       "id": 1096175506,
@@ -103,19 +103,8 @@
       "stars": 1114,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T03:51:30Z",
-      "updated_at": "2026-05-17T03:43:30Z"
-    },
-    {
-      "id": 1144764199,
-      "full_name": "didilili/ai-agents-from-zero",
-      "html_url": "https://github.com/didilili/ai-agents-from-zero",
-      "description": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
-      "stars": 1086,
-      "forks": 146,
-      "language": "Python",
-      "pushed_at": "2026-05-17T03:08:48Z",
-      "updated_at": "2026-05-17T03:46:15Z"
+      "pushed_at": "2026-05-17T06:41:10Z",
+      "updated_at": "2026-05-17T06:22:15Z"
     },
     {
       "id": 1057975087,
@@ -125,52 +114,63 @@
       "stars": 1012,
       "forks": 186,
       "language": "Go",
-      "pushed_at": "2026-05-17T03:52:08Z",
-      "updated_at": "2026-05-17T03:52:12Z"
+      "pushed_at": "2026-05-17T06:41:47Z",
+      "updated_at": "2026-05-17T06:41:51Z"
     },
     {
-      "id": 1152181595,
-      "full_name": "xvirobotics/metabot",
-      "html_url": "https://github.com/xvirobotics/metabot",
-      "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。",
-      "stars": 761,
-      "forks": 118,
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 627,
+      "forks": 43,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T02:46:15Z",
-      "updated_at": "2026-05-17T02:46:08Z"
+      "pushed_at": "2026-05-17T05:40:51Z",
+      "updated_at": "2026-05-17T06:12:48Z"
     },
     {
-      "id": 1201201482,
-      "full_name": "matevip/mateclaw",
-      "html_url": "https://github.com/matevip/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 465,
-      "forks": 158,
-      "language": "Java",
-      "pushed_at": "2026-05-17T03:49:46Z",
-      "updated_at": "2026-05-17T03:49:50Z"
-    },
-    {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 415,
-      "forks": 87,
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 207,
+      "forks": 48,
       "language": "Python",
-      "pushed_at": "2026-05-17T02:50:22Z",
-      "updated_at": "2026-05-17T02:50:25Z"
+      "pushed_at": "2026-05-17T06:08:51Z",
+      "updated_at": "2026-05-17T06:39:18Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 389,
-      "forks": 90,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T03:45:30Z",
-      "updated_at": "2026-05-17T03:45:34Z"
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 147,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-05-17T06:20:12Z",
+      "updated_at": "2026-05-17T06:20:15Z"
+    },
+    {
+      "id": 1189562423,
+      "full_name": "iPythoning/b2b-sdr-agent-template",
+      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
+      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
+      "stars": 96,
+      "forks": 34,
+      "language": "Shell",
+      "pushed_at": "2026-05-17T06:12:04Z",
+      "updated_at": "2026-05-17T06:12:08Z"
+    },
+    {
+      "id": 1187898472,
+      "full_name": "zhouyoukang/windsurf-assistant",
+      "html_url": "https://github.com/zhouyoukang/windsurf-assistant",
+      "description": "Windsurf multi-account manager · auto-rotate · quota-aware · zero-config · 水善利万物而不争",
+      "stars": 90,
+      "forks": 17,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-17T06:19:41Z",
+      "updated_at": "2026-05-17T06:19:46Z"
     }
   ]
 }
