@@ -5,106 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 715,
+  "total_found": 717,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 154440,
-      "forks": 24727,
+      "stars": 154620,
+      "forks": 24762,
       "language": "Python",
-      "pushed_at": "2026-05-17T16:54:50Z",
-      "updated_at": "2026-05-17T17:01:06Z"
+      "pushed_at": "2026-05-17T20:54:14Z",
+      "updated_at": "2026-05-17T20:56:12Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42648,
-      "forks": 7502,
-      "language": "Python",
-      "pushed_at": "2026-05-17T16:53:58Z",
-      "updated_at": "2026-05-17T17:01:10Z"
+      "id": 995029641,
+      "full_name": "ruvnet/ruflo",
+      "html_url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 52321,
+      "forks": 5913,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T19:21:06Z",
+      "updated_at": "2026-05-17T20:58:41Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31481,
-      "forks": 4070,
+      "stars": 31484,
+      "forks": 4069,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:54:11Z",
-      "updated_at": "2026-05-17T16:56:08Z"
+      "pushed_at": "2026-05-17T20:58:18Z",
+      "updated_at": "2026-05-17T20:50:18Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 16872,
-      "forks": 1065,
-      "language": "HTML",
-      "pushed_at": "2026-05-17T16:58:47Z",
-      "updated_at": "2026-05-17T16:59:13Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 5156,
-      "forks": 643,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22235,
+      "forks": 3658,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:38:07Z",
-      "updated_at": "2026-05-17T17:00:39Z"
+      "pushed_at": "2026-05-17T20:55:45Z",
+      "updated_at": "2026-05-17T20:28:55Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4111,
+      "stars": 4114,
       "forks": 393,
       "language": "Python",
-      "pushed_at": "2026-05-17T16:58:29Z",
-      "updated_at": "2026-05-17T16:00:19Z"
+      "pushed_at": "2026-05-17T20:53:03Z",
+      "updated_at": "2026-05-17T20:40:15Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1015,
-      "forks": 187,
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2688,
+      "forks": 315,
+      "language": "Rust",
+      "pushed_at": "2026-05-17T19:37:22Z",
+      "updated_at": "2026-05-17T19:37:26Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2433,
+      "forks": 281,
       "language": "Go",
-      "pushed_at": "2026-05-17T16:59:18Z",
-      "updated_at": "2026-05-17T16:59:20Z"
+      "pushed_at": "2026-05-17T20:54:27Z",
+      "updated_at": "2026-05-17T20:54:27Z"
     },
     {
-      "id": 1197473770,
-      "full_name": "777genius/claude-code-source-code",
-      "html_url": "https://github.com/777genius/claude-code-source-code",
-      "description": "Claude code source code",
-      "stars": 912,
-      "forks": 1112,
-      "language": "Unknown",
-      "pushed_at": "2026-05-17T16:57:20Z",
-      "updated_at": "2026-05-17T16:57:27Z"
-    },
-    {
-      "id": 1152181595,
-      "full_name": "xvirobotics/metabot",
-      "html_url": "https://github.com/xvirobotics/metabot",
-      "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。",
-      "stars": 767,
-      "forks": 120,
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1114,
+      "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:15:55Z",
-      "updated_at": "2026-05-17T16:15:45Z"
+      "pushed_at": "2026-05-17T20:10:44Z",
+      "updated_at": "2026-05-17T20:01:20Z"
     },
     {
       "id": 1160289313,
@@ -114,63 +103,74 @@
       "stars": 679,
       "forks": 56,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:22:55Z",
-      "updated_at": "2026-05-17T16:22:59Z"
+      "pushed_at": "2026-05-17T20:49:50Z",
+      "updated_at": "2026-05-17T20:36:59Z"
     },
     {
-      "id": 1155123554,
-      "full_name": "affaan-m/agentshield",
-      "html_url": "https://github.com/affaan-m/agentshield",
-      "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️",
-      "stars": 648,
-      "forks": 135,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:09:20Z",
-      "updated_at": "2026-05-17T16:09:23Z"
+      "id": 1196898989,
+      "full_name": "awizemann/scarf",
+      "html_url": "https://github.com/awizemann/scarf",
+      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+      "stars": 507,
+      "forks": 30,
+      "language": "Swift",
+      "pushed_at": "2026-05-17T20:39:55Z",
+      "updated_at": "2026-05-17T20:55:46Z"
+    },
+    {
+      "id": 848182195,
+      "full_name": "Palm1r/QodeAssist",
+      "html_url": "https://github.com/Palm1r/QodeAssist",
+      "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+      "stars": 391,
+      "forks": 57,
+      "language": "C++",
+      "pushed_at": "2026-05-17T19:40:53Z",
+      "updated_at": "2026-05-17T19:40:56Z"
     },
     {
       "id": 1156882085,
       "full_name": "vivekchand/clawmetry",
       "html_url": "https://github.com/vivekchand/clawmetry",
       "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 328,
+      "stars": 329,
       "forks": 53,
       "language": "Python",
-      "pushed_at": "2026-05-17T17:00:25Z",
-      "updated_at": "2026-05-17T16:57:40Z"
+      "pushed_at": "2026-05-17T20:48:03Z",
+      "updated_at": "2026-05-17T20:33:37Z"
     },
     {
-      "id": 1170158614,
-      "full_name": "GarethManning/education-agent-skills",
-      "html_url": "https://github.com/GarethManning/education-agent-skills",
-      "description": "131 evidence-based education skills for Claude, Codex, and any Agent Skills-compatible tool.",
-      "stars": 249,
-      "forks": 45,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T16:49:36Z",
-      "updated_at": "2026-05-17T16:49:39Z"
-    },
-    {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 248,
-      "forks": 20,
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 219,
+      "forks": 49,
       "language": "Python",
-      "pushed_at": "2026-05-17T16:22:21Z",
-      "updated_at": "2026-05-17T16:22:21Z"
+      "pushed_at": "2026-05-17T20:43:42Z",
+      "updated_at": "2026-05-17T19:59:19Z"
     },
     {
-      "id": 1162230313,
-      "full_name": "mnemon-dev/mnemon",
-      "html_url": "https://github.com/mnemon-dev/mnemon",
-      "description": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.",
-      "stars": 203,
-      "forks": 33,
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 147,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-05-17T20:11:41Z",
+      "updated_at": "2026-05-17T20:11:45Z"
+    },
+    {
+      "id": 1150205195,
+      "full_name": "pardnchiu/Agenvoy",
+      "html_url": "https://github.com/pardnchiu/Agenvoy",
+      "description": "Agentic runtime | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution",
+      "stars": 106,
+      "forks": 15,
       "language": "Go",
-      "pushed_at": "2026-05-17T16:19:48Z",
-      "updated_at": "2026-05-17T16:19:52Z"
+      "pushed_at": "2026-05-17T19:14:34Z",
+      "updated_at": "2026-05-17T19:02:10Z"
     }
   ]
 }
