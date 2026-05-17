@@ -5,95 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 713,
+  "total_found": 715,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 153747,
-      "forks": 24543,
+      "stars": 153947,
+      "forks": 24589,
       "language": "Python",
-      "pushed_at": "2026-05-17T06:47:28Z",
-      "updated_at": "2026-05-17T06:46:05Z"
+      "pushed_at": "2026-05-17T09:31:20Z",
+      "updated_at": "2026-05-17T09:50:27Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 45805,
+      "forks": 4350,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T09:42:17Z",
+      "updated_at": "2026-05-17T09:40:00Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
-      "stars": 42611,
-      "forks": 7490,
+      "stars": 42623,
+      "forks": 7493,
       "language": "Python",
-      "pushed_at": "2026-05-17T06:25:35Z",
-      "updated_at": "2026-05-17T06:36:12Z"
+      "pushed_at": "2026-05-17T09:43:48Z",
+      "updated_at": "2026-05-17T09:50:24Z"
     },
     {
-      "id": 1118085970,
-      "full_name": "alibaba/OpenSandbox",
-      "html_url": "https://github.com/alibaba/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 10664,
-      "forks": 853,
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 36428,
+      "forks": 35824,
       "language": "Python",
-      "pushed_at": "2026-05-17T06:47:48Z",
-      "updated_at": "2026-05-17T06:47:52Z"
+      "pushed_at": "2026-05-17T09:30:28Z",
+      "updated_at": "2026-05-17T09:49:28Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22230,
+      "forks": 3657,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T09:49:18Z",
+      "updated_at": "2026-05-17T09:38:38Z"
+    },
+    {
+      "id": 949646929,
+      "full_name": "GetBindu/Bindu",
+      "html_url": "https://github.com/GetBindu/Bindu",
+      "description": "Bindu: The identity, communication, and payments layer for AI agents.",
+      "stars": 5987,
+      "forks": 371,
+      "language": "Python",
+      "pushed_at": "2026-05-17T09:44:18Z",
+      "updated_at": "2026-05-17T09:45:54Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 4596,
+      "stars": 4599,
       "forks": 423,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T06:12:12Z",
-      "updated_at": "2026-05-17T06:46:21Z"
+      "pushed_at": "2026-05-17T09:29:23Z",
+      "updated_at": "2026-05-17T09:26:32Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4104,
+      "forks": 393,
+      "language": "Python",
+      "pushed_at": "2026-05-17T09:48:35Z",
+      "updated_at": "2026-05-17T09:34:36Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 3466,
-      "forks": 183,
+      "stars": 3538,
+      "forks": 188,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T06:44:02Z",
-      "updated_at": "2026-05-17T06:48:12Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2243,
-      "forks": 477,
-      "language": "Python",
-      "pushed_at": "2026-05-17T06:18:26Z",
-      "updated_at": "2026-05-17T06:17:52Z"
-    },
-    {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 2067,
-      "forks": 202,
-      "language": "Go",
-      "pushed_at": "2026-05-17T05:42:59Z",
-      "updated_at": "2026-05-17T06:04:48Z"
-    },
-    {
-      "id": 1218208502,
-      "full_name": "worldwonderer/oh-story-claudecode",
-      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
-      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-      "stars": 1161,
-      "forks": 270,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-17T06:16:09Z",
-      "updated_at": "2026-05-17T06:44:28Z"
+      "pushed_at": "2026-05-17T09:45:26Z",
+      "updated_at": "2026-05-17T09:50:22Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +114,63 @@
       "stars": 1114,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-17T06:41:10Z",
-      "updated_at": "2026-05-17T06:22:15Z"
+      "pushed_at": "2026-05-17T09:43:58Z",
+      "updated_at": "2026-05-17T09:44:00Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1012,
-      "forks": 186,
-      "language": "Go",
-      "pushed_at": "2026-05-17T06:41:47Z",
-      "updated_at": "2026-05-17T06:41:51Z"
-    },
-    {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 627,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-17T05:40:51Z",
-      "updated_at": "2026-05-17T06:12:48Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 207,
-      "forks": 48,
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
+      "stars": 1082,
+      "forks": 54,
       "language": "Python",
-      "pushed_at": "2026-05-17T06:08:51Z",
-      "updated_at": "2026-05-17T06:39:18Z"
+      "pushed_at": "2026-05-17T09:44:43Z",
+      "updated_at": "2026-05-17T09:44:47Z"
     },
     {
-      "id": 1191392222,
-      "full_name": "gebruder/wirken",
-      "html_url": "https://github.com/gebruder/wirken",
-      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
-      "stars": 147,
-      "forks": 2,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 676,
+      "forks": 56,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-17T09:40:53Z",
+      "updated_at": "2026-05-17T09:40:56Z"
+    },
+    {
+      "id": 1176557412,
+      "full_name": "LvcidPsyche/auto-browser",
+      "html_url": "https://github.com/LvcidPsyche/auto-browser",
+      "description": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.",
+      "stars": 477,
+      "forks": 79,
+      "language": "Python",
+      "pushed_at": "2026-05-17T09:42:03Z",
+      "updated_at": "2026-05-17T09:41:59Z"
+    },
+    {
+      "id": 1217551679,
+      "full_name": "r1n7aro/Locus",
+      "html_url": "https://github.com/r1n7aro/Locus",
+      "description": "The open source Unity Dev Agent",
+      "stars": 390,
+      "forks": 50,
       "language": "Rust",
-      "pushed_at": "2026-05-17T06:20:12Z",
-      "updated_at": "2026-05-17T06:20:15Z"
+      "pushed_at": "2026-05-17T09:11:31Z",
+      "updated_at": "2026-05-17T09:27:14Z"
     },
     {
-      "id": 1189562423,
-      "full_name": "iPythoning/b2b-sdr-agent-template",
-      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
-      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
-      "stars": 96,
-      "forks": 34,
-      "language": "Shell",
-      "pushed_at": "2026-05-17T06:12:04Z",
-      "updated_at": "2026-05-17T06:12:08Z"
-    },
-    {
-      "id": 1187898472,
-      "full_name": "zhouyoukang/windsurf-assistant",
-      "html_url": "https://github.com/zhouyoukang/windsurf-assistant",
-      "description": "Windsurf multi-account manager · auto-rotate · quota-aware · zero-config · 水善利万物而不争",
-      "stars": 90,
-      "forks": 17,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-17T06:19:41Z",
-      "updated_at": "2026-05-17T06:19:46Z"
+      "id": 1166517776,
+      "full_name": "huisezhiyin/sdd-riper",
+      "html_url": "https://github.com/huisezhiyin/sdd-riper",
+      "description": "Lightweight AI Agent Harness for agentic coding: let strong models explore while humans steer with minimal specs, checkpoints, approval, validation, and reverse sync.",
+      "stars": 207,
+      "forks": 43,
+      "language": "Python",
+      "pushed_at": "2026-05-17T09:49:19Z",
+      "updated_at": "2026-05-17T09:49:23Z"
     }
   ]
 }
