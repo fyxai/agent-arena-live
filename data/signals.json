@@ -5,117 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 727,
+  "total_found": 728,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 157768,
-      "forks": 25484,
+      "stars": 157902,
+      "forks": 25517,
       "language": "Python",
-      "pushed_at": "2026-05-19T18:05:51Z",
-      "updated_at": "2026-05-19T18:09:09Z"
+      "pushed_at": "2026-05-19T21:23:22Z",
+      "updated_at": "2026-05-19T21:23:27Z"
     },
     {
       "id": 995029641,
       "full_name": "ruvnet/ruflo",
       "html_url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 53127,
-      "forks": 6011,
+      "stars": 53168,
+      "forks": 6019,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T17:35:44Z",
-      "updated_at": "2026-05-19T18:02:49Z"
+      "pushed_at": "2026-05-19T21:02:11Z",
+      "updated_at": "2026-05-19T21:23:24Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45955,
-      "forks": 4368,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 31525,
+      "forks": 4071,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T17:58:06Z",
-      "updated_at": "2026-05-19T17:55:33Z"
-    },
-    {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 27148,
-      "forks": 8508,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T17:40:37Z",
-      "updated_at": "2026-05-19T17:44:54Z"
+      "pushed_at": "2026-05-19T21:09:16Z",
+      "updated_at": "2026-05-19T20:58:47Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22256,
+      "stars": 22258,
       "forks": 3661,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T18:07:44Z",
-      "updated_at": "2026-05-19T17:55:50Z"
+      "pushed_at": "2026-05-19T21:20:18Z",
+      "updated_at": "2026-05-19T21:16:34Z"
     },
     {
-      "id": 1188521544,
-      "full_name": "holaboss-ai/holaOS",
-      "html_url": "https://github.com/holaboss-ai/holaOS",
-      "description": "Turn repeat work into running AI work-streams.",
-      "stars": 5651,
-      "forks": 391,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T17:18:00Z",
-      "updated_at": "2026-05-19T17:30:04Z"
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 16930,
+      "forks": 1068,
+      "language": "HTML",
+      "pushed_at": "2026-05-19T20:41:17Z",
+      "updated_at": "2026-05-19T20:44:02Z"
     },
     {
       "id": 981177285,
       "full_name": "presenton/presenton",
       "html_url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 5046,
-      "forks": 978,
+      "stars": 5047,
+      "forks": 980,
       "language": "JavaScript",
-      "pushed_at": "2026-05-19T18:01:53Z",
-      "updated_at": "2026-05-19T17:35:58Z"
+      "pushed_at": "2026-05-19T20:27:37Z",
+      "updated_at": "2026-05-19T20:44:00Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4165,
-      "forks": 398,
+      "stars": 4171,
+      "forks": 399,
       "language": "Python",
-      "pushed_at": "2026-05-19T17:16:20Z",
-      "updated_at": "2026-05-19T17:32:27Z"
+      "pushed_at": "2026-05-19T20:34:47Z",
+      "updated_at": "2026-05-19T21:20:21Z"
     },
     {
-      "id": 1215974868,
-      "full_name": "cosmicstack-labs/mercury-agent",
-      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
-      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-      "stars": 2282,
-      "forks": 238,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-19T17:29:54Z",
-      "updated_at": "2026-05-19T17:29:58Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2448,
+      "forks": 285,
+      "language": "Go",
+      "pushed_at": "2026-05-19T21:17:32Z",
+      "updated_at": "2026-05-19T21:14:59Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 2105,
-      "forks": 144,
+      "id": 1171284401,
+      "full_name": "MiniMax-AI/OpenRoom",
+      "html_url": "https://github.com/MiniMax-AI/OpenRoom",
+      "description": "A browser-based desktop where AI Agent operates every app through natural language.",
+      "stars": 1185,
+      "forks": 142,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T17:59:30Z",
-      "updated_at": "2026-05-19T17:55:21Z"
+      "pushed_at": "2026-05-19T20:17:28Z",
+      "updated_at": "2026-05-19T20:48:01Z"
     },
     {
       "id": 1096175506,
@@ -125,19 +114,30 @@
       "stars": 1112,
       "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T18:07:50Z",
-      "updated_at": "2026-05-19T18:03:07Z"
+      "pushed_at": "2026-05-19T21:21:43Z",
+      "updated_at": "2026-05-19T21:10:12Z"
     },
     {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
-      "stars": 948,
-      "forks": 134,
-      "language": "Rust",
-      "pushed_at": "2026-05-19T17:56:26Z",
-      "updated_at": "2026-05-19T17:56:50Z"
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
+      "stars": 1100,
+      "forks": 56,
+      "language": "Python",
+      "pushed_at": "2026-05-19T21:22:39Z",
+      "updated_at": "2026-05-19T21:22:44Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1021,
+      "forks": 187,
+      "language": "Go",
+      "pushed_at": "2026-05-19T21:01:28Z",
+      "updated_at": "2026-05-19T21:03:12Z"
     },
     {
       "id": 1160289313,
@@ -147,30 +147,30 @@
       "stars": 684,
       "forks": 57,
       "language": "TypeScript",
-      "pushed_at": "2026-05-19T18:08:15Z",
-      "updated_at": "2026-05-19T18:05:49Z"
+      "pushed_at": "2026-05-19T20:46:53Z",
+      "updated_at": "2026-05-19T20:46:57Z"
     },
     {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 542,
-      "forks": 28,
-      "language": "ReScript",
-      "pushed_at": "2026-05-19T17:22:28Z",
-      "updated_at": "2026-05-19T17:22:38Z"
-    },
-    {
-      "id": 1221914096,
-      "full_name": "browser-use/bux",
-      "html_url": "https://github.com/browser-use/bux",
-      "description": "Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own.",
-      "stars": 336,
-      "forks": 38,
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 274,
+      "forks": 58,
       "language": "Python",
-      "pushed_at": "2026-05-19T17:36:50Z",
-      "updated_at": "2026-05-19T17:42:24Z"
+      "pushed_at": "2026-05-19T21:23:14Z",
+      "updated_at": "2026-05-19T21:23:17Z"
+    },
+    {
+      "id": 1166203076,
+      "full_name": "Alex8791-cyber/cognithor",
+      "html_url": "https://github.com/Alex8791-cyber/cognithor",
+      "description": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
+      "stars": 139,
+      "forks": 21,
+      "language": "Python",
+      "pushed_at": "2026-05-19T21:16:05Z",
+      "updated_at": "2026-05-19T21:16:15Z"
     }
   ]
 }
