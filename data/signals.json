@@ -5,62 +5,139 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 719,
+  "total_found": 720,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 156313,
-      "forks": 25124,
+      "stars": 156702,
+      "forks": 25224,
       "language": "Python",
-      "pushed_at": "2026-05-18T20:45:03Z",
-      "updated_at": "2026-05-18T21:15:17Z"
+      "pushed_at": "2026-05-19T03:58:44Z",
+      "updated_at": "2026-05-19T03:59:31Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 45902,
+      "forks": 4364,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T03:51:46Z",
+      "updated_at": "2026-05-19T03:46:51Z"
+    },
+    {
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+      "stars": 44580,
+      "forks": 10117,
+      "language": "Python",
+      "pushed_at": "2026-05-19T03:52:40Z",
+      "updated_at": "2026-05-19T03:52:46Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31509,
+      "stars": 31518,
       "forks": 4070,
       "language": "TypeScript",
-      "pushed_at": "2026-05-18T21:14:35Z",
-      "updated_at": "2026-05-18T21:13:17Z"
+      "pushed_at": "2026-05-19T03:56:13Z",
+      "updated_at": "2026-05-19T03:49:45Z"
     },
     {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 7479,
-      "forks": 759,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 25729,
+      "forks": 2362,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T03:22:47Z",
+      "updated_at": "2026-05-19T03:49:02Z"
+    },
+    {
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 22435,
+      "forks": 2613,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T03:39:14Z",
+      "updated_at": "2026-05-19T03:53:37Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+      "stars": 21785,
+      "forks": 2204,
       "language": "JavaScript",
-      "pushed_at": "2026-05-18T20:09:56Z",
-      "updated_at": "2026-05-18T20:09:50Z"
+      "pushed_at": "2026-05-19T03:41:56Z",
+      "updated_at": "2026-05-19T03:59:45Z"
     },
     {
-      "id": 1145420469,
-      "full_name": "moltis-org/moltis",
-      "html_url": "https://github.com/moltis-org/moltis",
-      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
-      "stars": 2691,
-      "forks": 314,
-      "language": "Rust",
-      "pushed_at": "2026-05-18T20:56:29Z",
-      "updated_at": "2026-05-18T20:56:22Z"
-    },
-    {
-      "id": 1190557545,
-      "full_name": "eugeniughelbur/obsidian-second-brain",
-      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
-      "description": "Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-time AI-first validator.",
-      "stars": 1189,
-      "forks": 128,
+      "id": 1118085970,
+      "full_name": "alibaba/OpenSandbox",
+      "html_url": "https://github.com/alibaba/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 10697,
+      "forks": 864,
       "language": "Python",
-      "pushed_at": "2026-05-18T20:19:37Z",
-      "updated_at": "2026-05-18T20:40:07Z"
+      "pushed_at": "2026-05-19T03:43:13Z",
+      "updated_at": "2026-05-19T03:43:14Z"
+    },
+    {
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6388,
+      "forks": 1359,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T03:41:49Z",
+      "updated_at": "2026-05-19T03:42:10Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 4809,
+      "forks": 431,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T03:34:05Z",
+      "updated_at": "2026-05-19T03:56:29Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 4350,
+      "forks": 234,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-19T03:59:23Z",
+      "updated_at": "2026-05-19T03:59:26Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 2108,
+      "forks": 208,
+      "language": "Go",
+      "pushed_at": "2026-05-19T03:59:05Z",
+      "updated_at": "2026-05-19T03:59:14Z"
     },
     {
       "id": 1096175506,
@@ -70,107 +147,30 @@
       "stars": 1112,
       "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-05-18T21:15:17Z",
-      "updated_at": "2026-05-18T21:15:19Z"
+      "pushed_at": "2026-05-19T04:00:13Z",
+      "updated_at": "2026-05-19T03:52:24Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 682,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-18T20:15:26Z",
-      "updated_at": "2026-05-18T20:15:31Z"
-    },
-    {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 627,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-18T20:25:49Z",
-      "updated_at": "2026-05-18T20:25:52Z"
-    },
-    {
-      "id": 1169462190,
-      "full_name": "freddy-schuetz/n8n-claw",
-      "html_url": "https://github.com/freddy-schuetz/n8n-claw",
-      "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script",
-      "stars": 439,
-      "forks": 86,
-      "language": "Shell",
-      "pushed_at": "2026-05-18T21:00:28Z",
-      "updated_at": "2026-05-18T21:00:31Z"
-    },
-    {
-      "id": 1060036659,
-      "full_name": "agentic-box/memora",
-      "html_url": "https://github.com/agentic-box/memora",
-      "description": "Give your AI agents persistent memory.",
-      "stars": 405,
-      "forks": 49,
-      "language": "Python",
-      "pushed_at": "2026-05-18T20:49:31Z",
-      "updated_at": "2026-05-18T20:49:35Z"
-    },
-    {
-      "id": 1221914096,
-      "full_name": "browser-use/bux",
-      "html_url": "https://github.com/browser-use/bux",
-      "description": "Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use Cloud, Telegram, and a real browser on any box you own.",
-      "stars": 334,
-      "forks": 39,
-      "language": "Python",
-      "pushed_at": "2026-05-18T21:15:29Z",
-      "updated_at": "2026-05-18T21:15:33Z"
-    },
-    {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 332,
-      "forks": 52,
-      "language": "Python",
-      "pushed_at": "2026-05-18T21:05:54Z",
-      "updated_at": "2026-05-18T21:01:28Z"
+      "id": 1179222510,
+      "full_name": "macOS26/Agent",
+      "html_url": "https://github.com/macOS26/Agent",
+      "description": "Any AI, replaces Claude Code, Cursor, OpenClaw. Over 18 LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automates Safari, use AppleScript, JS or Accessibility, extend Agent! w/ MCP Servers, run tasks from your iPhone via Messages.",
+      "stars": 434,
+      "forks": 33,
+      "language": "Swift",
+      "pushed_at": "2026-05-19T03:49:30Z",
+      "updated_at": "2026-05-19T03:49:33Z"
     },
     {
       "id": 1164646909,
       "full_name": "jazzenchen/VibeAround",
       "html_url": "https://github.com/jazzenchen/VibeAround",
       "description": "Keep your vibe coding agents around. From desktop to mobile, from browser to messaging, keeps your local coding agents connected, reachable, and ready to work. Run Claude Code, Codex CLI, Gemini CLI, and more side by side with different provider profiles, all routed through one universal proxy.",
-      "stars": 298,
+      "stars": 299,
       "forks": 31,
       "language": "Rust",
-      "pushed_at": "2026-05-18T20:24:22Z",
-      "updated_at": "2026-05-18T20:17:42Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 250,
-      "forks": 54,
-      "language": "Python",
-      "pushed_at": "2026-05-18T21:05:55Z",
-      "updated_at": "2026-05-18T20:46:34Z"
-    },
-    {
-      "id": 1233398203,
-      "full_name": "ozgurcd/gograph",
-      "html_url": "https://github.com/ozgurcd/gograph",
-      "description": "A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
-      "stars": 131,
-      "forks": 7,
-      "language": "Go",
-      "pushed_at": "2026-05-18T20:13:20Z",
-      "updated_at": "2026-05-18T21:10:20Z"
+      "pushed_at": "2026-05-19T03:26:20Z",
+      "updated_at": "2026-05-19T03:26:24Z"
     }
   ]
 }
