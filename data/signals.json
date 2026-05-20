@@ -5,117 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 730,
+  "total_found": 731,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 158754,
-      "forks": 25731,
+      "stars": 159021,
+      "forks": 25789,
       "language": "Python",
-      "pushed_at": "2026-05-20T10:30:01Z",
-      "updated_at": "2026-05-20T10:55:56Z"
+      "pushed_at": "2026-05-20T15:32:30Z",
+      "updated_at": "2026-05-20T15:33:08Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 45989,
-      "forks": 4372,
+      "stars": 46002,
+      "forks": 4374,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T10:54:56Z",
-      "updated_at": "2026-05-20T10:17:08Z"
+      "pushed_at": "2026-05-20T15:26:26Z",
+      "updated_at": "2026-05-20T15:23:11Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 42831,
-      "forks": 7546,
+      "stars": 42845,
+      "forks": 7549,
       "language": "Python",
-      "pushed_at": "2026-05-20T10:41:55Z",
-      "updated_at": "2026-05-20T10:27:25Z"
+      "pushed_at": "2026-05-20T15:08:32Z",
+      "updated_at": "2026-05-20T15:21:44Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 5532,
-      "forks": 691,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-20T10:49:35Z",
-      "updated_at": "2026-05-20T10:34:56Z"
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 38087,
+      "forks": 36794,
+      "language": "Python",
+      "pushed_at": "2026-05-20T15:32:14Z",
+      "updated_at": "2026-05-20T15:31:47Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 4859,
-      "forks": 270,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 31553,
+      "forks": 4072,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T10:21:48Z",
-      "updated_at": "2026-05-20T10:55:29Z"
+      "pushed_at": "2026-05-20T15:24:50Z",
+      "updated_at": "2026-05-20T15:29:27Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+      "stars": 22050,
+      "forks": 2221,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-20T15:08:07Z",
+      "updated_at": "2026-05-20T15:25:58Z"
     },
     {
       "id": 1203558071,
       "full_name": "Tencent/TencentDB-Agent-Memory",
       "html_url": "https://github.com/Tencent/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 3619,
-      "forks": 287,
+      "stars": 3641,
+      "forks": 289,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T10:21:59Z",
-      "updated_at": "2026-05-20T10:37:47Z"
-    },
-    {
-      "id": 629849791,
-      "full_name": "smallcloudai/refact",
-      "html_url": "https://github.com/smallcloudai/refact",
-      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.",
-      "stars": 3546,
-      "forks": 312,
-      "language": "Rust",
-      "pushed_at": "2026-05-20T10:52:36Z",
-      "updated_at": "2026-05-20T10:53:14Z"
-    },
-    {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 3121,
-      "forks": 196,
-      "language": "Python",
-      "pushed_at": "2026-05-20T10:27:07Z",
-      "updated_at": "2026-05-20T10:54:10Z"
+      "pushed_at": "2026-05-20T15:25:33Z",
+      "updated_at": "2026-05-20T15:30:43Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2459,
+      "stars": 2460,
       "forks": 285,
       "language": "Go",
-      "pushed_at": "2026-05-20T10:52:45Z",
-      "updated_at": "2026-05-20T10:52:49Z"
+      "pushed_at": "2026-05-20T15:23:16Z",
+      "updated_at": "2026-05-20T15:30:02Z"
     },
     {
-      "id": 1215974868,
-      "full_name": "cosmicstack-labs/mercury-agent",
-      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
-      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-      "stars": 2363,
-      "forks": 240,
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 1808,
+      "forks": 431,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T10:54:00Z",
-      "updated_at": "2026-05-20T10:54:04Z"
+      "pushed_at": "2026-05-20T15:21:43Z",
+      "updated_at": "2026-05-20T15:25:58Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +114,63 @@
       "stars": 1112,
       "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T10:54:53Z",
-      "updated_at": "2026-05-20T10:53:44Z"
+      "pushed_at": "2026-05-20T15:29:50Z",
+      "updated_at": "2026-05-20T15:03:09Z"
     },
     {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Plan-first AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
-      "stars": 609,
-      "forks": 46,
+      "id": 1169880696,
+      "full_name": "LetsFG/LetsFG",
+      "html_url": "https://github.com/LetsFG/LetsFG",
+      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
+      "stars": 1102,
+      "forks": 56,
       "language": "Python",
-      "pushed_at": "2026-05-20T10:42:18Z",
-      "updated_at": "2026-05-20T10:47:24Z"
+      "pushed_at": "2026-05-20T15:06:23Z",
+      "updated_at": "2026-05-20T15:14:41Z"
     },
     {
-      "id": 463439055,
-      "full_name": "mynaparrot/plugNmeet-server",
-      "html_url": "https://github.com/mynaparrot/plugNmeet-server",
-      "description": "The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent.",
-      "stars": 482,
-      "forks": 114,
-      "language": "Go",
-      "pushed_at": "2026-05-20T10:49:46Z",
-      "updated_at": "2026-05-20T10:49:12Z"
+      "id": 952999410,
+      "full_name": "LSTM-Kirigaya/openmcp-client",
+      "html_url": "https://github.com/LSTM-Kirigaya/openmcp-client",
+      "description": "All in one vscode plugin for mcp developer",
+      "stars": 748,
+      "forks": 55,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-20T15:08:18Z",
+      "updated_at": "2026-05-20T15:18:29Z"
+    },
+    {
+      "id": 1145881485,
+      "full_name": "Arvincreator/project-golem",
+      "html_url": "https://github.com/Arvincreator/project-golem",
+      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
+      "stars": 606,
+      "forks": 97,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-20T15:27:57Z",
+      "updated_at": "2026-05-20T15:32:30Z"
     },
     {
       "id": 1175278883,
       "full_name": "whiteguo233/OpenBiliClaw",
       "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
       "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 333,
+      "stars": 343,
       "forks": 25,
       "language": "Python",
-      "pushed_at": "2026-05-20T10:48:26Z",
-      "updated_at": "2026-05-20T10:48:42Z"
+      "pushed_at": "2026-05-20T15:15:02Z",
+      "updated_at": "2026-05-20T15:22:06Z"
     },
     {
-      "id": 1186834727,
-      "full_name": "Miasyster/QuantGPT",
-      "html_url": "https://github.com/Miasyster/QuantGPT",
-      "description": "Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN",
-      "stars": 248,
-      "forks": 79,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 337,
+      "forks": 54,
       "language": "Python",
-      "pushed_at": "2026-05-20T10:14:08Z",
-      "updated_at": "2026-05-20T10:50:17Z"
+      "pushed_at": "2026-05-20T14:58:44Z",
+      "updated_at": "2026-05-20T15:16:38Z"
     }
   ]
 }
