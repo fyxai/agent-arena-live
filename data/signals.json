@@ -5,106 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 731,
+  "total_found": 734,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 159021,
-      "forks": 25789,
+      "stars": 159238,
+      "forks": 25820,
       "language": "Python",
-      "pushed_at": "2026-05-20T15:32:30Z",
-      "updated_at": "2026-05-20T15:33:08Z"
+      "pushed_at": "2026-05-20T17:35:39Z",
+      "updated_at": "2026-05-20T18:21:41Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46002,
+      "stars": 46009,
       "forks": 4374,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T15:26:26Z",
-      "updated_at": "2026-05-20T15:23:11Z"
+      "pushed_at": "2026-05-20T17:58:16Z",
+      "updated_at": "2026-05-20T17:49:35Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 42845,
-      "forks": 7549,
+      "stars": 42849,
+      "forks": 7550,
       "language": "Python",
-      "pushed_at": "2026-05-20T15:08:32Z",
-      "updated_at": "2026-05-20T15:21:44Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 38087,
-      "forks": 36794,
-      "language": "Python",
-      "pushed_at": "2026-05-20T15:32:14Z",
-      "updated_at": "2026-05-20T15:31:47Z"
+      "pushed_at": "2026-05-20T17:32:32Z",
+      "updated_at": "2026-05-20T17:33:31Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31553,
+      "stars": 31557,
       "forks": 4072,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T15:24:50Z",
-      "updated_at": "2026-05-20T15:29:27Z"
+      "pushed_at": "2026-05-20T18:13:02Z",
+      "updated_at": "2026-05-20T18:18:09Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 22050,
-      "forks": 2221,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22275,
+      "forks": 3663,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-20T18:18:40Z",
+      "updated_at": "2026-05-20T18:18:06Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 5313,
+      "forks": 450,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-20T18:07:53Z",
+      "updated_at": "2026-05-20T18:20:05Z"
+    },
+    {
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 5081,
+      "forks": 984,
       "language": "JavaScript",
-      "pushed_at": "2026-05-20T15:08:07Z",
-      "updated_at": "2026-05-20T15:25:58Z"
-    },
-    {
-      "id": 1203558071,
-      "full_name": "Tencent/TencentDB-Agent-Memory",
-      "html_url": "https://github.com/Tencent/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 3641,
-      "forks": 289,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-20T15:25:33Z",
-      "updated_at": "2026-05-20T15:30:43Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2460,
-      "forks": 285,
-      "language": "Go",
-      "pushed_at": "2026-05-20T15:23:16Z",
-      "updated_at": "2026-05-20T15:30:02Z"
-    },
-    {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 1808,
-      "forks": 431,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-20T15:21:43Z",
-      "updated_at": "2026-05-20T15:25:58Z"
+      "pushed_at": "2026-05-20T18:12:57Z",
+      "updated_at": "2026-05-20T18:16:02Z"
     },
     {
       "id": 1096175506,
@@ -114,41 +92,19 @@
       "stars": 1112,
       "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-05-20T15:29:50Z",
-      "updated_at": "2026-05-20T15:03:09Z"
+      "pushed_at": "2026-05-20T18:14:53Z",
+      "updated_at": "2026-05-20T18:08:38Z"
     },
     {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-      "stars": 1102,
-      "forks": 56,
+      "id": 701627142,
+      "full_name": "AJaySi/ALwrity",
+      "html_url": "https://github.com/AJaySi/ALwrity",
+      "description": "ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts.",
+      "stars": 1044,
+      "forks": 268,
       "language": "Python",
-      "pushed_at": "2026-05-20T15:06:23Z",
-      "updated_at": "2026-05-20T15:14:41Z"
-    },
-    {
-      "id": 952999410,
-      "full_name": "LSTM-Kirigaya/openmcp-client",
-      "html_url": "https://github.com/LSTM-Kirigaya/openmcp-client",
-      "description": "All in one vscode plugin for mcp developer",
-      "stars": 748,
-      "forks": 55,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-20T15:08:18Z",
-      "updated_at": "2026-05-20T15:18:29Z"
-    },
-    {
-      "id": 1145881485,
-      "full_name": "Arvincreator/project-golem",
-      "html_url": "https://github.com/Arvincreator/project-golem",
-      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
-      "stars": 606,
-      "forks": 97,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-20T15:27:57Z",
-      "updated_at": "2026-05-20T15:32:30Z"
+      "pushed_at": "2026-05-20T17:15:06Z",
+      "updated_at": "2026-05-20T17:15:15Z"
     },
     {
       "id": 1175278883,
@@ -158,8 +114,8 @@
       "stars": 343,
       "forks": 25,
       "language": "Python",
-      "pushed_at": "2026-05-20T15:15:02Z",
-      "updated_at": "2026-05-20T15:22:06Z"
+      "pushed_at": "2026-05-20T17:44:11Z",
+      "updated_at": "2026-05-20T17:43:52Z"
     },
     {
       "id": 1156882085,
@@ -169,8 +125,52 @@
       "stars": 337,
       "forks": 54,
       "language": "Python",
-      "pushed_at": "2026-05-20T14:58:44Z",
-      "updated_at": "2026-05-20T15:16:38Z"
+      "pushed_at": "2026-05-20T18:19:52Z",
+      "updated_at": "2026-05-20T18:19:53Z"
+    },
+    {
+      "id": 80163148,
+      "full_name": "tinystruct/tinystruct",
+      "html_url": "https://github.com/tinystruct/tinystruct",
+      "description": "A lightweight, modular Java application framework for web and CLI development,         designed for AI integration and plugin-based architecture.         Enabling developers to create robust solutions with ease for building efficient and scalable applications.",
+      "stars": 333,
+      "forks": 47,
+      "language": "Java",
+      "pushed_at": "2026-05-20T17:10:44Z",
+      "updated_at": "2026-05-20T17:11:02Z"
+    },
+    {
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "AI Coding Agent in Python. Claude Code full rebuilt in 170K LoC pure Python!",
+      "stars": 321,
+      "forks": 21,
+      "language": "Python",
+      "pushed_at": "2026-05-20T17:15:11Z",
+      "updated_at": "2026-05-20T17:15:17Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 293,
+      "forks": 61,
+      "language": "Python",
+      "pushed_at": "2026-05-20T17:58:58Z",
+      "updated_at": "2026-05-20T17:59:04Z"
+    },
+    {
+      "id": 1162230313,
+      "full_name": "mnemon-dev/mnemon",
+      "html_url": "https://github.com/mnemon-dev/mnemon",
+      "description": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.",
+      "stars": 270,
+      "forks": 38,
+      "language": "Go",
+      "pushed_at": "2026-05-20T18:15:07Z",
+      "updated_at": "2026-05-20T18:07:11Z"
     }
   ]
 }
