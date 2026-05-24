@@ -5,84 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 755,
+  "total_found": 756,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 164596,
-      "forks": 27060,
+      "stars": 164927,
+      "forks": 27125,
       "language": "Python",
-      "pushed_at": "2026-05-24T04:03:53Z",
-      "updated_at": "2026-05-24T04:04:18Z"
+      "pushed_at": "2026-05-24T09:19:59Z",
+      "updated_at": "2026-05-24T09:58:26Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46181,
-      "forks": 4394,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T03:20:03Z",
-      "updated_at": "2026-05-24T03:52:23Z"
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install.",
+      "stars": 44768,
+      "forks": 10128,
+      "language": "Python",
+      "pushed_at": "2026-05-24T09:53:57Z",
+      "updated_at": "2026-05-24T09:58:05Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22499,
-      "forks": 2622,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-24T02:04:56Z",
-      "updated_at": "2026-05-24T02:24:36Z"
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 43062,
+      "forks": 7590,
+      "language": "Python",
+      "pushed_at": "2026-05-24T09:53:58Z",
+      "updated_at": "2026-05-24T09:58:57Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22376,
-      "forks": 3690,
+      "stars": 22379,
+      "forks": 3691,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T01:48:40Z",
-      "updated_at": "2026-05-24T03:16:47Z"
+      "pushed_at": "2026-05-24T09:55:56Z",
+      "updated_at": "2026-05-24T09:57:40Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 5896,
-      "forks": 337,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 17044,
+      "forks": 1083,
+      "language": "HTML",
+      "pushed_at": "2026-05-24T09:46:30Z",
+      "updated_at": "2026-05-24T09:58:30Z"
+    },
+    {
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 6614,
+      "forks": 1133,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T03:57:20Z",
-      "updated_at": "2026-05-24T04:02:14Z"
+      "pushed_at": "2026-05-24T09:47:15Z",
+      "updated_at": "2026-05-24T09:58:36Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 5840,
-      "forks": 745,
+      "stars": 5871,
+      "forks": 750,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T03:25:04Z",
-      "updated_at": "2026-05-24T03:57:53Z"
+      "pushed_at": "2026-05-24T09:54:18Z",
+      "updated_at": "2026-05-24T09:59:04Z"
     },
     {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3791,
-      "forks": 476,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-24T02:42:23Z",
-      "updated_at": "2026-05-24T02:36:52Z"
+      "id": 1190557545,
+      "full_name": "eugeniughelbur/obsidian-second-brain",
+      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-time AI-first validator.",
+      "stars": 1315,
+      "forks": 146,
+      "language": "Python",
+      "pushed_at": "2026-05-24T09:51:13Z",
+      "updated_at": "2026-05-24T09:51:18Z"
     },
     {
       "id": 1096175506,
@@ -92,8 +103,19 @@
       "stars": 1114,
       "forks": 63,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T04:02:43Z",
-      "updated_at": "2026-05-24T03:05:44Z"
+      "pushed_at": "2026-05-24T09:56:39Z",
+      "updated_at": "2026-05-24T09:45:39Z"
+    },
+    {
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+      "stars": 1034,
+      "forks": 139,
+      "language": "Rust",
+      "pushed_at": "2026-05-24T09:29:45Z",
+      "updated_at": "2026-05-24T09:29:46Z"
     },
     {
       "id": 1057975087,
@@ -103,74 +125,52 @@
       "stars": 1029,
       "forks": 190,
       "language": "Go",
-      "pushed_at": "2026-05-24T02:21:10Z",
-      "updated_at": "2026-05-24T02:21:13Z"
+      "pushed_at": "2026-05-24T09:53:00Z",
+      "updated_at": "2026-05-24T09:53:03Z"
     },
     {
-      "id": 1157855507,
-      "full_name": "ythx-101/x-tweet-fetcher",
-      "html_url": "https://github.com/ythx-101/x-tweet-fetcher",
-      "description": "Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents.",
-      "stars": 832,
-      "forks": 74,
-      "language": "Python",
-      "pushed_at": "2026-05-24T02:03:30Z",
-      "updated_at": "2026-05-24T02:03:33Z"
-    },
-    {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 631,
-      "forks": 44,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 692,
+      "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T03:53:01Z",
-      "updated_at": "2026-05-24T03:53:04Z"
+      "pushed_at": "2026-05-24T09:50:36Z",
+      "updated_at": "2026-05-24T09:50:40Z"
     },
     {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 426,
-      "forks": 89,
-      "language": "Python",
-      "pushed_at": "2026-05-24T02:58:05Z",
-      "updated_at": "2026-05-24T02:58:08Z"
+      "id": 1146091496,
+      "full_name": "Enderfga/claw-orchestrator",
+      "html_url": "https://github.com/Enderfga/claw-orchestrator",
+      "description": "Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.",
+      "stars": 467,
+      "forks": 77,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-24T09:27:18Z",
+      "updated_at": "2026-05-24T09:27:22Z"
     },
     {
       "id": 1175278883,
       "full_name": "whiteguo233/OpenBiliClaw",
       "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
       "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 405,
+      "stars": 412,
       "forks": 28,
       "language": "Python",
-      "pushed_at": "2026-05-24T03:28:43Z",
-      "updated_at": "2026-05-24T03:28:47Z"
+      "pushed_at": "2026-05-24T09:39:59Z",
+      "updated_at": "2026-05-24T09:40:03Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 393,
-      "forks": 92,
+      "id": 1161723599,
+      "full_name": "AmrDab/clawdcursor",
+      "html_url": "https://github.com/AmrDab/clawdcursor",
+      "description": "MCP-powered fallback layer that lets AI agents execute tasks through the GUI when APIs, tools, or direct integrations are unavailable. Cross-OS, accessibility-first, local-only.",
+      "stars": 335,
+      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-05-24T03:02:02Z",
-      "updated_at": "2026-05-24T03:01:52Z"
-    },
-    {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Claude Code full Python rebuild. AI Coding Agent in 180K LoC pure Python!",
-      "stars": 334,
-      "forks": 22,
-      "language": "Python",
-      "pushed_at": "2026-05-24T02:13:21Z",
-      "updated_at": "2026-05-24T01:48:27Z"
+      "pushed_at": "2026-05-24T09:57:58Z",
+      "updated_at": "2026-05-24T09:57:31Z"
     }
   ]
 }
