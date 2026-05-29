@@ -5,95 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 790,
+  "total_found": 791,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 172639,
-      "forks": 29061,
+      "stars": 172759,
+      "forks": 29102,
       "language": "Python",
-      "pushed_at": "2026-05-29T18:35:35Z",
-      "updated_at": "2026-05-29T18:36:41Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46568,
-      "forks": 4422,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T18:04:17Z",
-      "updated_at": "2026-05-29T18:34:21Z"
+      "pushed_at": "2026-05-29T21:53:06Z",
+      "updated_at": "2026-05-29T21:54:28Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 39381,
-      "forks": 38026,
+      "stars": 39384,
+      "forks": 38027,
       "language": "Python",
-      "pushed_at": "2026-05-29T18:29:36Z",
-      "updated_at": "2026-05-29T18:32:57Z"
+      "pushed_at": "2026-05-29T21:38:38Z",
+      "updated_at": "2026-05-29T20:54:28Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31838,
-      "forks": 4119,
+      "stars": 31842,
+      "forks": 4120,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T18:15:08Z",
-      "updated_at": "2026-05-29T18:16:13Z"
+      "pushed_at": "2026-05-29T21:17:06Z",
+      "updated_at": "2026-05-29T21:17:28Z"
+    },
+    {
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 28044,
+      "forks": 8648,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T21:43:22Z",
+      "updated_at": "2026-05-29T21:41:03Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 17289,
+      "stars": 17302,
       "forks": 1102,
       "language": "HTML",
-      "pushed_at": "2026-05-29T18:01:58Z",
-      "updated_at": "2026-05-29T18:02:18Z"
+      "pushed_at": "2026-05-29T21:44:01Z",
+      "updated_at": "2026-05-29T21:51:44Z"
     },
     {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4337,
-      "forks": 428,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12402,
+      "forks": 925,
       "language": "Python",
-      "pushed_at": "2026-05-29T18:32:04Z",
-      "updated_at": "2026-05-29T18:32:10Z"
+      "pushed_at": "2026-05-29T20:19:15Z",
+      "updated_at": "2026-05-29T21:02:32Z"
     },
     {
       "id": 1145420469,
       "full_name": "moltis-org/moltis",
       "html_url": "https://github.com/moltis-org/moltis",
       "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
-      "stars": 2710,
+      "stars": 2711,
       "forks": 318,
       "language": "Rust",
-      "pushed_at": "2026-05-29T17:55:54Z",
-      "updated_at": "2026-05-29T17:55:53Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1116,
-      "forks": 63,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T18:36:56Z",
-      "updated_at": "2026-05-29T18:26:13Z"
+      "pushed_at": "2026-05-29T21:36:26Z",
+      "updated_at": "2026-05-29T20:54:20Z"
     },
     {
       "id": 1153494379,
@@ -103,8 +92,8 @@
       "stars": 725,
       "forks": 125,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T17:52:41Z",
-      "updated_at": "2026-05-29T17:52:47Z"
+      "pushed_at": "2026-05-29T21:31:43Z",
+      "updated_at": "2026-05-29T21:31:47Z"
     },
     {
       "id": 1160289313,
@@ -114,41 +103,30 @@
       "stars": 708,
       "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T18:20:39Z",
-      "updated_at": "2026-05-29T18:20:45Z"
+      "pushed_at": "2026-05-29T21:47:13Z",
+      "updated_at": "2026-05-29T21:47:17Z"
     },
     {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 513,
-      "forks": 31,
-      "language": "Python",
-      "pushed_at": "2026-05-29T18:17:59Z",
-      "updated_at": "2026-05-29T18:02:23Z"
+      "id": 463439055,
+      "full_name": "mynaparrot/plugNmeet-server",
+      "html_url": "https://github.com/mynaparrot/plugNmeet-server",
+      "description": "The open-source, self-hosted video conferencing software. Scalable, customizable, and with a powerful AI Meeting Agent.",
+      "stars": 488,
+      "forks": 114,
+      "language": "Go",
+      "pushed_at": "2026-05-29T21:17:09Z",
+      "updated_at": "2026-05-29T21:16:30Z"
     },
     {
       "id": 1142397834,
       "full_name": "qf-studio/pilot",
       "html_url": "https://github.com/qf-studio/pilot",
       "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
-      "stars": 469,
+      "stars": 470,
       "forks": 38,
       "language": "Go",
-      "pushed_at": "2026-05-29T18:20:53Z",
-      "updated_at": "2026-05-29T18:20:56Z"
-    },
-    {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 356,
-      "forks": 56,
-      "language": "Python",
-      "pushed_at": "2026-05-29T18:16:46Z",
-      "updated_at": "2026-05-29T18:16:12Z"
+      "pushed_at": "2026-05-29T21:30:29Z",
+      "updated_at": "2026-05-29T21:21:20Z"
     },
     {
       "id": 1194576770,
@@ -158,19 +136,41 @@
       "stars": 335,
       "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-05-29T18:18:36Z",
-      "updated_at": "2026-05-29T18:00:16Z"
+      "pushed_at": "2026-05-29T21:17:45Z",
+      "updated_at": "2026-05-29T21:00:30Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Claude Code full Python rebuild. AI Coding Agent in 180K LoC pure Python!",
-      "stars": 259,
-      "forks": 24,
+      "id": 1242620513,
+      "full_name": "Patdolitse/piia-engram",
+      "html_url": "https://github.com/Patdolitse/piia-engram",
+      "description": "One memory. Every AI tool. Yours to keep. Local-first, MCP-compatible, Apache 2.0.",
+      "stars": 154,
+      "forks": 8,
       "language": "Python",
-      "pushed_at": "2026-05-29T17:52:56Z",
-      "updated_at": "2026-05-29T17:53:03Z"
+      "pushed_at": "2026-05-29T20:31:31Z",
+      "updated_at": "2026-05-29T20:46:04Z"
+    },
+    {
+      "id": 1156623779,
+      "full_name": "dcostenco/prism-coder",
+      "html_url": "https://github.com/dcostenco/prism-coder",
+      "description": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
+      "stars": 141,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T21:06:35Z",
+      "updated_at": "2026-05-29T21:06:39Z"
+    },
+    {
+      "id": 394712103,
+      "full_name": "Andrewkeith83/free-claude-code",
+      "html_url": "https://github.com/Andrewkeith83/free-claude-code",
+      "description": "🚀 Use Claude Code CLI for free with NVIDIA's unlimited API. This proxy converts requests to NIM format and integrates with a Telegram bot for remote control.",
+      "stars": 111,
+      "forks": 22,
+      "language": "Python",
+      "pushed_at": "2026-05-29T20:03:08Z",
+      "updated_at": "2026-05-29T20:03:12Z"
     }
   ]
 }
