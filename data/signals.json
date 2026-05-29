@@ -5,73 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 784,
+  "total_found": 788,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 171797,
-      "forks": 28835,
+      "stars": 172311,
+      "forks": 28947,
       "language": "Python",
-      "pushed_at": "2026-05-29T04:01:45Z",
-      "updated_at": "2026-05-29T04:05:12Z"
-    },
-    {
-      "id": 1010681419,
-      "full_name": "shareAI-lab/learn-claude-code",
-      "html_url": "https://github.com/shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 63368,
-      "forks": 10359,
-      "language": "Python",
-      "pushed_at": "2026-05-29T03:48:07Z",
-      "updated_at": "2026-05-29T04:03:44Z"
+      "pushed_at": "2026-05-29T11:28:00Z",
+      "updated_at": "2026-05-29T11:32:30Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46514,
-      "forks": 4415,
+      "stars": 46550,
+      "forks": 4420,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T03:47:54Z",
-      "updated_at": "2026-05-29T03:56:51Z"
+      "pushed_at": "2026-05-29T11:16:32Z",
+      "updated_at": "2026-05-29T11:20:08Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31830,
-      "forks": 4116,
+      "stars": 31838,
+      "forks": 4117,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T03:58:56Z",
-      "updated_at": "2026-05-29T03:57:53Z"
+      "pushed_at": "2026-05-29T11:02:38Z",
+      "updated_at": "2026-05-29T11:23:58Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 13010,
-      "forks": 755,
+      "stars": 13536,
+      "forks": 785,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T04:04:51Z",
-      "updated_at": "2026-05-29T04:04:59Z"
+      "pushed_at": "2026-05-29T11:24:55Z",
+      "updated_at": "2026-05-29T11:32:27Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 6470,
-      "forks": 810,
+      "stars": 6518,
+      "forks": 813,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T03:56:38Z",
-      "updated_at": "2026-05-29T04:03:18Z"
+      "pushed_at": "2026-05-29T11:26:54Z",
+      "updated_at": "2026-05-29T11:18:46Z"
+    },
+    {
+      "id": 1203558071,
+      "full_name": "Tencent/TencentDB-Agent-Memory",
+      "html_url": "https://github.com/Tencent/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars": 4424,
+      "forks": 367,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T11:03:05Z",
+      "updated_at": "2026-05-29T11:29:12Z"
+    },
+    {
+      "id": 675911200,
+      "full_name": "moyangzhan/langchain4j-aideepin",
+      "html_url": "https://github.com/moyangzhan/langchain4j-aideepin",
+      "description": "基于AI的工作效率提升工具（聊天、绘画、知识库、工作流、 MCP服务市场、语音输入输出、长期记忆） | Ai-based productivity tools (Chat,Draw,RAG,Workflow,MCP marketplace, ASR,TTS, Long-term memory etc)",
+      "stars": 1290,
+      "forks": 314,
+      "language": "Java",
+      "pushed_at": "2026-05-29T11:03:16Z",
+      "updated_at": "2026-05-29T11:03:25Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1169,
+      "forks": 142,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T11:21:58Z",
+      "updated_at": "2026-05-29T11:18:18Z"
     },
     {
       "id": 1096175506,
@@ -81,96 +103,74 @@
       "stars": 1116,
       "forks": 63,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T04:04:40Z",
-      "updated_at": "2026-05-29T04:04:43Z"
+      "pushed_at": "2026-05-29T11:30:19Z",
+      "updated_at": "2026-05-29T11:29:22Z"
     },
     {
-      "id": 1186036632,
-      "full_name": "openmemind/memind",
-      "html_url": "https://github.com/openmemind/memind",
-      "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
-      "stars": 876,
+      "id": 1223512305,
+      "full_name": "lessweb/deepcode-cli",
+      "html_url": "https://github.com/lessweb/deepcode-cli",
+      "description": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。",
+      "stars": 992,
       "forks": 81,
-      "language": "Java",
-      "pushed_at": "2026-05-29T03:46:24Z",
-      "updated_at": "2026-05-29T04:05:26Z"
-    },
-    {
-      "id": 1161355400,
-      "full_name": "yeuxuan/openclaw-docs",
-      "html_url": "https://github.com/yeuxuan/openclaw-docs",
-      "description": "OpenClaw 中文文档站 | AI 智能体框架 源码剖析 安装教程 | WhatsApp Telegram Discord 飞书   多通道机器人",
-      "stars": 710,
-      "forks": 103,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-29T04:02:47Z",
-      "updated_at": "2026-05-29T04:02:50Z"
-    },
-    {
-      "id": 1201960789,
-      "full_name": "mm7894215/TokenTracker",
-      "html_url": "https://github.com/mm7894215/TokenTracker",
-      "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
-      "stars": 589,
-      "forks": 57,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-29T03:23:16Z",
-      "updated_at": "2026-05-29T03:19:39Z"
-    },
-    {
-      "id": 1196898989,
-      "full_name": "awizemann/scarf",
-      "html_url": "https://github.com/awizemann/scarf",
-      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
-      "stars": 547,
-      "forks": 35,
-      "language": "Swift",
-      "pushed_at": "2026-05-29T03:54:27Z",
-      "updated_at": "2026-05-29T03:54:33Z"
-    },
-    {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 492,
-      "forks": 30,
-      "language": "Python",
-      "pushed_at": "2026-05-29T03:11:39Z",
-      "updated_at": "2026-05-29T03:11:39Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 335,
-      "forks": 66,
-      "language": "Python",
-      "pushed_at": "2026-05-29T03:51:43Z",
-      "updated_at": "2026-05-29T03:51:47Z"
-    },
-    {
-      "id": 1167415476,
-      "full_name": "niaka3dayo/agent-skills-vrc-udon",
-      "html_url": "https://github.com/niaka3dayo/agent-skills-vrc-udon",
-      "description": "Skills, rules, and validation hooks that teach AI coding agents to generate correct UdonSharp code",
-      "stars": 167,
-      "forks": 4,
-      "language": "C#",
-      "pushed_at": "2026-05-29T03:50:23Z",
-      "updated_at": "2026-05-29T03:49:59Z"
-    },
-    {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-coder",
-      "html_url": "https://github.com/dcostenco/prism-coder",
-      "description": "The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.",
-      "stars": 141,
-      "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T03:19:20Z",
-      "updated_at": "2026-05-29T03:19:25Z"
+      "pushed_at": "2026-05-29T11:04:47Z",
+      "updated_at": "2026-05-29T11:04:51Z"
+    },
+    {
+      "id": 1132275655,
+      "full_name": "cordum-io/cordum",
+      "html_url": "https://github.com/cordum-io/cordum",
+      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+      "stars": 481,
+      "forks": 27,
+      "language": "Go",
+      "pushed_at": "2026-05-29T11:17:40Z",
+      "updated_at": "2026-05-29T11:17:44Z"
+    },
+    {
+      "id": 927203006,
+      "full_name": "VersusControl/versus-incident",
+      "html_url": "https://github.com/VersusControl/versus-incident",
+      "description": "An incident management tool supporting multi-channel alerting, customizable messages, on-call integrations, and the built-in AI SRE Agent. Compatible with any tool supporting webhook alerts.",
+      "stars": 475,
+      "forks": 68,
+      "language": "Go",
+      "pushed_at": "2026-05-29T11:13:18Z",
+      "updated_at": "2026-05-29T11:13:13Z"
+    },
+    {
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 415,
+      "forks": 26,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T11:02:26Z",
+      "updated_at": "2026-05-29T11:01:44Z"
+    },
+    {
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 394,
+      "forks": 93,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T11:00:07Z",
+      "updated_at": "2026-05-29T10:57:52Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 356,
+      "forks": 56,
+      "language": "Python",
+      "pushed_at": "2026-05-29T11:32:02Z",
+      "updated_at": "2026-05-29T11:31:19Z"
     }
   ]
 }
