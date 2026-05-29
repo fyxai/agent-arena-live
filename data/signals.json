@@ -5,106 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 791,
+  "total_found": 790,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 172541,
-      "forks": 29013,
+      "stars": 172639,
+      "forks": 29061,
       "language": "Python",
-      "pushed_at": "2026-05-29T15:18:24Z",
-      "updated_at": "2026-05-29T15:51:20Z"
-    },
-    {
-      "id": 995029641,
-      "full_name": "ruvnet/ruflo",
-      "html_url": "https://github.com/ruvnet/ruflo",
-      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-      "stars": 56331,
-      "forks": 6406,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:48:30Z",
-      "updated_at": "2026-05-29T15:48:47Z"
+      "pushed_at": "2026-05-29T18:35:35Z",
+      "updated_at": "2026-05-29T18:36:41Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46566,
+      "stars": 46568,
       "forks": 4422,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:43:08Z",
-      "updated_at": "2026-05-29T15:49:57Z"
+      "pushed_at": "2026-05-29T18:04:17Z",
+      "updated_at": "2026-05-29T18:34:21Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 39372,
-      "forks": 38017,
+      "stars": 39381,
+      "forks": 38026,
       "language": "Python",
-      "pushed_at": "2026-05-29T15:40:21Z",
-      "updated_at": "2026-05-29T15:39:42Z"
+      "pushed_at": "2026-05-29T18:29:36Z",
+      "updated_at": "2026-05-29T18:32:57Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31837,
-      "forks": 4118,
+      "stars": 31838,
+      "forks": 4119,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:44:34Z",
-      "updated_at": "2026-05-29T15:44:59Z"
-    },
-    {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 28035,
-      "forks": 8649,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:01:15Z",
-      "updated_at": "2026-05-29T15:25:49Z"
+      "pushed_at": "2026-05-29T18:15:08Z",
+      "updated_at": "2026-05-29T18:16:13Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 17286,
+      "stars": 17289,
       "forks": 1102,
       "language": "HTML",
-      "pushed_at": "2026-05-29T15:50:21Z",
-      "updated_at": "2026-05-29T15:36:08Z"
+      "pushed_at": "2026-05-29T18:01:58Z",
+      "updated_at": "2026-05-29T18:02:18Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 7431,
-      "forks": 1194,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:28:17Z",
-      "updated_at": "2026-05-29T15:44:19Z"
-    },
-    {
-      "id": 114540126,
-      "full_name": "SciSharp/BotSharp",
-      "html_url": "https://github.com/SciSharp/BotSharp",
-      "description": "AI Multi-Agent Framework in .NET",
-      "stars": 3062,
-      "forks": 637,
-      "language": "C#",
-      "pushed_at": "2026-05-29T15:12:08Z",
-      "updated_at": "2026-05-29T15:12:54Z"
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4337,
+      "forks": 428,
+      "language": "Python",
+      "pushed_at": "2026-05-29T18:32:04Z",
+      "updated_at": "2026-05-29T18:32:10Z"
     },
     {
       "id": 1145420469,
@@ -114,30 +81,8 @@
       "stars": 2710,
       "forks": 318,
       "language": "Rust",
-      "pushed_at": "2026-05-29T15:07:01Z",
-      "updated_at": "2026-05-29T15:07:43Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2393,
-      "forks": 521,
-      "language": "Python",
-      "pushed_at": "2026-05-29T15:10:36Z",
-      "updated_at": "2026-05-29T15:31:41Z"
-    },
-    {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1609,
-      "forks": 170,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:47:27Z",
-      "updated_at": "2026-05-29T15:47:33Z"
+      "pushed_at": "2026-05-29T17:55:54Z",
+      "updated_at": "2026-05-29T17:55:53Z"
     },
     {
       "id": 1096175506,
@@ -147,30 +92,85 @@
       "stars": 1116,
       "forks": 63,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:48:35Z",
-      "updated_at": "2026-05-29T15:48:46Z"
+      "pushed_at": "2026-05-29T18:36:56Z",
+      "updated_at": "2026-05-29T18:26:13Z"
     },
     {
-      "id": 1201960789,
-      "full_name": "mm7894215/TokenTracker",
-      "html_url": "https://github.com/mm7894215/TokenTracker",
-      "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
-      "stars": 596,
-      "forks": 59,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-29T15:22:08Z",
-      "updated_at": "2026-05-29T15:23:27Z"
-    },
-    {
-      "id": 1234904564,
-      "full_name": "Kaelio/ktx-ai-data-agents-mcp-context-skills",
-      "html_url": "https://github.com/Kaelio/ktx-ai-data-agents-mcp-context-skills",
-      "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP with skills and memory",
-      "stars": 487,
-      "forks": 23,
+      "id": 1153494379,
+      "full_name": "grinev/opencode-telegram-bot",
+      "html_url": "https://github.com/grinev/opencode-telegram-bot",
+      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.",
+      "stars": 725,
+      "forks": 125,
       "language": "TypeScript",
-      "pushed_at": "2026-05-29T15:41:05Z",
-      "updated_at": "2026-05-29T15:49:36Z"
+      "pushed_at": "2026-05-29T17:52:41Z",
+      "updated_at": "2026-05-29T17:52:47Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 708,
+      "forks": 66,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-29T18:20:39Z",
+      "updated_at": "2026-05-29T18:20:45Z"
+    },
+    {
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 513,
+      "forks": 31,
+      "language": "Python",
+      "pushed_at": "2026-05-29T18:17:59Z",
+      "updated_at": "2026-05-29T18:02:23Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
+      "stars": 469,
+      "forks": 38,
+      "language": "Go",
+      "pushed_at": "2026-05-29T18:20:53Z",
+      "updated_at": "2026-05-29T18:20:56Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 356,
+      "forks": 56,
+      "language": "Python",
+      "pushed_at": "2026-05-29T18:16:46Z",
+      "updated_at": "2026-05-29T18:16:12Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 335,
+      "forks": 66,
+      "language": "Python",
+      "pushed_at": "2026-05-29T18:18:36Z",
+      "updated_at": "2026-05-29T18:00:16Z"
+    },
+    {
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Claude Code full Python rebuild. AI Coding Agent in 180K LoC pure Python!",
+      "stars": 259,
+      "forks": 24,
+      "language": "Python",
+      "pushed_at": "2026-05-29T17:52:56Z",
+      "updated_at": "2026-05-29T17:53:03Z"
     }
   ]
 }
