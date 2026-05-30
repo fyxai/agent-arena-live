@@ -12,121 +12,110 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 172957,
-      "forks": 29168,
+      "stars": 173071,
+      "forks": 29206,
       "language": "Python",
-      "pushed_at": "2026-05-30T03:45:13Z",
-      "updated_at": "2026-05-30T03:52:16Z"
-    },
-    {
-      "id": 107111421,
-      "full_name": "thedaviddias/Front-End-Checklist",
-      "html_url": "https://github.com/thedaviddias/Front-End-Checklist",
-      "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
-      "stars": 72748,
-      "forks": 6647,
-      "language": "MDX",
-      "pushed_at": "2026-05-30T03:31:30Z",
-      "updated_at": "2026-05-30T03:31:39Z"
+      "pushed_at": "2026-05-30T06:45:06Z",
+      "updated_at": "2026-05-30T06:50:03Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 39415,
-      "forks": 38054,
+      "stars": 39434,
+      "forks": 38070,
       "language": "Python",
-      "pushed_at": "2026-05-30T03:47:51Z",
-      "updated_at": "2026-05-30T03:51:34Z"
+      "pushed_at": "2026-05-30T06:13:54Z",
+      "updated_at": "2026-05-30T06:30:00Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22577,
-      "forks": 2631,
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 28059,
+      "forks": 8651,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:11:22Z",
-      "updated_at": "2026-05-30T03:11:25Z"
-    },
-    {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 17318,
-      "forks": 1102,
-      "language": "HTML",
-      "pushed_at": "2026-05-30T03:45:05Z",
-      "updated_at": "2026-05-30T03:45:08Z"
+      "pushed_at": "2026-05-30T06:45:40Z",
+      "updated_at": "2026-05-30T06:45:14Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 13968,
-      "forks": 808,
+      "stars": 14117,
+      "forks": 819,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:30:28Z",
-      "updated_at": "2026-05-30T03:48:43Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 12297,
-      "forks": 1419,
-      "language": "Python",
-      "pushed_at": "2026-05-30T03:36:01Z",
-      "updated_at": "2026-05-30T03:36:06Z"
-    },
-    {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 8989,
-      "forks": 1848,
-      "language": "Python",
-      "pushed_at": "2026-05-30T03:46:13Z",
-      "updated_at": "2026-05-30T03:46:17Z"
+      "pushed_at": "2026-05-30T06:03:12Z",
+      "updated_at": "2026-05-30T06:50:01Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 8483,
-      "forks": 682,
+      "stars": 8509,
+      "forks": 684,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:23:18Z",
-      "updated_at": "2026-05-30T03:52:21Z"
+      "pushed_at": "2026-05-30T06:44:00Z",
+      "updated_at": "2026-05-30T06:48:32Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 6581,
-      "forks": 817,
+      "stars": 6595,
+      "forks": 822,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:49:50Z",
-      "updated_at": "2026-05-30T03:49:54Z"
+      "pushed_at": "2026-05-30T06:38:08Z",
+      "updated_at": "2026-05-30T06:35:11Z"
+    },
+    {
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6544,
+      "forks": 1384,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-30T06:20:06Z",
+      "updated_at": "2026-05-30T06:19:49Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 2160,
+      "forks": 211,
+      "language": "Go",
+      "pushed_at": "2026-05-30T06:42:28Z",
+      "updated_at": "2026-05-30T06:27:50Z"
+    },
+    {
+      "id": 1218208502,
+      "full_name": "worldwonderer/oh-story-claudecode",
+      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+      "stars": 1688,
+      "forks": 349,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-30T06:32:56Z",
+      "updated_at": "2026-05-30T06:48:54Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1116,
+      "stars": 1117,
       "forks": 63,
       "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:51:53Z",
-      "updated_at": "2026-05-30T03:37:41Z"
+      "pushed_at": "2026-05-30T06:44:13Z",
+      "updated_at": "2026-05-30T06:43:17Z"
     },
     {
       "id": 1057975087,
@@ -136,41 +125,52 @@
       "stars": 1040,
       "forks": 191,
       "language": "Go",
-      "pushed_at": "2026-05-30T03:46:17Z",
-      "updated_at": "2026-05-30T03:46:21Z"
+      "pushed_at": "2026-05-30T06:39:28Z",
+      "updated_at": "2026-05-30T06:39:32Z"
     },
     {
-      "id": 1187461911,
-      "full_name": "openyak/openyak",
-      "html_url": "https://github.com/openyak/openyak",
-      "description": "Open-source local-first AI agent for desktop work. No account, no telemetry: use local models with Ollama/Rapid-MLX or bring your own provider key.",
-      "stars": 682,
-      "forks": 56,
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 520,
+      "forks": 33,
       "language": "Python",
-      "pushed_at": "2026-05-30T03:46:20Z",
-      "updated_at": "2026-05-30T03:46:23Z"
+      "pushed_at": "2026-05-30T06:17:28Z",
+      "updated_at": "2026-05-30T06:17:13Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 394,
-      "forks": 93,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-30T03:33:45Z",
-      "updated_at": "2026-05-30T03:33:48Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 334,
-      "forks": 66,
+      "id": 1155078763,
+      "full_name": "xg-gh-25/SwarmAI",
+      "html_url": "https://github.com/xg-gh-25/SwarmAI",
+      "description": "Human directs. AI delivers.",
+      "stars": 184,
+      "forks": 25,
       "language": "Python",
-      "pushed_at": "2026-05-30T03:29:33Z",
-      "updated_at": "2026-05-30T03:29:37Z"
+      "pushed_at": "2026-05-30T06:37:52Z",
+      "updated_at": "2026-05-30T06:37:47Z"
+    },
+    {
+      "id": 1150205195,
+      "full_name": "pardnchiu/Agenvoy",
+      "html_url": "https://github.com/pardnchiu/Agenvoy",
+      "description": "Make AI actually work for you — your personal AI assistant.",
+      "stars": 164,
+      "forks": 23,
+      "language": "Go",
+      "pushed_at": "2026-05-30T06:08:47Z",
+      "updated_at": "2026-05-30T06:45:28Z"
+    },
+    {
+      "id": 1242620513,
+      "full_name": "Patdolitse/piia-engram",
+      "html_url": "https://github.com/Patdolitse/piia-engram",
+      "description": "One memory. Every AI tool. Yours to keep. Local-first, MCP-compatible, Apache 2.0.",
+      "stars": 154,
+      "forks": 8,
+      "language": "Python",
+      "pushed_at": "2026-05-30T06:32:16Z",
+      "updated_at": "2026-05-30T06:23:54Z"
     }
   ]
 }
