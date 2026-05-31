@@ -12,88 +12,55 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 174464,
-      "forks": 29622,
+      "stars": 174587,
+      "forks": 29663,
       "language": "Python",
-      "pushed_at": "2026-05-31T16:52:03Z",
-      "updated_at": "2026-05-31T17:10:30Z"
+      "pushed_at": "2026-05-31T20:07:28Z",
+      "updated_at": "2026-05-31T20:55:14Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46653,
-      "forks": 4426,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-31T16:32:16Z",
-      "updated_at": "2026-05-31T16:52:31Z"
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 43434,
+      "forks": 7672,
+      "language": "Python",
+      "pushed_at": "2026-05-31T20:00:15Z",
+      "updated_at": "2026-05-31T20:48:33Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31863,
-      "forks": 4121,
+      "stars": 31869,
+      "forks": 4122,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T16:57:17Z",
-      "updated_at": "2026-05-31T17:00:14Z"
-    },
-    {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 23154,
-      "forks": 2330,
-      "language": "JavaScript",
-      "pushed_at": "2026-05-31T16:55:46Z",
-      "updated_at": "2026-05-31T16:55:51Z"
+      "pushed_at": "2026-05-31T19:59:50Z",
+      "updated_at": "2026-05-31T20:32:37Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22491,
+      "stars": 22493,
       "forks": 3726,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T16:42:05Z",
-      "updated_at": "2026-05-31T16:36:05Z"
-    },
-    {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 9134,
-      "forks": 1879,
-      "language": "Python",
-      "pushed_at": "2026-05-31T16:27:49Z",
-      "updated_at": "2026-05-31T17:05:23Z"
+      "pushed_at": "2026-05-31T19:13:43Z",
+      "updated_at": "2026-05-31T19:35:32Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 9049,
-      "forks": 731,
+      "stars": 9100,
+      "forks": 735,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T17:07:46Z",
-      "updated_at": "2026-05-31T17:07:14Z"
-    },
-    {
-      "id": 1006251566,
-      "full_name": "zebbern/claude-code-guide",
-      "html_url": "https://github.com/zebbern/claude-code-guide",
-      "description": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!",
-      "stars": 4218,
-      "forks": 422,
-      "language": "Python",
-      "pushed_at": "2026-05-31T16:40:28Z",
-      "updated_at": "2026-05-31T16:41:15Z"
+      "pushed_at": "2026-05-31T21:02:38Z",
+      "updated_at": "2026-05-31T21:00:51Z"
     },
     {
       "id": 220867748,
@@ -103,63 +70,85 @@
       "stars": 3188,
       "forks": 209,
       "language": "JavaScript",
-      "pushed_at": "2026-05-31T16:49:40Z",
-      "updated_at": "2026-05-31T16:49:44Z"
+      "pushed_at": "2026-05-31T20:56:57Z",
+      "updated_at": "2026-05-31T20:56:58Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2577,
-      "forks": 298,
-      "language": "Go",
-      "pushed_at": "2026-05-31T17:11:51Z",
-      "updated_at": "2026-05-31T17:10:55Z"
-    },
-    {
-      "id": 1214783544,
-      "full_name": "oritera/Cairn",
-      "html_url": "https://github.com/oritera/Cairn",
-      "description": "A AI general-purpose state-space search engine, validated first on autonomous penetration testing.",
-      "stars": 1334,
-      "forks": 179,
+      "id": 1178437140,
+      "full_name": "czl9707/build-your-own-openclaw",
+      "html_url": "https://github.com/czl9707/build-your-own-openclaw",
+      "description": "A step-by-step guide to build your own AI agent.",
+      "stars": 1683,
+      "forks": 301,
       "language": "Python",
-      "pushed_at": "2026-05-31T16:36:20Z",
-      "updated_at": "2026-05-31T16:58:08Z"
+      "pushed_at": "2026-05-31T18:50:53Z",
+      "updated_at": "2026-05-31T20:49:12Z"
     },
     {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-      "stars": 1058,
-      "forks": 145,
+      "id": 1187461911,
+      "full_name": "openyak/openyak",
+      "html_url": "https://github.com/openyak/openyak",
+      "description": "Open-source local-first AI agent for desktop work. No account, no telemetry: use local models with Ollama/Rapid-MLX or bring your own provider key.",
+      "stars": 685,
+      "forks": 57,
+      "language": "Python",
+      "pushed_at": "2026-05-31T21:02:15Z",
+      "updated_at": "2026-05-31T19:06:39Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
+      "stars": 359,
+      "forks": 56,
+      "language": "Python",
+      "pushed_at": "2026-05-31T20:53:58Z",
+      "updated_at": "2026-05-31T19:42:44Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 338,
+      "forks": 65,
+      "language": "Python",
+      "pushed_at": "2026-05-31T19:59:55Z",
+      "updated_at": "2026-05-31T20:00:05Z"
+    },
+    {
+      "id": 1148233533,
+      "full_name": "sepivip/SeekerClaw",
+      "html_url": "https://github.com/sepivip/SeekerClaw",
+      "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
+      "stars": 251,
+      "forks": 60,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-31T19:18:26Z",
+      "updated_at": "2026-05-31T20:07:39Z"
+    },
+    {
+      "id": 1166995215,
+      "full_name": "CodeAlta/CodeAlta",
+      "html_url": "https://github.com/CodeAlta/CodeAlta",
+      "description": "Your efficient agentic AI coding CLI assistant",
+      "stars": 168,
+      "forks": 9,
+      "language": "C#",
+      "pushed_at": "2026-05-31T19:58:51Z",
+      "updated_at": "2026-05-31T19:58:56Z"
+    },
+    {
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 150,
+      "forks": 2,
       "language": "Rust",
-      "pushed_at": "2026-05-31T16:48:30Z",
-      "updated_at": "2026-05-31T16:48:32Z"
-    },
-    {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
-      "stars": 471,
-      "forks": 38,
-      "language": "Go",
-      "pushed_at": "2026-05-31T16:31:18Z",
-      "updated_at": "2026-05-31T16:31:22Z"
-    },
-    {
-      "id": 1169462190,
-      "full_name": "freddy-schuetz/n8n-claw",
-      "html_url": "https://github.com/freddy-schuetz/n8n-claw",
-      "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script",
-      "stars": 447,
-      "forks": 86,
-      "language": "Shell",
-      "pushed_at": "2026-05-31T16:47:37Z",
-      "updated_at": "2026-05-31T16:47:38Z"
+      "pushed_at": "2026-05-31T20:55:01Z",
+      "updated_at": "2026-05-31T20:55:05Z"
     },
     {
       "id": 1173336283,
@@ -169,8 +158,19 @@
       "stars": 130,
       "forks": 7,
       "language": "Python",
-      "pushed_at": "2026-05-31T16:57:51Z",
-      "updated_at": "2026-05-31T16:57:54Z"
+      "pushed_at": "2026-05-31T20:04:04Z",
+      "updated_at": "2026-05-31T20:04:08Z"
+    },
+    {
+      "id": 1189562423,
+      "full_name": "iPythoning/b2b-sdr-agent-template",
+      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
+      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
+      "stars": 110,
+      "forks": 39,
+      "language": "Shell",
+      "pushed_at": "2026-05-31T20:08:03Z",
+      "updated_at": "2026-05-31T20:09:17Z"
     }
   ]
 }
