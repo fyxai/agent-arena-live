@@ -5,117 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 799,
+  "total_found": 800,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 174148,
-      "forks": 29526,
+      "stars": 174332,
+      "forks": 29570,
       "language": "Python",
-      "pushed_at": "2026-05-31T10:17:30Z",
-      "updated_at": "2026-05-31T10:16:50Z"
+      "pushed_at": "2026-05-31T13:46:46Z",
+      "updated_at": "2026-05-31T13:53:53Z"
     },
     {
-      "id": 1010681419,
-      "full_name": "shareAI-lab/learn-claude-code",
-      "html_url": "https://github.com/shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-      "stars": 63779,
-      "forks": 10436,
-      "language": "Python",
-      "pushed_at": "2026-05-31T09:20:06Z",
-      "updated_at": "2026-05-31T10:10:21Z"
-    },
-    {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install (formerly chatgpt-on-wechat).",
-      "stars": 44975,
-      "forks": 10157,
-      "language": "Python",
-      "pushed_at": "2026-05-31T09:38:42Z",
-      "updated_at": "2026-05-31T10:08:28Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 39563,
-      "forks": 38198,
-      "language": "Python",
-      "pushed_at": "2026-05-31T10:05:24Z",
-      "updated_at": "2026-05-31T10:12:23Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31860,
-      "forks": 4123,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 46649,
+      "forks": 4426,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T10:11:37Z",
-      "updated_at": "2026-05-31T09:38:30Z"
+      "pushed_at": "2026-05-31T13:51:43Z",
+      "updated_at": "2026-05-31T13:43:47Z"
+    },
+    {
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 43423,
+      "forks": 7669,
+      "language": "Python",
+      "pushed_at": "2026-05-31T13:44:02Z",
+      "updated_at": "2026-05-31T13:46:23Z"
+    },
+    {
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "stars": 22852,
+      "forks": 2087,
+      "language": "Python",
+      "pushed_at": "2026-05-31T13:46:38Z",
+      "updated_at": "2026-05-31T13:50:36Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22486,
-      "forks": 3725,
+      "stars": 22490,
+      "forks": 3726,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T09:58:50Z",
-      "updated_at": "2026-05-31T09:59:26Z"
+      "pushed_at": "2026-05-31T13:45:31Z",
+      "updated_at": "2026-05-31T13:45:12Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 14895,
-      "forks": 870,
+      "stars": 15019,
+      "forks": 876,
       "language": "Go",
-      "pushed_at": "2026-05-31T10:16:58Z",
-      "updated_at": "2026-05-31T10:17:30Z"
+      "pushed_at": "2026-05-31T13:52:11Z",
+      "updated_at": "2026-05-31T13:54:39Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-      "stars": 7608,
-      "forks": 1210,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-31T09:37:52Z",
-      "updated_at": "2026-05-31T09:51:01Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 6727,
-      "forks": 834,
-      "language": "TypeScript",
-      "pushed_at": "2026-05-31T09:25:26Z",
-      "updated_at": "2026-05-31T10:10:46Z"
-    },
-    {
-      "id": 1164059777,
-      "full_name": "fim-ai/fim-one",
-      "html_url": "https://github.com/fim-ai/fim-one",
-      "description": "Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.",
-      "stars": 1240,
-      "forks": 133,
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 12338,
+      "forks": 1420,
       "language": "Python",
-      "pushed_at": "2026-05-31T09:57:58Z",
-      "updated_at": "2026-05-31T09:58:02Z"
+      "pushed_at": "2026-05-31T13:53:10Z",
+      "updated_at": "2026-05-31T13:53:14Z"
+    },
+    {
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Your super agent for work: local-first, learn your working context in mins and never forget it.",
+      "stars": 5460,
+      "forks": 334,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T13:54:20Z",
+      "updated_at": "2026-05-31T13:48:36Z"
+    },
+    {
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 3257,
+      "forks": 209,
+      "language": "Python",
+      "pushed_at": "2026-05-31T13:44:14Z",
+      "updated_at": "2026-05-31T13:43:46Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3188,
+      "forks": 209,
+      "language": "JavaScript",
+      "pushed_at": "2026-05-31T13:29:11Z",
+      "updated_at": "2026-05-31T13:29:12Z"
+    },
+    {
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 2500,
+      "forks": 259,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T13:19:40Z",
+      "updated_at": "2026-05-31T13:53:30Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +136,41 @@
       "stars": 1116,
       "forks": 63,
       "language": "TypeScript",
-      "pushed_at": "2026-05-31T10:19:15Z",
-      "updated_at": "2026-05-31T10:15:49Z"
+      "pushed_at": "2026-05-31T13:51:58Z",
+      "updated_at": "2026-05-31T13:52:01Z"
     },
     {
-      "id": 927203006,
-      "full_name": "VersusControl/versus-incident",
-      "html_url": "https://github.com/VersusControl/versus-incident",
-      "description": "An incident management tool supporting multi-channel alerting, customizable messages, on-call integrations, and the built-in AI SRE Agent. Compatible with any tool supporting webhook alerts.",
-      "stars": 476,
-      "forks": 69,
-      "language": "Go",
-      "pushed_at": "2026-05-31T09:59:57Z",
-      "updated_at": "2026-05-31T10:00:01Z"
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 712,
+      "forks": 67,
+      "language": "TypeScript",
+      "pushed_at": "2026-05-31T13:33:43Z",
+      "updated_at": "2026-05-31T13:33:47Z"
     },
     {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 359,
-      "forks": 56,
-      "language": "Python",
-      "pushed_at": "2026-05-31T09:42:51Z",
-      "updated_at": "2026-05-31T09:42:54Z"
-    },
-    {
-      "id": 1108188054,
-      "full_name": "QVerisAI/qveris-agent-toolkit",
-      "html_url": "https://github.com/QVerisAI/qveris-agent-toolkit",
-      "description": "Open-source toolkit for the QVeris capability routing network: CLI, MCP server, Python SDK, skills, and REST API docs for agents to discover, inspect, call, and audit real-world tools.",
-      "stars": 229,
-      "forks": 21,
+      "id": 1201960789,
+      "full_name": "mm7894215/TokenTracker",
+      "html_url": "https://github.com/mm7894215/TokenTracker",
+      "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
+      "stars": 606,
+      "forks": 60,
       "language": "JavaScript",
-      "pushed_at": "2026-05-31T10:14:10Z",
-      "updated_at": "2026-05-31T10:14:15Z"
+      "pushed_at": "2026-05-31T13:52:51Z",
+      "updated_at": "2026-05-31T13:52:54Z"
     },
     {
-      "id": 1150205195,
-      "full_name": "pardnchiu/Agenvoy",
-      "html_url": "https://github.com/pardnchiu/Agenvoy",
-      "description": "Make AI actually work for you — your personal AI assistant.",
-      "stars": 183,
-      "forks": 25,
-      "language": "Go",
-      "pushed_at": "2026-05-31T09:14:30Z",
-      "updated_at": "2026-05-31T09:39:07Z"
+      "id": 1203697439,
+      "full_name": "PatterAI/Patter",
+      "html_url": "https://github.com/PatterAI/Patter",
+      "description": "Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI agent a phone number in 4 lines — Python and TypeScript, MIT licensed, Twilio, Telnyx, and Plivo.",
+      "stars": 327,
+      "forks": 29,
+      "language": "Python",
+      "pushed_at": "2026-05-31T13:33:08Z",
+      "updated_at": "2026-05-31T13:33:12Z"
     }
   ]
 }
