@@ -12,33 +12,44 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 178844,
-      "forks": 30639,
+      "stars": 178992,
+      "forks": 30667,
       "language": "Python",
-      "pushed_at": "2026-06-03T19:02:07Z",
-      "updated_at": "2026-06-03T19:52:07Z"
+      "pushed_at": "2026-06-03T22:11:58Z",
+      "updated_at": "2026-06-03T22:27:28Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31928,
+      "stars": 31930,
       "forks": 4121,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T19:35:53Z",
-      "updated_at": "2026-06-03T19:25:45Z"
+      "pushed_at": "2026-06-03T22:28:27Z",
+      "updated_at": "2026-06-03T22:18:30Z"
+    },
+    {
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 28282,
+      "forks": 8675,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-03T21:23:02Z",
+      "updated_at": "2026-06-03T21:54:35Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 10271,
-      "forks": 850,
+      "stars": 10297,
+      "forks": 854,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T19:35:04Z",
-      "updated_at": "2026-06-03T19:52:26Z"
+      "pushed_at": "2026-06-03T21:07:27Z",
+      "updated_at": "2026-06-03T22:23:49Z"
     },
     {
       "id": 220867748,
@@ -48,41 +59,63 @@
       "stars": 3195,
       "forks": 210,
       "language": "JavaScript",
-      "pushed_at": "2026-06-03T19:21:01Z",
-      "updated_at": "2026-06-03T19:12:05Z"
+      "pushed_at": "2026-06-03T22:16:02Z",
+      "updated_at": "2026-06-03T22:16:08Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2607,
-      "forks": 305,
-      "language": "Go",
-      "pushed_at": "2026-06-03T18:45:07Z",
-      "updated_at": "2026-06-03T18:45:13Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2722,
+      "forks": 322,
+      "language": "Rust",
+      "pushed_at": "2026-06-03T21:42:31Z",
+      "updated_at": "2026-06-03T21:42:37Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2168,
-      "forks": 410,
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 1371,
+      "forks": 200,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-03T21:57:30Z",
+      "updated_at": "2026-06-03T21:57:35Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1174,
+      "forks": 142,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T19:09:04Z",
-      "updated_at": "2026-06-03T19:09:02Z"
+      "pushed_at": "2026-06-03T22:06:44Z",
+      "updated_at": "2026-06-03T22:06:47Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1117,
-      "forks": 65,
+      "id": 784773119,
+      "full_name": "SamurAIGPT/awesome-openclaw",
+      "html_url": "https://github.com/SamurAIGPT/awesome-openclaw",
+      "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
+      "stars": 951,
+      "forks": 207,
+      "language": "Unknown",
+      "pushed_at": "2026-06-03T21:09:38Z",
+      "updated_at": "2026-06-03T21:09:45Z"
+    },
+    {
+      "id": 1234904564,
+      "full_name": "Kaelio/ktx",
+      "html_url": "https://github.com/Kaelio/ktx",
+      "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP with skills, memory and a semantic layer",
+      "stars": 844,
+      "forks": 44,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T19:19:17Z",
-      "updated_at": "2026-06-03T19:09:35Z"
+      "pushed_at": "2026-06-03T22:19:32Z",
+      "updated_at": "2026-06-03T21:51:05Z"
     },
     {
       "id": 1160289313,
@@ -92,85 +125,52 @@
       "stars": 717,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T19:08:56Z",
-      "updated_at": "2026-06-03T19:09:02Z"
+      "pushed_at": "2026-06-03T22:28:32Z",
+      "updated_at": "2026-06-03T22:28:33Z"
     },
     {
-      "id": 1203556545,
-      "full_name": "velobase/velobase-harness",
-      "html_url": "https://github.com/velobase/velobase-harness",
-      "description": "From code to cash — open-source SaaS boilerplate with Stripe, affiliate, attribution & usage-based billing for AI apps. T3 stack + Next.js 16.",
-      "stars": 461,
-      "forks": 52,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-03T19:26:11Z",
-      "updated_at": "2026-06-03T19:41:13Z"
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 621,
+      "forks": 47,
+      "language": "Python",
+      "pushed_at": "2026-06-03T22:20:45Z",
+      "updated_at": "2026-06-03T22:20:51Z"
     },
     {
       "id": 1156882085,
       "full_name": "vivekchand/clawmetry",
       "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-      "stars": 363,
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes — OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 364,
       "forks": 56,
       "language": "Python",
-      "pushed_at": "2026-06-03T19:44:14Z",
-      "updated_at": "2026-06-03T19:31:10Z"
+      "pushed_at": "2026-06-03T22:29:06Z",
+      "updated_at": "2026-06-03T22:29:08Z"
     },
     {
-      "id": 1181223816,
-      "full_name": "OnlyTerp/openclaw-optimization-guide",
-      "html_url": "https://github.com/OnlyTerp/openclaw-optimization-guide",
-      "description": "Make your OpenClaw AI agent faster, smarter, and cheaper. Speed optimization, memory architecture, context management, model selection, and one-shot development guide.",
-      "stars": 340,
-      "forks": 42,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-03T19:48:51Z",
-      "updated_at": "2026-06-03T19:48:56Z"
-    },
-    {
-      "id": 1242620513,
-      "full_name": "Patdolitse/piia-engram",
-      "html_url": "https://github.com/Patdolitse/piia-engram",
-      "description": "One memory. Every AI tool. Yours to keep. Local-first, MCP-compatible, Apache 2.0.",
-      "stars": 162,
-      "forks": 9,
-      "language": "Python",
-      "pushed_at": "2026-06-03T18:28:13Z",
-      "updated_at": "2026-06-03T18:28:18Z"
-    },
-    {
-      "id": 1195094712,
-      "full_name": "initMAX/zabbix-mcp-server",
-      "html_url": "https://github.com/initMAX/zabbix-mcp-server",
-      "description": "MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer auth, PDF reports, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.",
-      "stars": 112,
-      "forks": 24,
-      "language": "Python",
-      "pushed_at": "2026-06-03T19:37:25Z",
-      "updated_at": "2026-06-03T19:36:52Z"
-    },
-    {
-      "id": 1189562423,
-      "full_name": "iPythoning/b2b-sdr-agent-template",
-      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
-      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
-      "stars": 111,
-      "forks": 40,
-      "language": "Shell",
-      "pushed_at": "2026-06-03T19:08:33Z",
-      "updated_at": "2026-06-03T19:08:47Z"
-    },
-    {
-      "id": 880536873,
-      "full_name": "humanspeak/svelte-markdown",
-      "html_url": "https://github.com/humanspeak/svelte-markdown",
-      "description": "📝 Markdown and HTML renderer for Svelte 5 — built for streaming AI agent output from Claude Code, ChatGPT, and agentic workflows. XSS-safe defaults, token caching, TypeScript types.",
-      "stars": 104,
-      "forks": 5,
+      "id": 1211478189,
+      "full_name": "Gan-Xing/CodexBridge",
+      "html_url": "https://github.com/Gan-Xing/CodexBridge",
+      "description": "WeChat-to-Codex bridge for running Codex app-server from chat, with threads, slash commands, approvals, agents, automation, uploads, and assistant records.",
+      "stars": 226,
+      "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-06-03T18:59:51Z",
-      "updated_at": "2026-06-03T18:59:55Z"
+      "pushed_at": "2026-06-03T21:52:19Z",
+      "updated_at": "2026-06-03T21:52:23Z"
+    },
+    {
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 150,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-06-03T22:23:15Z",
+      "updated_at": "2026-06-03T22:23:19Z"
     }
   ]
 }
