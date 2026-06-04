@@ -5,117 +5,139 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 824,
+  "total_found": 828,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 179485,
-      "forks": 30748,
-      "language": "Python",
-      "pushed_at": "2026-06-04T04:07:29Z",
-      "updated_at": "2026-06-04T04:37:25Z"
-    },
-    {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 45048,
-      "forks": 10169,
-      "language": "Python",
-      "pushed_at": "2026-06-04T03:51:09Z",
-      "updated_at": "2026-06-04T04:34:39Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 46862,
+      "forks": 4451,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-04T11:11:43Z",
+      "updated_at": "2026-06-04T11:15:41Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 40432,
-      "forks": 38765,
+      "stars": 40578,
+      "forks": 38850,
       "language": "Python",
-      "pushed_at": "2026-06-04T04:37:48Z",
-      "updated_at": "2026-06-04T04:37:56Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 31935,
-      "forks": 4121,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-04T04:29:15Z",
-      "updated_at": "2026-06-04T04:02:18Z"
+      "pushed_at": "2026-06-04T11:17:36Z",
+      "updated_at": "2026-06-04T11:18:08Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 27532,
-      "forks": 2654,
+      "stars": 27559,
+      "forks": 2659,
       "language": "TypeScript",
-      "pushed_at": "2026-06-04T04:11:34Z",
-      "updated_at": "2026-06-04T04:11:37Z"
+      "pushed_at": "2026-06-04T11:13:57Z",
+      "updated_at": "2026-06-04T10:56:06Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 17604,
-      "forks": 1125,
-      "language": "HTML",
-      "pushed_at": "2026-06-04T04:02:26Z",
-      "updated_at": "2026-06-04T04:23:12Z"
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+      "stars": 23487,
+      "forks": 2358,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-04T10:33:36Z",
+      "updated_at": "2026-06-04T11:13:51Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 17561,
-      "forks": 1042,
-      "language": "Go",
-      "pushed_at": "2026-06-04T04:34:03Z",
-      "updated_at": "2026-06-04T04:37:49Z"
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22561,
+      "forks": 3744,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-04T11:15:07Z",
+      "updated_at": "2026-06-04T10:58:41Z"
     },
     {
-      "id": 1118085970,
-      "full_name": "alibaba/OpenSandbox",
-      "html_url": "https://github.com/alibaba/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 11210,
-      "forks": 912,
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 10491,
+      "forks": 2052,
       "language": "Python",
-      "pushed_at": "2026-06-04T03:58:51Z",
-      "updated_at": "2026-06-04T04:35:05Z"
+      "pushed_at": "2026-06-04T10:42:26Z",
+      "updated_at": "2026-06-04T11:16:45Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 10342,
-      "forks": 861,
+      "stars": 10437,
+      "forks": 872,
       "language": "TypeScript",
-      "pushed_at": "2026-06-04T04:16:30Z",
-      "updated_at": "2026-06-04T04:29:41Z"
+      "pushed_at": "2026-06-04T11:18:27Z",
+      "updated_at": "2026-06-04T11:11:11Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 7209,
-      "forks": 899,
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 7847,
+      "forks": 1238,
       "language": "TypeScript",
-      "pushed_at": "2026-06-04T04:08:33Z",
-      "updated_at": "2026-06-04T04:31:06Z"
+      "pushed_at": "2026-06-04T10:35:15Z",
+      "updated_at": "2026-06-04T11:09:16Z"
+    },
+    {
+      "id": 810121174,
+      "full_name": "LazyAGI/LazyLLM",
+      "html_url": "https://github.com/LazyAGI/LazyLLM",
+      "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
+      "stars": 3838,
+      "forks": 389,
+      "language": "Python",
+      "pushed_at": "2026-06-04T10:36:08Z",
+      "updated_at": "2026-06-04T10:36:13Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3195,
+      "forks": 211,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-04T11:07:11Z",
+      "updated_at": "2026-06-04T11:03:31Z"
+    },
+    {
+      "id": 1111937658,
+      "full_name": "boxlite-ai/boxlite",
+      "html_url": "https://github.com/boxlite-ai/boxlite",
+      "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
+      "stars": 2107,
+      "forks": 132,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-04T10:57:48Z",
+      "updated_at": "2026-06-04T10:57:53Z"
+    },
+    {
+      "id": 901554449,
+      "full_name": "stakpak/agent",
+      "html_url": "https://github.com/stakpak/agent",
+      "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀",
+      "stars": 1581,
+      "forks": 154,
+      "language": "Rust",
+      "pushed_at": "2026-06-04T11:07:29Z",
+      "updated_at": "2026-06-04T10:35:09Z"
     },
     {
       "id": 1096175506,
@@ -125,8 +147,8 @@
       "stars": 1117,
       "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-06-04T04:38:32Z",
-      "updated_at": "2026-06-04T04:38:35Z"
+      "pushed_at": "2026-06-04T11:18:12Z",
+      "updated_at": "2026-06-04T11:15:18Z"
     },
     {
       "id": 1215501706,
@@ -136,8 +158,8 @@
       "stars": 1072,
       "forks": 152,
       "language": "Rust",
-      "pushed_at": "2026-06-04T04:29:34Z",
-      "updated_at": "2026-06-04T04:30:08Z"
+      "pushed_at": "2026-06-04T11:14:34Z",
+      "updated_at": "2026-06-04T11:14:38Z"
     },
     {
       "id": 1156882085,
@@ -147,30 +169,8 @@
       "stars": 365,
       "forks": 56,
       "language": "Python",
-      "pushed_at": "2026-06-04T04:20:28Z",
-      "updated_at": "2026-06-04T04:10:28Z"
-    },
-    {
-      "id": 1166517776,
-      "full_name": "huisezhiyin/sdd-riper",
-      "html_url": "https://github.com/huisezhiyin/sdd-riper",
-      "description": "Lightweight AI Agent Harness for agentic coding: let strong models explore while humans steer with minimal specs, checkpoints, approval, validation, and reverse sync.",
-      "stars": 248,
-      "forks": 54,
-      "language": "Python",
-      "pushed_at": "2026-06-04T04:33:23Z",
-      "updated_at": "2026-06-04T04:33:28Z"
-    },
-    {
-      "id": 1206100170,
-      "full_name": "SudoJacky/tinybot",
-      "html_url": "https://github.com/SudoJacky/tinybot",
-      "description": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-      "stars": 247,
-      "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-06-04T04:05:16Z",
-      "updated_at": "2026-06-04T04:05:21Z"
+      "pushed_at": "2026-06-04T11:12:41Z",
+      "updated_at": "2026-06-04T11:12:44Z"
     }
   ]
 }
