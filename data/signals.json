@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 839,
+  "total_found": 840,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 182336,
-      "forks": 31270,
+      "stars": 182660,
+      "forks": 31317,
       "language": "Python",
-      "pushed_at": "2026-06-05T15:13:11Z",
-      "updated_at": "2026-06-05T15:13:59Z"
+      "pushed_at": "2026-06-05T17:44:47Z",
+      "updated_at": "2026-06-05T17:58:41Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46925,
-      "forks": 4456,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-05T15:04:11Z",
-      "updated_at": "2026-06-05T15:04:54Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 40938,
-      "forks": 39084,
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 43729,
+      "forks": 7734,
       "language": "Python",
-      "pushed_at": "2026-06-05T14:55:34Z",
-      "updated_at": "2026-06-05T14:59:26Z"
+      "pushed_at": "2026-06-05T17:13:19Z",
+      "updated_at": "2026-06-05T17:38:14Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
-      "stars": 32443,
-      "forks": 4178,
+      "stars": 32515,
+      "forks": 4181,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T14:47:46Z",
-      "updated_at": "2026-06-05T15:13:37Z"
+      "pushed_at": "2026-06-05T17:56:19Z",
+      "updated_at": "2026-06-05T17:57:37Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 10679,
-      "forks": 896,
+      "id": 169975410,
+      "full_name": "leon-ai/leon",
+      "html_url": "https://github.com/leon-ai/leon",
+      "description": "🧠 Leon is your open-source personal assistant.",
+      "stars": 17289,
+      "forks": 1449,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T14:49:57Z",
-      "updated_at": "2026-06-05T15:00:10Z"
+      "pushed_at": "2026-06-05T17:57:13Z",
+      "updated_at": "2026-06-05T17:57:18Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12484,
+      "forks": 930,
+      "language": "Python",
+      "pushed_at": "2026-06-05T17:58:53Z",
+      "updated_at": "2026-06-05T17:50:18Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4437,
+      "forks": 441,
+      "language": "Python",
+      "pushed_at": "2026-06-05T17:52:00Z",
+      "updated_at": "2026-06-05T17:23:33Z"
     },
     {
       "id": 220867748,
@@ -70,96 +81,74 @@
       "stars": 3199,
       "forks": 211,
       "language": "JavaScript",
-      "pushed_at": "2026-06-05T14:46:29Z",
-      "updated_at": "2026-06-05T14:46:45Z"
+      "pushed_at": "2026-06-05T17:40:03Z",
+      "updated_at": "2026-06-05T17:41:50Z"
     },
     {
-      "id": 1003614809,
-      "full_name": "kite-org/kite",
-      "html_url": "https://github.com/kite-org/kite",
-      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
-      "stars": 2747,
-      "forks": 249,
+      "id": 991092853,
+      "full_name": "RedPlanetHQ/core",
+      "html_url": "https://github.com/RedPlanetHQ/core",
+      "description": "Your Personal AI OS",
+      "stars": 1623,
+      "forks": 148,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T14:59:29Z",
-      "updated_at": "2026-06-05T14:59:35Z"
-    },
-    {
-      "id": 997136302,
-      "full_name": "UnicomAI/wanwu",
-      "html_url": "https://github.com/UnicomAI/wanwu",
-      "description": "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.",
-      "stars": 2524,
-      "forks": 108,
-      "language": "Go",
-      "pushed_at": "2026-06-05T14:46:34Z",
-      "updated_at": "2026-06-05T14:46:50Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-      "stars": 2299,
-      "forks": 161,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-05T15:12:34Z",
-      "updated_at": "2026-06-05T15:13:48Z"
-    },
-    {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1618,
-      "forks": 170,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-05T15:02:37Z",
-      "updated_at": "2026-06-05T15:02:44Z"
+      "pushed_at": "2026-06-05T17:23:03Z",
+      "updated_at": "2026-06-05T17:22:35Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1121,
+      "stars": 1122,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T15:12:21Z",
-      "updated_at": "2026-06-05T15:08:56Z"
+      "pushed_at": "2026-06-05T17:57:33Z",
+      "updated_at": "2026-06-05T17:47:56Z"
     },
     {
-      "id": 919458554,
-      "full_name": "wanxingai/LightAgent",
-      "html_url": "https://github.com/wanxingai/LightAgent",
-      "description": "LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
-      "stars": 1077,
-      "forks": 141,
-      "language": "Python",
-      "pushed_at": "2026-06-05T15:00:09Z",
-      "updated_at": "2026-06-05T15:00:21Z"
-    },
-    {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
-      "stars": 621,
-      "forks": 47,
-      "language": "Python",
-      "pushed_at": "2026-06-05T15:10:18Z",
-      "updated_at": "2026-06-05T15:10:22Z"
-    },
-    {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 302,
-      "forks": 57,
+      "id": 1234904564,
+      "full_name": "Kaelio/ktx",
+      "html_url": "https://github.com/Kaelio/ktx",
+      "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, and any AI agent to query data accurately through MCP with skills, memory and a semantic layer",
+      "stars": 897,
+      "forks": 46,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T14:27:47Z",
-      "updated_at": "2026-06-05T14:58:27Z"
+      "pushed_at": "2026-06-05T17:36:24Z",
+      "updated_at": "2026-06-05T17:53:39Z"
+    },
+    {
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 403,
+      "forks": 94,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-05T17:52:28Z",
+      "updated_at": "2026-06-05T17:52:30Z"
+    },
+    {
+      "id": 1164646909,
+      "full_name": "jazzenchen/VibeAround",
+      "html_url": "https://github.com/jazzenchen/VibeAround",
+      "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
+      "stars": 366,
+      "forks": 41,
+      "language": "Rust",
+      "pushed_at": "2026-06-05T17:52:39Z",
+      "updated_at": "2026-06-05T17:52:49Z"
+    },
+    {
+      "id": 1245256564,
+      "full_name": "Eynzof/hermes-agent-cn-desktop",
+      "html_url": "https://github.com/Eynzof/hermes-agent-cn-desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 243,
+      "forks": 15,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-05T17:38:18Z",
+      "updated_at": "2026-06-05T17:38:21Z"
     },
     {
       "id": 1242620513,
@@ -169,8 +158,19 @@
       "stars": 164,
       "forks": 9,
       "language": "Python",
-      "pushed_at": "2026-06-05T14:37:59Z",
-      "updated_at": "2026-06-05T14:38:31Z"
+      "pushed_at": "2026-06-05T17:51:45Z",
+      "updated_at": "2026-06-05T17:51:49Z"
+    },
+    {
+      "id": 1246535785,
+      "full_name": "Shiyao-Huang/awesome-agent-evolution",
+      "html_url": "https://github.com/Shiyao-Huang/awesome-agent-evolution",
+      "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and agent-swarm systems.",
+      "stars": 136,
+      "forks": 6,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-05T17:50:16Z",
+      "updated_at": "2026-06-05T17:50:21Z"
     }
   ]
 }
