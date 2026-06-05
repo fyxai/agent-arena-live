@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 833,
+  "total_found": 837,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 181279,
-      "forks": 31104,
+      "stars": 181864,
+      "forks": 31205,
       "language": "Python",
-      "pushed_at": "2026-06-05T04:00:22Z",
-      "updated_at": "2026-06-05T04:12:20Z"
+      "pushed_at": "2026-06-05T11:22:05Z",
+      "updated_at": "2026-06-05T11:29:05Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46888,
-      "forks": 4453,
+      "stars": 46918,
+      "forks": 4456,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T04:11:30Z",
-      "updated_at": "2026-06-05T03:58:45Z"
+      "pushed_at": "2026-06-05T11:28:23Z",
+      "updated_at": "2026-06-05T11:28:26Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 43690,
-      "forks": 7733,
+      "stars": 43717,
+      "forks": 7734,
       "language": "Python",
-      "pushed_at": "2026-06-05T03:42:19Z",
-      "updated_at": "2026-06-05T03:56:00Z"
+      "pushed_at": "2026-06-05T10:56:07Z",
+      "updated_at": "2026-06-05T11:24:53Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22649,
-      "forks": 2640,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+      "stars": 32320,
+      "forks": 4169,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T03:29:47Z",
-      "updated_at": "2026-06-05T03:41:43Z"
+      "pushed_at": "2026-06-05T11:04:20Z",
+      "updated_at": "2026-06-05T11:31:24Z"
+    },
+    {
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 28363,
+      "forks": 8689,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-05T11:31:37Z",
+      "updated_at": "2026-06-05T11:31:19Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+      "stars": 23562,
+      "forks": 2369,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-05T11:20:13Z",
+      "updated_at": "2026-06-05T11:20:14Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 18135,
-      "forks": 1077,
+      "stars": 18335,
+      "forks": 1090,
       "language": "Go",
-      "pushed_at": "2026-06-05T04:08:35Z",
-      "updated_at": "2026-06-05T04:12:07Z"
+      "pushed_at": "2026-06-05T11:13:12Z",
+      "updated_at": "2026-06-05T11:31:40Z"
+    },
+    {
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 12583,
+      "forks": 1456,
+      "language": "Python",
+      "pushed_at": "2026-06-05T10:44:01Z",
+      "updated_at": "2026-06-05T10:44:05Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12482,
+      "forks": 930,
+      "language": "Python",
+      "pushed_at": "2026-06-05T10:40:54Z",
+      "updated_at": "2026-06-05T10:40:57Z"
+    },
+    {
+      "id": 1118085970,
+      "full_name": "opensandbox-group/OpenSandbox",
+      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 11302,
+      "forks": 920,
+      "language": "Python",
+      "pushed_at": "2026-06-05T11:12:33Z",
+      "updated_at": "2026-06-05T11:13:00Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 10593,
-      "forks": 885,
+      "stars": 10655,
+      "forks": 892,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T03:47:59Z",
-      "updated_at": "2026-06-05T04:00:08Z"
+      "pushed_at": "2026-06-05T11:27:47Z",
+      "updated_at": "2026-06-05T11:27:51Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 7303,
-      "forks": 914,
+      "stars": 7339,
+      "forks": 919,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T04:05:01Z",
-      "updated_at": "2026-06-05T04:06:59Z"
+      "pushed_at": "2026-06-05T11:00:56Z",
+      "updated_at": "2026-06-05T11:06:19Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2617,
-      "forks": 308,
+      "id": 1155091202,
+      "full_name": "KimYx0207/AI-Coding-Guide-Zh",
+      "html_url": "https://github.com/KimYx0207/AI-Coding-Guide-Zh",
+      "description": "Claude Code + OpenClaw + Codex 中文教程 | 39篇完整教程 + 1张速查卡 | 80万+内容量 | 1500+实操示例 | AI Coding / Agent 三线学习路径",
+      "stars": 4410,
+      "forks": 832,
+      "language": "Unknown",
+      "pushed_at": "2026-06-05T11:09:50Z",
+      "updated_at": "2026-06-05T11:22:25Z"
+    },
+    {
+      "id": 997136302,
+      "full_name": "UnicomAI/wanwu",
+      "html_url": "https://github.com/UnicomAI/wanwu",
+      "description": "China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.",
+      "stars": 2524,
+      "forks": 108,
       "language": "Go",
-      "pushed_at": "2026-06-05T03:27:19Z",
-      "updated_at": "2026-06-05T03:38:50Z"
-    },
-    {
-      "id": 1111937658,
-      "full_name": "boxlite-ai/boxlite",
-      "html_url": "https://github.com/boxlite-ai/boxlite",
-      "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
-      "stars": 2108,
-      "forks": 132,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-05T03:49:49Z",
-      "updated_at": "2026-06-05T03:49:50Z"
+      "pushed_at": "2026-06-05T11:13:10Z",
+      "updated_at": "2026-06-05T11:10:02Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1120,
+      "stars": 1121,
       "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-06-05T04:11:00Z",
-      "updated_at": "2026-06-05T04:05:30Z"
-    },
-    {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-      "stars": 1076,
-      "forks": 152,
-      "language": "Rust",
-      "pushed_at": "2026-06-05T04:05:03Z",
-      "updated_at": "2026-06-05T04:05:05Z"
-    },
-    {
-      "id": 1172782796,
-      "full_name": "AI-Shell-Team/aish",
-      "html_url": "https://github.com/AI-Shell-Team/aish",
-      "description": "Empower the Shell to think. Evolve Operations. ",
-      "stars": 456,
-      "forks": 85,
-      "language": "Rust",
-      "pushed_at": "2026-06-05T03:40:27Z",
-      "updated_at": "2026-06-05T03:40:32Z"
-    },
-    {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability for 12 AI agent runtimes — OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 366,
-      "forks": 56,
-      "language": "Python",
-      "pushed_at": "2026-06-05T04:09:43Z",
-      "updated_at": "2026-06-05T04:09:46Z"
-    },
-    {
-      "id": 1206100170,
-      "full_name": "SudoJacky/tinybot",
-      "html_url": "https://github.com/SudoJacky/tinybot",
-      "description": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-      "stars": 246,
-      "forks": 36,
-      "language": "Python",
-      "pushed_at": "2026-06-05T03:27:20Z",
-      "updated_at": "2026-06-05T03:27:22Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 132,
-      "forks": 19,
-      "language": "Python",
-      "pushed_at": "2026-06-05T03:59:05Z",
-      "updated_at": "2026-06-05T03:59:08Z"
+      "pushed_at": "2026-06-05T11:26:06Z",
+      "updated_at": "2026-06-05T11:20:19Z"
     }
   ]
 }
