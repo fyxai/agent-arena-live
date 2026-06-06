@@ -12,77 +12,110 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 183395,
-      "forks": 31453,
+      "stars": 183686,
+      "forks": 31495,
       "language": "Python",
-      "pushed_at": "2026-06-06T03:47:18Z",
-      "updated_at": "2026-06-06T03:55:39Z"
+      "pushed_at": "2026-06-06T06:35:38Z",
+      "updated_at": "2026-06-06T06:56:46Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46940,
+      "stars": 46950,
       "forks": 4457,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T03:49:49Z",
-      "updated_at": "2026-06-06T03:52:56Z"
+      "pushed_at": "2026-06-06T06:56:28Z",
+      "updated_at": "2026-06-06T06:52:05Z"
     },
     {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 40976,
-      "forks": 39138,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 27672,
+      "forks": 2670,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T06:49:36Z",
+      "updated_at": "2026-06-06T06:52:29Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 18599,
+      "forks": 1103,
+      "language": "Go",
+      "pushed_at": "2026-06-06T06:56:29Z",
+      "updated_at": "2026-06-06T06:56:21Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12486,
+      "forks": 930,
       "language": "Python",
-      "pushed_at": "2026-06-06T03:37:23Z",
-      "updated_at": "2026-06-06T03:54:12Z"
+      "pushed_at": "2026-06-06T06:44:17Z",
+      "updated_at": "2026-06-06T06:44:21Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 10777,
+      "forks": 903,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T06:38:39Z",
+      "updated_at": "2026-06-06T06:46:54Z"
+    },
+    {
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 7940,
+      "forks": 1243,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T06:50:39Z",
+      "updated_at": "2026-06-06T06:50:43Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-web-ui",
       "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 7376,
-      "forks": 921,
+      "stars": 7386,
+      "forks": 922,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T03:49:21Z",
-      "updated_at": "2026-06-06T03:35:30Z"
+      "pushed_at": "2026-06-06T06:18:07Z",
+      "updated_at": "2026-06-06T06:47:38Z"
     },
     {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 3868,
-      "forks": 410,
-      "language": "Unknown",
-      "pushed_at": "2026-06-06T03:19:07Z",
-      "updated_at": "2026-06-06T03:27:27Z"
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 3796,
+      "forks": 475,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-06T06:10:48Z",
+      "updated_at": "2026-06-06T06:34:33Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2491,
-      "forks": 543,
-      "language": "Python",
-      "pushed_at": "2026-06-06T02:52:17Z",
-      "updated_at": "2026-06-06T03:30:49Z"
-    },
-    {
-      "id": 1141706975,
-      "full_name": "yohey-w/multi-agent-shogun",
-      "html_url": "https://github.com/yohey-w/multi-agent-shogun",
-      "description": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
-      "stars": 1328,
-      "forks": 277,
-      "language": "Shell",
-      "pushed_at": "2026-06-06T03:34:01Z",
-      "updated_at": "2026-06-06T03:34:05Z"
+      "id": 1218208502,
+      "full_name": "worldwonderer/oh-story-claudecode",
+      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+      "stars": 2009,
+      "forks": 383,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-06T06:25:51Z",
+      "updated_at": "2026-06-06T06:25:54Z"
     },
     {
       "id": 1096175506,
@@ -92,19 +125,8 @@
       "stars": 1122,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T03:53:31Z",
-      "updated_at": "2026-06-06T03:12:08Z"
-    },
-    {
-      "id": 1201960789,
-      "full_name": "mm7894215/TokenTracker",
-      "html_url": "https://github.com/mm7894215/TokenTracker",
-      "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
-      "stars": 653,
-      "forks": 68,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T02:52:13Z",
-      "updated_at": "2026-06-06T02:52:17Z"
+      "pushed_at": "2026-06-06T06:51:41Z",
+      "updated_at": "2026-06-06T06:51:44Z"
     },
     {
       "id": 1188475888,
@@ -114,19 +136,8 @@
       "stars": 635,
       "forks": 45,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T03:32:37Z",
-      "updated_at": "2026-06-06T03:32:40Z"
-    },
-    {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 459,
-      "forks": 93,
-      "language": "Python",
-      "pushed_at": "2026-06-06T02:52:15Z",
-      "updated_at": "2026-06-06T02:52:19Z"
+      "pushed_at": "2026-06-06T06:32:40Z",
+      "updated_at": "2026-06-06T06:32:44Z"
     },
     {
       "id": 1156882085,
@@ -136,41 +147,30 @@
       "stars": 367,
       "forks": 57,
       "language": "Python",
-      "pushed_at": "2026-06-06T03:12:13Z",
-      "updated_at": "2026-06-06T03:12:16Z"
+      "pushed_at": "2026-06-06T06:20:37Z",
+      "updated_at": "2026-06-06T06:20:39Z"
     },
     {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 222,
-      "forks": 13,
+      "id": 1245256564,
+      "full_name": "Eynzof/Hermes-CN-Desktop",
+      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 243,
+      "forks": 15,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T03:55:16Z",
-      "updated_at": "2026-06-06T03:55:19Z"
+      "pushed_at": "2026-06-06T06:38:19Z",
+      "updated_at": "2026-06-06T06:38:20Z"
     },
     {
-      "id": 1157740258,
-      "full_name": "agenticmail/agenticmail",
-      "html_url": "https://github.com/agenticmail/agenticmail",
-      "description": "Email, SMS & phone-call infrastructure for AI agents — send and receive real email and text messages, and place agent-driven outbound voice calls, all programmatically",
-      "stars": 140,
-      "forks": 26,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T03:24:37Z",
-      "updated_at": "2026-06-06T03:24:39Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 137,
-      "forks": 19,
+      "id": 1172826668,
+      "full_name": "Genesis1231/Eva01",
+      "html_url": "https://github.com/Genesis1231/Eva01",
+      "description": "Eva01 is NOT an assistant. She is an AI being with her own mind, feelings, and intrinsic drives. Supports both terminal and API, Multimodal, Modular design. Built-in voice & face recognition. Plug'n play tools. Compatible with ChatGPT, Claude, Deepseek, Gemini, Grok, and Ollama. Explore the possibilities of Human-AI Interaction.",
+      "stars": 207,
+      "forks": 7,
       "language": "Python",
-      "pushed_at": "2026-06-06T03:10:29Z",
-      "updated_at": "2026-06-06T03:10:33Z"
+      "pushed_at": "2026-06-06T06:42:29Z",
+      "updated_at": "2026-06-06T06:42:33Z"
     }
   ]
 }
