@@ -5,95 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 840,
+  "total_found": 841,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 46963,
-      "forks": 4457,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:43:50Z",
-      "updated_at": "2026-06-06T13:53:03Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 41035,
-      "forks": 39204,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 184522,
+      "forks": 31652,
       "language": "Python",
-      "pushed_at": "2026-06-06T13:45:20Z",
-      "updated_at": "2026-06-06T13:45:28Z"
+      "pushed_at": "2026-06-06T17:00:09Z",
+      "updated_at": "2026-06-06T17:17:37Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 23639,
-      "forks": 2372,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T13:18:45Z",
-      "updated_at": "2026-06-06T13:53:25Z"
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 33066,
+      "forks": 4224,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T17:10:01Z",
+      "updated_at": "2026-06-06T17:18:45Z"
+    },
+    {
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 27706,
+      "forks": 2675,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-06T16:49:59Z",
+      "updated_at": "2026-06-06T17:18:18Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 18723,
-      "forks": 1112,
+      "stars": 18795,
+      "forks": 1122,
       "language": "Go",
-      "pushed_at": "2026-06-06T13:27:56Z",
-      "updated_at": "2026-06-06T13:53:16Z"
+      "pushed_at": "2026-06-06T17:15:28Z",
+      "updated_at": "2026-06-06T17:12:19Z"
     },
     {
-      "id": 169975410,
-      "full_name": "leon-ai/leon",
-      "html_url": "https://github.com/leon-ai/leon",
-      "description": "🧠 Leon is your open-source personal assistant.",
-      "stars": 17292,
-      "forks": 1449,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:35:24Z",
-      "updated_at": "2026-06-06T13:36:09Z"
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 10966,
+      "forks": 2144,
+      "language": "Python",
+      "pushed_at": "2026-06-06T17:08:55Z",
+      "updated_at": "2026-06-06T17:09:01Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 10818,
-      "forks": 913,
+      "stars": 10853,
+      "forks": 917,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:21:06Z",
-      "updated_at": "2026-06-06T13:31:46Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 7411,
-      "forks": 925,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:44:20Z",
-      "updated_at": "2026-06-06T13:50:42Z"
-    },
-    {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 3372,
-      "forks": 222,
-      "language": "Python",
-      "pushed_at": "2026-06-06T13:53:15Z",
-      "updated_at": "2026-06-06T13:53:19Z"
+      "pushed_at": "2026-06-06T17:10:33Z",
+      "updated_at": "2026-06-06T17:18:19Z"
     },
     {
       "id": 220867748,
@@ -103,8 +81,8 @@
       "stars": 3199,
       "forks": 211,
       "language": "JavaScript",
-      "pushed_at": "2026-06-06T13:42:42Z",
-      "updated_at": "2026-06-06T13:42:40Z"
+      "pushed_at": "2026-06-06T17:11:27Z",
+      "updated_at": "2026-06-06T17:01:20Z"
     },
     {
       "id": 1096175506,
@@ -114,41 +92,30 @@
       "stars": 1121,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:51:22Z",
-      "updated_at": "2026-06-06T13:20:17Z"
+      "pushed_at": "2026-06-06T17:13:50Z",
+      "updated_at": "2026-06-06T17:13:53Z"
     },
     {
-      "id": 1145881485,
-      "full_name": "Arvincreator/project-golem",
-      "html_url": "https://github.com/Arvincreator/project-golem",
-      "description": "OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core",
-      "stars": 621,
-      "forks": 102,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-06T13:42:07Z",
-      "updated_at": "2026-06-06T13:42:12Z"
-    },
-    {
-      "id": 1132275655,
-      "full_name": "cordum-io/cordum",
-      "html_url": "https://github.com/cordum-io/cordum",
-      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
-      "stars": 485,
-      "forks": 29,
+      "id": 1225427533,
+      "full_name": "regent-vcs/re_gent",
+      "html_url": "https://github.com/regent-vcs/re_gent",
+      "description": "Version-Control for AI coding agents.",
+      "stars": 669,
+      "forks": 46,
       "language": "Go",
-      "pushed_at": "2026-06-06T13:42:58Z",
-      "updated_at": "2026-06-06T13:41:45Z"
+      "pushed_at": "2026-06-06T17:14:47Z",
+      "updated_at": "2026-06-06T17:14:51Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 405,
-      "forks": 94,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:36:48Z",
-      "updated_at": "2026-06-06T13:31:44Z"
+      "id": 1086124473,
+      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 455,
+      "forks": 45,
+      "language": "Unknown",
+      "pushed_at": "2026-06-06T16:59:42Z",
+      "updated_at": "2026-06-06T16:59:45Z"
     },
     {
       "id": 1156882085,
@@ -158,19 +125,52 @@
       "stars": 367,
       "forks": 57,
       "language": "Python",
-      "pushed_at": "2026-06-06T13:04:48Z",
-      "updated_at": "2026-06-06T13:04:52Z"
+      "pushed_at": "2026-06-06T17:09:47Z",
+      "updated_at": "2026-06-06T17:09:50Z"
     },
     {
-      "id": 1161723599,
-      "full_name": "AmrDab/clawdcursor",
-      "html_url": "https://github.com/AmrDab/clawdcursor",
-      "description": "MCP-powered fallback layer that lets AI agents execute tasks through the GUI when APIs, tools, or direct integrations are unavailable. Cross-OS, accessibility-first, local-only.",
-      "stars": 338,
-      "forks": 51,
+      "id": 1245256564,
+      "full_name": "Eynzof/Hermes-CN-Desktop",
+      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 248,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-06-06T13:11:43Z",
-      "updated_at": "2026-06-06T13:11:46Z"
+      "pushed_at": "2026-06-06T17:18:18Z",
+      "updated_at": "2026-06-06T17:18:21Z"
+    },
+    {
+      "id": 1242620513,
+      "full_name": "Patdolitse/piia-engram",
+      "html_url": "https://github.com/Patdolitse/piia-engram",
+      "description": "One memory. Every AI tool. Yours to keep. Local-first, MCP-compatible, Apache 2.0.",
+      "stars": 164,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-06-06T17:07:48Z",
+      "updated_at": "2026-06-06T17:07:51Z"
+    },
+    {
+      "id": 1174756063,
+      "full_name": "bitrouter/bitrouter",
+      "html_url": "https://github.com/bitrouter/bitrouter",
+      "description": "Agent-native LLM router that optimizes your agent with every run. Zero harness changes — every model call reliable, traceable, secure, and cost-effective. ",
+      "stars": 160,
+      "forks": 5,
+      "language": "Rust",
+      "pushed_at": "2026-06-06T17:14:57Z",
+      "updated_at": "2026-06-06T17:15:01Z"
+    },
+    {
+      "id": 1189562423,
+      "full_name": "iPythoning/b2b-sdr-agent-template",
+      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
+      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
+      "stars": 112,
+      "forks": 40,
+      "language": "Shell",
+      "pushed_at": "2026-06-06T17:04:23Z",
+      "updated_at": "2026-06-06T17:04:27Z"
     }
   ]
 }
