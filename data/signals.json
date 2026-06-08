@@ -5,73 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 861,
+  "total_found": 860,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 187148,
-      "forks": 32226,
+      "stars": 187290,
+      "forks": 32259,
       "language": "Python",
-      "pushed_at": "2026-06-08T18:27:44Z",
-      "updated_at": "2026-06-08T18:25:34Z"
+      "pushed_at": "2026-06-08T21:48:59Z",
+      "updated_at": "2026-06-08T21:52:28Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47068,
+      "stars": 47071,
       "forks": 4465,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T17:55:17Z",
-      "updated_at": "2026-06-08T18:26:43Z"
+      "pushed_at": "2026-06-08T20:49:43Z",
+      "updated_at": "2026-06-08T21:18:19Z"
+    },
+    {
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 43877,
+      "forks": 7764,
+      "language": "Python",
+      "pushed_at": "2026-06-08T21:33:18Z",
+      "updated_at": "2026-06-08T21:33:24Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34028,
-      "forks": 4296,
+      "stars": 34088,
+      "forks": 4303,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:26:33Z",
-      "updated_at": "2026-06-08T18:26:37Z"
+      "pushed_at": "2026-06-08T21:34:10Z",
+      "updated_at": "2026-06-08T21:52:43Z"
+    },
+    {
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 28487,
+      "forks": 8716,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T21:52:36Z",
+      "updated_at": "2026-06-08T21:52:41Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22640,
+      "stars": 22644,
       "forks": 3770,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:23:30Z",
-      "updated_at": "2026-06-08T18:20:22Z"
+      "pushed_at": "2026-06-08T21:46:12Z",
+      "updated_at": "2026-06-08T21:08:27Z"
     },
     {
-      "id": 609539715,
-      "full_name": "e2b-dev/E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 12514,
-      "forks": 935,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 11274,
+      "forks": 953,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T20:52:51Z",
+      "updated_at": "2026-06-08T21:52:52Z"
+    },
+    {
+      "id": 949646929,
+      "full_name": "GetBindu/Bindu",
+      "html_url": "https://github.com/GetBindu/Bindu",
+      "description": "Bindu: The identity, communication, and payments layer for AI agents.",
+      "stars": 6909,
+      "forks": 391,
       "language": "Python",
-      "pushed_at": "2026-06-08T18:24:37Z",
-      "updated_at": "2026-06-08T18:21:44Z"
+      "pushed_at": "2026-06-08T20:38:31Z",
+      "updated_at": "2026-06-08T21:27:31Z"
     },
     {
-      "id": 1045721921,
-      "full_name": "frankbria/ralph-claude-code",
-      "html_url": "https://github.com/frankbria/ralph-claude-code",
-      "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-      "stars": 9275,
-      "forks": 705,
-      "language": "Shell",
-      "pushed_at": "2026-06-08T17:56:27Z",
-      "updated_at": "2026-06-08T17:56:30Z"
+      "id": 1145977416,
+      "full_name": "1186258278/OpenClawChineseTranslation",
+      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
+      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
+      "stars": 3803,
+      "forks": 476,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-08T21:29:50Z",
+      "updated_at": "2026-06-08T21:36:41Z"
     },
     {
       "id": 220867748,
@@ -81,52 +114,52 @@
       "stars": 3199,
       "forks": 211,
       "language": "JavaScript",
-      "pushed_at": "2026-06-08T18:15:32Z",
-      "updated_at": "2026-06-08T18:15:35Z"
-    },
-    {
-      "id": 991092853,
-      "full_name": "RedPlanetHQ/core",
-      "html_url": "https://github.com/RedPlanetHQ/core",
-      "description": "Your Personal AI OS",
-      "stars": 1630,
-      "forks": 148,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:18:36Z",
-      "updated_at": "2026-06-08T18:14:00Z"
+      "pushed_at": "2026-06-08T21:36:29Z",
+      "updated_at": "2026-06-08T21:09:04Z"
     },
     {
       "id": 1051086270,
       "full_name": "inkeep/agents",
       "html_url": "https://github.com/inkeep/agents",
       "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1186,
+      "stars": 1189,
       "forks": 143,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:22:17Z",
-      "updated_at": "2026-06-08T18:22:20Z"
+      "pushed_at": "2026-06-08T20:40:04Z",
+      "updated_at": "2026-06-08T20:57:36Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 722,
-      "forks": 68,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:11:02Z",
-      "updated_at": "2026-06-08T18:11:07Z"
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 665,
+      "forks": 46,
+      "language": "Python",
+      "pushed_at": "2026-06-08T20:19:32Z",
+      "updated_at": "2026-06-08T20:19:09Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
-      "stars": 473,
-      "forks": 39,
-      "language": "Go",
-      "pushed_at": "2026-06-08T18:18:51Z",
-      "updated_at": "2026-06-08T18:18:53Z"
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 627,
+      "forks": 47,
+      "language": "Python",
+      "pushed_at": "2026-06-08T21:02:18Z",
+      "updated_at": "2026-06-08T21:02:19Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes — OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 369,
+      "forks": 57,
+      "language": "Python",
+      "pushed_at": "2026-06-08T21:43:56Z",
+      "updated_at": "2026-06-08T21:21:38Z"
     },
     {
       "id": 1194576770,
@@ -136,41 +169,8 @@
       "stars": 344,
       "forks": 67,
       "language": "Python",
-      "pushed_at": "2026-06-08T18:24:26Z",
-      "updated_at": "2026-06-08T18:23:41Z"
-    },
-    {
-      "id": 1230293192,
-      "full_name": "Lilac-Labs/gini-agent",
-      "html_url": "https://github.com/Lilac-Labs/gini-agent",
-      "description": "The agent that remembers and learns.",
-      "stars": 209,
-      "forks": 45,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T18:12:38Z",
-      "updated_at": "2026-06-08T18:12:41Z"
-    },
-    {
-      "id": 1172826668,
-      "full_name": "Genesis1231/Eva01",
-      "html_url": "https://github.com/Genesis1231/Eva01",
-      "description": "Eva01 is NOT an assistant. She is an AI being with her own mind, feelings, and intrinsic drives. Multimodal, Modular design. Built-in voice & face recognition. Plug'n play tools. Compatible with ChatGPT, Claude, Deepseek, Gemini, Grok, and Ollama. Explore the possibilities of Human-AI Interaction.",
-      "stars": 201,
-      "forks": 7,
-      "language": "Python",
-      "pushed_at": "2026-06-08T17:59:57Z",
-      "updated_at": "2026-06-08T18:00:02Z"
-    },
-    {
-      "id": 1174756063,
-      "full_name": "bitrouter/bitrouter",
-      "html_url": "https://github.com/bitrouter/bitrouter",
-      "description": "Agent-native LLM router that optimizes your agent with every run. Zero harness changes — every model call reliable, traceable, secure, and cost-effective. ",
-      "stars": 169,
-      "forks": 6,
-      "language": "Rust",
-      "pushed_at": "2026-06-08T18:24:25Z",
-      "updated_at": "2026-06-08T18:20:31Z"
+      "pushed_at": "2026-06-08T21:29:47Z",
+      "updated_at": "2026-06-08T21:11:55Z"
     }
   ]
 }
