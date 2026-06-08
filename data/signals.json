@@ -5,106 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 855,
+  "total_found": 859,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 186221,
-      "forks": 32032,
+      "stars": 186822,
+      "forks": 32142,
       "language": "Python",
-      "pushed_at": "2026-06-08T04:24:08Z",
-      "updated_at": "2026-06-08T04:26:11Z"
+      "pushed_at": "2026-06-08T12:20:43Z",
+      "updated_at": "2026-06-08T12:36:48Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47039,
-      "forks": 4461,
+      "stars": 47060,
+      "forks": 4462,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T04:04:08Z",
-      "updated_at": "2026-06-08T03:45:09Z"
+      "pushed_at": "2026-06-08T12:32:21Z",
+      "updated_at": "2026-06-08T12:36:39Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 28468,
-      "forks": 8711,
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45151,
+      "forks": 10177,
+      "language": "Python",
+      "pushed_at": "2026-06-08T12:20:20Z",
+      "updated_at": "2026-06-08T12:20:26Z"
+    },
+    {
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 27808,
+      "forks": 2698,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T04:05:46Z",
-      "updated_at": "2026-06-08T04:05:22Z"
+      "pushed_at": "2026-06-08T12:36:11Z",
+      "updated_at": "2026-06-08T12:36:26Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 19341,
-      "forks": 1163,
+      "stars": 19621,
+      "forks": 1180,
       "language": "Go",
-      "pushed_at": "2026-06-08T04:26:00Z",
-      "updated_at": "2026-06-08T04:25:03Z"
+      "pushed_at": "2026-06-08T12:18:33Z",
+      "updated_at": "2026-06-08T12:28:02Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 17743,
-      "forks": 1138,
-      "language": "HTML",
-      "pushed_at": "2026-06-08T03:53:08Z",
-      "updated_at": "2026-06-08T03:53:10Z"
-    },
-    {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 11388,
-      "forks": 932,
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 12685,
+      "forks": 1462,
       "language": "Python",
-      "pushed_at": "2026-06-08T03:34:06Z",
-      "updated_at": "2026-06-08T03:47:39Z"
+      "pushed_at": "2026-06-08T12:22:25Z",
+      "updated_at": "2026-06-08T12:29:26Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 11124,
-      "forks": 939,
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "stars": 8018,
+      "forks": 1257,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T04:20:19Z",
-      "updated_at": "2026-06-08T04:20:50Z"
+      "pushed_at": "2026-06-08T12:17:28Z",
+      "updated_at": "2026-06-08T12:17:33Z"
     },
     {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
-      "stars": 3230,
-      "forks": 383,
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 7552,
+      "forks": 934,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T04:06:26Z",
-      "updated_at": "2026-06-08T04:06:27Z"
+      "pushed_at": "2026-06-08T12:21:37Z",
+      "updated_at": "2026-06-08T12:35:04Z"
     },
     {
       "id": 1111937658,
       "full_name": "boxlite-ai/boxlite",
       "html_url": "https://github.com/boxlite-ai/boxlite",
       "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
-      "stars": 2112,
+      "stars": 2114,
       "forks": 132,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T04:12:45Z",
-      "updated_at": "2026-06-08T04:12:49Z"
+      "pushed_at": "2026-06-08T12:13:09Z",
+      "updated_at": "2026-06-08T12:13:12Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +114,63 @@
       "stars": 1122,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-08T04:26:07Z",
-      "updated_at": "2026-06-08T04:19:39Z"
+      "pushed_at": "2026-06-08T12:36:44Z",
+      "updated_at": "2026-06-08T12:32:12Z"
     },
     {
-      "id": 1187014628,
-      "full_name": "can4hou6joeng4/boss-agent-cli",
-      "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
-      "description": "AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化",
-      "stars": 1090,
-      "forks": 86,
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+      "stars": 1082,
+      "forks": 153,
+      "language": "Rust",
+      "pushed_at": "2026-06-08T12:21:46Z",
+      "updated_at": "2026-06-08T12:21:51Z"
+    },
+    {
+      "id": 1232030145,
+      "full_name": "freestylefly/wesight",
+      "html_url": "https://github.com/freestylefly/wesight",
+      "description": "Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing.",
+      "stars": 515,
+      "forks": 134,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-08T12:33:41Z",
+      "updated_at": "2026-06-08T12:33:45Z"
+    },
+    {
+      "id": 1146575521,
+      "full_name": "EvoScientist/EvoSkills",
+      "html_url": "https://github.com/EvoScientist/EvoSkills",
+      "description": "🧬 Extend EvoScientist with Installable Skill & Knowledge Packs",
+      "stars": 390,
+      "forks": 42,
       "language": "Python",
-      "pushed_at": "2026-06-08T03:39:51Z",
-      "updated_at": "2026-06-08T03:51:27Z"
+      "pushed_at": "2026-06-08T12:15:05Z",
+      "updated_at": "2026-06-08T12:15:10Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1058,
-      "forks": 196,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes — OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 370,
+      "forks": 57,
+      "language": "Python",
+      "pushed_at": "2026-06-08T12:35:43Z",
+      "updated_at": "2026-06-08T12:35:46Z"
+    },
+    {
+      "id": 1035759799,
+      "full_name": "bgdnvk/clanker",
+      "html_url": "https://github.com/bgdnvk/clanker",
+      "description": "autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc",
+      "stars": 331,
+      "forks": 17,
       "language": "Go",
-      "pushed_at": "2026-06-08T04:08:48Z",
-      "updated_at": "2026-06-08T04:08:53Z"
-    },
-    {
-      "id": 1230293192,
-      "full_name": "Lilac-Labs/gini-agent",
-      "html_url": "https://github.com/Lilac-Labs/gini-agent",
-      "description": "The agent that remembers and learns.",
-      "stars": 192,
-      "forks": 41,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T03:33:04Z",
-      "updated_at": "2026-06-08T04:13:21Z"
-    },
-    {
-      "id": 1242620513,
-      "full_name": "Patdolitse/piia-engram",
-      "html_url": "https://github.com/Patdolitse/piia-engram",
-      "description": "One memory. Every AI tool. Yours to keep. Local-first, MCP-compatible, Apache 2.0.",
-      "stars": 164,
-      "forks": 9,
-      "language": "Python",
-      "pushed_at": "2026-06-08T04:00:25Z",
-      "updated_at": "2026-06-08T04:00:22Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 121,
-      "forks": 194,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-08T04:24:08Z",
-      "updated_at": "2026-06-08T04:24:12Z"
+      "pushed_at": "2026-06-08T12:29:45Z",
+      "updated_at": "2026-06-08T12:29:50Z"
     }
   ]
 }
