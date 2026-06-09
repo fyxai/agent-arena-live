@@ -5,161 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 864,
+  "total_found": 865,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 188431,
-      "forks": 32473,
+      "stars": 188582,
+      "forks": 32510,
       "language": "Python",
-      "pushed_at": "2026-06-09T15:12:58Z",
-      "updated_at": "2026-06-09T15:12:50Z"
+      "pushed_at": "2026-06-09T18:07:26Z",
+      "updated_at": "2026-06-09T18:09:41Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47128,
-      "forks": 4470,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T15:05:33Z",
-      "updated_at": "2026-06-09T15:11:15Z"
-    },
-    {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 43951,
-      "forks": 7780,
-      "language": "Python",
-      "pushed_at": "2026-06-09T14:51:00Z",
-      "updated_at": "2026-06-09T15:09:55Z"
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 51386,
+      "forks": 10397,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-09T18:10:15Z",
+      "updated_at": "2026-06-09T18:10:43Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34417,
-      "forks": 4319,
+      "stars": 34434,
+      "forks": 4320,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T15:00:07Z",
-      "updated_at": "2026-06-09T15:11:00Z"
+      "pushed_at": "2026-06-09T17:51:46Z",
+      "updated_at": "2026-06-09T18:07:15Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 27890,
-      "forks": 2708,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 11492,
+      "forks": 966,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T14:44:08Z",
-      "updated_at": "2026-06-09T14:54:39Z"
+      "pushed_at": "2026-06-09T18:07:41Z",
+      "updated_at": "2026-06-09T18:01:00Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 20259,
-      "forks": 1221,
-      "language": "Go",
-      "pushed_at": "2026-06-09T15:12:26Z",
-      "updated_at": "2026-06-09T15:12:40Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 7626,
-      "forks": 942,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T15:13:19Z",
-      "updated_at": "2026-06-09T15:09:37Z"
-    },
-    {
-      "id": 160361977,
-      "full_name": "cbamls/AI_Tutorial",
-      "html_url": "https://github.com/cbamls/AI_Tutorial",
-      "description": "大厂发布的AI落地实践、顶尖实验室的最新论文、工业界的真实踩坑记录",
-      "stars": 3673,
-      "forks": 512,
-      "language": "Unknown",
-      "pushed_at": "2026-06-09T14:59:50Z",
-      "updated_at": "2026-06-09T15:08:44Z"
-    },
-    {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 3453,
-      "forks": 229,
-      "language": "Python",
-      "pushed_at": "2026-06-09T14:55:45Z",
-      "updated_at": "2026-06-09T15:08:56Z"
-    },
-    {
-      "id": 846579774,
-      "full_name": "i-am-bee/beeai-framework",
-      "html_url": "https://github.com/i-am-bee/beeai-framework",
-      "description": "Build production-ready AI agents in both Python and Typescript.",
-      "stars": 3288,
-      "forks": 441,
-      "language": "Python",
-      "pushed_at": "2026-06-09T14:46:51Z",
-      "updated_at": "2026-06-09T15:02:24Z"
-    },
-    {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
-      "stars": 3274,
-      "forks": 397,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T14:59:43Z",
-      "updated_at": "2026-06-09T15:04:39Z"
-    },
-    {
-      "id": 1250822765,
-      "full_name": "nexu-io/html-video",
-      "html_url": "https://github.com/nexu-io/html-video",
-      "description": "Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An official project by the Open Design team.",
-      "stars": 2440,
-      "forks": 277,
-      "language": "HTML",
-      "pushed_at": "2026-06-09T15:03:13Z",
-      "updated_at": "2026-06-09T15:07:07Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 725,
-      "forks": 69,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T14:52:46Z",
-      "updated_at": "2026-06-09T15:06:32Z"
-    },
-    {
-      "id": 1201960789,
-      "full_name": "mm7894215/TokenTracker",
-      "html_url": "https://github.com/mm7894215/TokenTracker",
-      "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
-      "stars": 674,
-      "forks": 70,
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3199,
+      "forks": 211,
       "language": "JavaScript",
-      "pushed_at": "2026-06-09T15:03:53Z",
-      "updated_at": "2026-06-09T15:04:18Z"
+      "pushed_at": "2026-06-09T17:44:15Z",
+      "updated_at": "2026-06-09T17:44:17Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 2669,
+      "forks": 316,
+      "language": "Go",
+      "pushed_at": "2026-06-09T17:54:59Z",
+      "updated_at": "2026-06-09T17:55:06Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1122,
+      "forks": 67,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T18:10:48Z",
+      "updated_at": "2026-06-09T18:07:01Z"
+    },
+    {
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 674,
+      "forks": 48,
+      "language": "Python",
+      "pushed_at": "2026-06-09T17:54:41Z",
+      "updated_at": "2026-06-09T17:54:48Z"
+    },
+    {
+      "id": 1230831838,
+      "full_name": "OpenOSINT/OpenOSINT",
+      "html_url": "https://github.com/OpenOSINT/OpenOSINT",
+      "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
+      "stars": 586,
+      "forks": 101,
+      "language": "Python",
+      "pushed_at": "2026-06-09T17:58:10Z",
+      "updated_at": "2026-06-09T18:10:41Z"
     },
     {
       "id": 1142397834,
@@ -169,8 +114,63 @@
       "stars": 473,
       "forks": 39,
       "language": "Go",
-      "pushed_at": "2026-06-09T15:13:51Z",
-      "updated_at": "2026-06-09T14:56:25Z"
+      "pushed_at": "2026-06-09T17:58:53Z",
+      "updated_at": "2026-06-09T17:49:31Z"
+    },
+    {
+      "id": 1185711493,
+      "full_name": "buildingjoshbetter/TrueMemory",
+      "html_url": "https://github.com/buildingjoshbetter/TrueMemory",
+      "description": "The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zero cloud. Works with Claude Code, Claude CLI, Cursor, Codex CLI, Gemini CLI.",
+      "stars": 269,
+      "forks": 33,
+      "language": "Python",
+      "pushed_at": "2026-06-09T17:35:20Z",
+      "updated_at": "2026-06-09T17:36:43Z"
+    },
+    {
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 138,
+      "forks": 226,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T17:53:55Z",
+      "updated_at": "2026-06-09T17:54:00Z"
+    },
+    {
+      "id": 1189562423,
+      "full_name": "iPythoning/b2b-sdr-agent-template",
+      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
+      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
+      "stars": 114,
+      "forks": 40,
+      "language": "Shell",
+      "pushed_at": "2026-06-09T18:05:22Z",
+      "updated_at": "2026-06-09T18:06:31Z"
+    },
+    {
+      "id": 1161895401,
+      "full_name": "openlegion-ai/openlegion",
+      "html_url": "https://github.com/openlegion-ai/openlegion",
+      "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that can do everything a human can do.",
+      "stars": 101,
+      "forks": 20,
+      "language": "Python",
+      "pushed_at": "2026-06-09T18:08:49Z",
+      "updated_at": "2026-06-09T17:42:12Z"
+    },
+    {
+      "id": 1217416768,
+      "full_name": "AtomicBot-ai/atomic-agent",
+      "html_url": "https://github.com/AtomicBot-ai/atomic-agent",
+      "description": "",
+      "stars": 95,
+      "forks": 11,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T17:39:52Z",
+      "updated_at": "2026-06-09T17:40:21Z"
     }
   ]
 }
