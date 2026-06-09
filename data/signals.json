@@ -5,128 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 860,
+  "total_found": 863,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 187651,
-      "forks": 32331,
+      "stars": 187932,
+      "forks": 32373,
       "language": "Python",
-      "pushed_at": "2026-06-09T03:56:35Z",
-      "updated_at": "2026-06-09T03:57:23Z"
+      "pushed_at": "2026-06-09T07:48:40Z",
+      "updated_at": "2026-06-09T07:57:00Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47086,
-      "forks": 4468,
+      "stars": 47102,
+      "forks": 4470,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:52:57Z",
-      "updated_at": "2026-06-09T03:52:07Z"
+      "pushed_at": "2026-06-09T07:43:20Z",
+      "updated_at": "2026-06-09T07:57:46Z"
     },
     {
       "id": 522158088,
       "full_name": "zhayujie/CowAgent",
       "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 45164,
-      "forks": 10178,
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45168,
+      "forks": 10176,
       "language": "Python",
-      "pushed_at": "2026-06-09T03:41:45Z",
-      "updated_at": "2026-06-09T03:42:02Z"
+      "pushed_at": "2026-06-09T07:24:49Z",
+      "updated_at": "2026-06-09T07:24:54Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 27858,
-      "forks": 2703,
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 43922,
+      "forks": 7777,
+      "language": "Python",
+      "pushed_at": "2026-06-09T07:41:07Z",
+      "updated_at": "2026-06-09T07:57:30Z"
+    },
+    {
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 22682,
+      "forks": 2657,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:40:19Z",
-      "updated_at": "2026-06-09T03:53:53Z"
+      "pushed_at": "2026-06-09T07:45:36Z",
+      "updated_at": "2026-06-09T07:40:30Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 17769,
-      "forks": 1139,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22656,
+      "forks": 3774,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T07:37:03Z",
+      "updated_at": "2026-06-09T07:37:10Z"
+    },
+    {
+      "id": 1088705108,
+      "full_name": "adongwanai/AgentGuide",
+      "html_url": "https://github.com/adongwanai/AgentGuide",
+      "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+      "stars": 5723,
+      "forks": 575,
       "language": "HTML",
-      "pushed_at": "2026-06-09T03:45:05Z",
-      "updated_at": "2026-06-09T03:53:15Z"
+      "pushed_at": "2026-06-09T07:55:15Z",
+      "updated_at": "2026-06-09T07:55:29Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 11320,
-      "forks": 958,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:54:38Z",
-      "updated_at": "2026-06-09T03:54:42Z"
-    },
-    {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 8333,
-      "forks": 795,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-09T03:44:39Z",
-      "updated_at": "2026-06-09T03:44:33Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 7592,
-      "forks": 937,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:37:07Z",
-      "updated_at": "2026-06-09T03:49:56Z"
-    },
-    {
-      "id": 810121174,
-      "full_name": "LazyAGI/LazyLLM",
-      "html_url": "https://github.com/LazyAGI/LazyLLM",
-      "description": "Easiest and laziest way for  building multi-agent LLMs applications.",
-      "stars": 3843,
-      "forks": 392,
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4503,
+      "forks": 447,
       "language": "Python",
-      "pushed_at": "2026-06-09T03:25:05Z",
-      "updated_at": "2026-06-09T03:25:10Z"
+      "pushed_at": "2026-06-09T07:53:40Z",
+      "updated_at": "2026-06-09T07:51:06Z"
     },
     {
       "id": 1008177062,
       "full_name": "chaitin/MonkeyCode",
       "html_url": "https://github.com/chaitin/MonkeyCode",
       "description": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
-      "stars": 3242,
-      "forks": 387,
+      "stars": 3255,
+      "forks": 392,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:54:32Z",
-      "updated_at": "2026-06-09T03:53:55Z"
+      "pushed_at": "2026-06-09T07:57:53Z",
+      "updated_at": "2026-06-09T07:53:27Z"
+    },
+    {
+      "id": 1099636778,
+      "full_name": "study8677/antigravity-workspace-template",
+      "html_url": "https://github.com/study8677/antigravity-workspace-template",
+      "description": "Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE.",
+      "stars": 1272,
+      "forks": 258,
+      "language": "Python",
+      "pushed_at": "2026-06-09T07:42:46Z",
+      "updated_at": "2026-06-09T07:53:05Z"
     },
     {
       "id": 1223512305,
       "full_name": "lessweb/deepcode-cli",
       "html_url": "https://github.com/lessweb/deepcode-cli",
       "description": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。",
-      "stars": 1171,
+      "stars": 1172,
       "forks": 103,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:28:24Z",
-      "updated_at": "2026-06-09T03:51:20Z"
+      "pushed_at": "2026-06-09T07:37:48Z",
+      "updated_at": "2026-06-09T07:38:35Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +136,41 @@
       "stars": 1122,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:56:24Z",
-      "updated_at": "2026-06-09T03:56:27Z"
+      "pushed_at": "2026-06-09T07:57:28Z",
+      "updated_at": "2026-06-09T07:57:31Z"
     },
     {
-      "id": 1201201482,
-      "full_name": "matevip/mateclaw",
-      "html_url": "https://github.com/matevip/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 565,
-      "forks": 189,
-      "language": "Java",
-      "pushed_at": "2026-06-09T03:36:59Z",
-      "updated_at": "2026-06-09T03:38:32Z"
+      "id": 1234904564,
+      "full_name": "Kaelio/ktx",
+      "html_url": "https://github.com/Kaelio/ktx",
+      "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or any other AI agent to query data accurately and with full context of your company",
+      "stars": 958,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T07:21:49Z",
+      "updated_at": "2026-06-09T07:21:53Z"
+    },
+    {
+      "id": 1192620050,
+      "full_name": "MinaSaad1/pbi-cli",
+      "html_url": "https://github.com/MinaSaad1/pbi-cli",
+      "description": "Power BI CLI - semantic models (.NET TOM) and PBIR reports for token-efficient AI agent usage, built for Claude Code",
+      "stars": 357,
+      "forks": 105,
+      "language": "Python",
+      "pushed_at": "2026-06-09T07:32:30Z",
+      "updated_at": "2026-06-09T07:32:34Z"
     },
     {
       "id": 1230293192,
       "full_name": "Lilac-Labs/gini-agent",
       "html_url": "https://github.com/Lilac-Labs/gini-agent",
       "description": "The agent that remembers and learns.",
-      "stars": 224,
-      "forks": 48,
+      "stars": 230,
+      "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T03:37:25Z",
-      "updated_at": "2026-06-09T03:41:11Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 140,
-      "forks": 21,
-      "language": "Python",
-      "pushed_at": "2026-06-09T03:24:11Z",
-      "updated_at": "2026-06-09T03:24:15Z"
+      "pushed_at": "2026-06-09T07:22:43Z",
+      "updated_at": "2026-06-09T07:56:26Z"
     }
   ]
 }
