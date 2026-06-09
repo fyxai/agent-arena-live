@@ -12,44 +12,77 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 188582,
-      "forks": 32510,
+      "stars": 188729,
+      "forks": 32542,
       "language": "Python",
-      "pushed_at": "2026-06-09T18:07:26Z",
-      "updated_at": "2026-06-09T18:09:41Z"
+      "pushed_at": "2026-06-09T21:45:21Z",
+      "updated_at": "2026-06-09T21:49:53Z"
     },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 51386,
-      "forks": 10397,
+      "stars": 51535,
+      "forks": 10407,
       "language": "JavaScript",
-      "pushed_at": "2026-06-09T18:10:15Z",
-      "updated_at": "2026-06-09T18:10:43Z"
+      "pushed_at": "2026-06-09T20:40:13Z",
+      "updated_at": "2026-06-09T21:47:31Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 47128,
+      "forks": 4470,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T21:49:42Z",
+      "updated_at": "2026-06-09T21:13:14Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34434,
+      "stars": 34447,
       "forks": 4320,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T17:51:46Z",
-      "updated_at": "2026-06-09T18:07:15Z"
+      "pushed_at": "2026-06-09T20:57:16Z",
+      "updated_at": "2026-06-09T21:49:26Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22667,
+      "forks": 3782,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T21:21:47Z",
+      "updated_at": "2026-06-09T21:49:14Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 11492,
-      "forks": 966,
+      "stars": 11514,
+      "forks": 968,
       "language": "TypeScript",
-      "pushed_at": "2026-06-09T18:07:41Z",
-      "updated_at": "2026-06-09T18:01:00Z"
+      "pushed_at": "2026-06-09T21:35:07Z",
+      "updated_at": "2026-06-09T21:39:32Z"
+    },
+    {
+      "id": 1010318950,
+      "full_name": "SWE-agent/mini-swe-agent",
+      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "stars": 5050,
+      "forks": 692,
+      "language": "Python",
+      "pushed_at": "2026-06-09T21:19:20Z",
+      "updated_at": "2026-06-09T21:18:56Z"
     },
     {
       "id": 220867748,
@@ -59,118 +92,85 @@
       "stars": 3199,
       "forks": 211,
       "language": "JavaScript",
-      "pushed_at": "2026-06-09T17:44:15Z",
-      "updated_at": "2026-06-09T17:44:17Z"
+      "pushed_at": "2026-06-09T21:03:59Z",
+      "updated_at": "2026-06-09T21:04:11Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2669,
-      "forks": 316,
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "stars": 1044,
+      "forks": 167,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T21:33:12Z",
+      "updated_at": "2026-06-09T21:28:16Z"
+    },
+    {
+      "id": 1234904564,
+      "full_name": "Kaelio/ktx",
+      "html_url": "https://github.com/Kaelio/ktx",
+      "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or any other AI agent to query data accurately and with full context of your company",
+      "stars": 976,
+      "forks": 49,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-09T21:49:21Z",
+      "updated_at": "2026-06-09T21:41:16Z"
+    },
+    {
+      "id": 1258621567,
+      "full_name": "tastyeffectco/sandboxd",
+      "html_url": "https://github.com/tastyeffectco/sandboxd",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "stars": 535,
+      "forks": 18,
       "language": "Go",
-      "pushed_at": "2026-06-09T17:54:59Z",
-      "updated_at": "2026-06-09T17:55:06Z"
+      "pushed_at": "2026-06-09T21:07:37Z",
+      "updated_at": "2026-06-09T21:46:39Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1122,
+      "id": 1203697439,
+      "full_name": "PatterAI/Patter",
+      "html_url": "https://github.com/PatterAI/Patter",
+      "description": "Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI agent a phone number in 4 lines — Python and TypeScript, MIT licensed, Twilio, Telnyx, and Plivo.",
+      "stars": 508,
+      "forks": 53,
+      "language": "Python",
+      "pushed_at": "2026-06-09T21:19:48Z",
+      "updated_at": "2026-06-09T21:19:53Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes — OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 371,
+      "forks": 57,
+      "language": "Python",
+      "pushed_at": "2026-06-09T20:49:59Z",
+      "updated_at": "2026-06-09T20:50:26Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 345,
       "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T18:10:48Z",
-      "updated_at": "2026-06-09T18:07:01Z"
-    },
-    {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 674,
-      "forks": 48,
       "language": "Python",
-      "pushed_at": "2026-06-09T17:54:41Z",
-      "updated_at": "2026-06-09T17:54:48Z"
+      "pushed_at": "2026-06-09T21:48:07Z",
+      "updated_at": "2026-06-09T21:48:50Z"
     },
     {
-      "id": 1230831838,
-      "full_name": "OpenOSINT/OpenOSINT",
-      "html_url": "https://github.com/OpenOSINT/OpenOSINT",
-      "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
-      "stars": 586,
-      "forks": 101,
-      "language": "Python",
-      "pushed_at": "2026-06-09T17:58:10Z",
-      "updated_at": "2026-06-09T18:10:41Z"
-    },
-    {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "#1 Terminal Benchmark 2.0 — AI that ships your tickets.",
-      "stars": 473,
-      "forks": 39,
-      "language": "Go",
-      "pushed_at": "2026-06-09T17:58:53Z",
-      "updated_at": "2026-06-09T17:49:31Z"
-    },
-    {
-      "id": 1185711493,
-      "full_name": "buildingjoshbetter/TrueMemory",
-      "html_url": "https://github.com/buildingjoshbetter/TrueMemory",
-      "description": "The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zero cloud. Works with Claude Code, Claude CLI, Cursor, Codex CLI, Gemini CLI.",
-      "stars": 269,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-06-09T17:35:20Z",
-      "updated_at": "2026-06-09T17:36:43Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 138,
-      "forks": 226,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T17:53:55Z",
-      "updated_at": "2026-06-09T17:54:00Z"
-    },
-    {
-      "id": 1189562423,
-      "full_name": "iPythoning/b2b-sdr-agent-template",
-      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
-      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
-      "stars": 114,
-      "forks": 40,
-      "language": "Shell",
-      "pushed_at": "2026-06-09T18:05:22Z",
-      "updated_at": "2026-06-09T18:06:31Z"
-    },
-    {
-      "id": 1161895401,
-      "full_name": "openlegion-ai/openlegion",
-      "html_url": "https://github.com/openlegion-ai/openlegion",
-      "description": "Secure autonomous AI agent framework and platform. Build AI teams by describing what you want. Orchestrate agents that can do everything a human can do.",
-      "stars": 101,
-      "forks": 20,
-      "language": "Python",
-      "pushed_at": "2026-06-09T18:08:49Z",
-      "updated_at": "2026-06-09T17:42:12Z"
-    },
-    {
-      "id": 1217416768,
-      "full_name": "AtomicBot-ai/atomic-agent",
-      "html_url": "https://github.com/AtomicBot-ai/atomic-agent",
-      "description": "",
-      "stars": 95,
-      "forks": 11,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-09T17:39:52Z",
-      "updated_at": "2026-06-09T17:40:21Z"
+      "id": 1148233533,
+      "full_name": "sepivip/SeekerClaw",
+      "html_url": "https://github.com/sepivip/SeekerClaw",
+      "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
+      "stars": 260,
+      "forks": 61,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-09T21:30:27Z",
+      "updated_at": "2026-06-09T21:30:33Z"
     }
   ]
 }
