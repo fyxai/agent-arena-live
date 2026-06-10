@@ -5,128 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 875,
+  "total_found": 876,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 189662,
-      "forks": 32821,
+      "stars": 189768,
+      "forks": 32859,
       "language": "Python",
-      "pushed_at": "2026-06-10T15:40:51Z",
-      "updated_at": "2026-06-10T15:48:14Z"
-    },
-    {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 44371,
-      "forks": 2832,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T15:47:19Z",
-      "updated_at": "2026-06-10T15:26:36Z"
+      "pushed_at": "2026-06-10T18:25:06Z",
+      "updated_at": "2026-06-10T18:31:58Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34566,
-      "forks": 4324,
+      "stars": 34579,
+      "forks": 4328,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T15:47:34Z",
-      "updated_at": "2026-06-10T15:42:53Z"
+      "pushed_at": "2026-06-10T18:30:11Z",
+      "updated_at": "2026-06-10T18:21:30Z"
     },
     {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 12755,
-      "forks": 1474,
-      "language": "Python",
-      "pushed_at": "2026-06-10T15:22:07Z",
-      "updated_at": "2026-06-10T15:40:07Z"
-    },
-    {
-      "id": 1104370536,
-      "full_name": "ChatLab/ChatLab",
-      "html_url": "https://github.com/ChatLab/ChatLab",
-      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
-      "stars": 6657,
-      "forks": 1414,
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 22700,
+      "forks": 2660,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T15:41:20Z",
-      "updated_at": "2026-06-10T15:46:17Z"
+      "pushed_at": "2026-06-10T18:08:50Z",
+      "updated_at": "2026-06-10T18:12:06Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 3475,
-      "forks": 232,
-      "language": "Python",
-      "pushed_at": "2026-06-10T15:19:43Z",
-      "updated_at": "2026-06-10T15:20:07Z"
-    },
-    {
-      "id": 846579774,
-      "full_name": "i-am-bee/beeai-framework",
-      "html_url": "https://github.com/i-am-bee/beeai-framework",
-      "description": "Build production-ready AI agents in both Python and Typescript.",
-      "stars": 3289,
-      "forks": 442,
-      "language": "Python",
-      "pushed_at": "2026-06-10T15:43:50Z",
-      "updated_at": "2026-06-10T15:42:48Z"
-    },
-    {
-      "id": 254879070,
-      "full_name": "xpf0000/FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
-      "stars": 2930,
-      "forks": 302,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22691,
+      "forks": 3784,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T15:41:03Z",
-      "updated_at": "2026-06-10T15:46:59Z"
+      "pushed_at": "2026-06-10T18:27:25Z",
+      "updated_at": "2026-06-10T18:20:57Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1124,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T15:47:48Z",
-      "updated_at": "2026-06-10T15:42:48Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 20798,
+      "forks": 1242,
+      "language": "Go",
+      "pushed_at": "2026-06-10T18:17:30Z",
+      "updated_at": "2026-06-10T18:02:02Z"
     },
     {
-      "id": 1201960789,
-      "full_name": "mm7894215/TokenTracker",
-      "html_url": "https://github.com/mm7894215/TokenTracker",
-      "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
-      "stars": 683,
-      "forks": 71,
+      "id": 1147063571,
+      "full_name": "EvoMap/evolver",
+      "html_url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+      "stars": 8486,
+      "forks": 796,
       "language": "JavaScript",
-      "pushed_at": "2026-06-10T15:29:14Z",
-      "updated_at": "2026-06-10T15:36:35Z"
+      "pushed_at": "2026-06-10T18:16:13Z",
+      "updated_at": "2026-06-10T18:19:12Z"
     },
     {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 681,
-      "forks": 48,
-      "language": "Python",
-      "pushed_at": "2026-06-10T15:47:58Z",
-      "updated_at": "2026-06-10T15:39:43Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3198,
+      "forks": 211,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-10T18:02:31Z",
+      "updated_at": "2026-06-10T18:02:49Z"
+    },
+    {
+      "id": 954321799,
+      "full_name": "truffle-ai/dexto",
+      "html_url": "https://github.com/truffle-ai/dexto",
+      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
+      "stars": 631,
+      "forks": 71,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-10T18:11:21Z",
+      "updated_at": "2026-06-10T18:08:44Z"
+    },
+    {
+      "id": 1179548338,
+      "full_name": "clawwork-ai/ClawWork",
+      "html_url": "https://github.com/clawwork-ai/ClawWork",
+      "description": "Client for OpenClaw — Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.",
+      "stars": 520,
+      "forks": 65,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-10T18:09:01Z",
+      "updated_at": "2026-06-10T18:19:03Z"
     },
     {
       "id": 1142397834,
@@ -136,19 +114,8 @@
       "stars": 474,
       "forks": 40,
       "language": "Go",
-      "pushed_at": "2026-06-10T15:46:57Z",
-      "updated_at": "2026-06-10T15:26:25Z"
-    },
-    {
-      "id": 1214349536,
-      "full_name": "Unclecheng-li/VulnClaw",
-      "html_url": "https://github.com/Unclecheng-li/VulnClaw",
-      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "stars": 442,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-06-10T15:22:07Z",
-      "updated_at": "2026-06-10T15:23:58Z"
+      "pushed_at": "2026-06-10T18:15:58Z",
+      "updated_at": "2026-06-10T18:16:17Z"
     },
     {
       "id": 1156882085,
@@ -158,19 +125,52 @@
       "stars": 371,
       "forks": 57,
       "language": "Python",
-      "pushed_at": "2026-06-10T15:28:12Z",
-      "updated_at": "2026-06-10T15:25:36Z"
+      "pushed_at": "2026-06-10T18:28:26Z",
+      "updated_at": "2026-06-10T18:00:43Z"
     },
     {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 123,
-      "forks": 38,
+      "id": 1245256564,
+      "full_name": "Eynzof/Hermes-CN-Desktop",
+      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 335,
+      "forks": 21,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-10T18:29:16Z",
+      "updated_at": "2026-06-10T18:29:44Z"
+    },
+    {
+      "id": 1174756063,
+      "full_name": "bitrouter/bitrouter",
+      "html_url": "https://github.com/bitrouter/bitrouter",
+      "description": "An open-source LLM router that optimize your agent for cost and performance — with every run.",
+      "stars": 176,
+      "forks": 6,
+      "language": "Rust",
+      "pushed_at": "2026-06-10T18:33:11Z",
+      "updated_at": "2026-06-10T18:30:37Z"
+    },
+    {
+      "id": 1242620513,
+      "full_name": "Patdolitse/piia-engram",
+      "html_url": "https://github.com/Patdolitse/piia-engram",
+      "description": "Local-first AI memory you can see, edit, and override — portable across Claude Code, Codex, Cursor, Windsurf, and other MCP coding tools.",
+      "stars": 164,
+      "forks": 9,
       "language": "Python",
-      "pushed_at": "2026-06-10T15:40:18Z",
-      "updated_at": "2026-06-10T15:48:27Z"
+      "pushed_at": "2026-06-10T18:20:16Z",
+      "updated_at": "2026-06-10T18:21:24Z"
+    },
+    {
+      "id": 1189562423,
+      "full_name": "iPythoning/b2b-sdr-agent-template",
+      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
+      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
+      "stars": 115,
+      "forks": 40,
+      "language": "Shell",
+      "pushed_at": "2026-06-10T18:06:15Z",
+      "updated_at": "2026-06-10T18:06:45Z"
     }
   ]
 }
