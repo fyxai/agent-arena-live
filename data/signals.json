@@ -5,73 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 873,
+  "total_found": 875,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 189662,
+      "forks": 32821,
+      "language": "Python",
+      "pushed_at": "2026-06-10T15:40:51Z",
+      "updated_at": "2026-06-10T15:48:14Z"
+    },
+    {
+      "id": 291438522,
+      "full_name": "siyuan-note/siyuan",
+      "html_url": "https://github.com/siyuan-note/siyuan",
+      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+      "stars": 44371,
+      "forks": 2832,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-10T15:47:19Z",
+      "updated_at": "2026-06-10T15:26:36Z"
+    },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34541,
-      "forks": 4323,
+      "stars": 34566,
+      "forks": 4324,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:21:37Z",
-      "updated_at": "2026-06-10T11:38:40Z"
+      "pushed_at": "2026-06-10T15:47:34Z",
+      "updated_at": "2026-06-10T15:42:53Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22687,
-      "forks": 3783,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:35:51Z",
-      "updated_at": "2026-06-10T11:20:31Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 11656,
-      "forks": 982,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:16:03Z",
-      "updated_at": "2026-06-10T11:29:54Z"
-    },
-    {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 11443,
-      "forks": 938,
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 12755,
+      "forks": 1474,
       "language": "Python",
-      "pushed_at": "2026-06-10T11:19:17Z",
-      "updated_at": "2026-06-10T11:29:53Z"
+      "pushed_at": "2026-06-10T15:22:07Z",
+      "updated_at": "2026-06-10T15:40:07Z"
     },
     {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
-      "stars": 3302,
-      "forks": 402,
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6657,
+      "forks": 1414,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:40:33Z",
-      "updated_at": "2026-06-10T11:41:30Z"
+      "pushed_at": "2026-06-10T15:41:20Z",
+      "updated_at": "2026-06-10T15:46:17Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2525,
-      "forks": 552,
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 3475,
+      "forks": 232,
       "language": "Python",
-      "pushed_at": "2026-06-10T11:35:02Z",
-      "updated_at": "2026-06-10T11:29:26Z"
+      "pushed_at": "2026-06-10T15:19:43Z",
+      "updated_at": "2026-06-10T15:20:07Z"
+    },
+    {
+      "id": 846579774,
+      "full_name": "i-am-bee/beeai-framework",
+      "html_url": "https://github.com/i-am-bee/beeai-framework",
+      "description": "Build production-ready AI agents in both Python and Typescript.",
+      "stars": 3289,
+      "forks": 442,
+      "language": "Python",
+      "pushed_at": "2026-06-10T15:43:50Z",
+      "updated_at": "2026-06-10T15:42:48Z"
+    },
+    {
+      "id": 254879070,
+      "full_name": "xpf0000/FlyEnv",
+      "html_url": "https://github.com/xpf0000/FlyEnv",
+      "description": "All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
+      "stars": 2930,
+      "forks": 302,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-10T15:41:03Z",
+      "updated_at": "2026-06-10T15:46:59Z"
     },
     {
       "id": 1096175506,
@@ -81,41 +103,30 @@
       "stars": 1124,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:38:26Z",
-      "updated_at": "2026-06-10T11:30:10Z"
+      "pushed_at": "2026-06-10T15:47:48Z",
+      "updated_at": "2026-06-10T15:42:48Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 724,
-      "forks": 69,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:22:26Z",
-      "updated_at": "2026-06-10T11:30:01Z"
+      "id": 1201960789,
+      "full_name": "mm7894215/TokenTracker",
+      "html_url": "https://github.com/mm7894215/TokenTracker",
+      "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
+      "stars": 683,
+      "forks": 71,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-10T15:29:14Z",
+      "updated_at": "2026-06-10T15:36:35Z"
     },
     {
       "id": 1175278883,
       "full_name": "whiteguo233/OpenBiliClaw",
       "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
       "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 677,
+      "stars": 681,
       "forks": 48,
       "language": "Python",
-      "pushed_at": "2026-06-10T11:31:25Z",
-      "updated_at": "2026-06-10T11:32:29Z"
-    },
-    {
-      "id": 954321799,
-      "full_name": "truffle-ai/dexto",
-      "html_url": "https://github.com/truffle-ai/dexto",
-      "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
-      "stars": 631,
-      "forks": 71,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:40:31Z",
-      "updated_at": "2026-06-10T11:37:36Z"
+      "pushed_at": "2026-06-10T15:47:58Z",
+      "updated_at": "2026-06-10T15:39:43Z"
     },
     {
       "id": 1142397834,
@@ -123,54 +134,43 @@
       "html_url": "https://github.com/qf-studio/pilot",
       "description": "AI that ships your tickets.",
       "stars": 474,
-      "forks": 39,
+      "forks": 40,
       "language": "Go",
-      "pushed_at": "2026-06-10T11:38:34Z",
-      "updated_at": "2026-06-10T11:38:21Z"
+      "pushed_at": "2026-06-10T15:46:57Z",
+      "updated_at": "2026-06-10T15:26:25Z"
     },
     {
-      "id": 803221216,
-      "full_name": "devforth/adminforth",
-      "html_url": "https://github.com/devforth/adminforth",
-      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
-      "stars": 406,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-10T11:39:55Z",
-      "updated_at": "2026-06-10T11:25:55Z"
-    },
-    {
-      "id": 1185711493,
-      "full_name": "buildingjoshbetter/TrueMemory",
-      "html_url": "https://github.com/buildingjoshbetter/TrueMemory",
-      "description": "The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zero cloud. Works with Claude Code, Claude CLI, Cursor, Codex CLI, Gemini CLI.",
-      "stars": 272,
-      "forks": 33,
+      "id": 1214349536,
+      "full_name": "Unclecheng-li/VulnClaw",
+      "html_url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "stars": 442,
+      "forks": 67,
       "language": "Python",
-      "pushed_at": "2026-06-10T11:39:32Z",
-      "updated_at": "2026-06-10T11:36:51Z"
+      "pushed_at": "2026-06-10T15:22:07Z",
+      "updated_at": "2026-06-10T15:23:58Z"
     },
     {
-      "id": 1134772473,
-      "full_name": "evidentloop/sopify",
-      "html_url": "https://github.com/evidentloop/sopify",
-      "description": "Resumable, traceable AI coding — decisions and history stay with the project",
-      "stars": 186,
-      "forks": 15,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes — OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 371,
+      "forks": 57,
       "language": "Python",
-      "pushed_at": "2026-06-10T11:21:29Z",
-      "updated_at": "2026-06-10T11:20:18Z"
+      "pushed_at": "2026-06-10T15:28:12Z",
+      "updated_at": "2026-06-10T15:25:36Z"
     },
     {
-      "id": 1139749080,
-      "full_name": "JetBrains/teamcity-cli",
-      "html_url": "https://github.com/JetBrains/teamcity-cli",
-      "description": "TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.",
-      "stars": 100,
-      "forks": 10,
-      "language": "Go",
-      "pushed_at": "2026-06-10T11:39:24Z",
-      "updated_at": "2026-06-10T11:39:27Z"
+      "id": 1224734286,
+      "full_name": "Ikalus1988/MisakaNet",
+      "html_url": "https://github.com/Ikalus1988/MisakaNet",
+      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+      "stars": 123,
+      "forks": 38,
+      "language": "Python",
+      "pushed_at": "2026-06-10T15:40:18Z",
+      "updated_at": "2026-06-10T15:48:27Z"
     }
   ]
 }
