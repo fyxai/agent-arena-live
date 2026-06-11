@@ -5,117 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 882,
+  "total_found": 883,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 190847,
-      "forks": 33111,
+      "stars": 190941,
+      "forks": 33140,
       "language": "Python",
-      "pushed_at": "2026-06-11T18:49:11Z",
-      "updated_at": "2026-06-11T18:48:13Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47220,
-      "forks": 4478,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T18:27:47Z",
-      "updated_at": "2026-06-11T18:43:35Z"
+      "pushed_at": "2026-06-11T22:03:14Z",
+      "updated_at": "2026-06-11T22:03:23Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34703,
-      "forks": 4334,
+      "stars": 34718,
+      "forks": 4333,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T18:47:37Z",
-      "updated_at": "2026-06-11T18:30:10Z"
+      "pushed_at": "2026-06-11T21:47:04Z",
+      "updated_at": "2026-06-11T22:00:12Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 24078,
-      "forks": 2403,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-11T18:38:26Z",
-      "updated_at": "2026-06-11T18:38:31Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 21210,
-      "forks": 1271,
-      "language": "Go",
-      "pushed_at": "2026-06-11T18:47:58Z",
-      "updated_at": "2026-06-11T18:47:46Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 11907,
-      "forks": 1008,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22712,
+      "forks": 3788,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T18:35:10Z",
-      "updated_at": "2026-06-11T18:32:24Z"
+      "pushed_at": "2026-06-11T21:49:40Z",
+      "updated_at": "2026-06-11T21:41:00Z"
+    },
+    {
+      "id": 1010318950,
+      "full_name": "SWE-agent/mini-swe-agent",
+      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "stars": 5097,
+      "forks": 697,
+      "language": "Python",
+      "pushed_at": "2026-06-11T21:46:04Z",
+      "updated_at": "2026-06-11T21:45:03Z"
     },
     {
       "id": 220867748,
       "full_name": "neomjs/neo",
       "html_url": "https://github.com/neomjs/neo",
       "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3201,
+      "stars": 3202,
       "forks": 212,
       "language": "JavaScript",
-      "pushed_at": "2026-06-11T18:38:58Z",
-      "updated_at": "2026-06-11T18:36:06Z"
+      "pushed_at": "2026-06-11T22:01:47Z",
+      "updated_at": "2026-06-11T22:01:50Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 2687,
-      "forks": 320,
-      "language": "Go",
-      "pushed_at": "2026-06-11T18:21:46Z",
-      "updated_at": "2026-06-11T18:30:32Z"
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1195,
+      "forks": 144,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-11T21:12:28Z",
+      "updated_at": "2026-06-11T21:12:30Z"
     },
     {
-      "id": 1232824274,
-      "full_name": "stormzhang/token-tracker",
-      "html_url": "https://github.com/stormzhang/token-tracker",
-      "description": "Track token usage across local AI agents (Claude Code, Codex) — Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
-      "stars": 284,
-      "forks": 22,
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 629,
+      "forks": 47,
       "language": "Python",
-      "pushed_at": "2026-06-11T18:31:57Z",
-      "updated_at": "2026-06-11T18:32:01Z"
+      "pushed_at": "2026-06-11T21:40:21Z",
+      "updated_at": "2026-06-11T21:40:25Z"
     },
     {
-      "id": 1185711493,
-      "full_name": "buildingjoshbetter/TrueMemory",
-      "html_url": "https://github.com/buildingjoshbetter/TrueMemory",
-      "description": "The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zero cloud. Works with Claude Code, Claude CLI, Cursor, Codex CLI, Gemini CLI.",
-      "stars": 278,
-      "forks": 36,
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 409,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-11T21:45:20Z",
+      "updated_at": "2026-06-11T21:45:23Z"
+    },
+    {
+      "id": 1001910659,
+      "full_name": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
+      "html_url": "https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas",
+      "description": "ATLAS: a senior-engineer layer for Claude Code. Explore with wireframes & prototypes, clarify the essentials, capture it in living HTML then let Claude Code's native plan/goal/workflow loop build. Fewer tokens, less ceremony, faster to what people pictured. KISS/YAGNI/DRY, context decides. No overengineering. Clean architecture that works.",
+      "stars": 298,
+      "forks": 53,
       "language": "Python",
-      "pushed_at": "2026-06-11T18:47:21Z",
-      "updated_at": "2026-06-11T18:47:46Z"
+      "pushed_at": "2026-06-11T21:17:46Z",
+      "updated_at": "2026-06-11T21:17:51Z"
     },
     {
       "id": 1174756063,
@@ -125,19 +114,19 @@
       "stars": 177,
       "forks": 6,
       "language": "Rust",
-      "pushed_at": "2026-06-11T18:37:00Z",
-      "updated_at": "2026-06-11T18:29:47Z"
+      "pushed_at": "2026-06-11T21:33:48Z",
+      "updated_at": "2026-06-11T21:30:22Z"
     },
     {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 150,
-      "forks": 242,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T18:35:54Z",
-      "updated_at": "2026-06-11T18:35:58Z"
+      "id": 1242620513,
+      "full_name": "Patdolitse/piia-engram",
+      "html_url": "https://github.com/Patdolitse/piia-engram",
+      "description": "Local-first AI memory you can see, edit, and override — portable across Claude Code, Codex, Cursor, Windsurf, and other MCP coding tools.",
+      "stars": 164,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-06-11T21:52:06Z",
+      "updated_at": "2026-06-11T21:52:10Z"
     },
     {
       "id": 1156623779,
@@ -147,30 +136,41 @@
       "stars": 144,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T18:45:17Z",
-      "updated_at": "2026-06-11T18:45:28Z"
+      "pushed_at": "2026-06-11T21:17:42Z",
+      "updated_at": "2026-06-11T21:17:47Z"
     },
     {
-      "id": 1137824855,
-      "full_name": "aofp/yume",
-      "html_url": "https://github.com/aofp/yume",
-      "description": "Native desktop UI for Claude Code with orchestration, streaming, background agents, and multi-provider support. Built with Tauri + React.",
-      "stars": 140,
-      "forks": 6,
-      "language": "HTML",
-      "pushed_at": "2026-06-11T18:46:08Z",
-      "updated_at": "2026-06-11T18:47:06Z"
+      "id": 1227043167,
+      "full_name": "rajudandigam/agent-inspect",
+      "html_url": "https://github.com/rajudandigam/agent-inspect",
+      "description": "Local execution trees for TypeScript AI agents.  agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal.  It is built for TypeScript/Node.js developers..",
+      "stars": 95,
+      "forks": 81,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-11T22:02:39Z",
+      "updated_at": "2026-06-11T22:02:43Z"
     },
     {
-      "id": 1136535021,
-      "full_name": "govctl-org/govctl",
-      "html_url": "https://github.com/govctl-org/govctl",
-      "description": "A governance harness for AI coding.",
-      "stars": 123,
-      "forks": 8,
-      "language": "Rust",
-      "pushed_at": "2026-06-11T18:33:14Z",
-      "updated_at": "2026-06-11T18:31:52Z"
+      "id": 1003530246,
+      "full_name": "cyanheads/clinicaltrialsgov-mcp-server",
+      "html_url": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server",
+      "description": "Search ClinicalTrials.gov trials, retrieve study details and results, and match patients to eligible trials via MCP. STDIO or Streamable HTTP. ",
+      "stars": 79,
+      "forks": 21,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-11T21:09:26Z",
+      "updated_at": "2026-06-11T21:09:30Z"
+    },
+    {
+      "id": 1020628118,
+      "full_name": "serac-labs/serac",
+      "html_url": "https://github.com/serac-labs/serac",
+      "description": "Serac — open-source AI build agent for ServiceNow. 400+ MCP tools, bring-your-own LLM keys (Claude/GPT/Gemini/Ollama). Read a story, ship the update set.",
+      "stars": 75,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-11T21:42:42Z",
+      "updated_at": "2026-06-11T21:38:18Z"
     }
   ]
 }
