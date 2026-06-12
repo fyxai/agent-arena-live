@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 887,
+  "total_found": 889,
   "items": [
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 191833,
-      "forks": 33395,
-      "language": "Python",
-      "pushed_at": "2026-06-12T18:03:55Z",
-      "updated_at": "2026-06-12T18:08:29Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47248,
-      "forks": 4481,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-12T17:55:53Z",
-      "updated_at": "2026-06-12T18:07:19Z"
-    },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34846,
-      "forks": 4345,
+      "stars": 34869,
+      "forks": 4346,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T17:50:50Z",
-      "updated_at": "2026-06-12T18:02:58Z"
+      "pushed_at": "2026-06-12T21:50:56Z",
+      "updated_at": "2026-06-12T21:48:27Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 28638,
-      "forks": 8723,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 17864,
+      "forks": 1152,
+      "language": "HTML",
+      "pushed_at": "2026-06-12T21:21:50Z",
+      "updated_at": "2026-06-12T21:37:45Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 12098,
+      "forks": 1022,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T17:11:06Z",
-      "updated_at": "2026-06-12T17:57:21Z"
-    },
-    {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 11939,
-      "forks": 2296,
-      "language": "Python",
-      "pushed_at": "2026-06-12T17:22:00Z",
-      "updated_at": "2026-06-12T18:05:29Z"
-    },
-    {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 8541,
-      "forks": 796,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-12T17:34:34Z",
-      "updated_at": "2026-06-12T17:42:24Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4557,
-      "forks": 449,
-      "language": "Python",
-      "pushed_at": "2026-06-12T17:48:03Z",
-      "updated_at": "2026-06-12T16:56:43Z"
+      "pushed_at": "2026-06-12T21:36:45Z",
+      "updated_at": "2026-06-12T21:49:48Z"
     },
     {
       "id": 220867748,
       "full_name": "neomjs/neo",
       "html_url": "https://github.com/neomjs/neo",
       "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3202,
+      "stars": 3203,
       "forks": 212,
       "language": "JavaScript",
-      "pushed_at": "2026-06-12T17:06:28Z",
-      "updated_at": "2026-06-12T17:06:35Z"
+      "pushed_at": "2026-06-12T21:36:41Z",
+      "updated_at": "2026-06-12T21:35:51Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1126,
-      "forks": 67,
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "stars": 1040,
+      "forks": 166,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T18:03:37Z",
-      "updated_at": "2026-06-12T17:02:44Z"
+      "pushed_at": "2026-06-12T20:48:57Z",
+      "updated_at": "2026-06-12T21:46:25Z"
     },
     {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-      "stars": 1085,
-      "forks": 154,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 725,
+      "forks": 69,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-12T21:46:49Z",
+      "updated_at": "2026-06-12T21:46:53Z"
+    },
+    {
+      "id": 1153919891,
+      "full_name": "redwoodjs/agent-ci",
+      "html_url": "https://github.com/redwoodjs/agent-ci",
+      "description": "Agent-CI is local GitHub Actions for your agents.",
+      "stars": 705,
+      "forks": 16,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-12T20:45:19Z",
+      "updated_at": "2026-06-12T21:46:02Z"
+    },
+    {
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 691,
+      "forks": 48,
+      "language": "Python",
+      "pushed_at": "2026-06-12T21:10:13Z",
+      "updated_at": "2026-06-12T21:13:28Z"
+    },
+    {
+      "id": 1164646909,
+      "full_name": "jazzenchen/VibeAround",
+      "html_url": "https://github.com/jazzenchen/VibeAround",
+      "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
+      "stars": 380,
+      "forks": 44,
       "language": "Rust",
-      "pushed_at": "2026-06-12T17:35:24Z",
-      "updated_at": "2026-06-12T17:35:30Z"
+      "pushed_at": "2026-06-12T20:41:48Z",
+      "updated_at": "2026-06-12T20:41:53Z"
     },
     {
       "id": 1230293192,
       "full_name": "Lilac-Labs/gini-agent",
       "html_url": "https://github.com/Lilac-Labs/gini-agent",
       "description": "The agent that remembers and learns.",
-      "stars": 333,
+      "stars": 335,
       "forks": 75,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T17:40:20Z",
-      "updated_at": "2026-06-12T17:27:00Z"
+      "pushed_at": "2026-06-12T20:55:32Z",
+      "updated_at": "2026-06-12T21:41:55Z"
+    },
+    {
+      "id": 1166995215,
+      "full_name": "CodeAlta/CodeAlta",
+      "html_url": "https://github.com/CodeAlta/CodeAlta",
+      "description": "Your efficient agentic AI coding CLI assistant",
+      "stars": 190,
+      "forks": 12,
+      "language": "C#",
+      "pushed_at": "2026-06-12T20:44:15Z",
+      "updated_at": "2026-06-12T20:44:46Z"
+    },
+    {
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 159,
+      "forks": 257,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-12T21:35:16Z",
+      "updated_at": "2026-06-12T21:35:20Z"
+    },
+    {
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+      "stars": 152,
+      "forks": 2,
+      "language": "Rust",
+      "pushed_at": "2026-06-12T21:15:11Z",
+      "updated_at": "2026-06-12T21:17:53Z"
+    },
+    {
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Claude Code plugin + MCP server for ComfyUI — 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing from your Claude session. Generate images & video, manage models and custom nodes.",
+      "stars": 145,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-12T21:45:01Z",
+      "updated_at": "2026-06-12T21:45:04Z"
     },
     {
       "id": 1156623779,
       "full_name": "dcostenco/prism-coder",
       "html_url": "https://github.com/dcostenco/prism-coder",
       "description": "Persistent memory + local AI for coding agents. 1.7B–32B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
-      "stars": 144,
+      "stars": 145,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-06-12T17:14:47Z",
-      "updated_at": "2026-06-12T17:15:10Z"
-    },
-    {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
-      "stars": 141,
-      "forks": 32,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-12T18:08:03Z",
-      "updated_at": "2026-06-12T17:50:58Z"
-    },
-    {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 123,
-      "forks": 40,
-      "language": "Python",
-      "pushed_at": "2026-06-12T18:07:21Z",
-      "updated_at": "2026-06-12T18:07:30Z"
-    },
-    {
-      "id": 1184635586,
-      "full_name": "pivoshenko/kasetto",
-      "html_url": "https://github.com/pivoshenko/kasetto",
-      "description": "📼 A declarative AI agent environment manager, written in Rust",
-      "stars": 105,
-      "forks": 6,
-      "language": "Rust",
-      "pushed_at": "2026-06-12T17:04:39Z",
-      "updated_at": "2026-06-12T17:04:55Z"
+      "pushed_at": "2026-06-12T21:20:38Z",
+      "updated_at": "2026-06-12T21:51:04Z"
     }
   ]
 }
