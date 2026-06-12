@@ -5,51 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 883,
+  "total_found": 884,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 190941,
-      "forks": 33140,
+      "stars": 191163,
+      "forks": 33214,
       "language": "Python",
-      "pushed_at": "2026-06-11T22:03:14Z",
-      "updated_at": "2026-06-11T22:03:23Z"
+      "pushed_at": "2026-06-12T04:15:08Z",
+      "updated_at": "2026-06-12T04:24:37Z"
+    },
+    {
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45236,
+      "forks": 10194,
+      "language": "Python",
+      "pushed_at": "2026-06-12T03:55:09Z",
+      "updated_at": "2026-06-12T04:01:10Z"
+    },
+    {
+      "id": 291438522,
+      "full_name": "siyuan-note/siyuan",
+      "html_url": "https://github.com/siyuan-note/siyuan",
+      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+      "stars": 44402,
+      "forks": 2835,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-12T03:58:45Z",
+      "updated_at": "2026-06-12T04:07:01Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 34718,
-      "forks": 4333,
+      "stars": 34753,
+      "forks": 4335,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T21:47:04Z",
-      "updated_at": "2026-06-11T22:00:12Z"
+      "pushed_at": "2026-06-12T04:00:32Z",
+      "updated_at": "2026-06-12T04:19:48Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22712,
-      "forks": 3788,
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 22720,
+      "forks": 2660,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T21:49:40Z",
-      "updated_at": "2026-06-11T21:41:00Z"
+      "pushed_at": "2026-06-12T04:14:43Z",
+      "updated_at": "2026-06-12T03:59:19Z"
     },
     {
-      "id": 1010318950,
-      "full_name": "SWE-agent/mini-swe-agent",
-      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
-      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
-      "stars": 5097,
-      "forks": 697,
-      "language": "Python",
-      "pushed_at": "2026-06-11T21:46:04Z",
-      "updated_at": "2026-06-11T21:45:03Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 21324,
+      "forks": 1274,
+      "language": "Go",
+      "pushed_at": "2026-06-12T04:23:21Z",
+      "updated_at": "2026-06-12T04:22:21Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 11951,
+      "forks": 1011,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-12T04:15:27Z",
+      "updated_at": "2026-06-12T04:05:53Z"
     },
     {
       "id": 220867748,
@@ -59,63 +92,41 @@
       "stars": 3202,
       "forks": 212,
       "language": "JavaScript",
-      "pushed_at": "2026-06-11T22:01:47Z",
-      "updated_at": "2026-06-11T22:01:50Z"
+      "pushed_at": "2026-06-12T04:13:53Z",
+      "updated_at": "2026-06-12T04:13:55Z"
     },
     {
-      "id": 1051086270,
-      "full_name": "inkeep/agents",
-      "html_url": "https://github.com/inkeep/agents",
-      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
-      "stars": 1195,
-      "forks": 144,
+      "id": 114540126,
+      "full_name": "SciSharp/BotSharp",
+      "html_url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "stars": 3068,
+      "forks": 639,
+      "language": "C#",
+      "pushed_at": "2026-06-12T04:01:58Z",
+      "updated_at": "2026-06-12T04:02:03Z"
+    },
+    {
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 1388,
+      "forks": 202,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-12T04:24:46Z",
+      "updated_at": "2026-06-12T04:24:51Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1125,
+      "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T21:12:28Z",
-      "updated_at": "2026-06-11T21:12:30Z"
-    },
-    {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
-      "stars": 629,
-      "forks": 47,
-      "language": "Python",
-      "pushed_at": "2026-06-11T21:40:21Z",
-      "updated_at": "2026-06-11T21:40:25Z"
-    },
-    {
-      "id": 803221216,
-      "full_name": "devforth/adminforth",
-      "html_url": "https://github.com/devforth/adminforth",
-      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
-      "stars": 409,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T21:45:20Z",
-      "updated_at": "2026-06-11T21:45:23Z"
-    },
-    {
-      "id": 1001910659,
-      "full_name": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
-      "html_url": "https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas",
-      "description": "ATLAS: a senior-engineer layer for Claude Code. Explore with wireframes & prototypes, clarify the essentials, capture it in living HTML then let Claude Code's native plan/goal/workflow loop build. Fewer tokens, less ceremony, faster to what people pictured. KISS/YAGNI/DRY, context decides. No overengineering. Clean architecture that works.",
-      "stars": 298,
-      "forks": 53,
-      "language": "Python",
-      "pushed_at": "2026-06-11T21:17:46Z",
-      "updated_at": "2026-06-11T21:17:51Z"
-    },
-    {
-      "id": 1174756063,
-      "full_name": "bitrouter/bitrouter",
-      "html_url": "https://github.com/bitrouter/bitrouter",
-      "description": "An open-source LLM router that optimize your agent for cost and performance — with every run.",
-      "stars": 177,
-      "forks": 6,
-      "language": "Rust",
-      "pushed_at": "2026-06-11T21:33:48Z",
-      "updated_at": "2026-06-11T21:30:22Z"
+      "pushed_at": "2026-06-12T04:25:00Z",
+      "updated_at": "2026-06-12T04:07:27Z"
     },
     {
       "id": 1242620513,
@@ -125,52 +136,41 @@
       "stars": 164,
       "forks": 9,
       "language": "Python",
-      "pushed_at": "2026-06-11T21:52:06Z",
-      "updated_at": "2026-06-11T21:52:10Z"
+      "pushed_at": "2026-06-12T04:16:26Z",
+      "updated_at": "2026-06-12T04:16:03Z"
     },
     {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-coder",
-      "html_url": "https://github.com/dcostenco/prism-coder",
-      "description": "Persistent memory + local AI for coding agents. 1.7B–32B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
-      "stars": 144,
-      "forks": 24,
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 155,
+      "forks": 249,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T21:17:42Z",
-      "updated_at": "2026-06-11T21:17:47Z"
+      "pushed_at": "2026-06-12T04:14:42Z",
+      "updated_at": "2026-06-12T04:14:46Z"
     },
     {
-      "id": 1227043167,
-      "full_name": "rajudandigam/agent-inspect",
-      "html_url": "https://github.com/rajudandigam/agent-inspect",
-      "description": "Local execution trees for TypeScript AI agents.  agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal.  It is built for TypeScript/Node.js developers..",
-      "stars": 95,
-      "forks": 81,
+      "id": 1157740258,
+      "full_name": "agenticmail/agenticmail",
+      "html_url": "https://github.com/agenticmail/agenticmail",
+      "description": "Email, SMS & phone-call infrastructure for AI agents — send and receive real email and text messages, and place agent-driven outbound voice calls, all programmatically",
+      "stars": 145,
+      "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T22:02:39Z",
-      "updated_at": "2026-06-11T22:02:43Z"
+      "pushed_at": "2026-06-12T04:21:24Z",
+      "updated_at": "2026-06-12T04:21:30Z"
     },
     {
-      "id": 1003530246,
-      "full_name": "cyanheads/clinicaltrialsgov-mcp-server",
-      "html_url": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server",
-      "description": "Search ClinicalTrials.gov trials, retrieve study details and results, and match patients to eligible trials via MCP. STDIO or Streamable HTTP. ",
-      "stars": 79,
-      "forks": 21,
+      "id": 1186822753,
+      "full_name": "openwong2kim/wmux",
+      "html_url": "https://github.com/openwong2kim/wmux",
+      "description": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+      "stars": 140,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-06-11T21:09:26Z",
-      "updated_at": "2026-06-11T21:09:30Z"
-    },
-    {
-      "id": 1020628118,
-      "full_name": "serac-labs/serac",
-      "html_url": "https://github.com/serac-labs/serac",
-      "description": "Serac — open-source AI build agent for ServiceNow. 400+ MCP tools, bring-your-own LLM keys (Claude/GPT/Gemini/Ollama). Read a story, ship the update set.",
-      "stars": 75,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-11T21:42:42Z",
-      "updated_at": "2026-06-11T21:38:18Z"
+      "pushed_at": "2026-06-12T04:09:49Z",
+      "updated_at": "2026-06-12T04:09:51Z"
     }
   ]
 }
