@@ -5,128 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 891,
+  "total_found": 892,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 192583,
-      "forks": 33587,
+      "stars": 192700,
+      "forks": 33626,
       "language": "Python",
-      "pushed_at": "2026-06-13T17:14:05Z",
-      "updated_at": "2026-06-13T17:20:51Z"
+      "pushed_at": "2026-06-13T21:09:01Z",
+      "updated_at": "2026-06-13T21:20:22Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 42395,
-      "forks": 40191,
+      "stars": 42404,
+      "forks": 40193,
       "language": "Python",
-      "pushed_at": "2026-06-13T17:08:46Z",
-      "updated_at": "2026-06-13T17:06:46Z"
+      "pushed_at": "2026-06-13T19:09:52Z",
+      "updated_at": "2026-06-13T21:05:50Z"
+    },
+    {
+      "id": 1181982220,
+      "full_name": "jackwener/OpenCLI",
+      "html_url": "https://github.com/jackwener/OpenCLI",
+      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+      "stars": 24261,
+      "forks": 2433,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-13T20:29:17Z",
+      "updated_at": "2026-06-13T20:29:21Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 21752,
+      "stars": 21767,
       "forks": 1302,
       "language": "Go",
-      "pushed_at": "2026-06-13T17:26:26Z",
-      "updated_at": "2026-06-13T17:15:06Z"
+      "pushed_at": "2026-06-13T20:13:49Z",
+      "updated_at": "2026-06-13T21:09:43Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 3551,
-      "forks": 236,
+      "id": 1213049020,
+      "full_name": "browser-use/browser-harness",
+      "html_url": "https://github.com/browser-use/browser-harness",
+      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+      "stars": 14770,
+      "forks": 1389,
       "language": "Python",
-      "pushed_at": "2026-06-13T17:08:19Z",
-      "updated_at": "2026-06-13T17:08:23Z"
+      "pushed_at": "2026-06-13T20:57:18Z",
+      "updated_at": "2026-06-13T21:19:46Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2366,
-      "forks": 410,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 12224,
+      "forks": 1038,
       "language": "TypeScript",
-      "pushed_at": "2026-06-13T16:43:17Z",
-      "updated_at": "2026-06-13T16:58:37Z"
+      "pushed_at": "2026-06-13T20:53:11Z",
+      "updated_at": "2026-06-13T21:06:29Z"
     },
     {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
-      "stars": 2211,
-      "forks": 222,
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 12040,
+      "forks": 2318,
+      "language": "Python",
+      "pushed_at": "2026-06-13T21:12:04Z",
+      "updated_at": "2026-06-13T21:12:08Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3203,
+      "forks": 212,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-13T21:15:47Z",
+      "updated_at": "2026-06-13T21:09:56Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1065,
+      "forks": 196,
       "language": "Go",
-      "pushed_at": "2026-06-13T17:11:13Z",
-      "updated_at": "2026-06-13T17:11:18Z"
+      "pushed_at": "2026-06-13T21:09:41Z",
+      "updated_at": "2026-06-13T21:09:46Z"
     },
     {
-      "id": 1181318933,
-      "full_name": "wuji-labs/nopua",
-      "html_url": "https://github.com/wuji-labs/nopua",
-      "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
-      "stars": 1322,
-      "forks": 44,
-      "language": "Python",
-      "pushed_at": "2026-06-13T17:22:04Z",
-      "updated_at": "2026-06-13T17:21:06Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1127,
-      "forks": 67,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 729,
+      "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-13T17:23:11Z",
-      "updated_at": "2026-06-13T17:09:52Z"
-    },
-    {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-      "stars": 1087,
-      "forks": 155,
-      "language": "Rust",
-      "pushed_at": "2026-06-13T17:00:17Z",
-      "updated_at": "2026-06-13T17:00:23Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 350,
-      "forks": 67,
-      "language": "Python",
-      "pushed_at": "2026-06-13T17:03:18Z",
-      "updated_at": "2026-06-13T16:57:31Z"
-    },
-    {
-      "id": 1170397757,
-      "full_name": "scitix/siclaw",
-      "html_url": "https://github.com/scitix/siclaw",
-      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
-      "stars": 213,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-13T17:22:50Z",
-      "updated_at": "2026-06-13T16:47:44Z"
+      "pushed_at": "2026-06-13T19:38:19Z",
+      "updated_at": "2026-06-13T19:25:52Z"
     },
     {
       "id": 1174756063,
@@ -136,19 +125,19 @@
       "stars": 179,
       "forks": 8,
       "language": "Rust",
-      "pushed_at": "2026-06-13T16:49:24Z",
-      "updated_at": "2026-06-13T16:43:19Z"
+      "pushed_at": "2026-06-13T19:44:09Z",
+      "updated_at": "2026-06-13T19:39:43Z"
     },
     {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 123,
-      "forks": 39,
-      "language": "Python",
-      "pushed_at": "2026-06-13T17:24:34Z",
-      "updated_at": "2026-06-13T17:24:38Z"
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Claude Code plugin + MCP server for ComfyUI — 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing from your Claude session. Generate images & video, manage models and custom nodes.",
+      "stars": 150,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-13T20:27:31Z",
+      "updated_at": "2026-06-13T21:16:25Z"
     },
     {
       "id": 1189562423,
@@ -158,19 +147,30 @@
       "stars": 117,
       "forks": 40,
       "language": "Shell",
-      "pushed_at": "2026-06-13T17:04:54Z",
-      "updated_at": "2026-06-13T17:04:57Z"
+      "pushed_at": "2026-06-13T21:07:29Z",
+      "updated_at": "2026-06-13T21:07:32Z"
     },
     {
-      "id": 1239699520,
-      "full_name": "410979729/scope-recall-hermes",
-      "html_url": "https://github.com/410979729/scope-recall-hermes",
-      "description": "Hermes scoped memory provider with SQLite truth, LanceDB semantic recall, and nightly workflow digest.",
-      "stars": 94,
-      "forks": 9,
+      "id": 1261725242,
+      "full_name": "Light0305/Light-skills",
+      "html_url": "https://github.com/Light0305/Light-skills",
+      "description": "Light — 全流程科研技能包：28 个技能覆盖文献调研到投稿全流程，配套 9 个可核查知识库。适配主流 AI 编程客户端。",
+      "stars": 82,
+      "forks": 17,
       "language": "Python",
-      "pushed_at": "2026-06-13T16:49:55Z",
-      "updated_at": "2026-06-13T16:49:57Z"
+      "pushed_at": "2026-06-13T18:59:15Z",
+      "updated_at": "2026-06-13T18:59:19Z"
+    },
+    {
+      "id": 1188280950,
+      "full_name": "WingedGuardian/GENesis-AGI",
+      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
+      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+      "stars": 79,
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-06-13T21:15:17Z",
+      "updated_at": "2026-06-13T21:15:20Z"
     }
   ]
 }
