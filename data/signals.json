@@ -5,117 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 892,
+  "total_found": 896,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 192700,
-      "forks": 33626,
+      "stars": 192872,
+      "forks": 33663,
       "language": "Python",
-      "pushed_at": "2026-06-13T21:09:01Z",
-      "updated_at": "2026-06-13T21:20:22Z"
+      "pushed_at": "2026-06-14T04:36:25Z",
+      "updated_at": "2026-06-14T04:39:00Z"
     },
     {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 42404,
-      "forks": 40193,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 47289,
+      "forks": 4484,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T03:47:16Z",
+      "updated_at": "2026-06-14T04:05:26Z"
+    },
+    {
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "stars": 27275,
+      "forks": 2430,
       "language": "Python",
-      "pushed_at": "2026-06-13T19:09:52Z",
-      "updated_at": "2026-06-13T21:05:50Z"
-    },
-    {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 24261,
-      "forks": 2433,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-13T20:29:17Z",
-      "updated_at": "2026-06-13T20:29:21Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 21767,
-      "forks": 1302,
-      "language": "Go",
-      "pushed_at": "2026-06-13T20:13:49Z",
-      "updated_at": "2026-06-13T21:09:43Z"
-    },
-    {
-      "id": 1213049020,
-      "full_name": "browser-use/browser-harness",
-      "html_url": "https://github.com/browser-use/browser-harness",
-      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "stars": 14770,
-      "forks": 1389,
-      "language": "Python",
-      "pushed_at": "2026-06-13T20:57:18Z",
-      "updated_at": "2026-06-13T21:19:46Z"
+      "pushed_at": "2026-06-14T03:29:40Z",
+      "updated_at": "2026-06-14T04:40:59Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 12224,
+      "stars": 12280,
       "forks": 1038,
       "language": "TypeScript",
-      "pushed_at": "2026-06-13T20:53:11Z",
-      "updated_at": "2026-06-13T21:06:29Z"
+      "pushed_at": "2026-06-14T03:41:23Z",
+      "updated_at": "2026-06-14T04:31:09Z"
     },
     {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 12040,
-      "forks": 2318,
-      "language": "Python",
-      "pushed_at": "2026-06-13T21:12:04Z",
-      "updated_at": "2026-06-13T21:12:08Z"
-    },
-    {
-      "id": 220867748,
-      "full_name": "neomjs/neo",
-      "html_url": "https://github.com/neomjs/neo",
-      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3203,
-      "forks": 212,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-13T21:15:47Z",
-      "updated_at": "2026-06-13T21:09:56Z"
-    },
-    {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1065,
-      "forks": 196,
-      "language": "Go",
-      "pushed_at": "2026-06-13T21:09:41Z",
-      "updated_at": "2026-06-13T21:09:46Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 729,
-      "forks": 69,
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 7871,
+      "forks": 965,
       "language": "TypeScript",
-      "pushed_at": "2026-06-13T19:38:19Z",
-      "updated_at": "2026-06-13T19:25:52Z"
+      "pushed_at": "2026-06-14T04:18:36Z",
+      "updated_at": "2026-06-14T04:01:40Z"
+    },
+    {
+      "id": 704959035,
+      "full_name": "WeThinkIn/AIGC-Interview-Book",
+      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+      "stars": 3925,
+      "forks": 411,
+      "language": "Unknown",
+      "pushed_at": "2026-06-14T03:41:57Z",
+      "updated_at": "2026-06-14T03:42:03Z"
+    },
+    {
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+      "stars": 1088,
+      "forks": 155,
+      "language": "Rust",
+      "pushed_at": "2026-06-14T04:34:52Z",
+      "updated_at": "2026-06-14T04:34:54Z"
+    },
+    {
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 627,
+      "forks": 48,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T03:40:12Z",
+      "updated_at": "2026-06-14T03:40:16Z"
+    },
+    {
+      "id": 1245256564,
+      "full_name": "Eynzof/Hermes-CN-Desktop",
+      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 410,
+      "forks": 23,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T04:39:22Z",
+      "updated_at": "2026-06-14T04:39:25Z"
     },
     {
       "id": 1174756063,
@@ -125,52 +114,63 @@
       "stars": 179,
       "forks": 8,
       "language": "Rust",
-      "pushed_at": "2026-06-13T19:44:09Z",
-      "updated_at": "2026-06-13T19:39:43Z"
+      "pushed_at": "2026-06-14T04:12:53Z",
+      "updated_at": "2026-06-14T03:59:37Z"
     },
     {
-      "id": 1158621117,
-      "full_name": "artokun/comfyui-mcp",
-      "html_url": "https://github.com/artokun/comfyui-mcp",
-      "description": "Claude Code plugin + MCP server for ComfyUI — 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing from your Claude session. Generate images & video, manage models and custom nodes.",
-      "stars": 150,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-13T20:27:31Z",
-      "updated_at": "2026-06-13T21:16:25Z"
-    },
-    {
-      "id": 1189562423,
-      "full_name": "iPythoning/b2b-sdr-agent-template",
-      "html_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
-      "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw.",
-      "stars": 117,
-      "forks": 40,
+      "id": 1193276701,
+      "full_name": "iamtouchskyer/opc",
+      "html_url": "https://github.com/iamtouchskyer/opc",
+      "description": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
+      "stars": 170,
+      "forks": 39,
       "language": "Shell",
-      "pushed_at": "2026-06-13T21:07:29Z",
-      "updated_at": "2026-06-13T21:07:32Z"
+      "pushed_at": "2026-06-14T03:50:52Z",
+      "updated_at": "2026-06-14T03:47:23Z"
     },
     {
-      "id": 1261725242,
-      "full_name": "Light0305/Light-skills",
-      "html_url": "https://github.com/Light0305/Light-skills",
-      "description": "Light — 全流程科研技能包：28 个技能覆盖文献调研到投稿全流程，配套 9 个可核查知识库。适配主流 AI 编程客户端。",
-      "stars": 82,
-      "forks": 17,
-      "language": "Python",
-      "pushed_at": "2026-06-13T18:59:15Z",
-      "updated_at": "2026-06-13T18:59:19Z"
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 163,
+      "forks": 267,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T03:37:18Z",
+      "updated_at": "2026-06-14T03:37:21Z"
     },
     {
-      "id": 1188280950,
-      "full_name": "WingedGuardian/GENesis-AGI",
-      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
-      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
-      "stars": 79,
-      "forks": 13,
+      "id": 1224734286,
+      "full_name": "Ikalus1988/MisakaNet",
+      "html_url": "https://github.com/Ikalus1988/MisakaNet",
+      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+      "stars": 125,
+      "forks": 39,
       "language": "Python",
-      "pushed_at": "2026-06-13T21:15:17Z",
-      "updated_at": "2026-06-13T21:15:20Z"
+      "pushed_at": "2026-06-14T04:01:46Z",
+      "updated_at": "2026-06-14T04:11:24Z"
+    },
+    {
+      "id": 1239699520,
+      "full_name": "410979729/scope-recall-hermes",
+      "html_url": "https://github.com/410979729/scope-recall-hermes",
+      "description": "Hermes scoped memory provider with SQLite truth, LanceDB semantic recall, and nightly workflow digest.",
+      "stars": 95,
+      "forks": 9,
+      "language": "Python",
+      "pushed_at": "2026-06-14T03:50:59Z",
+      "updated_at": "2026-06-14T03:50:58Z"
+    },
+    {
+      "id": 1227341286,
+      "full_name": "worldwonderer/video-recap-skills",
+      "html_url": "https://github.com/worldwonderer/video-recap-skills",
+      "description": "Turn any video into a narration recap in Claude Code｜用 Claude Code 把任何视频做成中文解说视频，支持剪映导出",
+      "stars": 95,
+      "forks": 11,
+      "language": "Python",
+      "pushed_at": "2026-06-14T04:10:12Z",
+      "updated_at": "2026-06-14T04:26:18Z"
     }
   ]
 }
