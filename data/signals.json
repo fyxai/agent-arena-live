@@ -5,73 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 899,
+  "total_found": 901,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47313,
-      "forks": 4484,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-14T13:48:41Z",
-      "updated_at": "2026-06-14T13:57:11Z"
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 193356,
+      "forks": 33795,
+      "language": "Python",
+      "pushed_at": "2026-06-14T17:13:13Z",
+      "updated_at": "2026-06-14T17:23:11Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 28221,
-      "forks": 2762,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22758,
+      "forks": 3803,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T14:10:57Z",
-      "updated_at": "2026-06-14T14:11:00Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 21961,
-      "forks": 1309,
-      "language": "Go",
-      "pushed_at": "2026-06-14T14:12:13Z",
-      "updated_at": "2026-06-14T14:00:54Z"
+      "pushed_at": "2026-06-14T16:58:20Z",
+      "updated_at": "2026-06-14T17:20:51Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 12358,
-      "forks": 1046,
+      "stars": 12375,
+      "forks": 1049,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T14:08:13Z",
-      "updated_at": "2026-06-14T14:08:18Z"
+      "pushed_at": "2026-06-14T17:04:36Z",
+      "updated_at": "2026-06-14T17:19:11Z"
     },
     {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 12137,
-      "forks": 2342,
+      "id": 1203558071,
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars": 5650,
+      "forks": 487,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T17:06:26Z",
+      "updated_at": "2026-06-14T17:16:27Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4564,
+      "forks": 452,
       "language": "Python",
-      "pushed_at": "2026-06-14T13:52:12Z",
-      "updated_at": "2026-06-14T14:02:50Z"
-    },
-    {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
-      "stars": 3334,
-      "forks": 415,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-14T13:56:52Z",
-      "updated_at": "2026-06-14T13:56:53Z"
+      "pushed_at": "2026-06-14T16:52:10Z",
+      "updated_at": "2026-06-14T16:42:10Z"
     },
     {
       "id": 220867748,
@@ -81,52 +70,41 @@
       "stars": 3204,
       "forks": 212,
       "language": "JavaScript",
-      "pushed_at": "2026-06-14T13:53:27Z",
-      "updated_at": "2026-06-14T13:53:26Z"
+      "pushed_at": "2026-06-14T17:20:54Z",
+      "updated_at": "2026-06-14T16:42:01Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1128,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-14T14:12:46Z",
-      "updated_at": "2026-06-14T14:03:57Z"
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+      "stars": 1093,
+      "forks": 156,
+      "language": "Rust",
+      "pushed_at": "2026-06-14T16:51:39Z",
+      "updated_at": "2026-06-14T16:51:42Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1067,
-      "forks": 197,
-      "language": "Go",
-      "pushed_at": "2026-06-14T13:39:59Z",
-      "updated_at": "2026-06-14T13:40:03Z"
-    },
-    {
-      "id": 1230831838,
-      "full_name": "OpenOSINT/OpenOSINT",
-      "html_url": "https://github.com/OpenOSINT/OpenOSINT",
-      "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
-      "stars": 641,
-      "forks": 110,
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
+      "stars": 701,
+      "forks": 49,
       "language": "Python",
-      "pushed_at": "2026-06-14T14:10:04Z",
-      "updated_at": "2026-06-14T14:10:09Z"
+      "pushed_at": "2026-06-14T17:21:36Z",
+      "updated_at": "2026-06-14T17:21:39Z"
     },
     {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 627,
-      "forks": 48,
+      "id": 1232030145,
+      "full_name": "freestylefly/wesight",
+      "html_url": "https://github.com/freestylefly/wesight",
+      "description": "Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing.",
+      "stars": 643,
+      "forks": 155,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T13:37:49Z",
-      "updated_at": "2026-06-14T13:34:20Z"
+      "pushed_at": "2026-06-14T16:57:45Z",
+      "updated_at": "2026-06-14T16:57:46Z"
     },
     {
       "id": 1154200345,
@@ -136,41 +114,63 @@
       "stars": 329,
       "forks": 25,
       "language": "HTML",
-      "pushed_at": "2026-06-14T13:51:16Z",
-      "updated_at": "2026-06-14T13:51:20Z"
+      "pushed_at": "2026-06-14T17:15:17Z",
+      "updated_at": "2026-06-14T17:15:21Z"
     },
     {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 326,
-      "forks": 60,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-14T13:41:23Z",
-      "updated_at": "2026-06-14T13:41:27Z"
-    },
-    {
-      "id": 1209910880,
-      "full_name": "RandallLiuXin/GodotMaker",
-      "html_url": "https://github.com/RandallLiuXin/GodotMaker",
-      "description": "Autonomous text-to-game pipeline for Godot, powered by Claude Code",
-      "stars": 299,
+      "id": 1156623779,
+      "full_name": "dcostenco/prism-coder",
+      "html_url": "https://github.com/dcostenco/prism-coder",
+      "description": "Persistent memory + local AI for coding agents. 1.7B–32B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
+      "stars": 146,
       "forks": 24,
-      "language": "Python",
-      "pushed_at": "2026-06-14T13:41:30Z",
-      "updated_at": "2026-06-14T13:43:42Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T17:21:16Z",
+      "updated_at": "2026-06-14T17:21:20Z"
     },
     {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 159,
-      "forks": 26,
+      "id": 1226657790,
+      "full_name": "Joanium/Joanium",
+      "html_url": "https://github.com/Joanium/Joanium",
+      "description": "Your smart, reliable, and friendly personal AI assistant.",
+      "stars": 93,
+      "forks": 12,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-14T17:08:08Z",
+      "updated_at": "2026-06-14T17:08:11Z"
+    },
+    {
+      "id": 1248315096,
+      "full_name": "vuejs-ai/vue-tui",
+      "html_url": "https://github.com/vuejs-ai/vue-tui",
+      "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
+      "stars": 88,
+      "forks": 1,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T17:23:23Z",
+      "updated_at": "2026-06-14T17:21:07Z"
+    },
+    {
+      "id": 1188280950,
+      "full_name": "WingedGuardian/GENesis-AGI",
+      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
+      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+      "stars": 79,
+      "forks": 13,
       "language": "Python",
-      "pushed_at": "2026-06-14T13:38:53Z",
-      "updated_at": "2026-06-14T13:38:58Z"
+      "pushed_at": "2026-06-14T17:13:35Z",
+      "updated_at": "2026-06-14T17:13:38Z"
+    },
+    {
+      "id": 1230321451,
+      "full_name": "alecs5am/ralphy",
+      "html_url": "https://github.com/alecs5am/ralphy",
+      "description": "🎬 Give AI agents tools to create viral videos. Influence at scale, from your terminal.",
+      "stars": 74,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T17:10:15Z",
+      "updated_at": "2026-06-14T17:10:22Z"
     }
   ]
 }
