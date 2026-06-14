@@ -12,11 +12,11 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 193356,
-      "forks": 33795,
+      "stars": 193457,
+      "forks": 33833,
       "language": "Python",
-      "pushed_at": "2026-06-14T17:13:13Z",
-      "updated_at": "2026-06-14T17:23:11Z"
+      "pushed_at": "2026-06-14T21:01:05Z",
+      "updated_at": "2026-06-14T21:13:19Z"
     },
     {
       "id": 573661753,
@@ -26,30 +26,19 @@
       "stars": 22758,
       "forks": 3803,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T16:58:20Z",
-      "updated_at": "2026-06-14T17:20:51Z"
+      "pushed_at": "2026-06-14T20:56:25Z",
+      "updated_at": "2026-06-14T20:20:36Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 12375,
-      "forks": 1049,
+      "stars": 12404,
+      "forks": 1051,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T17:04:36Z",
-      "updated_at": "2026-06-14T17:19:11Z"
-    },
-    {
-      "id": 1203558071,
-      "full_name": "TencentCloud/TencentDB-Agent-Memory",
-      "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "stars": 5650,
-      "forks": 487,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-14T17:06:26Z",
-      "updated_at": "2026-06-14T17:16:27Z"
+      "pushed_at": "2026-06-14T21:08:09Z",
+      "updated_at": "2026-06-14T21:08:13Z"
     },
     {
       "id": 1133901637,
@@ -59,8 +48,8 @@
       "stars": 4564,
       "forks": 452,
       "language": "Python",
-      "pushed_at": "2026-06-14T16:52:10Z",
-      "updated_at": "2026-06-14T16:42:10Z"
+      "pushed_at": "2026-06-14T20:04:29Z",
+      "updated_at": "2026-06-14T20:04:31Z"
     },
     {
       "id": 220867748,
@@ -70,52 +59,63 @@
       "stars": 3204,
       "forks": 212,
       "language": "JavaScript",
-      "pushed_at": "2026-06-14T17:20:54Z",
-      "updated_at": "2026-06-14T16:42:01Z"
+      "pushed_at": "2026-06-14T20:29:48Z",
+      "updated_at": "2026-06-14T20:02:15Z"
     },
     {
-      "id": 1215501706,
-      "full_name": "thClaws/thClaws",
-      "html_url": "https://github.com/thClaws/thClaws",
-      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
-      "stars": 1093,
-      "forks": 156,
-      "language": "Rust",
-      "pushed_at": "2026-06-14T16:51:39Z",
-      "updated_at": "2026-06-14T16:51:42Z"
-    },
-    {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 701,
-      "forks": 49,
+      "id": 1190557545,
+      "full_name": "eugeniughelbur/obsidian-second-brain",
+      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, and OpenCode. 43 commands - now with /obsidian-architect to document your codebase, key-less web research, Google Calendar, and self-rewriting notes.",
+      "stars": 2449,
+      "forks": 285,
       "language": "Python",
-      "pushed_at": "2026-06-14T17:21:36Z",
-      "updated_at": "2026-06-14T17:21:39Z"
+      "pushed_at": "2026-06-14T21:07:16Z",
+      "updated_at": "2026-06-14T21:07:20Z"
     },
     {
-      "id": 1232030145,
-      "full_name": "freestylefly/wesight",
-      "html_url": "https://github.com/freestylefly/wesight",
-      "description": "Open-source desktop AI agent workspace with one-click Claude Code, Codex, OpenClaw, Hermes Agent setup and custom LLM model routing.",
-      "stars": 643,
-      "forks": 155,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-14T16:57:45Z",
-      "updated_at": "2026-06-14T16:57:46Z"
+      "id": 1217551679,
+      "full_name": "r1n7aro/Locus",
+      "html_url": "https://github.com/r1n7aro/Locus",
+      "description": "The open source Unity Dev Agent",
+      "stars": 520,
+      "forks": 61,
+      "language": "Rust",
+      "pushed_at": "2026-06-14T20:35:32Z",
+      "updated_at": "2026-06-14T20:35:38Z"
     },
     {
-      "id": 1154200345,
-      "full_name": "yogsoth-ai/de-anthropocentric-research-engine",
-      "html_url": "https://github.com/yogsoth-ai/de-anthropocentric-research-engine",
-      "description": "800+ pure-markdown skills for autonomous AI research. Non-linear orchestration with backtracking, 4-layer military hierarchy (Campaign → Strategy → Tactic → SOP), 5 MCP integrations. The AI is the researcher — you set the direction.",
-      "stars": 329,
-      "forks": 25,
-      "language": "HTML",
-      "pushed_at": "2026-06-14T17:15:17Z",
-      "updated_at": "2026-06-14T17:15:21Z"
+      "id": 1164646909,
+      "full_name": "jazzenchen/VibeAround",
+      "html_url": "https://github.com/jazzenchen/VibeAround",
+      "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
+      "stars": 398,
+      "forks": 45,
+      "language": "Rust",
+      "pushed_at": "2026-06-14T19:58:21Z",
+      "updated_at": "2026-06-14T19:58:27Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 377,
+      "forks": 57,
+      "language": "Python",
+      "pushed_at": "2026-06-14T21:15:25Z",
+      "updated_at": "2026-06-14T21:13:38Z"
+    },
+    {
+      "id": 1166995215,
+      "full_name": "CodeAlta/CodeAlta",
+      "html_url": "https://github.com/CodeAlta/CodeAlta",
+      "description": "Your efficient agentic AI coding CLI assistant",
+      "stars": 192,
+      "forks": 13,
+      "language": "C#",
+      "pushed_at": "2026-06-14T20:04:03Z",
+      "updated_at": "2026-06-14T20:04:07Z"
     },
     {
       "id": 1156623779,
@@ -125,19 +125,8 @@
       "stars": 146,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T17:21:16Z",
-      "updated_at": "2026-06-14T17:21:20Z"
-    },
-    {
-      "id": 1226657790,
-      "full_name": "Joanium/Joanium",
-      "html_url": "https://github.com/Joanium/Joanium",
-      "description": "Your smart, reliable, and friendly personal AI assistant.",
-      "stars": 93,
-      "forks": 12,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-14T17:08:08Z",
-      "updated_at": "2026-06-14T17:08:11Z"
+      "pushed_at": "2026-06-14T20:36:31Z",
+      "updated_at": "2026-06-14T20:36:34Z"
     },
     {
       "id": 1248315096,
@@ -147,8 +136,8 @@
       "stars": 88,
       "forks": 1,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T17:23:23Z",
-      "updated_at": "2026-06-14T17:21:07Z"
+      "pushed_at": "2026-06-14T20:45:07Z",
+      "updated_at": "2026-06-14T20:45:11Z"
     },
     {
       "id": 1188280950,
@@ -158,8 +147,19 @@
       "stars": 79,
       "forks": 13,
       "language": "Python",
-      "pushed_at": "2026-06-14T17:13:35Z",
-      "updated_at": "2026-06-14T17:13:38Z"
+      "pushed_at": "2026-06-14T21:06:24Z",
+      "updated_at": "2026-06-14T20:42:20Z"
+    },
+    {
+      "id": 1020628118,
+      "full_name": "serac-labs/serac",
+      "html_url": "https://github.com/serac-labs/serac",
+      "description": "Serac — open-source AI build agent for ServiceNow. 400+ MCP tools, bring-your-own LLM keys (Claude/GPT/Gemini/Ollama). Read a story, ship the update set.",
+      "stars": 75,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-14T20:06:59Z",
+      "updated_at": "2026-06-14T20:02:15Z"
     },
     {
       "id": 1230321451,
@@ -169,8 +169,8 @@
       "stars": 74,
       "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-06-14T17:10:15Z",
-      "updated_at": "2026-06-14T17:10:22Z"
+      "pushed_at": "2026-06-14T20:55:52Z",
+      "updated_at": "2026-06-14T20:55:57Z"
     }
   ]
 }
