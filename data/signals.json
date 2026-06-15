@@ -5,40 +5,40 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 912,
+  "total_found": 913,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 194333,
-      "forks": 34069,
+      "stars": 194399,
+      "forks": 34075,
       "language": "Python",
-      "pushed_at": "2026-06-15T19:47:55Z",
-      "updated_at": "2026-06-15T19:50:02Z"
+      "pushed_at": "2026-06-15T22:07:09Z",
+      "updated_at": "2026-06-15T22:19:09Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35150,
+      "stars": 35155,
       "forks": 4366,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T19:49:21Z",
-      "updated_at": "2026-06-15T19:49:24Z"
+      "pushed_at": "2026-06-15T22:20:46Z",
+      "updated_at": "2026-06-15T22:10:27Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 12615,
-      "forks": 1068,
+      "stars": 12628,
+      "forks": 1070,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T19:37:43Z",
-      "updated_at": "2026-06-15T19:43:39Z"
+      "pushed_at": "2026-06-15T22:10:34Z",
+      "updated_at": "2026-06-15T22:14:26Z"
     },
     {
       "id": 609539715,
@@ -48,8 +48,30 @@
       "stars": 12597,
       "forks": 933,
       "language": "Python",
-      "pushed_at": "2026-06-15T19:43:04Z",
-      "updated_at": "2026-06-15T19:31:03Z"
+      "pushed_at": "2026-06-15T21:49:42Z",
+      "updated_at": "2026-06-15T21:30:26Z"
+    },
+    {
+      "id": 1045721921,
+      "full_name": "frankbria/ralph-claude-code",
+      "html_url": "https://github.com/frankbria/ralph-claude-code",
+      "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+      "stars": 9340,
+      "forks": 714,
+      "language": "Shell",
+      "pushed_at": "2026-06-15T22:19:26Z",
+      "updated_at": "2026-06-15T22:18:05Z"
+    },
+    {
+      "id": 1010318950,
+      "full_name": "SWE-agent/mini-swe-agent",
+      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "stars": 5193,
+      "forks": 712,
+      "language": "Python",
+      "pushed_at": "2026-06-15T22:21:19Z",
+      "updated_at": "2026-06-15T22:20:55Z"
     },
     {
       "id": 220867748,
@@ -59,63 +81,52 @@
       "stars": 3204,
       "forks": 212,
       "language": "JavaScript",
-      "pushed_at": "2026-06-15T19:48:11Z",
-      "updated_at": "2026-06-15T19:48:18Z"
+      "pushed_at": "2026-06-15T22:04:49Z",
+      "updated_at": "2026-06-15T21:32:01Z"
     },
     {
-      "id": 1200204014,
-      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
-      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
-      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
-      "stars": 1883,
-      "forks": 276,
-      "language": "Stata",
-      "pushed_at": "2026-06-15T19:43:42Z",
-      "updated_at": "2026-06-15T19:43:46Z"
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 1391,
+      "forks": 204,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-15T21:24:20Z",
+      "updated_at": "2026-06-15T21:24:40Z"
     },
     {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube 等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, YouTube, and more.",
-      "stars": 710,
-      "forks": 49,
-      "language": "Python",
-      "pushed_at": "2026-06-15T19:15:32Z",
-      "updated_at": "2026-06-15T19:15:37Z"
-    },
-    {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 472,
-      "forks": 51,
-      "language": "Python",
-      "pushed_at": "2026-06-15T19:12:15Z",
-      "updated_at": "2026-06-15T19:22:36Z"
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 732,
+      "forks": 69,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-15T21:44:00Z",
+      "updated_at": "2026-06-15T21:44:05Z"
     },
     {
       "id": 1230293192,
       "full_name": "Lilac-Labs/gini-agent",
       "html_url": "https://github.com/Lilac-Labs/gini-agent",
       "description": "The agent that remembers and learns.",
-      "stars": 419,
-      "forks": 98,
+      "stars": 422,
+      "forks": 99,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T19:36:29Z",
-      "updated_at": "2026-06-15T19:33:04Z"
+      "pushed_at": "2026-06-15T22:21:27Z",
+      "updated_at": "2026-06-15T22:04:45Z"
     },
     {
-      "id": 1183303405,
-      "full_name": "PlamenTSV/plamen",
-      "html_url": "https://github.com/PlamenTSV/plamen",
-      "description": "Autonomous Web3 security audit agent for Claude Code",
-      "stars": 247,
-      "forks": 45,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 379,
+      "forks": 58,
       "language": "Python",
-      "pushed_at": "2026-06-15T19:17:52Z",
-      "updated_at": "2026-06-15T19:12:21Z"
+      "pushed_at": "2026-06-15T21:12:36Z",
+      "updated_at": "2026-06-15T21:07:13Z"
     },
     {
       "id": 1174812893,
@@ -125,30 +136,30 @@
       "stars": 233,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T19:11:24Z",
-      "updated_at": "2026-06-15T19:11:27Z"
+      "pushed_at": "2026-06-15T20:37:52Z",
+      "updated_at": "2026-06-15T20:37:56Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 166,
+      "stars": 167,
       "forks": 276,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T19:36:24Z",
-      "updated_at": "2026-06-15T19:36:27Z"
+      "pushed_at": "2026-06-15T22:17:41Z",
+      "updated_at": "2026-06-15T22:17:45Z"
     },
     {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-coder",
-      "html_url": "https://github.com/dcostenco/prism-coder",
-      "description": "Persistent memory + local AI for coding agents. 1.7B–32B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
-      "stars": 146,
-      "forks": 24,
+      "id": 1186822753,
+      "full_name": "openwong2kim/wmux",
+      "html_url": "https://github.com/openwong2kim/wmux",
+      "description": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+      "stars": 158,
+      "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-06-15T19:21:13Z",
-      "updated_at": "2026-06-15T19:21:17Z"
+      "pushed_at": "2026-06-15T20:35:23Z",
+      "updated_at": "2026-06-15T20:52:16Z"
     },
     {
       "id": 1188280950,
@@ -158,19 +169,8 @@
       "stars": 79,
       "forks": 13,
       "language": "Python",
-      "pushed_at": "2026-06-15T19:29:07Z",
-      "updated_at": "2026-06-15T19:29:11Z"
-    },
-    {
-      "id": 1170129997,
-      "full_name": "0x0pointer/agent-smith",
-      "html_url": "https://github.com/0x0pointer/agent-smith",
-      "description": "\"Never send a human to do a machine's job\" - Open Source AI hacking agent",
-      "stars": 78,
-      "forks": 10,
-      "language": "Python",
-      "pushed_at": "2026-06-15T19:14:32Z",
-      "updated_at": "2026-06-15T19:14:29Z"
+      "pushed_at": "2026-06-15T21:19:09Z",
+      "updated_at": "2026-06-15T21:19:13Z"
     }
   ]
 }
