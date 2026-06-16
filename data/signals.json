@@ -5,106 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 913,
+  "total_found": 919,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 194621,
-      "forks": 34140,
+      "stars": 194991,
+      "forks": 34218,
       "language": "Python",
-      "pushed_at": "2026-06-16T04:51:01Z",
-      "updated_at": "2026-06-16T04:51:26Z"
+      "pushed_at": "2026-06-16T12:57:29Z",
+      "updated_at": "2026-06-16T12:57:31Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47390,
-      "forks": 4484,
+      "stars": 47416,
+      "forks": 4485,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:51:51Z",
-      "updated_at": "2026-06-16T04:37:45Z"
+      "pushed_at": "2026-06-16T12:49:43Z",
+      "updated_at": "2026-06-16T12:46:01Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35169,
-      "forks": 4368,
+      "stars": 35189,
+      "forks": 4370,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:32:06Z",
-      "updated_at": "2026-06-16T04:51:45Z"
+      "pushed_at": "2026-06-16T12:33:12Z",
+      "updated_at": "2026-06-16T12:48:24Z"
+    },
+    {
+      "id": 1165277268,
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 31524,
+      "forks": 2528,
+      "language": "Python",
+      "pushed_at": "2026-06-16T12:45:59Z",
+      "updated_at": "2026-06-16T12:55:51Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 28325,
-      "forks": 2778,
+      "stars": 28353,
+      "forks": 2784,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:00:48Z",
-      "updated_at": "2026-06-16T04:40:34Z"
+      "pushed_at": "2026-06-16T12:24:39Z",
+      "updated_at": "2026-06-16T12:47:12Z"
+    },
+    {
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "stars": 28227,
+      "forks": 2500,
+      "language": "Python",
+      "pushed_at": "2026-06-16T12:33:00Z",
+      "updated_at": "2026-06-16T12:56:26Z"
     },
     {
       "id": 306829688,
       "full_name": "nocobase/nocobase",
       "html_url": "https://github.com/nocobase/nocobase",
       "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 22917,
-      "forks": 2676,
+      "stars": 22945,
+      "forks": 2680,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:45:39Z",
-      "updated_at": "2026-06-16T04:43:10Z"
+      "pushed_at": "2026-06-16T12:55:04Z",
+      "updated_at": "2026-06-16T12:50:37Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 22360,
-      "forks": 1346,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22782,
+      "forks": 3802,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-16T12:57:38Z",
+      "updated_at": "2026-06-16T12:40:37Z"
+    },
+    {
+      "id": 1169101061,
+      "full_name": "AgentsMesh/AgentsMesh",
+      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
+      "description": "The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad.",
+      "stars": 2217,
+      "forks": 221,
       "language": "Go",
-      "pushed_at": "2026-06-16T04:30:05Z",
-      "updated_at": "2026-06-16T04:45:37Z"
+      "pushed_at": "2026-06-16T12:56:23Z",
+      "updated_at": "2026-06-16T12:39:26Z"
     },
     {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 11541,
-      "forks": 955,
-      "language": "Python",
-      "pushed_at": "2026-06-16T03:56:59Z",
-      "updated_at": "2026-06-16T04:07:54Z"
-    },
-    {
-      "id": 1147063571,
-      "full_name": "EvoMap/evolver",
-      "html_url": "https://github.com/EvoMap/evolver",
-      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-      "stars": 8702,
-      "forks": 799,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-16T03:57:16Z",
-      "updated_at": "2026-06-16T04:52:15Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-studio",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 7980,
-      "forks": 977,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:34:12Z",
-      "updated_at": "2026-06-16T04:45:10Z"
+      "id": 1111937658,
+      "full_name": "boxlite-ai/boxlite",
+      "html_url": "https://github.com/boxlite-ai/boxlite",
+      "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
+      "stars": 2127,
+      "forks": 132,
+      "language": "Rust",
+      "pushed_at": "2026-06-16T12:56:09Z",
+      "updated_at": "2026-06-16T12:55:58Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +125,52 @@
       "stars": 1128,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:49:59Z",
-      "updated_at": "2026-06-16T04:50:02Z"
+      "pushed_at": "2026-06-16T12:52:22Z",
+      "updated_at": "2026-06-16T12:52:25Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python!",
-      "stars": 611,
-      "forks": 81,
-      "language": "Python",
-      "pushed_at": "2026-06-16T04:06:42Z",
-      "updated_at": "2026-06-16T04:48:24Z"
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1078,
+      "forks": 198,
+      "language": "Go",
+      "pushed_at": "2026-06-16T12:48:12Z",
+      "updated_at": "2026-06-16T12:48:17Z"
     },
     {
-      "id": 1113476505,
-      "full_name": "ArtificialAnalysis/Stirrup",
-      "html_url": "https://github.com/ArtificialAnalysis/Stirrup",
-      "description": "The lightweight framework for building agents",
-      "stars": 442,
-      "forks": 48,
-      "language": "Python",
-      "pushed_at": "2026-06-16T03:56:32Z",
-      "updated_at": "2026-06-16T03:57:08Z"
+      "id": 1037868089,
+      "full_name": "best-of-ai/best-of-ai",
+      "html_url": "https://github.com/best-of-ai/best-of-ai",
+      "description": "A curated list of best ai tools",
+      "stars": 625,
+      "forks": 90,
+      "language": "HTML",
+      "pushed_at": "2026-06-16T12:44:23Z",
+      "updated_at": "2026-06-16T12:39:20Z"
     },
     {
-      "id": 1230293192,
-      "full_name": "Lilac-Labs/gini-agent",
-      "html_url": "https://github.com/Lilac-Labs/gini-agent",
-      "description": "The agent that remembers and learns.",
-      "stars": 427,
-      "forks": 101,
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 408,
+      "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:45:26Z",
-      "updated_at": "2026-06-16T04:06:57Z"
+      "pushed_at": "2026-06-16T12:52:52Z",
+      "updated_at": "2026-06-16T12:28:06Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 350,
-      "forks": 67,
+      "id": 1146575521,
+      "full_name": "EvoScientist/EvoSkills",
+      "html_url": "https://github.com/EvoScientist/EvoSkills",
+      "description": "🧬 Extend EvoScientist with Installable Skill & Knowledge Packs",
+      "stars": 397,
+      "forks": 42,
       "language": "Python",
-      "pushed_at": "2026-06-16T04:35:58Z",
-      "updated_at": "2026-06-16T04:36:01Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 170,
-      "forks": 280,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-16T04:52:03Z",
-      "updated_at": "2026-06-16T04:52:06Z"
+      "pushed_at": "2026-06-16T12:55:16Z",
+      "updated_at": "2026-06-16T12:55:22Z"
     }
   ]
 }
