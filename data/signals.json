@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 930,
+  "total_found": 932,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 196874,
-      "forks": 34738,
+      "stars": 196957,
+      "forks": 34767,
       "language": "Python",
-      "pushed_at": "2026-06-18T18:27:09Z",
-      "updated_at": "2026-06-18T18:27:39Z"
+      "pushed_at": "2026-06-18T22:16:15Z",
+      "updated_at": "2026-06-18T22:15:18Z"
     },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 54556,
-      "forks": 10823,
+      "stars": 54583,
+      "forks": 10829,
       "language": "JavaScript",
-      "pushed_at": "2026-06-18T17:38:20Z",
-      "updated_at": "2026-06-18T18:25:59Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47515,
-      "forks": 4502,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-18T17:57:12Z",
-      "updated_at": "2026-06-18T17:49:32Z"
-    },
-    {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 44435,
-      "forks": 7850,
-      "language": "Python",
-      "pushed_at": "2026-06-18T17:19:25Z",
-      "updated_at": "2026-06-18T18:11:45Z"
+      "pushed_at": "2026-06-18T21:59:26Z",
+      "updated_at": "2026-06-18T21:58:52Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35291,
+      "stars": 35293,
       "forks": 4377,
       "language": "TypeScript",
-      "pushed_at": "2026-06-18T18:21:40Z",
-      "updated_at": "2026-06-18T18:16:22Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 28487,
-      "forks": 2805,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-18T17:58:01Z",
-      "updated_at": "2026-06-18T18:19:58Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 23100,
-      "forks": 1386,
-      "language": "Go",
-      "pushed_at": "2026-06-18T17:47:50Z",
-      "updated_at": "2026-06-18T18:27:16Z"
+      "pushed_at": "2026-06-18T22:09:23Z",
+      "updated_at": "2026-06-18T22:09:26Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22816,
-      "forks": 3815,
+      "stars": 22815,
+      "forks": 3817,
       "language": "TypeScript",
-      "pushed_at": "2026-06-18T18:15:19Z",
-      "updated_at": "2026-06-18T18:21:15Z"
+      "pushed_at": "2026-06-18T21:28:20Z",
+      "updated_at": "2026-06-18T22:05:39Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 18466,
+      "forks": 1192,
+      "language": "HTML",
+      "pushed_at": "2026-06-18T21:55:35Z",
+      "updated_at": "2026-06-18T22:02:45Z"
+    },
+    {
+      "id": 169975410,
+      "full_name": "leon-ai/leon",
+      "html_url": "https://github.com/leon-ai/leon",
+      "description": "🧠 Leon is your open-source personal assistant.",
+      "stars": 17326,
+      "forks": 1446,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-18T21:53:55Z",
+      "updated_at": "2026-06-18T21:54:04Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 13342,
-      "forks": 1164,
+      "stars": 13368,
+      "forks": 1165,
       "language": "TypeScript",
-      "pushed_at": "2026-06-18T18:06:03Z",
-      "updated_at": "2026-06-18T18:19:40Z"
+      "pushed_at": "2026-06-18T22:13:17Z",
+      "updated_at": "2026-06-18T21:56:53Z"
+    },
+    {
+      "id": 1010318950,
+      "full_name": "SWE-agent/mini-swe-agent",
+      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "stars": 5272,
+      "forks": 718,
+      "language": "Python",
+      "pushed_at": "2026-06-18T21:37:06Z",
+      "updated_at": "2026-06-18T21:36:24Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 3750,
-      "forks": 418,
+      "stars": 3789,
+      "forks": 420,
       "language": "Python",
-      "pushed_at": "2026-06-18T18:26:44Z",
-      "updated_at": "2026-06-18T18:06:29Z"
+      "pushed_at": "2026-06-18T22:15:12Z",
+      "updated_at": "2026-06-18T22:15:31Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2665,
-      "forks": 576,
-      "language": "Python",
-      "pushed_at": "2026-06-18T17:34:12Z",
-      "updated_at": "2026-06-18T18:12:09Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3206,
+      "forks": 213,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-18T21:41:36Z",
+      "updated_at": "2026-06-18T21:41:43Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1128,
-      "forks": 69,
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1206,
+      "forks": 144,
       "language": "TypeScript",
-      "pushed_at": "2026-06-18T18:25:05Z",
-      "updated_at": "2026-06-18T18:12:17Z"
+      "pushed_at": "2026-06-18T21:26:48Z",
+      "updated_at": "2026-06-18T21:26:50Z"
     },
     {
-      "id": 1186842622,
-      "full_name": "Paca-AI/paca",
-      "html_url": "https://github.com/Paca-AI/paca",
-      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
-      "stars": 1030,
-      "forks": 63,
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1084,
+      "forks": 199,
       "language": "Go",
-      "pushed_at": "2026-06-18T18:01:32Z",
-      "updated_at": "2026-06-18T18:17:05Z"
+      "pushed_at": "2026-06-18T21:08:28Z",
+      "updated_at": "2026-06-18T21:08:34Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
+      "stars": 761,
+      "forks": 77,
+      "language": "Python",
+      "pushed_at": "2026-06-18T22:09:53Z",
+      "updated_at": "2026-06-18T22:09:57Z"
     },
     {
       "id": 1160289313,
       "full_name": "rcarmo/piclaw",
       "html_url": "https://github.com/rcarmo/piclaw",
       "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 731,
+      "stars": 733,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-18T17:42:19Z",
-      "updated_at": "2026-06-18T17:18:34Z"
+      "pushed_at": "2026-06-18T21:31:45Z",
+      "updated_at": "2026-06-18T21:31:50Z"
     },
     {
-      "id": 1230293192,
-      "full_name": "Lilac-Labs/gini-agent",
-      "html_url": "https://github.com/Lilac-Labs/gini-agent",
-      "description": "The agent that remembers and learns.",
-      "stars": 489,
-      "forks": 118,
+      "id": 1153919891,
+      "full_name": "redwoodjs/agent-ci",
+      "html_url": "https://github.com/redwoodjs/agent-ci",
+      "description": "Agent-CI is local GitHub Actions for your agents.",
+      "stars": 705,
+      "forks": 17,
       "language": "TypeScript",
-      "pushed_at": "2026-06-18T18:26:55Z",
-      "updated_at": "2026-06-18T18:26:57Z"
+      "pushed_at": "2026-06-18T21:54:17Z",
+      "updated_at": "2026-06-18T21:51:50Z"
     }
   ]
 }
