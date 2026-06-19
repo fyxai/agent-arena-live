@@ -5,84 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 932,
+  "total_found": 933,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 197097,
-      "forks": 34824,
+      "stars": 197323,
+      "forks": 34889,
       "language": "Python",
-      "pushed_at": "2026-06-19T04:45:39Z",
-      "updated_at": "2026-06-19T04:52:10Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47526,
-      "forks": 4502,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T04:37:54Z",
-      "updated_at": "2026-06-19T04:47:44Z"
+      "pushed_at": "2026-06-19T12:02:14Z",
+      "updated_at": "2026-06-19T12:10:12Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 43134,
-      "forks": 40801,
+      "stars": 43171,
+      "forks": 40836,
       "language": "Python",
-      "pushed_at": "2026-06-19T04:25:15Z",
-      "updated_at": "2026-06-19T04:49:56Z"
+      "pushed_at": "2026-06-19T12:09:57Z",
+      "updated_at": "2026-06-19T12:10:32Z"
     },
     {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
-      "stars": 8409,
-      "forks": 1309,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 35308,
+      "forks": 4376,
       "language": "TypeScript",
-      "pushed_at": "2026-06-19T04:03:30Z",
-      "updated_at": "2026-06-19T04:03:36Z"
+      "pushed_at": "2026-06-19T11:58:30Z",
+      "updated_at": "2026-06-19T11:58:34Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-studio",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 8091,
-      "forks": 994,
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 28520,
+      "forks": 2806,
       "language": "TypeScript",
-      "pushed_at": "2026-06-19T04:42:25Z",
-      "updated_at": "2026-06-19T04:42:30Z"
+      "pushed_at": "2026-06-19T11:53:26Z",
+      "updated_at": "2026-06-19T12:02:32Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 3828,
-      "forks": 426,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 22820,
+      "forks": 3820,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-19T11:57:25Z",
+      "updated_at": "2026-06-19T12:11:08Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 13449,
+      "forks": 1183,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-19T12:09:50Z",
+      "updated_at": "2026-06-19T11:55:37Z"
+    },
+    {
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 12960,
+      "forks": 1499,
       "language": "Python",
-      "pushed_at": "2026-06-19T04:51:35Z",
-      "updated_at": "2026-06-19T04:43:47Z"
-    },
-    {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 3278,
-      "forks": 922,
-      "language": "Go",
-      "pushed_at": "2026-06-19T04:04:54Z",
-      "updated_at": "2026-06-19T03:59:07Z"
+      "pushed_at": "2026-06-19T11:53:07Z",
+      "updated_at": "2026-06-19T11:53:16Z"
     },
     {
       "id": 220867748,
@@ -92,19 +92,8 @@
       "stars": 3207,
       "forks": 213,
       "language": "JavaScript",
-      "pushed_at": "2026-06-19T04:40:45Z",
-      "updated_at": "2026-06-19T04:40:46Z"
-    },
-    {
-      "id": 1218208502,
-      "full_name": "worldwonderer/oh-story-claudecode",
-      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
-      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-      "stars": 2726,
-      "forks": 475,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-19T04:31:36Z",
-      "updated_at": "2026-06-19T04:31:15Z"
+      "pushed_at": "2026-06-19T12:06:16Z",
+      "updated_at": "2026-06-19T11:57:51Z"
     },
     {
       "id": 1096175506,
@@ -114,52 +103,63 @@
       "stars": 1128,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-19T04:52:14Z",
-      "updated_at": "2026-06-19T04:51:24Z"
+      "pushed_at": "2026-06-19T12:11:18Z",
+      "updated_at": "2026-06-19T12:08:53Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1084,
-      "forks": 199,
-      "language": "Go",
-      "pushed_at": "2026-06-19T03:56:30Z",
-      "updated_at": "2026-06-19T03:56:33Z"
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1036,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-19T12:10:41Z",
+      "updated_at": "2026-06-19T12:10:50Z"
     },
     {
-      "id": 951163887,
-      "full_name": "garylab/MakeMoneyWithAI",
-      "html_url": "https://github.com/garylab/MakeMoneyWithAI",
-      "description": "A list of open-source AI projects you can use to generate income easily.",
-      "stars": 480,
-      "forks": 97,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 733,
+      "forks": 69,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-19T11:48:14Z",
+      "updated_at": "2026-06-19T11:48:18Z"
+    },
+    {
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 408,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-19T11:59:50Z",
+      "updated_at": "2026-06-19T11:59:17Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 380,
+      "forks": 58,
       "language": "Python",
-      "pushed_at": "2026-06-19T04:01:55Z",
-      "updated_at": "2026-06-19T04:02:00Z"
+      "pushed_at": "2026-06-19T12:10:48Z",
+      "updated_at": "2026-06-19T12:06:42Z"
     },
     {
-      "id": 1245256564,
-      "full_name": "Eynzof/Hermes-CN-Desktop",
-      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
-      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
-      "stars": 444,
-      "forks": 27,
+      "id": 1161723599,
+      "full_name": "AmrDab/clawdcursor",
+      "html_url": "https://github.com/AmrDab/clawdcursor",
+      "description": "clawdcursor compiles whatever's on screen into one UI map — accessibility tree and OCR fused into stable, addressable elements, with a screenshot only when needed — then drives apps through reusable scripts, verifying every action and routing it through a single safety gate.",
+      "stars": 340,
+      "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-06-19T04:02:53Z",
-      "updated_at": "2026-06-19T04:02:56Z"
-    },
-    {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 343,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T04:41:19Z",
-      "updated_at": "2026-06-19T04:41:24Z"
+      "pushed_at": "2026-06-19T12:08:30Z",
+      "updated_at": "2026-06-19T12:09:01Z"
     },
     {
       "id": 1227341286,
@@ -169,8 +169,8 @@
       "stars": 283,
       "forks": 49,
       "language": "Python",
-      "pushed_at": "2026-06-19T04:14:08Z",
-      "updated_at": "2026-06-19T04:14:11Z"
+      "pushed_at": "2026-06-19T11:52:53Z",
+      "updated_at": "2026-06-19T11:51:57Z"
     }
   ]
 }
