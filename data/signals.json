@@ -5,84 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 935,
+  "total_found": 936,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 197724,
-      "forks": 35020,
+      "stars": 197909,
+      "forks": 35078,
       "language": "Python",
-      "pushed_at": "2026-06-20T03:55:09Z",
-      "updated_at": "2026-06-20T04:07:51Z"
+      "pushed_at": "2026-06-20T10:06:03Z",
+      "updated_at": "2026-06-20T10:34:44Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47560,
-      "forks": 4508,
+      "stars": 47572,
+      "forks": 4510,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T03:54:48Z",
-      "updated_at": "2026-06-20T03:47:18Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-      "stars": 43217,
-      "forks": 40890,
-      "language": "Python",
-      "pushed_at": "2026-06-20T03:39:58Z",
-      "updated_at": "2026-06-20T04:03:43Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35322,
-      "forks": 4379,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T03:45:54Z",
-      "updated_at": "2026-06-20T03:55:31Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 23240,
-      "forks": 1401,
-      "language": "Go",
-      "pushed_at": "2026-06-20T04:02:17Z",
-      "updated_at": "2026-06-20T04:02:19Z"
+      "pushed_at": "2026-06-20T10:12:22Z",
+      "updated_at": "2026-06-20T10:18:53Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 13557,
-      "forks": 1199,
+      "stars": 13593,
+      "forks": 1205,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T03:44:18Z",
-      "updated_at": "2026-06-20T03:55:16Z"
+      "pushed_at": "2026-06-20T10:21:25Z",
+      "updated_at": "2026-06-20T10:35:12Z"
+    },
+    {
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 12716,
+      "forks": 2440,
+      "language": "Python",
+      "pushed_at": "2026-06-20T10:30:07Z",
+      "updated_at": "2026-06-20T10:30:11Z"
     },
     {
       "id": 1199668171,
       "full_name": "fathah/hermes-desktop",
       "html_url": "https://github.com/fathah/hermes-desktop",
       "description": "Desktop Companion for Hermes Agent",
-      "stars": 12444,
-      "forks": 1408,
+      "stars": 12459,
+      "forks": 1409,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T03:59:22Z",
-      "updated_at": "2026-06-20T03:59:27Z"
+      "pushed_at": "2026-06-20T09:40:39Z",
+      "updated_at": "2026-06-20T10:05:07Z"
     },
     {
       "id": 220867748,
@@ -92,19 +70,19 @@
       "stars": 3207,
       "forks": 213,
       "language": "JavaScript",
-      "pushed_at": "2026-06-20T04:02:30Z",
-      "updated_at": "2026-06-20T03:39:19Z"
+      "pushed_at": "2026-06-20T10:31:08Z",
+      "updated_at": "2026-06-20T10:31:07Z"
     },
     {
-      "id": 1218208502,
-      "full_name": "worldwonderer/oh-story-claudecode",
-      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
-      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-      "stars": 2752,
-      "forks": 475,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-20T03:41:49Z",
-      "updated_at": "2026-06-20T03:41:53Z"
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 2703,
+      "forks": 578,
+      "language": "Python",
+      "pushed_at": "2026-06-20T10:13:43Z",
+      "updated_at": "2026-06-20T10:13:46Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +92,85 @@
       "stars": 1129,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T04:04:28Z",
-      "updated_at": "2026-06-20T04:00:48Z"
+      "pushed_at": "2026-06-20T10:31:31Z",
+      "updated_at": "2026-06-20T10:31:33Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant",
-      "stars": 761,
-      "forks": 77,
+      "id": 1201201482,
+      "full_name": "mateaix/mateclaw",
+      "html_url": "https://github.com/mateaix/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "stars": 644,
+      "forks": 198,
+      "language": "Java",
+      "pushed_at": "2026-06-20T09:52:31Z",
+      "updated_at": "2026-06-20T09:52:35Z"
+    },
+    {
+      "id": 1210288370,
+      "full_name": "laolaoshiren/claude-code-skills-zh",
+      "html_url": "https://github.com/laolaoshiren/claude-code-skills-zh",
+      "description": "🛠️ 最实用的 Claude Code Skills 合集 | 精选 100+ | 18个原创可安装技能 | 按场景分类 | 复制即装",
+      "stars": 392,
+      "forks": 36,
       "language": "Python",
-      "pushed_at": "2026-06-20T04:01:45Z",
-      "updated_at": "2026-06-20T04:01:48Z"
+      "pushed_at": "2026-06-20T10:13:02Z",
+      "updated_at": "2026-06-20T10:13:06Z"
     },
     {
-      "id": 1193276701,
-      "full_name": "iamtouchskyer/opc",
-      "html_url": "https://github.com/iamtouchskyer/opc",
-      "description": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
-      "stars": 170,
-      "forks": 39,
-      "language": "Shell",
-      "pushed_at": "2026-06-20T04:02:04Z",
-      "updated_at": "2026-06-20T04:02:08Z"
+      "id": 1191737450,
+      "full_name": "xiaojilele-glitch/WhyBuddy",
+      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
+      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
+      "stars": 346,
+      "forks": 57,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T10:08:30Z",
+      "updated_at": "2026-06-20T10:08:34Z"
     },
     {
-      "id": 1191342623,
-      "full_name": "huabeitech/agent-desk",
-      "html_url": "https://github.com/huabeitech/agent-desk",
-      "description": "Open-source AI customer support system. AI-first support, human-ready operations.",
-      "stars": 142,
-      "forks": 38,
-      "language": "Go",
-      "pushed_at": "2026-06-20T03:43:37Z",
-      "updated_at": "2026-06-20T03:43:24Z"
+      "id": 1216780611,
+      "full_name": "JamesShi96/project-butler",
+      "html_url": "https://github.com/JamesShi96/project-butler",
+      "description": "Project memory system for AI coding assistants (Claude Code, Cursor, Codex): session logs, project wiki, rules, TODOs, and handoff.",
+      "stars": 200,
+      "forks": 11,
+      "language": "Unknown",
+      "pushed_at": "2026-06-20T10:30:31Z",
+      "updated_at": "2026-06-20T10:30:35Z"
     },
     {
-      "id": 1188280950,
-      "full_name": "WingedGuardian/GENesis-AGI",
-      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
-      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
-      "stars": 86,
-      "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-06-20T04:03:05Z",
-      "updated_at": "2026-06-20T04:03:07Z"
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 180,
+      "forks": 296,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T10:18:08Z",
+      "updated_at": "2026-06-20T10:18:11Z"
     },
     {
-      "id": 1235464336,
-      "full_name": "jianshuo/claude-skills",
-      "html_url": "https://github.com/jianshuo/claude-skills",
-      "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.",
-      "stars": 83,
+      "id": 1242620513,
+      "full_name": "Patdolitse/piia-engram",
+      "html_url": "https://github.com/Patdolitse/piia-engram",
+      "description": "Local-first AI memory you can see, edit, and override — portable across Claude Code, Codex, Cursor, Windsurf, and other MCP coding tools.",
+      "stars": 167,
       "forks": 10,
       "language": "Python",
-      "pushed_at": "2026-06-20T03:57:55Z",
-      "updated_at": "2026-06-20T03:57:58Z"
+      "pushed_at": "2026-06-20T09:51:20Z",
+      "updated_at": "2026-06-20T09:50:51Z"
+    },
+    {
+      "id": 1189398176,
+      "full_name": "AppiumTestDistribution/AppClaw",
+      "html_url": "https://github.com/AppiumTestDistribution/AppClaw",
+      "description": "AI-powered mobile automation agent — describe what you want in plain English, AppClaw reads the screen, reasons, and acts. LLM-agnostic, open-source, zero telemetry.",
+      "stars": 76,
+      "forks": 16,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T10:29:56Z",
+      "updated_at": "2026-06-20T10:29:58Z"
     }
   ]
 }
