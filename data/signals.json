@@ -12,66 +12,77 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 197580,
-      "forks": 34971,
+      "stars": 197724,
+      "forks": 35020,
       "language": "Python",
-      "pushed_at": "2026-06-19T21:06:39Z",
-      "updated_at": "2026-06-19T21:11:39Z"
+      "pushed_at": "2026-06-20T03:55:09Z",
+      "updated_at": "2026-06-20T04:07:51Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 47560,
+      "forks": 4508,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T03:54:48Z",
+      "updated_at": "2026-06-20T03:47:18Z"
+    },
+    {
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 43217,
+      "forks": 40890,
+      "language": "Python",
+      "pushed_at": "2026-06-20T03:39:58Z",
+      "updated_at": "2026-06-20T04:03:43Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35315,
-      "forks": 4378,
+      "stars": 35322,
+      "forks": 4379,
       "language": "TypeScript",
-      "pushed_at": "2026-06-19T21:12:14Z",
-      "updated_at": "2026-06-19T21:05:20Z"
+      "pushed_at": "2026-06-20T03:45:54Z",
+      "updated_at": "2026-06-20T03:55:31Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22829,
-      "forks": 3819,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T19:49:31Z",
-      "updated_at": "2026-06-19T20:21:22Z"
-    },
-    {
-      "id": 1213049020,
-      "full_name": "browser-use/browser-harness",
-      "html_url": "https://github.com/browser-use/browser-harness",
-      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
-      "stars": 15101,
-      "forks": 1413,
-      "language": "Python",
-      "pushed_at": "2026-06-19T20:18:36Z",
-      "updated_at": "2026-06-19T20:23:48Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 23240,
+      "forks": 1401,
+      "language": "Go",
+      "pushed_at": "2026-06-20T04:02:17Z",
+      "updated_at": "2026-06-20T04:02:19Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 13526,
-      "forks": 1192,
+      "stars": 13557,
+      "forks": 1199,
       "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:27:57Z",
-      "updated_at": "2026-06-19T20:58:10Z"
+      "pushed_at": "2026-06-20T03:44:18Z",
+      "updated_at": "2026-06-20T03:55:16Z"
     },
     {
-      "id": 609539715,
-      "full_name": "e2b-dev/E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 12652,
-      "forks": 938,
-      "language": "Python",
-      "pushed_at": "2026-06-19T20:42:04Z",
-      "updated_at": "2026-06-19T20:55:15Z"
+      "id": 1199668171,
+      "full_name": "fathah/hermes-desktop",
+      "html_url": "https://github.com/fathah/hermes-desktop",
+      "description": "Desktop Companion for Hermes Agent",
+      "stars": 12444,
+      "forks": 1408,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T03:59:22Z",
+      "updated_at": "2026-06-20T03:59:27Z"
     },
     {
       "id": 220867748,
@@ -81,41 +92,30 @@
       "stars": 3207,
       "forks": 213,
       "language": "JavaScript",
-      "pushed_at": "2026-06-19T20:13:51Z",
-      "updated_at": "2026-06-19T20:13:56Z"
+      "pushed_at": "2026-06-20T04:02:30Z",
+      "updated_at": "2026-06-20T03:39:19Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2393,
-      "forks": 419,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:44:17Z",
-      "updated_at": "2026-06-19T20:44:23Z"
-    },
-    {
-      "id": 1200204014,
-      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
-      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
-      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
-      "stars": 2069,
-      "forks": 289,
-      "language": "Stata",
-      "pushed_at": "2026-06-19T21:08:30Z",
-      "updated_at": "2026-06-19T21:07:31Z"
-    },
-    {
-      "id": 1122859216,
-      "full_name": "the-open-engine/zeroshot",
-      "html_url": "https://github.com/the-open-engine/zeroshot",
-      "description": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.",
-      "stars": 1514,
-      "forks": 129,
+      "id": 1218208502,
+      "full_name": "worldwonderer/oh-story-claudecode",
+      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+      "stars": 2752,
+      "forks": 475,
       "language": "JavaScript",
-      "pushed_at": "2026-06-19T21:01:02Z",
-      "updated_at": "2026-06-19T20:25:03Z"
+      "pushed_at": "2026-06-20T03:41:49Z",
+      "updated_at": "2026-06-20T03:41:53Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1129,
+      "forks": 69,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T04:04:28Z",
+      "updated_at": "2026-06-20T04:00:48Z"
     },
     {
       "id": 591995344,
@@ -125,52 +125,52 @@
       "stars": 761,
       "forks": 77,
       "language": "Python",
-      "pushed_at": "2026-06-19T21:06:11Z",
-      "updated_at": "2026-06-19T21:06:15Z"
+      "pushed_at": "2026-06-20T04:01:45Z",
+      "updated_at": "2026-06-20T04:01:48Z"
     },
     {
-      "id": 1230293192,
-      "full_name": "Lilac-Labs/gini-agent",
-      "html_url": "https://github.com/Lilac-Labs/gini-agent",
-      "description": "The agent that remembers and learns.",
-      "stars": 513,
-      "forks": 123,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:25:26Z",
-      "updated_at": "2026-06-19T20:35:11Z"
+      "id": 1193276701,
+      "full_name": "iamtouchskyer/opc",
+      "html_url": "https://github.com/iamtouchskyer/opc",
+      "description": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
+      "stars": 170,
+      "forks": 39,
+      "language": "Shell",
+      "pushed_at": "2026-06-20T04:02:04Z",
+      "updated_at": "2026-06-20T04:02:08Z"
     },
     {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 479,
-      "forks": 52,
+      "id": 1191342623,
+      "full_name": "huabeitech/agent-desk",
+      "html_url": "https://github.com/huabeitech/agent-desk",
+      "description": "Open-source AI customer support system. AI-first support, human-ready operations.",
+      "stars": 142,
+      "forks": 38,
+      "language": "Go",
+      "pushed_at": "2026-06-20T03:43:37Z",
+      "updated_at": "2026-06-20T03:43:24Z"
+    },
+    {
+      "id": 1188280950,
+      "full_name": "WingedGuardian/GENesis-AGI",
+      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
+      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+      "stars": 86,
+      "forks": 16,
       "language": "Python",
-      "pushed_at": "2026-06-19T20:39:59Z",
-      "updated_at": "2026-06-19T20:40:02Z"
+      "pushed_at": "2026-06-20T04:03:05Z",
+      "updated_at": "2026-06-20T04:03:07Z"
     },
     {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 380,
-      "forks": 58,
+      "id": 1235464336,
+      "full_name": "jianshuo/claude-skills",
+      "html_url": "https://github.com/jianshuo/claude-skills",
+      "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.",
+      "stars": 83,
+      "forks": 10,
       "language": "Python",
-      "pushed_at": "2026-06-19T21:03:45Z",
-      "updated_at": "2026-06-19T21:03:49Z"
-    },
-    {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 345,
-      "forks": 57,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-19T20:35:56Z",
-      "updated_at": "2026-06-19T21:03:51Z"
+      "pushed_at": "2026-06-20T03:57:55Z",
+      "updated_at": "2026-06-20T03:57:58Z"
     }
   ]
 }
