@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 936,
+  "total_found": 937,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 197909,
-      "forks": 35078,
+      "stars": 198032,
+      "forks": 35095,
       "language": "Python",
-      "pushed_at": "2026-06-20T10:06:03Z",
-      "updated_at": "2026-06-20T10:34:44Z"
+      "pushed_at": "2026-06-20T14:04:52Z",
+      "updated_at": "2026-06-20T14:12:04Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47572,
+      "stars": 47579,
       "forks": 4510,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T10:12:22Z",
-      "updated_at": "2026-06-20T10:18:53Z"
+      "pushed_at": "2026-06-20T14:07:38Z",
+      "updated_at": "2026-06-20T14:11:03Z"
+    },
+    {
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 43381,
+      "forks": 41003,
+      "language": "Python",
+      "pushed_at": "2026-06-20T13:29:25Z",
+      "updated_at": "2026-06-20T14:08:32Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 23303,
+      "forks": 1405,
+      "language": "Go",
+      "pushed_at": "2026-06-20T14:11:43Z",
+      "updated_at": "2026-06-20T14:04:29Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 13593,
-      "forks": 1205,
+      "stars": 13604,
+      "forks": 1207,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T10:21:25Z",
-      "updated_at": "2026-06-20T10:35:12Z"
+      "pushed_at": "2026-06-20T13:36:30Z",
+      "updated_at": "2026-06-20T14:12:08Z"
     },
     {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 12716,
-      "forks": 2440,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 4144,
+      "forks": 465,
       "language": "Python",
-      "pushed_at": "2026-06-20T10:30:07Z",
-      "updated_at": "2026-06-20T10:30:11Z"
-    },
-    {
-      "id": 1199668171,
-      "full_name": "fathah/hermes-desktop",
-      "html_url": "https://github.com/fathah/hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "stars": 12459,
-      "forks": 1409,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T09:40:39Z",
-      "updated_at": "2026-06-20T10:05:07Z"
+      "pushed_at": "2026-06-20T13:57:15Z",
+      "updated_at": "2026-06-20T14:09:44Z"
     },
     {
       "id": 220867748,
@@ -70,19 +81,30 @@
       "stars": 3207,
       "forks": 213,
       "language": "JavaScript",
-      "pushed_at": "2026-06-20T10:31:08Z",
-      "updated_at": "2026-06-20T10:31:07Z"
+      "pushed_at": "2026-06-20T13:57:12Z",
+      "updated_at": "2026-06-20T13:57:11Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 2703,
-      "forks": 578,
-      "language": "Python",
-      "pushed_at": "2026-06-20T10:13:43Z",
-      "updated_at": "2026-06-20T10:13:46Z"
+      "id": 1218208502,
+      "full_name": "worldwonderer/oh-story-claudecode",
+      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+      "stars": 2769,
+      "forks": 475,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-20T13:56:56Z",
+      "updated_at": "2026-06-20T14:07:05Z"
+    },
+    {
+      "id": 991092853,
+      "full_name": "RedPlanetHQ/core",
+      "html_url": "https://github.com/RedPlanetHQ/core",
+      "description": "Your Personal AI OS",
+      "stars": 1652,
+      "forks": 151,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-20T13:46:31Z",
+      "updated_at": "2026-06-20T13:52:43Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +114,63 @@
       "stars": 1129,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T10:31:31Z",
-      "updated_at": "2026-06-20T10:31:33Z"
+      "pushed_at": "2026-06-20T14:09:03Z",
+      "updated_at": "2026-06-20T13:41:08Z"
     },
     {
-      "id": 1201201482,
-      "full_name": "mateaix/mateclaw",
-      "html_url": "https://github.com/mateaix/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 644,
-      "forks": 198,
-      "language": "Java",
-      "pushed_at": "2026-06-20T09:52:31Z",
-      "updated_at": "2026-06-20T09:52:35Z"
-    },
-    {
-      "id": 1210288370,
-      "full_name": "laolaoshiren/claude-code-skills-zh",
-      "html_url": "https://github.com/laolaoshiren/claude-code-skills-zh",
-      "description": "🛠️ 最实用的 Claude Code Skills 合集 | 精选 100+ | 18个原创可安装技能 | 按场景分类 | 复制即装",
-      "stars": 392,
-      "forks": 36,
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从你的跨平台使用、反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube、X 与 Web 等来源找内容 / Fully local, private, open-source, self-improving discovery agent: deepens your psychological profile from cross-platform usage, feedback, and dialogue, then finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, and the web.",
+      "stars": 726,
+      "forks": 50,
       "language": "Python",
-      "pushed_at": "2026-06-20T10:13:02Z",
-      "updated_at": "2026-06-20T10:13:06Z"
+      "pushed_at": "2026-06-20T13:41:54Z",
+      "updated_at": "2026-06-20T13:41:16Z"
     },
     {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 346,
-      "forks": 57,
+      "id": 1037868089,
+      "full_name": "best-of-ai/best-of-ai",
+      "html_url": "https://github.com/best-of-ai/best-of-ai",
+      "description": "A curated list of best ai tools",
+      "stars": 628,
+      "forks": 92,
+      "language": "HTML",
+      "pushed_at": "2026-06-20T13:50:36Z",
+      "updated_at": "2026-06-20T13:46:08Z"
+    },
+    {
+      "id": 1158138383,
+      "full_name": "CyberStrikeus/CyberStrike",
+      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "stars": 554,
+      "forks": 91,
       "language": "TypeScript",
-      "pushed_at": "2026-06-20T10:08:30Z",
-      "updated_at": "2026-06-20T10:08:34Z"
+      "pushed_at": "2026-06-20T13:30:51Z",
+      "updated_at": "2026-06-20T13:30:55Z"
     },
     {
-      "id": 1216780611,
-      "full_name": "JamesShi96/project-butler",
-      "html_url": "https://github.com/JamesShi96/project-butler",
-      "description": "Project memory system for AI coding assistants (Claude Code, Cursor, Codex): session logs, project wiki, rules, TODOs, and handoff.",
-      "stars": 200,
-      "forks": 11,
-      "language": "Unknown",
-      "pushed_at": "2026-06-20T10:30:31Z",
-      "updated_at": "2026-06-20T10:30:35Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 180,
-      "forks": 296,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T10:18:08Z",
-      "updated_at": "2026-06-20T10:18:11Z"
-    },
-    {
-      "id": 1242620513,
-      "full_name": "Patdolitse/piia-engram",
-      "html_url": "https://github.com/Patdolitse/piia-engram",
-      "description": "Local-first AI memory you can see, edit, and override — portable across Claude Code, Codex, Cursor, Windsurf, and other MCP coding tools.",
-      "stars": 167,
-      "forks": 10,
+      "id": 1224734286,
+      "full_name": "Ikalus1988/MisakaNet",
+      "html_url": "https://github.com/Ikalus1988/MisakaNet",
+      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+      "stars": 184,
+      "forks": 43,
       "language": "Python",
-      "pushed_at": "2026-06-20T09:51:20Z",
-      "updated_at": "2026-06-20T09:50:51Z"
+      "pushed_at": "2026-06-20T14:04:16Z",
+      "updated_at": "2026-06-20T14:04:19Z"
     },
     {
-      "id": 1189398176,
-      "full_name": "AppiumTestDistribution/AppClaw",
-      "html_url": "https://github.com/AppiumTestDistribution/AppClaw",
-      "description": "AI-powered mobile automation agent — describe what you want in plain English, AppClaw reads the screen, reasons, and acts. LLM-agnostic, open-source, zero telemetry.",
-      "stars": 76,
-      "forks": 16,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-20T10:29:56Z",
-      "updated_at": "2026-06-20T10:29:58Z"
+      "id": 1193276701,
+      "full_name": "iamtouchskyer/opc",
+      "html_url": "https://github.com/iamtouchskyer/opc",
+      "description": "OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.",
+      "stars": 170,
+      "forks": 39,
+      "language": "Shell",
+      "pushed_at": "2026-06-20T14:07:05Z",
+      "updated_at": "2026-06-20T14:07:08Z"
     }
   ]
 }
