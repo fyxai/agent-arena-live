@@ -5,62 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 940,
+  "total_found": 939,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47611,
+      "stars": 47620,
       "forks": 4514,
       "language": "TypeScript",
-      "pushed_at": "2026-06-21T14:15:52Z",
-      "updated_at": "2026-06-21T14:02:25Z"
+      "pushed_at": "2026-06-21T17:40:24Z",
+      "updated_at": "2026-06-21T17:31:30Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 44024,
-      "forks": 41313,
+      "stars": 44259,
+      "forks": 41392,
       "language": "Python",
-      "pushed_at": "2026-06-21T13:55:49Z",
-      "updated_at": "2026-06-21T14:19:46Z"
+      "pushed_at": "2026-06-21T17:24:13Z",
+      "updated_at": "2026-06-21T17:43:09Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22897,
-      "forks": 3836,
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 23021,
+      "forks": 2691,
       "language": "TypeScript",
-      "pushed_at": "2026-06-21T14:17:11Z",
-      "updated_at": "2026-06-21T14:08:55Z"
+      "pushed_at": "2026-06-21T16:48:25Z",
+      "updated_at": "2026-06-21T17:20:42Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 13820,
+      "forks": 1224,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T17:35:44Z",
+      "updated_at": "2026-06-21T17:29:24Z"
     },
     {
       "id": 1199668171,
       "full_name": "fathah/hermes-desktop",
       "html_url": "https://github.com/fathah/hermes-desktop",
       "description": "Desktop Companion for Hermes Agent",
-      "stars": 12512,
-      "forks": 1417,
+      "stars": 12522,
+      "forks": 1418,
       "language": "TypeScript",
-      "pushed_at": "2026-06-21T14:03:28Z",
-      "updated_at": "2026-06-21T13:56:34Z"
+      "pushed_at": "2026-06-21T17:39:07Z",
+      "updated_at": "2026-06-21T17:41:23Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 4265,
-      "forks": 480,
-      "language": "Python",
-      "pushed_at": "2026-06-21T14:05:12Z",
-      "updated_at": "2026-06-21T14:19:26Z"
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6744,
+      "forks": 1432,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T17:39:19Z",
+      "updated_at": "2026-06-21T17:39:24Z"
     },
     {
       "id": 220867748,
@@ -70,107 +81,96 @@
       "stars": 3208,
       "forks": 213,
       "language": "JavaScript",
-      "pushed_at": "2026-06-21T14:18:34Z",
-      "updated_at": "2026-06-21T14:01:37Z"
+      "pushed_at": "2026-06-21T17:33:47Z",
+      "updated_at": "2026-06-21T17:33:51Z"
     },
     {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1661,
-      "forks": 170,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T14:20:00Z",
-      "updated_at": "2026-06-21T14:20:06Z"
-    },
-    {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundamentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundamentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
-      "stars": 1534,
-      "forks": 241,
-      "language": "HTML",
-      "pushed_at": "2026-06-21T14:09:39Z",
-      "updated_at": "2026-06-21T14:14:07Z"
-    },
-    {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 584,
-      "forks": 97,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T13:50:35Z",
-      "updated_at": "2026-06-21T14:15:28Z"
-    },
-    {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 412,
-      "forks": 96,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T14:15:48Z",
-      "updated_at": "2026-06-21T14:15:55Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 242,
-      "forks": 15,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T14:13:32Z",
-      "updated_at": "2026-06-21T14:13:35Z"
-    },
-    {
-      "id": 1207661371,
-      "full_name": "shihuili1218/rssh",
-      "html_url": "https://github.com/shihuili1218/rssh",
-      "description": "A cross-platform SSH application that doesn’t “pee” 💩 on your system.",
-      "stars": 219,
-      "forks": 18,
+      "id": 1111937658,
+      "full_name": "boxlite-ai/boxlite",
+      "html_url": "https://github.com/boxlite-ai/boxlite",
+      "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
+      "stars": 2081,
+      "forks": 131,
       "language": "Rust",
-      "pushed_at": "2026-06-21T13:50:34Z",
-      "updated_at": "2026-06-21T13:50:25Z"
+      "pushed_at": "2026-06-21T17:10:44Z",
+      "updated_at": "2026-06-21T17:10:47Z"
     },
     {
-      "id": 1166995215,
-      "full_name": "CodeAlta/CodeAlta",
-      "html_url": "https://github.com/CodeAlta/CodeAlta",
-      "description": "Your efficient agentic AI coding CLI assistant",
-      "stars": 201,
-      "forks": 13,
-      "language": "C#",
-      "pushed_at": "2026-06-21T14:10:09Z",
-      "updated_at": "2026-06-21T14:00:03Z"
-    },
-    {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
-      "stars": 182,
-      "forks": 34,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-21T14:15:44Z",
-      "updated_at": "2026-06-21T14:04:52Z"
-    },
-    {
-      "id": 1175588150,
-      "full_name": "RyanAlberts/best-of-Agent-Harnesses",
-      "html_url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses",
-      "description": "🏆 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
-      "stars": 146,
-      "forks": 9,
+      "id": 1164059777,
+      "full_name": "fim-ai/fim-one",
+      "html_url": "https://github.com/fim-ai/fim-one",
+      "description": "Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.",
+      "stars": 1269,
+      "forks": 143,
       "language": "Python",
-      "pushed_at": "2026-06-21T14:04:00Z",
-      "updated_at": "2026-06-21T14:14:32Z"
+      "pushed_at": "2026-06-21T17:03:15Z",
+      "updated_at": "2026-06-21T17:03:20Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1129,
+      "forks": 69,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T17:42:04Z",
+      "updated_at": "2026-06-21T17:38:01Z"
+    },
+    {
+      "id": 1230831838,
+      "full_name": "OpenOSINT/OpenOSINT",
+      "html_url": "https://github.com/OpenOSINT/OpenOSINT",
+      "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
+      "stars": 722,
+      "forks": 114,
+      "language": "Python",
+      "pushed_at": "2026-06-21T17:25:19Z",
+      "updated_at": "2026-06-21T17:35:33Z"
+    },
+    {
+      "id": 1203556545,
+      "full_name": "velobase/velobase-harness",
+      "html_url": "https://github.com/velobase/velobase-harness",
+      "description": "From code to cash — open-source SaaS boilerplate with Stripe, affiliate, attribution & usage-based billing for AI apps. T3 stack + Next.js 16.",
+      "stars": 516,
+      "forks": 65,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T17:07:14Z",
+      "updated_at": "2026-06-21T17:07:19Z"
+    },
+    {
+      "id": 796089121,
+      "full_name": "SAILResearch/awesome-ai-leaderboard",
+      "html_url": "https://github.com/SAILResearch/awesome-ai-leaderboard",
+      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "stars": 363,
+      "forks": 52,
+      "language": "Unknown",
+      "pushed_at": "2026-06-21T16:54:20Z",
+      "updated_at": "2026-06-21T16:54:22Z"
+    },
+    {
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 180,
+      "forks": 298,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T17:29:25Z",
+      "updated_at": "2026-06-21T17:29:29Z"
+    },
+    {
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
+      "stars": 113,
+      "forks": 23,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-21T17:15:37Z",
+      "updated_at": "2026-06-21T17:15:40Z"
     }
   ]
 }
