@@ -5,106 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 955,
+  "total_found": 956,
   "items": [
+    {
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 55461,
+      "forks": 10955,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-24T07:42:45Z",
+      "updated_at": "2026-06-24T07:45:40Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47728,
+      "stars": 47738,
       "forks": 4527,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T03:58:35Z",
-      "updated_at": "2026-06-24T03:38:37Z"
+      "pushed_at": "2026-06-24T07:50:19Z",
+      "updated_at": "2026-06-24T07:49:49Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35440,
-      "forks": 4399,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-24T03:57:26Z",
-      "updated_at": "2026-06-24T03:59:34Z"
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 44664,
+      "forks": 7882,
+      "language": "Python",
+      "pushed_at": "2026-06-24T07:45:50Z",
+      "updated_at": "2026-06-24T07:45:55Z"
     },
     {
       "id": 1033778670,
       "full_name": "iOfficeAI/AionUi",
       "html_url": "https://github.com/iOfficeAI/AionUi",
       "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 28740,
-      "forks": 2839,
+      "stars": 28756,
+      "forks": 2846,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T03:50:58Z",
-      "updated_at": "2026-06-24T03:49:54Z"
+      "pushed_at": "2026-06-24T07:46:34Z",
+      "updated_at": "2026-06-24T07:48:38Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 24196,
-      "forks": 1469,
+      "stars": 24247,
+      "forks": 1473,
       "language": "Go",
-      "pushed_at": "2026-06-24T03:27:01Z",
-      "updated_at": "2026-06-24T03:52:09Z"
+      "pushed_at": "2026-06-24T07:40:12Z",
+      "updated_at": "2026-06-24T07:44:40Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23060,
-      "forks": 2697,
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6770,
+      "forks": 1437,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T03:56:01Z",
-      "updated_at": "2026-06-24T03:53:11Z"
-    },
-    {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 18753,
-      "forks": 1212,
-      "language": "HTML",
-      "pushed_at": "2026-06-24T03:35:02Z",
-      "updated_at": "2026-06-24T03:47:31Z"
+      "pushed_at": "2026-06-24T07:28:43Z",
+      "updated_at": "2026-06-24T07:31:01Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 4606,
-      "forks": 542,
+      "stars": 4630,
+      "forks": 546,
       "language": "Python",
-      "pushed_at": "2026-06-24T03:59:20Z",
-      "updated_at": "2026-06-24T03:56:45Z"
+      "pushed_at": "2026-06-24T07:47:03Z",
+      "updated_at": "2026-06-24T07:45:45Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 3322,
-      "forks": 938,
-      "language": "Go",
-      "pushed_at": "2026-06-24T03:53:59Z",
-      "updated_at": "2026-06-24T03:49:36Z"
+      "id": 1200204014,
+      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
+      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
+      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+      "stars": 2328,
+      "forks": 320,
+      "language": "Stata",
+      "pushed_at": "2026-06-24T07:31:28Z",
+      "updated_at": "2026-06-24T07:50:53Z"
     },
     {
-      "id": 114540126,
-      "full_name": "SciSharp/BotSharp",
-      "html_url": "https://github.com/SciSharp/BotSharp",
-      "description": "AI Multi-Agent Framework in .NET",
-      "stars": 3079,
-      "forks": 638,
-      "language": "C#",
-      "pushed_at": "2026-06-24T03:26:06Z",
-      "updated_at": "2026-06-24T03:26:12Z"
+      "id": 991092853,
+      "full_name": "RedPlanetHQ/core",
+      "html_url": "https://github.com/RedPlanetHQ/core",
+      "description": "Your Personal AI OS",
+      "stars": 1658,
+      "forks": 154,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-24T07:50:25Z",
+      "updated_at": "2026-06-24T07:50:30Z"
+    },
+    {
+      "id": 919458554,
+      "full_name": "wanxingai/LightAgent",
+      "html_url": "https://github.com/wanxingai/LightAgent",
+      "description": "LightAgent: Lightweight AI agent framework with memory, mcp & skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+      "stars": 1155,
+      "forks": 149,
+      "language": "Python",
+      "pushed_at": "2026-06-24T07:31:25Z",
+      "updated_at": "2026-06-24T07:31:28Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +125,52 @@
       "stars": 1132,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T03:55:42Z",
-      "updated_at": "2026-06-24T03:55:45Z"
+      "pushed_at": "2026-06-24T07:50:24Z",
+      "updated_at": "2026-06-24T07:43:06Z"
     },
     {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。",
-      "stars": 1106,
-      "forks": 211,
+      "id": 701627142,
+      "full_name": "ALwrity/ALwrity",
+      "html_url": "https://github.com/ALwrity/ALwrity",
+      "description": "ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP",
+      "stars": 1069,
+      "forks": 269,
       "language": "Python",
-      "pushed_at": "2026-06-24T03:26:56Z",
-      "updated_at": "2026-06-24T03:55:44Z"
+      "pushed_at": "2026-06-24T07:37:59Z",
+      "updated_at": "2026-06-24T07:38:05Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1094,
-      "forks": 201,
-      "language": "Go",
-      "pushed_at": "2026-06-24T03:56:41Z",
-      "updated_at": "2026-06-24T03:55:05Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 353,
-      "forks": 71,
-      "language": "Python",
-      "pushed_at": "2026-06-24T03:49:36Z",
-      "updated_at": "2026-06-24T03:49:39Z"
-    },
-    {
-      "id": 1207661371,
-      "full_name": "shihuili1218/rssh",
-      "html_url": "https://github.com/shihuili1218/rssh",
-      "description": "A cross-platform SSH application that doesn’t “pee” 💩 on your system.",
-      "stars": 223,
-      "forks": 19,
-      "language": "Rust",
-      "pushed_at": "2026-06-24T03:46:34Z",
-      "updated_at": "2026-06-24T03:46:34Z"
-    },
-    {
-      "id": 1170397757,
-      "full_name": "scitix/siclaw",
-      "html_url": "https://github.com/scitix/siclaw",
-      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
-      "stars": 216,
-      "forks": 24,
+      "id": 1222215394,
+      "full_name": "zhu1090093659/deepseek-pp",
+      "html_url": "https://github.com/zhu1090093659/deepseek-pp",
+      "description": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
+      "stars": 944,
+      "forks": 121,
       "language": "TypeScript",
-      "pushed_at": "2026-06-24T03:39:31Z",
-      "updated_at": "2026-06-24T03:39:21Z"
+      "pushed_at": "2026-06-24T07:45:55Z",
+      "updated_at": "2026-06-24T07:45:59Z"
+    },
+    {
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!",
+      "stars": 653,
+      "forks": 89,
+      "language": "Python",
+      "pushed_at": "2026-06-24T07:42:44Z",
+      "updated_at": "2026-06-24T07:42:29Z"
+    },
+    {
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 624,
+      "forks": 50,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-24T07:47:48Z",
+      "updated_at": "2026-06-24T07:47:53Z"
     }
   ]
 }
