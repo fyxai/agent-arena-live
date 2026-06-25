@@ -5,84 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 965,
+  "total_found": 967,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 202924,
+      "forks": 36287,
+      "language": "Python",
+      "pushed_at": "2026-06-25T18:12:46Z",
+      "updated_at": "2026-06-25T18:13:28Z"
+    },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 55661,
-      "forks": 10992,
+      "stars": 55688,
+      "forks": 10995,
       "language": "JavaScript",
-      "pushed_at": "2026-06-25T14:40:52Z",
-      "updated_at": "2026-06-25T14:40:33Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47790,
-      "forks": 4529,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T14:37:42Z",
-      "updated_at": "2026-06-25T14:38:11Z"
+      "pushed_at": "2026-06-25T18:08:48Z",
+      "updated_at": "2026-06-25T18:08:41Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35501,
+      "stars": 35506,
       "forks": 4403,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T14:29:53Z",
-      "updated_at": "2026-06-25T14:36:04Z"
+      "pushed_at": "2026-06-25T18:13:46Z",
+      "updated_at": "2026-06-25T18:01:39Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22983,
+      "stars": 22985,
       "forks": 3849,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T14:36:52Z",
-      "updated_at": "2026-06-25T14:37:20Z"
+      "pushed_at": "2026-06-25T18:09:11Z",
+      "updated_at": "2026-06-25T17:43:09Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 18950,
-      "forks": 1229,
-      "language": "HTML",
-      "pushed_at": "2026-06-25T14:30:23Z",
-      "updated_at": "2026-06-25T14:30:57Z"
-    },
-    {
-      "id": 1135791677,
-      "full_name": "lsdefine/GenericAgent",
-      "html_url": "https://github.com/lsdefine/GenericAgent",
-      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-      "stars": 13065,
-      "forks": 1520,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12724,
+      "forks": 943,
       "language": "Python",
-      "pushed_at": "2026-06-25T14:32:06Z",
-      "updated_at": "2026-06-25T14:32:45Z"
+      "pushed_at": "2026-06-25T18:04:10Z",
+      "updated_at": "2026-06-25T18:04:29Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 4848,
-      "forks": 575,
+      "stars": 4880,
+      "forks": 578,
       "language": "Python",
-      "pushed_at": "2026-06-25T14:41:45Z",
-      "updated_at": "2026-06-25T14:40:14Z"
+      "pushed_at": "2026-06-25T18:13:59Z",
+      "updated_at": "2026-06-25T18:14:04Z"
     },
     {
       "id": 220867748,
@@ -92,85 +81,96 @@
       "stars": 3214,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-06-25T14:25:52Z",
-      "updated_at": "2026-06-25T14:26:27Z"
+      "pushed_at": "2026-06-25T17:36:16Z",
+      "updated_at": "2026-06-25T17:36:22Z"
     },
     {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundamentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundamentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
-      "stars": 1595,
-      "forks": 252,
-      "language": "HTML",
-      "pushed_at": "2026-06-25T14:37:00Z",
-      "updated_at": "2026-06-25T14:37:24Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1131,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T14:41:43Z",
-      "updated_at": "2026-06-25T14:41:01Z"
-    },
-    {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
-      "stars": 642,
-      "forks": 48,
+      "id": 1203777920,
+      "full_name": "xbtlin/ai-berkshire",
+      "html_url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "stars": 1738,
+      "forks": 286,
       "language": "Python",
-      "pushed_at": "2026-06-25T14:31:16Z",
-      "updated_at": "2026-06-25T14:31:45Z"
+      "pushed_at": "2026-06-25T18:07:43Z",
+      "updated_at": "2026-06-25T18:11:19Z"
     },
     {
-      "id": 1162230313,
-      "full_name": "mnemon-dev/mnemon",
-      "html_url": "https://github.com/mnemon-dev/mnemon",
-      "description": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.",
-      "stars": 363,
-      "forks": 52,
-      "language": "Go",
-      "pushed_at": "2026-06-25T14:22:06Z",
-      "updated_at": "2026-06-25T14:22:33Z"
+      "id": 637158104,
+      "full_name": "Anil-matcha/open-claude-tag",
+      "html_url": "https://github.com/Anil-matcha/open-claude-tag",
+      "description": "Self-hostable channel-native AI teammate for Slack. Open source alternative to Claude Tag. LLM-agnostic.",
+      "stars": 815,
+      "forks": 176,
+      "language": "Python",
+      "pushed_at": "2026-06-25T18:10:45Z",
+      "updated_at": "2026-06-25T18:10:58Z"
     },
     {
-      "id": 1273015953,
-      "full_name": "shy3130/tickflow-stock-panel",
-      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
-      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)",
-      "stars": 260,
-      "forks": 47,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 747,
+      "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T14:40:44Z",
-      "updated_at": "2026-06-25T14:40:43Z"
+      "pushed_at": "2026-06-25T17:52:36Z",
+      "updated_at": "2026-06-25T18:04:06Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 597,
+      "forks": 33,
+      "language": "ReScript",
+      "pushed_at": "2026-06-25T17:35:32Z",
+      "updated_at": "2026-06-25T17:35:34Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 380,
+      "forks": 60,
+      "language": "Python",
+      "pushed_at": "2026-06-25T18:12:45Z",
+      "updated_at": "2026-06-25T18:04:32Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 186,
+      "stars": 187,
       "forks": 307,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T14:32:47Z",
-      "updated_at": "2026-06-25T14:33:25Z"
+      "pushed_at": "2026-06-25T18:01:34Z",
+      "updated_at": "2026-06-25T18:11:10Z"
     },
     {
-      "id": 1220642396,
-      "full_name": "mage0535/hermes-memory-installer",
-      "html_url": "https://github.com/mage0535/hermes-memory-installer",
-      "description": "🧠 Production-grade memory sidecar for AI agents — gbrain + Hindsight + 3-tier recall. Agent-agnostic, battle-tested. | 生产级外挂记忆系统，兼容Hermes/Claude/Cursor等任意AI智能体",
-      "stars": 158,
-      "forks": 9,
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
+      "stars": 141,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T17:57:47Z",
+      "updated_at": "2026-06-25T18:04:19Z"
+    },
+    {
+      "id": 1271255104,
+      "full_name": "team-telnyx/telnyx-code-examples",
+      "html_url": "https://github.com/team-telnyx/telnyx-code-examples",
+      "description": "Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs",
+      "stars": 141,
+      "forks": 3,
       "language": "Python",
-      "pushed_at": "2026-06-25T14:35:45Z",
-      "updated_at": "2026-06-25T14:36:06Z"
+      "pushed_at": "2026-06-25T17:53:50Z",
+      "updated_at": "2026-06-25T17:55:23Z"
     }
   ]
 }
