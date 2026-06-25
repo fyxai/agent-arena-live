@@ -5,161 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 959,
+  "total_found": 964,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 202216,
-      "forks": 36141,
+      "stars": 202618,
+      "forks": 36201,
       "language": "Python",
-      "pushed_at": "2026-06-25T03:53:31Z",
-      "updated_at": "2026-06-25T03:59:31Z"
+      "pushed_at": "2026-06-25T10:41:05Z",
+      "updated_at": "2026-06-25T10:45:52Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47761,
-      "forks": 4527,
+      "stars": 47782,
+      "forks": 4528,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:59:04Z",
-      "updated_at": "2026-06-25T03:49:32Z"
-    },
-    {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 45598,
-      "forks": 10229,
-      "language": "Python",
-      "pushed_at": "2026-06-25T03:53:54Z",
-      "updated_at": "2026-06-25T03:54:00Z"
-    },
-    {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 44594,
-      "forks": 2844,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:46:12Z",
-      "updated_at": "2026-06-25T03:57:08Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35475,
-      "forks": 4400,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:41:42Z",
-      "updated_at": "2026-06-25T03:41:45Z"
+      "pushed_at": "2026-06-25T10:46:45Z",
+      "updated_at": "2026-06-25T10:43:38Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 24465,
-      "forks": 1487,
+      "stars": 24564,
+      "forks": 1489,
       "language": "Go",
-      "pushed_at": "2026-06-25T03:55:17Z",
-      "updated_at": "2026-06-25T03:56:39Z"
+      "pushed_at": "2026-06-25T10:29:14Z",
+      "updated_at": "2026-06-25T10:44:24Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23084,
-      "forks": 2701,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:43:56Z",
-      "updated_at": "2026-06-25T03:52:13Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 14525,
-      "forks": 1270,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:58:02Z",
-      "updated_at": "2026-06-25T04:00:18Z"
-    },
-    {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 11648,
-      "forks": 966,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12718,
+      "forks": 942,
       "language": "Python",
-      "pushed_at": "2026-06-25T03:35:36Z",
-      "updated_at": "2026-06-25T03:40:20Z"
+      "pushed_at": "2026-06-25T10:44:29Z",
+      "updated_at": "2026-06-25T10:42:04Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-studio",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 8440,
-      "forks": 1034,
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
+      "stars": 8521,
+      "forks": 1325,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:53:17Z",
-      "updated_at": "2026-06-25T04:00:03Z"
+      "pushed_at": "2026-06-25T10:37:07Z",
+      "updated_at": "2026-06-25T10:19:12Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 4753,
-      "forks": 561,
+      "stars": 4814,
+      "forks": 569,
       "language": "Python",
-      "pushed_at": "2026-06-25T03:50:10Z",
-      "updated_at": "2026-06-25T03:59:55Z"
-    },
-    {
-      "id": 254879070,
-      "full_name": "xpf0000/FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
-      "stars": 3006,
-      "forks": 313,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:40:47Z",
-      "updated_at": "2026-06-25T03:40:52Z"
+      "pushed_at": "2026-06-25T10:41:29Z",
+      "updated_at": "2026-06-25T10:39:41Z"
     },
     {
       "id": 1111937658,
       "full_name": "boxlite-ai/boxlite",
       "html_url": "https://github.com/boxlite-ai/boxlite",
       "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
-      "stars": 2089,
+      "stars": 2090,
       "forks": 131,
       "language": "Rust",
-      "pushed_at": "2026-06-25T03:44:51Z",
-      "updated_at": "2026-06-25T03:44:54Z"
+      "pushed_at": "2026-06-25T10:33:06Z",
+      "updated_at": "2026-06-25T10:33:11Z"
     },
     {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 1380,
-      "forks": 250,
+      "id": 1187014628,
+      "full_name": "can4hou6joeng4/boss-agent-cli",
+      "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
+      "description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.",
+      "stars": 1275,
+      "forks": 101,
       "language": "Python",
-      "pushed_at": "2026-06-25T03:42:38Z",
-      "updated_at": "2026-06-25T03:58:42Z"
+      "pushed_at": "2026-06-25T10:13:56Z",
+      "updated_at": "2026-06-25T10:16:11Z"
     },
     {
       "id": 1096175506,
@@ -169,8 +103,74 @@
       "stars": 1131,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T03:59:39Z",
-      "updated_at": "2026-06-25T03:56:27Z"
+      "pushed_at": "2026-06-25T10:46:14Z",
+      "updated_at": "2026-06-25T10:39:27Z"
+    },
+    {
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+      "stars": 1124,
+      "forks": 157,
+      "language": "Rust",
+      "pushed_at": "2026-06-25T10:13:38Z",
+      "updated_at": "2026-06-25T10:13:40Z"
+    },
+    {
+      "id": 701627142,
+      "full_name": "ALwrity/ALwrity",
+      "html_url": "https://github.com/ALwrity/ALwrity",
+      "description": "ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP",
+      "stars": 1070,
+      "forks": 269,
+      "language": "Python",
+      "pushed_at": "2026-06-25T10:20:06Z",
+      "updated_at": "2026-06-25T10:20:12Z"
+    },
+    {
+      "id": 1222215394,
+      "full_name": "zhu1090093659/deepseek-pp",
+      "html_url": "https://github.com/zhu1090093659/deepseek-pp",
+      "description": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
+      "stars": 965,
+      "forks": 126,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T10:30:02Z",
+      "updated_at": "2026-06-25T10:30:07Z"
+    },
+    {
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从你的使用、反馈与对话中深化心理画像，主动去 B站、小红书、抖音、YouTube、X、知乎与 Web 找内容 / Local-first private AI discovery agent for Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, and the web.",
+      "stars": 766,
+      "forks": 53,
+      "language": "Python",
+      "pushed_at": "2026-06-25T10:20:32Z",
+      "updated_at": "2026-06-25T10:46:28Z"
+    },
+    {
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 410,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T10:42:00Z",
+      "updated_at": "2026-06-25T10:42:04Z"
+    },
+    {
+      "id": 1161723599,
+      "full_name": "AmrDab/clawdcursor",
+      "html_url": "https://github.com/AmrDab/clawdcursor",
+      "description": "clawdcursor compiles whatever's on screen into one UI map — accessibility tree and OCR fused into stable, addressable elements, with a screenshot only when needed — then drives apps through reusable scripts, verifying every action and routing it through a single safety gate.",
+      "stars": 388,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T10:44:38Z",
+      "updated_at": "2026-06-25T10:44:42Z"
     }
   ]
 }
