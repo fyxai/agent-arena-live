@@ -12,66 +12,55 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 202924,
-      "forks": 36287,
+      "stars": 203003,
+      "forks": 36325,
       "language": "Python",
-      "pushed_at": "2026-06-25T18:12:46Z",
-      "updated_at": "2026-06-25T18:13:28Z"
-    },
-    {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 55688,
-      "forks": 10995,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-25T18:08:48Z",
-      "updated_at": "2026-06-25T18:08:41Z"
+      "pushed_at": "2026-06-25T21:44:03Z",
+      "updated_at": "2026-06-25T21:46:09Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35506,
+      "stars": 35512,
       "forks": 4403,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T18:13:46Z",
-      "updated_at": "2026-06-25T18:01:39Z"
+      "pushed_at": "2026-06-25T21:38:50Z",
+      "updated_at": "2026-06-25T21:38:54Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22985,
-      "forks": 3849,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 18972,
+      "forks": 1236,
+      "language": "HTML",
+      "pushed_at": "2026-06-25T20:49:59Z",
+      "updated_at": "2026-06-25T21:05:06Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 14634,
+      "forks": 1281,
       "language": "TypeScript",
-      "pushed_at": "2026-06-25T18:09:11Z",
-      "updated_at": "2026-06-25T17:43:09Z"
-    },
-    {
-      "id": 609539715,
-      "full_name": "e2b-dev/E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 12724,
-      "forks": 943,
-      "language": "Python",
-      "pushed_at": "2026-06-25T18:04:10Z",
-      "updated_at": "2026-06-25T18:04:29Z"
+      "pushed_at": "2026-06-25T21:45:07Z",
+      "updated_at": "2026-06-25T21:41:53Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 4880,
-      "forks": 578,
+      "stars": 4898,
+      "forks": 581,
       "language": "Python",
-      "pushed_at": "2026-06-25T18:13:59Z",
-      "updated_at": "2026-06-25T18:14:04Z"
+      "pushed_at": "2026-06-25T21:44:10Z",
+      "updated_at": "2026-06-25T21:43:11Z"
     },
     {
       "id": 220867748,
@@ -81,85 +70,85 @@
       "stars": 3214,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-06-25T17:36:16Z",
-      "updated_at": "2026-06-25T17:36:22Z"
+      "pushed_at": "2026-06-25T21:29:51Z",
+      "updated_at": "2026-06-25T21:26:54Z"
     },
     {
       "id": 1203777920,
       "full_name": "xbtlin/ai-berkshire",
       "html_url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 1738,
-      "forks": 286,
+      "stars": 1792,
+      "forks": 292,
       "language": "Python",
-      "pushed_at": "2026-06-25T18:07:43Z",
-      "updated_at": "2026-06-25T18:11:19Z"
+      "pushed_at": "2026-06-25T21:12:01Z",
+      "updated_at": "2026-06-25T21:41:29Z"
     },
     {
-      "id": 637158104,
-      "full_name": "Anil-matcha/open-claude-tag",
-      "html_url": "https://github.com/Anil-matcha/open-claude-tag",
-      "description": "Self-hostable channel-native AI teammate for Slack. Open source alternative to Claude Tag. LLM-agnostic.",
-      "stars": 815,
-      "forks": 176,
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1223,
+      "forks": 145,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T21:13:23Z",
+      "updated_at": "2026-06-25T21:25:15Z"
+    },
+    {
+      "id": 1230293192,
+      "full_name": "Lilac-Labs/gini-agent",
+      "html_url": "https://github.com/Lilac-Labs/gini-agent",
+      "description": "The agent that remembers and learns.",
+      "stars": 646,
+      "forks": 156,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-25T21:42:35Z",
+      "updated_at": "2026-06-25T21:03:28Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 479,
+      "forks": 40,
+      "language": "Go",
+      "pushed_at": "2026-06-25T21:08:42Z",
+      "updated_at": "2026-06-25T21:08:45Z"
+    },
+    {
+      "id": 1232824274,
+      "full_name": "stormzhang/token-tracker",
+      "html_url": "https://github.com/stormzhang/token-tracker",
+      "description": "Claude Code & Codex 本地 token 追踪 — 状态栏（Codex 业界首创伪 statusline）、GitHub 风格热力图、多模型成本分析。 | Local token tracker for Claude Code & Codex — status line (industry-first Codex faux statusline), GitHub-style heatmap, multi-model cost analysis",
+      "stars": 330,
+      "forks": 26,
       "language": "Python",
-      "pushed_at": "2026-06-25T18:10:45Z",
-      "updated_at": "2026-06-25T18:10:58Z"
+      "pushed_at": "2026-06-25T20:48:46Z",
+      "updated_at": "2026-06-25T20:48:52Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 747,
-      "forks": 72,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T17:52:36Z",
-      "updated_at": "2026-06-25T18:04:06Z"
+      "id": 1150205195,
+      "full_name": "pardnchiu/Agenvoy",
+      "html_url": "https://github.com/pardnchiu/Agenvoy",
+      "description": "Make AI actually work for you - A personal agent that writes its own tools and repairs itself.",
+      "stars": 225,
+      "forks": 31,
+      "language": "Go",
+      "pushed_at": "2026-06-25T21:11:16Z",
+      "updated_at": "2026-06-25T21:10:04Z"
     },
     {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 597,
-      "forks": 33,
-      "language": "ReScript",
-      "pushed_at": "2026-06-25T17:35:32Z",
-      "updated_at": "2026-06-25T17:35:34Z"
-    },
-    {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 380,
-      "forks": 60,
+      "id": 1155078763,
+      "full_name": "xg-gh-25/SwarmAI",
+      "html_url": "https://github.com/xg-gh-25/SwarmAI",
+      "description": "Human directs. AI delivers.",
+      "stars": 208,
+      "forks": 23,
       "language": "Python",
-      "pushed_at": "2026-06-25T18:12:45Z",
-      "updated_at": "2026-06-25T18:04:32Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 187,
-      "forks": 307,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T18:01:34Z",
-      "updated_at": "2026-06-25T18:11:10Z"
-    },
-    {
-      "id": 1228890794,
-      "full_name": "aqm857886159/Nomi",
-      "html_url": "https://github.com/aqm857886159/Nomi",
-      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
-      "stars": 141,
-      "forks": 27,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-25T17:57:47Z",
-      "updated_at": "2026-06-25T18:04:19Z"
+      "pushed_at": "2026-06-25T20:41:27Z",
+      "updated_at": "2026-06-25T20:41:31Z"
     },
     {
       "id": 1271255104,
@@ -169,8 +158,19 @@
       "stars": 141,
       "forks": 3,
       "language": "Python",
-      "pushed_at": "2026-06-25T17:53:50Z",
-      "updated_at": "2026-06-25T17:55:23Z"
+      "pushed_at": "2026-06-25T21:44:00Z",
+      "updated_at": "2026-06-25T21:31:33Z"
+    },
+    {
+      "id": 1182535754,
+      "full_name": "Digital-Process-Tools/claude-remember",
+      "html_url": "https://github.com/Digital-Process-Tools/claude-remember",
+      "description": "Persistent memory for Claude Code — identity, context, and continuity across sessions",
+      "stars": 127,
+      "forks": 36,
+      "language": "Python",
+      "pushed_at": "2026-06-25T21:07:22Z",
+      "updated_at": "2026-06-25T21:07:26Z"
     }
   ]
 }
