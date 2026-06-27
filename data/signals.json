@@ -8,92 +8,70 @@
   "total_found": 986,
   "items": [
     {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 204216,
+      "forks": 36723,
+      "language": "Python",
+      "pushed_at": "2026-06-27T16:53:30Z",
+      "updated_at": "2026-06-27T17:15:23Z"
+    },
+    {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 50364,
-      "forks": 43986,
+      "stars": 50456,
+      "forks": 44038,
       "language": "Python",
-      "pushed_at": "2026-06-27T13:29:52Z",
-      "updated_at": "2026-06-27T13:46:29Z"
+      "pushed_at": "2026-06-27T17:12:29Z",
+      "updated_at": "2026-06-27T17:15:26Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47871,
+      "stars": 47881,
       "forks": 4543,
       "language": "TypeScript",
-      "pushed_at": "2026-06-27T13:48:53Z",
-      "updated_at": "2026-06-27T13:26:45Z"
+      "pushed_at": "2026-06-27T17:09:12Z",
+      "updated_at": "2026-06-27T17:03:57Z"
     },
     {
       "id": 1181982220,
       "full_name": "jackwener/OpenCLI",
       "html_url": "https://github.com/jackwener/OpenCLI",
       "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 25436,
+      "stars": 25450,
       "forks": 2527,
       "language": "JavaScript",
-      "pushed_at": "2026-06-27T13:51:54Z",
-      "updated_at": "2026-06-27T13:51:58Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 14848,
-      "forks": 1313,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T13:20:12Z",
-      "updated_at": "2026-06-27T13:44:14Z"
-    },
-    {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 13514,
-      "forks": 2574,
-      "language": "Python",
-      "pushed_at": "2026-06-27T13:40:16Z",
-      "updated_at": "2026-06-27T13:49:42Z"
-    },
-    {
-      "id": 1104370536,
-      "full_name": "ChatLab/ChatLab",
-      "html_url": "https://github.com/ChatLab/ChatLab",
-      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
-      "stars": 6800,
-      "forks": 1438,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T13:50:54Z",
-      "updated_at": "2026-06-27T13:42:53Z"
+      "pushed_at": "2026-06-27T16:49:39Z",
+      "updated_at": "2026-06-27T17:09:47Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 5069,
-      "forks": 624,
+      "stars": 5094,
+      "forks": 628,
       "language": "Python",
-      "pushed_at": "2026-06-27T13:27:55Z",
-      "updated_at": "2026-06-27T13:50:31Z"
+      "pushed_at": "2026-06-27T17:00:17Z",
+      "updated_at": "2026-06-27T17:01:17Z"
     },
     {
       "id": 1203777920,
       "full_name": "xbtlin/ai-berkshire",
       "html_url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 3611,
-      "forks": 527,
+      "stars": 3899,
+      "forks": 555,
       "language": "Python",
-      "pushed_at": "2026-06-27T13:48:17Z",
-      "updated_at": "2026-06-27T13:52:27Z"
+      "pushed_at": "2026-06-27T16:49:55Z",
+      "updated_at": "2026-06-27T17:15:40Z"
     },
     {
       "id": 220867748,
@@ -103,19 +81,8 @@
       "stars": 3217,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-06-27T13:46:08Z",
-      "updated_at": "2026-06-27T13:19:34Z"
-    },
-    {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2415,
-      "forks": 420,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T13:45:17Z",
-      "updated_at": "2026-06-27T13:45:23Z"
+      "pushed_at": "2026-06-27T17:07:23Z",
+      "updated_at": "2026-06-27T17:03:52Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +92,85 @@
       "stars": 1133,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-06-27T13:50:16Z",
-      "updated_at": "2026-06-27T13:22:08Z"
+      "pushed_at": "2026-06-27T16:58:38Z",
+      "updated_at": "2026-06-27T16:51:58Z"
     },
     {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 349,
-      "forks": 59,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-27T13:32:35Z",
-      "updated_at": "2026-06-27T13:32:39Z"
+      "id": 1258621567,
+      "full_name": "tastyeffectco/sandboxd",
+      "html_url": "https://github.com/tastyeffectco/sandboxd",
+      "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "stars": 700,
+      "forks": 32,
+      "language": "Go",
+      "pushed_at": "2026-06-27T17:06:12Z",
+      "updated_at": "2026-06-27T16:55:10Z"
     },
     {
-      "id": 1155078763,
-      "full_name": "xg-gh-25/SwarmAI",
-      "html_url": "https://github.com/xg-gh-25/SwarmAI",
-      "description": "Human directs. AI delivers.",
-      "stars": 211,
-      "forks": 24,
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!",
+      "stars": 556,
+      "forks": 89,
       "language": "Python",
-      "pushed_at": "2026-06-27T13:28:33Z",
-      "updated_at": "2026-06-27T13:28:44Z"
+      "pushed_at": "2026-06-27T17:03:44Z",
+      "updated_at": "2026-06-27T17:03:48Z"
     },
     {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 198,
-      "forks": 323,
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 425,
+      "forks": 102,
       "language": "TypeScript",
-      "pushed_at": "2026-06-27T13:35:06Z",
-      "updated_at": "2026-06-27T13:35:10Z"
+      "pushed_at": "2026-06-27T17:03:09Z",
+      "updated_at": "2026-06-27T17:03:13Z"
     },
     {
-      "id": 1134428804,
-      "full_name": "slive777/OpenAver",
-      "html_url": "https://github.com/slive777/OpenAver",
-      "description": "Free open-source desktop app that scrapes JAV metadata and generates NFO + cover art for Jellyfin, Emby & Kodi. No Docker, no CLI — one-click install on Windows & macOS. 8 built-in sources + optional Metatube federation (30+ providers), actress collections, cross-language tag aliases, and a REST API for AI agents.",
-      "stars": 142,
-      "forks": 13,
+      "id": 1162230313,
+      "full_name": "mnemon-dev/mnemon",
+      "html_url": "https://github.com/mnemon-dev/mnemon",
+      "description": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.",
+      "stars": 364,
+      "forks": 54,
+      "language": "Go",
+      "pushed_at": "2026-06-27T16:48:03Z",
+      "updated_at": "2026-06-27T16:48:06Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 353,
+      "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-06-27T13:21:09Z",
-      "updated_at": "2026-06-27T13:21:11Z"
+      "pushed_at": "2026-06-27T16:37:23Z",
+      "updated_at": "2026-06-27T16:37:25Z"
+    },
+    {
+      "id": 1227341286,
+      "full_name": "worldwonderer/video-recap-skills",
+      "html_url": "https://github.com/worldwonderer/video-recap-skills",
+      "description": "Clip any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出",
+      "stars": 339,
+      "forks": 57,
+      "language": "Python",
+      "pushed_at": "2026-06-27T17:13:11Z",
+      "updated_at": "2026-06-27T16:53:39Z"
+    },
+    {
+      "id": 1248315096,
+      "full_name": "vuejs-ai/vue-tui",
+      "html_url": "https://github.com/vuejs-ai/vue-tui",
+      "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
+      "stars": 283,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-27T16:42:22Z",
+      "updated_at": "2026-06-27T16:42:26Z"
     }
   ]
 }
