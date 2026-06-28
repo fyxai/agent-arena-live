@@ -12,77 +12,66 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 204819,
-      "forks": 36913,
+      "stars": 204906,
+      "forks": 36942,
       "language": "Python",
-      "pushed_at": "2026-06-28T17:14:50Z",
-      "updated_at": "2026-06-28T17:14:12Z"
+      "pushed_at": "2026-06-28T21:04:43Z",
+      "updated_at": "2026-06-28T20:59:34Z"
     },
     {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 56307,
-      "forks": 11111,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-28T16:35:43Z",
-      "updated_at": "2026-06-28T17:11:53Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47925,
-      "forks": 4551,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 35597,
+      "forks": 4411,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T16:47:43Z",
-      "updated_at": "2026-06-28T17:16:44Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 25212,
-      "forks": 1537,
-      "language": "Go",
-      "pushed_at": "2026-06-28T16:44:09Z",
-      "updated_at": "2026-06-28T17:13:06Z"
+      "pushed_at": "2026-06-28T20:31:34Z",
+      "updated_at": "2026-06-28T21:04:23Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23023,
+      "stars": 23024,
       "forks": 3863,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T17:13:24Z",
-      "updated_at": "2026-06-28T16:29:20Z"
+      "pushed_at": "2026-06-28T20:07:12Z",
+      "updated_at": "2026-06-28T19:18:55Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 19157,
-      "forks": 1251,
+      "stars": 19158,
+      "forks": 1252,
       "language": "HTML",
-      "pushed_at": "2026-06-28T17:15:20Z",
-      "updated_at": "2026-06-28T17:01:31Z"
+      "pushed_at": "2026-06-28T19:11:44Z",
+      "updated_at": "2026-06-28T21:05:19Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 14977,
-      "forks": 1330,
+      "stars": 14994,
+      "forks": 1333,
       "language": "TypeScript",
-      "pushed_at": "2026-06-28T17:11:47Z",
-      "updated_at": "2026-06-28T17:12:42Z"
+      "pushed_at": "2026-06-28T21:04:01Z",
+      "updated_at": "2026-06-28T20:56:50Z"
+    },
+    {
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 3351,
+      "forks": 946,
+      "language": "Go",
+      "pushed_at": "2026-06-28T20:59:12Z",
+      "updated_at": "2026-06-28T20:54:25Z"
     },
     {
       "id": 220867748,
@@ -92,8 +81,8 @@
       "stars": 3217,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-06-28T16:34:22Z",
-      "updated_at": "2026-06-28T16:34:27Z"
+      "pushed_at": "2026-06-28T21:00:12Z",
+      "updated_at": "2026-06-28T21:00:18Z"
     },
     {
       "id": 982183014,
@@ -103,74 +92,85 @@
       "stars": 2163,
       "forks": 352,
       "language": "JavaScript",
-      "pushed_at": "2026-06-28T17:08:55Z",
-      "updated_at": "2026-06-28T17:09:13Z"
+      "pushed_at": "2026-06-28T19:24:56Z",
+      "updated_at": "2026-06-28T19:25:00Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 771,
-      "forks": 79,
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1135,
+      "forks": 67,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-28T20:34:46Z",
+      "updated_at": "2026-06-28T20:27:34Z"
+    },
+    {
+      "id": 1196898989,
+      "full_name": "awizemann/scarf",
+      "html_url": "https://github.com/awizemann/scarf",
+      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+      "stars": 679,
+      "forks": 42,
+      "language": "Swift",
+      "pushed_at": "2026-06-28T19:04:35Z",
+      "updated_at": "2026-06-28T21:01:07Z"
+    },
+    {
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 645,
+      "forks": 50,
       "language": "Python",
-      "pushed_at": "2026-06-28T16:28:00Z",
-      "updated_at": "2026-06-28T16:28:04Z"
+      "pushed_at": "2026-06-28T20:50:35Z",
+      "updated_at": "2026-06-28T20:50:38Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!",
-      "stars": 572,
-      "forks": 94,
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 599,
+      "forks": 34,
+      "language": "ReScript",
+      "pushed_at": "2026-06-28T19:47:16Z",
+      "updated_at": "2026-06-28T19:43:32Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 381,
+      "forks": 61,
       "language": "Python",
-      "pushed_at": "2026-06-28T17:05:48Z",
-      "updated_at": "2026-06-28T17:17:30Z"
-    },
-    {
-      "id": 1164646909,
-      "full_name": "jazzenchen/VibeAround",
-      "html_url": "https://github.com/jazzenchen/VibeAround",
-      "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
-      "stars": 452,
-      "forks": 52,
-      "language": "Rust",
-      "pushed_at": "2026-06-28T17:16:26Z",
-      "updated_at": "2026-06-28T17:16:30Z"
+      "pushed_at": "2026-06-28T21:04:56Z",
+      "updated_at": "2026-06-28T21:05:00Z"
     },
     {
       "id": 1278668528,
       "full_name": "abundantbeing/hermes-browser-extension",
       "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
       "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "stars": 276,
+      "stars": 278,
       "forks": 23,
       "language": "JavaScript",
-      "pushed_at": "2026-06-28T17:12:26Z",
-      "updated_at": "2026-06-28T17:12:30Z"
+      "pushed_at": "2026-06-28T20:35:59Z",
+      "updated_at": "2026-06-28T20:12:24Z"
     },
     {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 203,
-      "forks": 334,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T17:09:57Z",
-      "updated_at": "2026-06-28T17:10:01Z"
-    },
-    {
-      "id": 1255122629,
-      "full_name": "ayuayue/PiDeck",
-      "html_url": "https://github.com/ayuayue/PiDeck",
-      "description": "Desktop workbench for managing multiple pi coding-agent sessions across project folders.",
-      "stars": 186,
-      "forks": 20,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-28T16:44:06Z",
-      "updated_at": "2026-06-28T16:59:54Z"
+      "id": 1246535785,
+      "full_name": "Shiyao-Huang/awesome-agent-evolution",
+      "html_url": "https://github.com/Shiyao-Huang/awesome-agent-evolution",
+      "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and agent-swarm systems.",
+      "stars": 168,
+      "forks": 9,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-28T21:03:44Z",
+      "updated_at": "2026-06-28T21:03:48Z"
     }
   ]
 }
