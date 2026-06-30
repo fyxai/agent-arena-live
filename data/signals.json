@@ -5,128 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 998,
+  "total_found": 1003,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 205842,
-      "forks": 37186,
+      "stars": 206106,
+      "forks": 37256,
       "language": "Python",
-      "pushed_at": "2026-06-30T03:57:45Z",
-      "updated_at": "2026-06-30T04:00:38Z"
+      "pushed_at": "2026-06-30T11:05:55Z",
+      "updated_at": "2026-06-30T11:06:27Z"
+    },
+    {
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 52175,
+      "forks": 45276,
+      "language": "Python",
+      "pushed_at": "2026-06-30T11:07:05Z",
+      "updated_at": "2026-06-30T11:12:03Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 47977,
-      "forks": 4557,
+      "stars": 47991,
+      "forks": 4558,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T04:01:42Z",
-      "updated_at": "2026-06-30T03:59:09Z"
+      "pushed_at": "2026-06-30T11:08:20Z",
+      "updated_at": "2026-06-30T10:44:52Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 44866,
-      "forks": 7913,
+      "stars": 44887,
+      "forks": 7914,
       "language": "Python",
-      "pushed_at": "2026-06-30T03:30:08Z",
-      "updated_at": "2026-06-30T03:39:54Z"
+      "pushed_at": "2026-06-30T10:46:43Z",
+      "updated_at": "2026-06-30T11:01:46Z"
     },
     {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 44753,
-      "forks": 2846,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 35652,
+      "forks": 4415,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T03:46:48Z",
-      "updated_at": "2026-06-30T03:49:45Z"
+      "pushed_at": "2026-06-30T11:03:54Z",
+      "updated_at": "2026-06-30T11:05:42Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 25382,
-      "forks": 1559,
-      "language": "Go",
-      "pushed_at": "2026-06-30T03:52:40Z",
-      "updated_at": "2026-06-30T03:56:17Z"
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 23157,
+      "forks": 2721,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T11:02:56Z",
+      "updated_at": "2026-06-30T11:11:01Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23053,
-      "forks": 3866,
+      "stars": 23061,
+      "forks": 3867,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T03:56:07Z",
-      "updated_at": "2026-06-30T03:56:13Z"
+      "pushed_at": "2026-06-30T10:55:43Z",
+      "updated_at": "2026-06-30T10:43:22Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 19213,
-      "forks": 1261,
-      "language": "HTML",
-      "pushed_at": "2026-06-30T03:51:45Z",
-      "updated_at": "2026-06-30T04:02:21Z"
+      "id": 981177285,
+      "full_name": "presenton/presenton",
+      "html_url": "https://github.com/presenton/presenton",
+      "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
+      "stars": 8594,
+      "forks": 1338,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T11:03:41Z",
+      "updated_at": "2026-06-30T11:04:05Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 5496,
-      "forks": 706,
+      "stars": 5604,
+      "forks": 710,
       "language": "Python",
-      "pushed_at": "2026-06-30T03:59:36Z",
-      "updated_at": "2026-06-30T03:53:24Z"
-    },
-    {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5393,
-      "forks": 833,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T03:25:26Z",
-      "updated_at": "2026-06-30T03:36:25Z"
-    },
-    {
-      "id": 1178833585,
-      "full_name": "iflytek/skillhub",
-      "html_url": "https://github.com/iflytek/skillhub",
-      "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
-      "stars": 3630,
-      "forks": 536,
-      "language": "Java",
-      "pushed_at": "2026-06-30T03:43:17Z",
-      "updated_at": "2026-06-30T03:50:12Z"
-    },
-    {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "企业级 AI 开发平台，内置了开发环境管理、AI 模型管理、AI 任务管理、项目需求管理等能力，是真正面向专业开发团队的 AI 助手",
-      "stars": 3501,
-      "forks": 443,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T03:47:56Z",
-      "updated_at": "2026-06-30T03:35:57Z"
+      "pushed_at": "2026-06-30T11:09:25Z",
+      "updated_at": "2026-06-30T11:08:46Z"
     },
     {
       "id": 1096175506,
@@ -134,43 +112,65 @@
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
       "stars": 1135,
-      "forks": 67,
+      "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T04:02:00Z",
-      "updated_at": "2026-06-30T03:57:29Z"
+      "pushed_at": "2026-06-30T11:13:18Z",
+      "updated_at": "2026-06-30T11:12:01Z"
     },
     {
-      "id": 1201960789,
-      "full_name": "mm7894215/TokenTracker",
-      "html_url": "https://github.com/mm7894215/TokenTracker",
-      "description": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.",
-      "stars": 801,
-      "forks": 80,
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1039,
+      "forks": 175,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T10:40:18Z",
+      "updated_at": "2026-06-30T10:40:06Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 382,
+      "forks": 61,
+      "language": "Python",
+      "pushed_at": "2026-06-30T11:00:19Z",
+      "updated_at": "2026-06-30T11:00:29Z"
+    },
+    {
+      "id": 1278668528,
+      "full_name": "abundantbeing/hermes-browser-extension",
+      "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "stars": 319,
+      "forks": 26,
       "language": "JavaScript",
-      "pushed_at": "2026-06-30T03:27:08Z",
-      "updated_at": "2026-06-30T03:59:22Z"
+      "pushed_at": "2026-06-30T10:44:21Z",
+      "updated_at": "2026-06-30T10:44:26Z"
     },
     {
-      "id": 1201201482,
-      "full_name": "mateaix/mateclaw",
-      "html_url": "https://github.com/mateaix/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 669,
-      "forks": 204,
-      "language": "Java",
-      "pushed_at": "2026-06-30T03:31:20Z",
-      "updated_at": "2026-06-30T03:31:24Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 253,
-      "forks": 15,
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
+      "stars": 240,
+      "forks": 47,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T03:25:41Z",
-      "updated_at": "2026-06-30T03:25:46Z"
+      "pushed_at": "2026-06-30T11:06:55Z",
+      "updated_at": "2026-06-30T11:07:03Z"
+    },
+    {
+      "id": 1276999782,
+      "full_name": "Johell1NS/browser-search",
+      "html_url": "https://github.com/Johell1NS/browser-search",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "stars": 240,
+      "forks": 23,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-30T10:57:47Z",
+      "updated_at": "2026-06-30T10:57:51Z"
     }
   ]
 }
