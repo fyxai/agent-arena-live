@@ -5,73 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1007,
+  "total_found": 1002,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 206362,
-      "forks": 37305,
+      "stars": 206431,
+      "forks": 37328,
       "language": "Python",
-      "pushed_at": "2026-06-30T17:55:22Z",
-      "updated_at": "2026-06-30T17:54:24Z"
+      "pushed_at": "2026-06-30T21:38:02Z",
+      "updated_at": "2026-06-30T21:41:07Z"
     },
     {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 25707,
-      "forks": 2555,
-      "language": "JavaScript",
-      "pushed_at": "2026-06-30T17:35:33Z",
-      "updated_at": "2026-06-30T17:45:03Z"
-    },
-    {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 7418,
-      "forks": 952,
-      "language": "Python",
-      "pushed_at": "2026-06-30T17:09:04Z",
-      "updated_at": "2026-06-30T17:57:08Z"
-    },
-    {
-      "id": 1104370536,
-      "full_name": "ChatLab/ChatLab",
-      "html_url": "https://github.com/ChatLab/ChatLab",
-      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
-      "stars": 6824,
-      "forks": 1442,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 35657,
+      "forks": 4415,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T17:30:24Z",
-      "updated_at": "2026-06-30T17:28:25Z"
+      "pushed_at": "2026-06-30T21:40:48Z",
+      "updated_at": "2026-06-30T21:37:11Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 25485,
+      "forks": 1566,
+      "language": "Go",
+      "pushed_at": "2026-06-30T20:53:01Z",
+      "updated_at": "2026-06-30T21:30:43Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 15323,
+      "forks": 1357,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T21:25:26Z",
+      "updated_at": "2026-06-30T21:39:24Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 5717,
-      "forks": 722,
+      "stars": 5739,
+      "forks": 727,
       "language": "Python",
-      "pushed_at": "2026-06-30T17:55:51Z",
-      "updated_at": "2026-06-30T17:59:13Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 12+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 3475,
-      "forks": 221,
-      "language": "TypeScript",
-      "pushed_at": "2026-06-30T17:07:10Z",
-      "updated_at": "2026-06-30T17:07:15Z"
+      "pushed_at": "2026-06-30T21:21:13Z",
+      "updated_at": "2026-06-30T21:37:37Z"
     },
     {
       "id": 220867748,
@@ -81,96 +70,107 @@
       "stars": 3221,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-06-30T17:39:04Z",
-      "updated_at": "2026-06-30T17:39:09Z"
+      "pushed_at": "2026-06-30T21:17:54Z",
+      "updated_at": "2026-06-30T21:18:01Z"
     },
     {
-      "id": 1186842622,
-      "full_name": "Paca-AI/paca",
-      "html_url": "https://github.com/Paca-AI/paca",
-      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
-      "stars": 1474,
-      "forks": 92,
-      "language": "Go",
-      "pushed_at": "2026-06-30T17:25:07Z",
-      "updated_at": "2026-06-30T17:28:25Z"
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1134,
+      "forks": 66,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T21:10:34Z",
+      "updated_at": "2026-06-30T21:10:04Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 775,
-      "forks": 79,
-      "language": "Python",
-      "pushed_at": "2026-06-30T17:28:20Z",
-      "updated_at": "2026-06-30T17:28:25Z"
+      "id": 1229689031,
+      "full_name": "answeryt/Jumping-Agent-platform",
+      "html_url": "https://github.com/answeryt/Jumping-Agent-platform",
+      "description": "Build your own AI agent through gameplay.",
+      "stars": 482,
+      "forks": 99,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T21:28:00Z",
+      "updated_at": "2026-06-30T21:28:05Z"
     },
     {
       "id": 1156882085,
       "full_name": "vivekchand/clawmetry",
       "html_url": "https://github.com/vivekchand/clawmetry",
       "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 382,
+      "stars": 383,
       "forks": 61,
       "language": "Python",
-      "pushed_at": "2026-06-30T17:57:51Z",
-      "updated_at": "2026-06-30T17:57:55Z"
+      "pushed_at": "2026-06-30T21:39:40Z",
+      "updated_at": "2026-06-30T21:38:51Z"
     },
     {
-      "id": 1167415476,
-      "full_name": "niaka3dayo/agent-skills-vrc-udon",
-      "html_url": "https://github.com/niaka3dayo/agent-skills-vrc-udon",
-      "description": "Skills, rules, and validation hooks that teach AI coding agents to generate correct UdonSharp code",
-      "stars": 224,
-      "forks": 4,
-      "language": "C#",
-      "pushed_at": "2026-06-30T17:28:38Z",
-      "updated_at": "2026-06-30T17:21:54Z"
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 252,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-06-30T21:21:05Z",
+      "updated_at": "2026-06-30T21:21:09Z"
+    },
+    {
+      "id": 1247095976,
+      "full_name": "microsoft/SwiftStreamingMarkdown",
+      "html_url": "https://github.com/microsoft/SwiftStreamingMarkdown",
+      "description": "A performant markdown library for iOS that supports streaming",
+      "stars": 239,
+      "forks": 14,
+      "language": "Swift",
+      "pushed_at": "2026-06-30T21:32:51Z",
+      "updated_at": "2026-06-30T20:46:42Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 219,
-      "forks": 365,
+      "stars": 220,
+      "forks": 366,
       "language": "TypeScript",
-      "pushed_at": "2026-06-30T17:20:56Z",
-      "updated_at": "2026-06-30T17:21:08Z"
+      "pushed_at": "2026-06-30T21:39:26Z",
+      "updated_at": "2026-06-30T21:39:31Z"
     },
     {
-      "id": 1271255104,
-      "full_name": "team-telnyx/telnyx-code-examples",
-      "html_url": "https://github.com/team-telnyx/telnyx-code-examples",
-      "description": "Production-ready code examples for Telnyx AI Communications Infrastructure — Voice AI, SMS, SIP, and IoT APIs",
-      "stars": 143,
-      "forks": 3,
-      "language": "Python",
-      "pushed_at": "2026-06-30T17:17:53Z",
-      "updated_at": "2026-06-30T17:17:59Z"
+      "id": 1246535785,
+      "full_name": "Shiyao-Huang/awesome-agent-evolution",
+      "html_url": "https://github.com/Shiyao-Huang/awesome-agent-evolution",
+      "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and agent-swarm systems.",
+      "stars": 169,
+      "forks": 9,
+      "language": "JavaScript",
+      "pushed_at": "2026-06-30T21:12:51Z",
+      "updated_at": "2026-06-30T21:12:55Z"
     },
     {
       "id": 1283015427,
       "full_name": "israriqbal/agent-ecologies",
       "html_url": "https://github.com/israriqbal/agent-ecologies",
       "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-      "stars": 134,
+      "stars": 152,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-06-30T17:03:38Z",
-      "updated_at": "2026-06-30T17:59:41Z"
+      "pushed_at": "2026-06-30T21:25:24Z",
+      "updated_at": "2026-06-30T21:25:27Z"
     },
     {
-      "id": 1235464336,
-      "full_name": "jianshuo/claude-skills",
-      "html_url": "https://github.com/jianshuo/claude-skills",
-      "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.",
-      "stars": 95,
-      "forks": 11,
-      "language": "Python",
-      "pushed_at": "2026-06-30T17:07:48Z",
-      "updated_at": "2026-06-30T17:07:57Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-06-30T21:23:55Z",
+      "updated_at": "2026-06-30T21:23:59Z"
     }
   ]
 }
