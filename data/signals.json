@@ -5,73 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1006,
+  "total_found": 1007,
   "items": [
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 206884,
-      "forks": 37467,
-      "language": "Python",
-      "pushed_at": "2026-07-01T11:27:14Z",
-      "updated_at": "2026-07-01T11:26:25Z"
-    },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 52875,
-      "forks": 45830,
+      "stars": 52970,
+      "forks": 45914,
       "language": "Python",
-      "pushed_at": "2026-07-01T11:24:56Z",
-      "updated_at": "2026-07-01T11:25:47Z"
+      "pushed_at": "2026-07-01T14:31:39Z",
+      "updated_at": "2026-07-01T14:45:38Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48023,
-      "forks": 4562,
+      "stars": 48026,
+      "forks": 4563,
       "language": "TypeScript",
-      "pushed_at": "2026-07-01T11:22:56Z",
-      "updated_at": "2026-07-01T11:20:43Z"
+      "pushed_at": "2026-07-01T14:24:41Z",
+      "updated_at": "2026-07-01T14:28:12Z"
+    },
+    {
+      "id": 291438522,
+      "full_name": "siyuan-note/siyuan",
+      "html_url": "https://github.com/siyuan-note/siyuan",
+      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+      "stars": 44820,
+      "forks": 2851,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-01T14:12:00Z",
+      "updated_at": "2026-07-01T14:22:21Z"
+    },
+    {
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "stars": 35696,
+      "forks": 2979,
+      "language": "Python",
+      "pushed_at": "2026-07-01T14:36:59Z",
+      "updated_at": "2026-07-01T14:45:35Z"
+    },
+    {
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 23179,
+      "forks": 2724,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-01T14:30:33Z",
+      "updated_at": "2026-07-01T14:23:20Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 15433,
+      "forks": 1369,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-01T14:44:33Z",
+      "updated_at": "2026-07-01T14:45:02Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 5868,
-      "forks": 742,
+      "stars": 5892,
+      "forks": 749,
       "language": "Python",
-      "pushed_at": "2026-07-01T11:08:48Z",
-      "updated_at": "2026-07-01T11:17:57Z"
+      "pushed_at": "2026-07-01T14:45:11Z",
+      "updated_at": "2026-07-01T14:45:10Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5406,
-      "forks": 838,
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3224,
+      "forks": 214,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-01T14:20:22Z",
+      "updated_at": "2026-07-01T14:13:52Z"
+    },
+    {
+      "id": 254879070,
+      "full_name": "xpf0000/FlyEnv",
+      "html_url": "https://github.com/xpf0000/FlyEnv",
+      "description": "All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
+      "stars": 3027,
+      "forks": 318,
       "language": "TypeScript",
-      "pushed_at": "2026-07-01T11:06:37Z",
-      "updated_at": "2026-07-01T11:09:32Z"
+      "pushed_at": "2026-07-01T14:36:16Z",
+      "updated_at": "2026-07-01T14:34:04Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 3366,
-      "forks": 947,
-      "language": "Go",
-      "pushed_at": "2026-07-01T11:24:24Z",
-      "updated_at": "2026-07-01T11:24:29Z"
+      "id": 982183014,
+      "full_name": "lioensky/VCPToolBox",
+      "html_url": "https://github.com/lioensky/VCPToolBox",
+      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+      "stars": 2172,
+      "forks": 354,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-01T14:38:14Z",
+      "updated_at": "2026-07-01T14:38:24Z"
     },
     {
       "id": 1096175506,
@@ -81,8 +125,8 @@
       "stars": 1134,
       "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-07-01T11:26:10Z",
-      "updated_at": "2026-07-01T11:24:40Z"
+      "pushed_at": "2026-07-01T14:41:22Z",
+      "updated_at": "2026-07-01T14:20:41Z"
     },
     {
       "id": 1057975087,
@@ -92,85 +136,41 @@
       "stars": 1108,
       "forks": 203,
       "language": "Go",
-      "pushed_at": "2026-07-01T11:04:01Z",
-      "updated_at": "2026-07-01T11:04:06Z"
-    },
-    {
-      "id": 945671748,
-      "full_name": "openops-cloud/openops",
-      "html_url": "https://github.com/openops-cloud/openops",
-      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
-      "stars": 1040,
-      "forks": 175,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-01T11:01:24Z",
-      "updated_at": "2026-07-01T11:01:27Z"
+      "pushed_at": "2026-07-01T14:45:48Z",
+      "updated_at": "2026-07-01T14:42:57Z"
     },
     {
       "id": 1201960789,
       "full_name": "mm7894215/TokenTracker",
       "html_url": "https://github.com/mm7894215/TokenTracker",
       "description": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.",
-      "stars": 812,
+      "stars": 815,
       "forks": 82,
       "language": "JavaScript",
-      "pushed_at": "2026-07-01T11:16:26Z",
-      "updated_at": "2026-07-01T11:16:30Z"
+      "pushed_at": "2026-07-01T14:19:05Z",
+      "updated_at": "2026-07-01T14:19:36Z"
     },
     {
-      "id": 1201201482,
-      "full_name": "mateaix/mateclaw",
-      "html_url": "https://github.com/mateaix/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 669,
-      "forks": 206,
-      "language": "Java",
-      "pushed_at": "2026-07-01T11:02:53Z",
-      "updated_at": "2026-07-01T11:02:56Z"
-    },
-    {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
-      "stars": 647,
-      "forks": 50,
-      "language": "Python",
-      "pushed_at": "2026-07-01T11:26:56Z",
-      "updated_at": "2026-07-01T10:57:21Z"
-    },
-    {
-      "id": 1148233533,
-      "full_name": "sepivip/SeekerClaw",
-      "html_url": "https://github.com/sepivip/SeekerClaw",
-      "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
-      "stars": 262,
-      "forks": 62,
+      "id": 1154273018,
+      "full_name": "xuanyustudio/LocalMiniDrama",
+      "html_url": "https://github.com/xuanyustudio/LocalMiniDrama",
+      "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
+      "stars": 753,
+      "forks": 195,
       "language": "JavaScript",
-      "pushed_at": "2026-07-01T11:10:19Z",
-      "updated_at": "2026-07-01T11:08:50Z"
+      "pushed_at": "2026-07-01T14:34:55Z",
+      "updated_at": "2026-07-01T14:35:18Z"
     },
     {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 224,
-      "forks": 371,
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 409,
+      "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-07-01T11:20:35Z",
-      "updated_at": "2026-07-01T11:20:39Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 153,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-01T11:19:37Z",
-      "updated_at": "2026-07-01T11:19:41Z"
+      "pushed_at": "2026-07-01T14:32:28Z",
+      "updated_at": "2026-07-01T14:33:13Z"
     }
   ]
 }
