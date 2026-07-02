@@ -5,106 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1012,
+  "total_found": 1013,
   "items": [
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 207514,
-      "forks": 37658,
-      "language": "Python",
-      "pushed_at": "2026-07-02T07:19:43Z",
-      "updated_at": "2026-07-02T07:37:27Z"
-    },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stars": 57239,
-      "forks": 11318,
+      "stars": 57270,
+      "forks": 11325,
       "language": "JavaScript",
-      "pushed_at": "2026-07-02T07:34:04Z",
-      "updated_at": "2026-07-02T07:36:19Z"
+      "pushed_at": "2026-07-02T10:33:05Z",
+      "updated_at": "2026-07-02T10:42:49Z"
+    },
+    {
+      "id": 1165277268,
+      "full_name": "Panniantong/Agent-Reach",
+      "html_url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 48757,
+      "forks": 3879,
+      "language": "Python",
+      "pushed_at": "2026-07-02T10:34:41Z",
+      "updated_at": "2026-07-02T10:43:52Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48043,
-      "forks": 4564,
+      "stars": 48050,
+      "forks": 4565,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T07:37:27Z",
-      "updated_at": "2026-07-02T07:35:27Z"
+      "pushed_at": "2026-07-02T10:44:31Z",
+      "updated_at": "2026-07-02T10:44:37Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 25662,
-      "forks": 1579,
-      "language": "Go",
-      "pushed_at": "2026-07-02T07:37:35Z",
-      "updated_at": "2026-07-02T07:37:40Z"
-    },
-    {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23182,
-      "forks": 2725,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T07:33:55Z",
-      "updated_at": "2026-07-02T07:36:52Z"
-    },
-    {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 16871,
-      "forks": 2832,
+      "id": 1118085970,
+      "full_name": "opensandbox-group/OpenSandbox",
+      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 11775,
+      "forks": 982,
       "language": "Python",
-      "pushed_at": "2026-07-02T07:23:43Z",
-      "updated_at": "2026-07-02T07:38:09Z"
+      "pushed_at": "2026-07-02T10:27:12Z",
+      "updated_at": "2026-07-02T10:27:17Z"
     },
     {
       "id": 981177285,
       "full_name": "presenton/presenton",
       "html_url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
-      "stars": 8641,
-      "forks": 1350,
+      "stars": 8650,
+      "forks": 1349,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T07:35:05Z",
-      "updated_at": "2026-07-02T07:35:10Z"
-    },
-    {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 8366,
-      "forks": 1059,
-      "language": "Python",
-      "pushed_at": "2026-07-02T07:22:07Z",
-      "updated_at": "2026-07-02T07:37:49Z"
+      "pushed_at": "2026-07-02T10:33:44Z",
+      "updated_at": "2026-07-02T10:41:21Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 5979,
-      "forks": 758,
+      "stars": 5993,
+      "forks": 764,
       "language": "Python",
-      "pushed_at": "2026-07-02T07:30:22Z",
-      "updated_at": "2026-07-02T07:35:57Z"
+      "pushed_at": "2026-07-02T10:42:54Z",
+      "updated_at": "2026-07-02T10:40:46Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4758,
+      "forks": 468,
+      "language": "Python",
+      "pushed_at": "2026-07-02T10:44:24Z",
+      "updated_at": "2026-07-02T10:44:27Z"
     },
     {
       "id": 220867748,
@@ -114,19 +92,30 @@
       "stars": 3224,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-02T07:25:42Z",
-      "updated_at": "2026-07-02T07:25:46Z"
+      "pushed_at": "2026-07-02T10:43:15Z",
+      "updated_at": "2026-07-02T10:36:29Z"
     },
     {
-      "id": 1111937658,
-      "full_name": "boxlite-ai/boxlite",
-      "html_url": "https://github.com/boxlite-ai/boxlite",
-      "description": "The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
-      "stars": 2108,
-      "forks": 132,
-      "language": "Rust",
-      "pushed_at": "2026-07-02T07:34:35Z",
-      "updated_at": "2026-07-02T07:34:38Z"
+      "id": 1200204014,
+      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
+      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
+      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+      "stars": 2528,
+      "forks": 340,
+      "language": "Stata",
+      "pushed_at": "2026-07-02T10:25:57Z",
+      "updated_at": "2026-07-02T10:29:23Z"
+    },
+    {
+      "id": 982183014,
+      "full_name": "lioensky/VCPToolBox",
+      "html_url": "https://github.com/lioensky/VCPToolBox",
+      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+      "stars": 2173,
+      "forks": 354,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-02T10:39:07Z",
+      "updated_at": "2026-07-02T10:39:13Z"
     },
     {
       "id": 1096175506,
@@ -136,19 +125,30 @@
       "stars": 1134,
       "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T07:38:05Z",
-      "updated_at": "2026-07-02T07:32:50Z"
+      "pushed_at": "2026-07-02T10:44:40Z",
+      "updated_at": "2026-07-02T10:39:24Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1110,
-      "forks": 203,
-      "language": "Go",
-      "pushed_at": "2026-07-02T07:33:07Z",
-      "updated_at": "2026-07-02T07:33:11Z"
+      "id": 1201495229,
+      "full_name": "kellyvv/PhoneClaw",
+      "html_url": "https://github.com/kellyvv/PhoneClaw",
+      "description": "Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference",
+      "stars": 1124,
+      "forks": 152,
+      "language": "Swift",
+      "pushed_at": "2026-07-02T10:35:49Z",
+      "updated_at": "2026-07-02T10:35:53Z"
+    },
+    {
+      "id": 1201960789,
+      "full_name": "mm7894215/TokenTracker",
+      "html_url": "https://github.com/mm7894215/TokenTracker",
+      "description": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.",
+      "stars": 823,
+      "forks": 82,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-02T10:42:42Z",
+      "updated_at": "2026-07-02T10:42:47Z"
     },
     {
       "id": 1215678767,
@@ -158,19 +158,19 @@
       "stars": 670,
       "forks": 114,
       "language": "Python",
-      "pushed_at": "2026-07-02T07:38:11Z",
-      "updated_at": "2026-07-02T07:38:15Z"
+      "pushed_at": "2026-07-02T10:26:47Z",
+      "updated_at": "2026-07-02T10:26:51Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 415,
-      "forks": 53,
-      "language": "Go",
-      "pushed_at": "2026-07-02T07:20:46Z",
-      "updated_at": "2026-07-02T07:20:50Z"
+      "id": 1210288370,
+      "full_name": "laolaoshiren/claude-code-skills-zh",
+      "html_url": "https://github.com/laolaoshiren/claude-code-skills-zh",
+      "description": "🛠️ 最实用的 Claude Code Skills 合集 | 精选 100+ | 18个原创可安装技能 | 按场景分类 | 复制即装",
+      "stars": 513,
+      "forks": 47,
+      "language": "Python",
+      "pushed_at": "2026-07-02T10:33:24Z",
+      "updated_at": "2026-07-02T10:33:27Z"
     }
   ]
 }
