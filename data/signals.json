@@ -5,84 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1014,
+  "total_found": 1015,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48061,
-      "forks": 4566,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T14:07:42Z",
-      "updated_at": "2026-07-02T14:03:08Z"
-    },
-    {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 44847,
-      "forks": 2853,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T13:42:47Z",
-      "updated_at": "2026-07-02T13:53:31Z"
-    },
-    {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 4023,
-      "forks": 425,
-      "language": "Unknown",
-      "pushed_at": "2026-07-02T13:38:45Z",
-      "updated_at": "2026-07-02T13:38:52Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 3505,
-      "forks": 222,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T13:37:32Z",
-      "updated_at": "2026-07-02T13:43:42Z"
-    },
-    {
-      "id": 220867748,
-      "full_name": "neomjs/neo",
-      "html_url": "https://github.com/neomjs/neo",
-      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3225,
-      "forks": 214,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-02T14:03:13Z",
-      "updated_at": "2026-07-02T14:04:39Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3091,
-      "forks": 619,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 207892,
+      "forks": 37794,
       "language": "Python",
-      "pushed_at": "2026-07-02T13:42:36Z",
-      "updated_at": "2026-07-02T14:09:13Z"
+      "pushed_at": "2026-07-02T17:50:47Z",
+      "updated_at": "2026-07-02T17:53:27Z"
     },
     {
-      "id": 1003614809,
-      "full_name": "kite-org/kite",
-      "html_url": "https://github.com/kite-org/kite",
-      "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
-      "stars": 2857,
-      "forks": 264,
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 57608,
+      "forks": 11363,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-02T17:48:27Z",
+      "updated_at": "2026-07-02T17:53:47Z"
+    },
+    {
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 53492,
+      "forks": 46347,
+      "language": "Python",
+      "pushed_at": "2026-07-02T17:18:08Z",
+      "updated_at": "2026-07-02T17:41:37Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 35719,
+      "forks": 4422,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T14:03:14Z",
-      "updated_at": "2026-07-02T14:05:48Z"
+      "pushed_at": "2026-07-02T17:26:51Z",
+      "updated_at": "2026-07-02T17:44:03Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 23085,
+      "forks": 3877,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T17:38:57Z",
+      "updated_at": "2026-07-02T17:39:09Z"
+    },
+    {
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 12813,
+      "forks": 957,
+      "language": "Python",
+      "pushed_at": "2026-07-02T17:45:51Z",
+      "updated_at": "2026-07-02T17:45:57Z"
+    },
+    {
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 6035,
+      "forks": 770,
+      "language": "Python",
+      "pushed_at": "2026-07-02T17:52:17Z",
+      "updated_at": "2026-07-02T17:51:41Z"
+    },
+    {
+      "id": 1186842622,
+      "full_name": "Paca-AI/paca",
+      "html_url": "https://github.com/Paca-AI/paca",
+      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
+      "stars": 1501,
+      "forks": 95,
+      "language": "Go",
+      "pushed_at": "2026-07-02T17:41:53Z",
+      "updated_at": "2026-07-02T17:43:48Z"
     },
     {
       "id": 1096175506,
@@ -92,8 +103,8 @@
       "stars": 1134,
       "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T14:10:50Z",
-      "updated_at": "2026-07-02T13:58:12Z"
+      "pushed_at": "2026-07-02T17:22:14Z",
+      "updated_at": "2026-07-02T17:21:45Z"
     },
     {
       "id": 1057975087,
@@ -103,74 +114,63 @@
       "stars": 1110,
       "forks": 203,
       "language": "Go",
-      "pushed_at": "2026-07-02T14:07:56Z",
-      "updated_at": "2026-07-02T14:09:48Z"
+      "pushed_at": "2026-07-02T17:46:14Z",
+      "updated_at": "2026-07-02T17:46:19Z"
     },
     {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 1077,
-      "forks": 180,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-02T13:40:22Z",
-      "updated_at": "2026-07-02T13:41:28Z"
-    },
-    {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!",
-      "stars": 672,
-      "forks": 114,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 384,
+      "forks": 62,
       "language": "Python",
-      "pushed_at": "2026-07-02T13:50:30Z",
-      "updated_at": "2026-07-02T13:51:43Z"
+      "pushed_at": "2026-07-02T17:39:41Z",
+      "updated_at": "2026-07-02T17:39:44Z"
+    },
+    {
+      "id": 1247095976,
+      "full_name": "microsoft/SwiftStreamingMarkdown",
+      "html_url": "https://github.com/microsoft/SwiftStreamingMarkdown",
+      "description": "A performant markdown library for iOS & macOS that supports streaming",
+      "stars": 242,
+      "forks": 17,
+      "language": "Swift",
+      "pushed_at": "2026-07-02T17:30:59Z",
+      "updated_at": "2026-07-02T17:32:09Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 224,
-      "forks": 377,
+      "stars": 225,
+      "forks": 378,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T13:46:07Z",
-      "updated_at": "2026-07-02T13:49:21Z"
+      "pushed_at": "2026-07-02T17:31:09Z",
+      "updated_at": "2026-07-02T17:32:18Z"
+    },
+    {
+      "id": 1019488351,
+      "full_name": "gorango/flowcraft",
+      "html_url": "https://github.com/gorango/flowcraft",
+      "description": "A lightweight workflow engine",
+      "stars": 199,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-02T17:17:38Z",
+      "updated_at": "2026-07-02T17:17:58Z"
     },
     {
       "id": 1243365944,
       "full_name": "open-software-network/os-june",
       "html_url": "https://github.com/open-software-network/os-june",
       "description": "Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.",
-      "stars": 174,
-      "forks": 17,
+      "stars": 177,
+      "forks": 18,
       "language": "TypeScript",
-      "pushed_at": "2026-07-02T13:58:23Z",
-      "updated_at": "2026-07-02T13:43:24Z"
-    },
-    {
-      "id": 1018408931,
-      "full_name": "ystemsrx/sql_to_ER",
-      "html_url": "https://github.com/ystemsrx/sql_to_ER",
-      "description": "【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill).",
-      "stars": 174,
-      "forks": 25,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-02T14:02:37Z",
-      "updated_at": "2026-07-02T14:04:05Z"
-    },
-    {
-      "id": 1252432466,
-      "full_name": "Gitlawb/zero",
-      "html_url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 153,
-      "forks": 20,
-      "language": "Go",
-      "pushed_at": "2026-07-02T14:10:55Z",
-      "updated_at": "2026-07-02T14:10:43Z"
+      "pushed_at": "2026-07-02T17:53:12Z",
+      "updated_at": "2026-07-02T17:52:05Z"
     }
   ]
 }
