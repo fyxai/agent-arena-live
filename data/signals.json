@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1021,
+  "total_found": 1023,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 208257,
+      "forks": 37895,
+      "language": "Python",
+      "pushed_at": "2026-07-03T07:22:52Z",
+      "updated_at": "2026-07-03T07:23:06Z"
+    },
     {
       "id": 1165277268,
       "full_name": "Panniantong/Agent-Reach",
       "html_url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 49247,
-      "forks": 3927,
+      "stars": 49363,
+      "forks": 3932,
       "language": "Python",
-      "pushed_at": "2026-07-03T03:21:03Z",
-      "updated_at": "2026-07-03T03:41:38Z"
+      "pushed_at": "2026-07-03T06:57:59Z",
+      "updated_at": "2026-07-03T07:24:24Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48082,
+      "stars": 48096,
       "forks": 4569,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T03:40:46Z",
-      "updated_at": "2026-07-03T03:39:38Z"
+      "pushed_at": "2026-07-03T07:19:38Z",
+      "updated_at": "2026-07-03T07:13:15Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 15720,
-      "forks": 1397,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T03:28:24Z",
-      "updated_at": "2026-07-03T03:38:50Z"
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 45765,
+      "forks": 10251,
+      "language": "Python",
+      "pushed_at": "2026-07-03T06:59:42Z",
+      "updated_at": "2026-07-03T07:19:02Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6073,
-      "forks": 782,
+      "stars": 6091,
+      "forks": 788,
       "language": "Python",
-      "pushed_at": "2026-07-03T03:33:09Z",
-      "updated_at": "2026-07-03T03:33:35Z"
+      "pushed_at": "2026-07-03T07:19:50Z",
+      "updated_at": "2026-07-03T07:25:18Z"
     },
     {
       "id": 1152014383,
@@ -57,21 +68,43 @@
       "html_url": "https://github.com/ArcReel/ArcReel",
       "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
       "stars": 3103,
-      "forks": 619,
+      "forks": 620,
       "language": "Python",
-      "pushed_at": "2026-07-03T03:30:52Z",
-      "updated_at": "2026-07-03T03:31:33Z"
+      "pushed_at": "2026-07-03T06:59:19Z",
+      "updated_at": "2026-07-03T06:58:45Z"
+    },
+    {
+      "id": 1273015953,
+      "full_name": "shy3130/tickflow-stock-panel",
+      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据 | 个人开源 ,与tickflow官方无关",
+      "stars": 1264,
+      "forks": 233,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T07:23:30Z",
+      "updated_at": "2026-07-03T07:23:33Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1134,
+      "stars": 1135,
       "forks": 66,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T03:40:40Z",
-      "updated_at": "2026-07-03T03:39:45Z"
+      "pushed_at": "2026-07-03T07:25:49Z",
+      "updated_at": "2026-07-03T07:07:06Z"
+    },
+    {
+      "id": 1245256564,
+      "full_name": "Eynzof/Hermes-CN-Desktop",
+      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 712,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T07:10:03Z",
+      "updated_at": "2026-07-03T07:10:06Z"
     },
     {
       "id": 1201201482,
@@ -81,8 +114,8 @@
       "stars": 674,
       "forks": 209,
       "language": "Java",
-      "pushed_at": "2026-07-03T03:28:03Z",
-      "updated_at": "2026-07-03T03:28:07Z"
+      "pushed_at": "2026-07-03T06:58:50Z",
+      "updated_at": "2026-07-03T06:58:54Z"
     },
     {
       "id": 1215678767,
@@ -92,41 +125,30 @@
       "stars": 673,
       "forks": 114,
       "language": "Python",
-      "pushed_at": "2026-07-03T03:27:35Z",
-      "updated_at": "2026-07-03T03:27:40Z"
+      "pushed_at": "2026-07-03T07:23:03Z",
+      "updated_at": "2026-07-03T07:23:04Z"
     },
     {
-      "id": 676012640,
-      "full_name": "cisco-open/network-sketcher",
-      "html_url": "https://github.com/cisco-open/network-sketcher",
-      "description": "Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting PowerPoint diagrams and Excel-based configuration data.",
-      "stars": 367,
-      "forks": 19,
-      "language": "Python",
-      "pushed_at": "2026-07-03T03:38:27Z",
-      "updated_at": "2026-07-03T03:38:30Z"
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 409,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T07:00:41Z",
+      "updated_at": "2026-07-03T07:00:47Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 353,
-      "forks": 71,
-      "language": "Python",
-      "pushed_at": "2026-07-03T03:23:56Z",
-      "updated_at": "2026-07-03T03:24:00Z"
-    },
-    {
-      "id": 1252432466,
-      "full_name": "Gitlawb/zero",
-      "html_url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 329,
-      "forks": 38,
-      "language": "Go",
-      "pushed_at": "2026-07-03T03:33:35Z",
-      "updated_at": "2026-07-03T03:41:40Z"
+      "id": 1161723599,
+      "full_name": "AmrDab/clawdcursor",
+      "html_url": "https://github.com/AmrDab/clawdcursor",
+      "description": "clawdcursor compiles whatever's on screen into one UI map — accessibility tree and OCR fused into stable, addressable elements, with a screenshot only when needed — then drives apps through reusable scripts, verifying every action and routing it through a single safety gate.",
+      "stars": 389,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-03T07:16:27Z",
+      "updated_at": "2026-07-03T07:16:32Z"
     },
     {
       "id": 1257915692,
@@ -134,43 +156,21 @@
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
       "stars": 229,
-      "forks": 382,
+      "forks": 384,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T03:26:45Z",
-      "updated_at": "2026-07-03T03:26:49Z"
-    },
-    {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
-      "stars": 223,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T03:26:03Z",
-      "updated_at": "2026-07-03T03:26:05Z"
+      "pushed_at": "2026-07-03T07:04:22Z",
+      "updated_at": "2026-07-03T07:04:27Z"
     },
     {
       "id": 1235491525,
       "full_name": "Mininglamp-OSS/octo-web",
       "html_url": "https://github.com/Mininglamp-OSS/octo-web",
       "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
-      "stars": 216,
+      "stars": 218,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T03:32:45Z",
-      "updated_at": "2026-07-03T03:34:18Z"
-    },
-    {
-      "id": 1255122629,
-      "full_name": "ayuayue/PiDeck",
-      "html_url": "https://github.com/ayuayue/PiDeck",
-      "description": "Desktop workbench for managing multiple pi coding-agent sessions across project folders.",
-      "stars": 212,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T03:27:27Z",
-      "updated_at": "2026-07-03T03:27:31Z"
+      "pushed_at": "2026-07-03T07:20:46Z",
+      "updated_at": "2026-07-03T07:02:10Z"
     }
   ]
 }
