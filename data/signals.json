@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1035,
+  "total_found": 1036,
   "items": [
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 53889,
-      "forks": 46693,
+      "stars": 53942,
+      "forks": 46744,
       "language": "Python",
-      "pushed_at": "2026-07-04T03:23:44Z",
-      "updated_at": "2026-07-04T03:34:19Z"
+      "pushed_at": "2026-07-04T06:42:25Z",
+      "updated_at": "2026-07-04T06:47:43Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48127,
-      "forks": 4570,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T03:20:06Z",
-      "updated_at": "2026-07-04T03:14:49Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
-      "stars": 36459,
-      "forks": 3053,
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 17708,
+      "forks": 2921,
       "language": "Python",
-      "pushed_at": "2026-07-04T03:29:44Z",
-      "updated_at": "2026-07-04T03:33:46Z"
+      "pushed_at": "2026-07-04T06:08:00Z",
+      "updated_at": "2026-07-04T06:38:06Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 15879,
-      "forks": 1412,
+      "stars": 15899,
+      "forks": 1413,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T03:19:22Z",
-      "updated_at": "2026-07-04T03:29:02Z"
+      "pushed_at": "2026-07-04T06:30:00Z",
+      "updated_at": "2026-07-04T06:48:14Z"
+    },
+    {
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-studio",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 8782,
+      "forks": 1083,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T06:22:53Z",
+      "updated_at": "2026-07-04T06:48:13Z"
+    },
+    {
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 6181,
+      "forks": 804,
+      "language": "Python",
+      "pushed_at": "2026-07-04T05:52:50Z",
+      "updated_at": "2026-07-04T06:42:46Z"
     },
     {
       "id": 220867748,
@@ -59,19 +70,8 @@
       "stars": 3226,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-04T03:28:07Z",
-      "updated_at": "2026-07-04T03:03:51Z"
-    },
-    {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2418,
-      "forks": 420,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-04T03:01:08Z",
-      "updated_at": "2026-07-04T03:01:12Z"
+      "pushed_at": "2026-07-04T06:23:56Z",
+      "updated_at": "2026-07-04T06:11:58Z"
     },
     {
       "id": 1096175506,
@@ -81,52 +81,30 @@
       "stars": 1133,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T03:27:22Z",
-      "updated_at": "2026-07-04T03:27:25Z"
+      "pushed_at": "2026-07-04T06:46:54Z",
+      "updated_at": "2026-07-04T06:35:18Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!",
-      "stars": 676,
-      "forks": 115,
+      "id": 1196898989,
+      "full_name": "awizemann/scarf",
+      "html_url": "https://github.com/awizemann/scarf",
+      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+      "stars": 694,
+      "forks": 43,
+      "language": "Swift",
+      "pushed_at": "2026-07-04T06:45:56Z",
+      "updated_at": "2026-07-04T06:46:00Z"
+    },
+    {
+      "id": 1210288370,
+      "full_name": "laolaoshiren/claude-code-skills-zh",
+      "html_url": "https://github.com/laolaoshiren/claude-code-skills-zh",
+      "description": "🛠️ 最实用的 Claude Code Skills 合集 | 精选 100+ | 18个原创可安装技能 | 按场景分类 | 复制即装",
+      "stars": 529,
+      "forks": 47,
       "language": "Python",
-      "pushed_at": "2026-07-04T02:55:46Z",
-      "updated_at": "2026-07-04T02:55:50Z"
-    },
-    {
-      "id": 1217551679,
-      "full_name": "r1n7aro/Locus",
-      "html_url": "https://github.com/r1n7aro/Locus",
-      "description": "The open source Unity Dev Agent",
-      "stars": 581,
-      "forks": 67,
-      "language": "Rust",
-      "pushed_at": "2026-07-04T03:27:51Z",
-      "updated_at": "2026-07-04T03:27:55Z"
-    },
-    {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 485,
-      "forks": 41,
-      "language": "Go",
-      "pushed_at": "2026-07-04T03:30:18Z",
-      "updated_at": "2026-07-04T03:21:15Z"
-    },
-    {
-      "id": 1278668528,
-      "full_name": "abundantbeing/hermes-browser-extension",
-      "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "stars": 450,
-      "forks": 35,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-04T03:19:25Z",
-      "updated_at": "2026-07-04T03:19:29Z"
+      "pushed_at": "2026-07-04T06:26:21Z",
+      "updated_at": "2026-07-04T06:26:24Z"
     },
     {
       "id": 1156882085,
@@ -136,41 +114,63 @@
       "stars": 384,
       "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-04T03:24:45Z",
-      "updated_at": "2026-07-04T03:05:24Z"
+      "pushed_at": "2026-07-04T06:25:21Z",
+      "updated_at": "2026-07-04T06:04:30Z"
     },
     {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 348,
-      "forks": 59,
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
+      "stars": 268,
+      "forks": 50,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T03:29:55Z",
-      "updated_at": "2026-07-04T03:30:06Z"
+      "pushed_at": "2026-07-04T06:07:09Z",
+      "updated_at": "2026-07-04T06:07:12Z"
     },
     {
-      "id": 1248315096,
-      "full_name": "vuejs-ai/vue-tui",
-      "html_url": "https://github.com/vuejs-ai/vue-tui",
-      "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
-      "stars": 309,
-      "forks": 10,
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 232,
+      "forks": 389,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T03:30:13Z",
-      "updated_at": "2026-07-04T03:25:54Z"
+      "pushed_at": "2026-07-04T06:37:05Z",
+      "updated_at": "2026-07-04T06:37:09Z"
     },
     {
-      "id": 1276595002,
-      "full_name": "NotASithLord/peerd",
-      "html_url": "https://github.com/NotASithLord/peerd",
-      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "stars": 295,
-      "forks": 30,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-04T02:55:11Z",
-      "updated_at": "2026-07-04T02:55:14Z"
+      "id": 989406293,
+      "full_name": "surendranb/google-analytics-mcp",
+      "html_url": "https://github.com/surendranb/google-analytics-mcp",
+      "description": "Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side aggregation, and safe defaults that reduce data wrangling.",
+      "stars": 223,
+      "forks": 45,
+      "language": "Python",
+      "pushed_at": "2026-07-04T06:32:58Z",
+      "updated_at": "2026-07-04T06:33:02Z"
+    },
+    {
+      "id": 772408997,
+      "full_name": "DemonDamon/AgenticX",
+      "html_url": "https://github.com/DemonDamon/AgenticX",
+      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "stars": 177,
+      "forks": 28,
+      "language": "Python",
+      "pushed_at": "2026-07-04T05:44:21Z",
+      "updated_at": "2026-07-04T05:44:25Z"
+    },
+    {
+      "id": 1160004652,
+      "full_name": "kstevica/captain-claw",
+      "html_url": "https://github.com/kstevica/captain-claw",
+      "description": "AI agent with multi-agent orchestration, autonomous cognitive systems, and a full management dashboard",
+      "stars": 158,
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-07-04T06:33:31Z",
+      "updated_at": "2026-07-04T06:33:35Z"
     }
   ]
 }
