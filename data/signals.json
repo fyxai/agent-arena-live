@@ -5,40 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1039,
+  "total_found": 1040,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 209162,
+      "forks": 38157,
+      "language": "Python",
+      "pushed_at": "2026-07-04T21:02:02Z",
+      "updated_at": "2026-07-04T20:59:53Z"
+    },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 54191,
-      "forks": 46956,
+      "stars": 54236,
+      "forks": 46977,
       "language": "Python",
-      "pushed_at": "2026-07-04T16:57:43Z",
-      "updated_at": "2026-07-04T17:11:09Z"
+      "pushed_at": "2026-07-04T20:41:46Z",
+      "updated_at": "2026-07-04T20:59:44Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 16014,
-      "forks": 1423,
+      "stars": 16035,
+      "forks": 1425,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T16:59:14Z",
-      "updated_at": "2026-07-04T16:57:42Z"
+      "pushed_at": "2026-07-04T20:57:08Z",
+      "updated_at": "2026-07-04T20:56:55Z"
     },
     {
       "id": 1128204614,
       "full_name": "1jehuang/jcode",
       "html_url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
-      "stars": 8130,
+      "stars": 8133,
       "forks": 912,
       "language": "Rust",
-      "pushed_at": "2026-07-04T16:32:35Z",
-      "updated_at": "2026-07-04T16:46:56Z"
+      "pushed_at": "2026-07-04T20:34:32Z",
+      "updated_at": "2026-07-04T20:34:36Z"
+    },
+    {
+      "id": 1179413000,
+      "full_name": "Narcooo/inkos",
+      "html_url": "https://github.com/Narcooo/inkos",
+      "description": "Story Creation AI Agent for novel, scripts, interactive games, and IP content",
+      "stars": 7772,
+      "forks": 1459,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T20:47:11Z",
+      "updated_at": "2026-07-04T20:47:17Z"
     },
     {
       "id": 1163814566,
@@ -48,8 +70,8 @@
       "stars": 3386,
       "forks": 954,
       "language": "Go",
-      "pushed_at": "2026-07-04T17:03:07Z",
-      "updated_at": "2026-07-04T16:57:35Z"
+      "pushed_at": "2026-07-04T20:03:07Z",
+      "updated_at": "2026-07-04T19:57:25Z"
     },
     {
       "id": 220867748,
@@ -59,30 +81,8 @@
       "stars": 3226,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-04T17:10:51Z",
-      "updated_at": "2026-07-04T16:44:26Z"
-    },
-    {
-      "id": 982183014,
-      "full_name": "lioensky/VCPToolBox",
-      "html_url": "https://github.com/lioensky/VCPToolBox",
-      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
-      "stars": 2176,
-      "forks": 354,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-04T16:39:02Z",
-      "updated_at": "2026-07-04T16:39:06Z"
-    },
-    {
-      "id": 1111937658,
-      "full_name": "boxlite-ai/boxlite",
-      "html_url": "https://github.com/boxlite-ai/boxlite",
-      "description": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
-      "stars": 2121,
-      "forks": 132,
-      "language": "Rust",
-      "pushed_at": "2026-07-04T16:56:13Z",
-      "updated_at": "2026-07-04T17:07:55Z"
+      "pushed_at": "2026-07-04T21:02:09Z",
+      "updated_at": "2026-07-04T21:02:13Z"
     },
     {
       "id": 1096175506,
@@ -92,30 +92,8 @@
       "stars": 1133,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T17:06:55Z",
-      "updated_at": "2026-07-04T16:50:06Z"
-    },
-    {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1114,
-      "forks": 203,
-      "language": "Go",
-      "pushed_at": "2026-07-04T16:48:41Z",
-      "updated_at": "2026-07-04T16:48:45Z"
-    },
-    {
-      "id": 1252432466,
-      "full_name": "Gitlawb/zero",
-      "html_url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 827,
-      "forks": 71,
-      "language": "Go",
-      "pushed_at": "2026-07-04T16:52:21Z",
-      "updated_at": "2026-07-04T17:06:55Z"
+      "pushed_at": "2026-07-04T20:50:40Z",
+      "updated_at": "2026-07-04T20:50:08Z"
     },
     {
       "id": 1215678767,
@@ -125,41 +103,41 @@
       "stars": 676,
       "forks": 115,
       "language": "Python",
-      "pushed_at": "2026-07-04T16:31:39Z",
-      "updated_at": "2026-07-04T16:31:39Z"
+      "pushed_at": "2026-07-04T20:34:26Z",
+      "updated_at": "2026-07-04T20:34:27Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 485,
-      "forks": 41,
-      "language": "Go",
-      "pushed_at": "2026-07-04T17:05:08Z",
-      "updated_at": "2026-07-04T16:57:00Z"
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 650,
+      "forks": 50,
+      "language": "Python",
+      "pushed_at": "2026-07-04T20:33:27Z",
+      "updated_at": "2026-07-04T20:33:23Z"
     },
     {
-      "id": 1276595002,
-      "full_name": "NotASithLord/peerd",
-      "html_url": "https://github.com/NotASithLord/peerd",
-      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "stars": 298,
-      "forks": 30,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-04T16:52:06Z",
-      "updated_at": "2026-07-04T16:52:10Z"
-    },
-    {
-      "id": 1228890794,
-      "full_name": "aqm857886159/Nomi",
-      "html_url": "https://github.com/aqm857886159/Nomi",
-      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
-      "stars": 274,
-      "forks": 53,
+      "id": 1159796496,
+      "full_name": "lucasygu/redbook",
+      "html_url": "https://github.com/lucasygu/redbook",
+      "description": "小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.",
+      "stars": 372,
+      "forks": 37,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T16:51:40Z",
-      "updated_at": "2026-07-04T16:51:43Z"
+      "pushed_at": "2026-07-04T20:56:22Z",
+      "updated_at": "2026-07-04T20:56:26Z"
+    },
+    {
+      "id": 1239048160,
+      "full_name": "linghungegeg/Linghun",
+      "html_url": "https://github.com/linghungegeg/Linghun",
+      "description": "AGI-oriented, hallucination-resistant AI coding runtime grounded in evidence, tools, memory, agents, and verification.",
+      "stars": 248,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T20:49:48Z",
+      "updated_at": "2026-07-04T20:49:52Z"
     },
     {
       "id": 1257915692,
@@ -169,8 +147,30 @@
       "stars": 233,
       "forks": 392,
       "language": "TypeScript",
-      "pushed_at": "2026-07-04T16:39:37Z",
-      "updated_at": "2026-07-04T16:39:40Z"
+      "pushed_at": "2026-07-04T21:02:33Z",
+      "updated_at": "2026-07-04T21:02:36Z"
+    },
+    {
+      "id": 1202954853,
+      "full_name": "webbrain-one/webbrain",
+      "html_url": "https://github.com/webbrain-one/webbrain",
+      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
+      "stars": 169,
+      "forks": 22,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-04T20:11:14Z",
+      "updated_at": "2026-07-04T20:11:18Z"
+    },
+    {
+      "id": 1160004652,
+      "full_name": "kstevica/captain-claw",
+      "html_url": "https://github.com/kstevica/captain-claw",
+      "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
+      "stars": 158,
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-07-04T20:44:51Z",
+      "updated_at": "2026-07-04T20:44:55Z"
     }
   ]
 }
