@@ -5,84 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1033,
+  "total_found": 1035,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 208636,
-      "forks": 37995,
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 53889,
+      "forks": 46693,
       "language": "Python",
-      "pushed_at": "2026-07-03T20:44:02Z",
-      "updated_at": "2026-07-03T21:11:22Z"
+      "pushed_at": "2026-07-04T03:23:44Z",
+      "updated_at": "2026-07-04T03:34:19Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 25840,
-      "forks": 1596,
-      "language": "Go",
-      "pushed_at": "2026-07-03T19:58:08Z",
-      "updated_at": "2026-07-03T20:50:24Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48127,
+      "forks": 4570,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T03:20:06Z",
+      "updated_at": "2026-07-04T03:14:49Z"
+    },
+    {
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "stars": 36459,
+      "forks": 3053,
+      "language": "Python",
+      "pushed_at": "2026-07-04T03:29:44Z",
+      "updated_at": "2026-07-04T03:33:46Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 15879,
+      "forks": 1412,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T03:19:22Z",
+      "updated_at": "2026-07-04T03:29:02Z"
     },
     {
       "id": 220867748,
       "full_name": "neomjs/neo",
       "html_url": "https://github.com/neomjs/neo",
       "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3225,
+      "stars": 3226,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-03T21:07:08Z",
-      "updated_at": "2026-07-03T21:05:36Z"
+      "pushed_at": "2026-07-04T03:28:07Z",
+      "updated_at": "2026-07-04T03:03:51Z"
     },
     {
-      "id": 1190557545,
-      "full_name": "eugeniughelbur/obsidian-second-brain",
-      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
-      "description": "Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Hermes, and Pi. 44 commands - self-rewriting notes, local+hybrid semantic search, key-less web research, /obsidian-architect codebase docs, and scheduled agents that maintain the vault while you sleep.",
-      "stars": 2934,
-      "forks": 350,
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 2418,
+      "forks": 420,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T03:01:08Z",
+      "updated_at": "2026-07-04T03:01:12Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1133,
+      "forks": 67,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-04T03:27:22Z",
+      "updated_at": "2026-07-04T03:27:25Z"
+    },
+    {
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!",
+      "stars": 676,
+      "forks": 115,
       "language": "Python",
-      "pushed_at": "2026-07-03T20:28:02Z",
-      "updated_at": "2026-07-03T20:54:36Z"
+      "pushed_at": "2026-07-04T02:55:46Z",
+      "updated_at": "2026-07-04T02:55:50Z"
     },
     {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Low latency streaming web data",
-      "stars": 2578,
-      "forks": 218,
+      "id": 1217551679,
+      "full_name": "r1n7aro/Locus",
+      "html_url": "https://github.com/r1n7aro/Locus",
+      "description": "The open source Unity Dev Agent",
+      "stars": 581,
+      "forks": 67,
       "language": "Rust",
-      "pushed_at": "2026-07-03T21:09:09Z",
-      "updated_at": "2026-07-03T21:09:14Z"
-    },
-    {
-      "id": 1234904564,
-      "full_name": "Kaelio/ktx",
-      "html_url": "https://github.com/Kaelio/ktx",
-      "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query analytical databases accurately and with full context of your company",
-      "stars": 1449,
-      "forks": 86,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T20:56:34Z",
-      "updated_at": "2026-07-03T20:39:38Z"
-    },
-    {
-      "id": 1153919891,
-      "full_name": "redwoodjs/agent-ci",
-      "html_url": "https://github.com/redwoodjs/agent-ci",
-      "description": "Agent-CI is local GitHub Actions for your agents.",
-      "stars": 708,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-03T19:59:46Z",
-      "updated_at": "2026-07-03T19:58:05Z"
+      "pushed_at": "2026-07-04T03:27:51Z",
+      "updated_at": "2026-07-04T03:27:55Z"
     },
     {
       "id": 1142397834,
@@ -92,8 +114,19 @@
       "stars": 485,
       "forks": 41,
       "language": "Go",
-      "pushed_at": "2026-07-03T20:31:41Z",
-      "updated_at": "2026-07-03T20:31:43Z"
+      "pushed_at": "2026-07-04T03:30:18Z",
+      "updated_at": "2026-07-04T03:21:15Z"
+    },
+    {
+      "id": 1278668528,
+      "full_name": "abundantbeing/hermes-browser-extension",
+      "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
+      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
+      "stars": 450,
+      "forks": 35,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-04T03:19:25Z",
+      "updated_at": "2026-07-04T03:19:29Z"
     },
     {
       "id": 1156882085,
@@ -103,74 +136,41 @@
       "stars": 384,
       "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-03T21:06:10Z",
-      "updated_at": "2026-07-03T21:05:19Z"
+      "pushed_at": "2026-07-04T03:24:45Z",
+      "updated_at": "2026-07-04T03:05:24Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 352,
-      "forks": 70,
-      "language": "Python",
-      "pushed_at": "2026-07-03T21:03:04Z",
-      "updated_at": "2026-07-03T21:03:08Z"
-    },
-    {
-      "id": 1272358389,
-      "full_name": "LING71671/open-reverselab",
-      "html_url": "https://github.com/LING71671/open-reverselab",
-      "description": "Open-source reverse engineering lab: 197-article knowledge base + MCP tools + CTF/APK/PE automation toolchain. Agent-native.  Note:由于场景原因，目前有让几乎所有AI都会越狱的bug，暂时不修😉",
-      "stars": 316,
-      "forks": 97,
-      "language": "Python",
-      "pushed_at": "2026-07-03T20:18:59Z",
-      "updated_at": "2026-07-03T20:21:32Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 232,
-      "forks": 387,
+      "id": 1191737450,
+      "full_name": "xiaojilele-glitch/WhyBuddy",
+      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
+      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
+      "stars": 348,
+      "forks": 59,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T20:59:48Z",
-      "updated_at": "2026-07-03T20:59:52Z"
+      "pushed_at": "2026-07-04T03:29:55Z",
+      "updated_at": "2026-07-04T03:30:06Z"
     },
     {
-      "id": 1175588150,
-      "full_name": "RyanAlberts/best-of-Agent-Harnesses",
-      "html_url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses",
-      "description": "🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.",
-      "stars": 230,
-      "forks": 16,
-      "language": "Python",
-      "pushed_at": "2026-07-03T20:55:37Z",
-      "updated_at": "2026-07-03T20:55:40Z"
-    },
-    {
-      "id": 1243365944,
-      "full_name": "open-software-network/os-june",
-      "html_url": "https://github.com/open-software-network/os-june",
-      "description": "Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.",
-      "stars": 195,
-      "forks": 20,
+      "id": 1248315096,
+      "full_name": "vuejs-ai/vue-tui",
+      "html_url": "https://github.com/vuejs-ai/vue-tui",
+      "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
+      "stars": 309,
+      "forks": 10,
       "language": "TypeScript",
-      "pushed_at": "2026-07-03T20:46:54Z",
-      "updated_at": "2026-07-03T20:41:15Z"
+      "pushed_at": "2026-07-04T03:30:13Z",
+      "updated_at": "2026-07-04T03:25:54Z"
     },
     {
-      "id": 1283015427,
-      "full_name": "israriqbal/agent-ecologies",
-      "html_url": "https://github.com/israriqbal/agent-ecologies",
-      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-      "stars": 152,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-03T21:01:01Z",
-      "updated_at": "2026-07-03T21:01:08Z"
+      "id": 1276595002,
+      "full_name": "NotASithLord/peerd",
+      "html_url": "https://github.com/NotASithLord/peerd",
+      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
+      "stars": 295,
+      "forks": 30,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-04T02:55:11Z",
+      "updated_at": "2026-07-04T02:55:14Z"
     }
   ]
 }
