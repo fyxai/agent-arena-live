@@ -8,114 +8,81 @@
   "total_found": 1040,
   "items": [
     {
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 58591,
+      "forks": 11493,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-05T06:50:24Z",
+      "updated_at": "2026-07-05T07:24:46Z"
+    },
+    {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 54348,
-      "forks": 47051,
+      "stars": 54422,
+      "forks": 47128,
       "language": "Python",
-      "pushed_at": "2026-07-05T03:19:25Z",
-      "updated_at": "2026-07-05T03:49:26Z"
+      "pushed_at": "2026-07-05T07:02:03Z",
+      "updated_at": "2026-07-05T07:30:49Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48163,
-      "forks": 4571,
+      "stars": 48172,
+      "forks": 4572,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T03:35:42Z",
-      "updated_at": "2026-07-05T03:27:34Z"
+      "pushed_at": "2026-07-05T07:11:58Z",
+      "updated_at": "2026-07-05T07:25:23Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 45791,
-      "forks": 10250,
-      "language": "Python",
-      "pushed_at": "2026-07-05T03:23:53Z",
-      "updated_at": "2026-07-05T03:24:21Z"
-    },
-    {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 44917,
-      "forks": 2864,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T03:45:14Z",
-      "updated_at": "2026-07-05T03:49:39Z"
-    },
-    {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 29767,
-      "forks": 8858,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T03:49:12Z",
-      "updated_at": "2026-07-05T03:48:51Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 25981,
+      "forks": 1612,
+      "language": "Go",
+      "pushed_at": "2026-07-05T06:49:15Z",
+      "updated_at": "2026-07-05T07:27:51Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 16070,
-      "forks": 1429,
+      "stars": 16087,
+      "forks": 1431,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T02:58:19Z",
-      "updated_at": "2026-07-05T03:52:37Z"
+      "pushed_at": "2026-07-05T07:06:13Z",
+      "updated_at": "2026-07-05T07:27:51Z"
     },
     {
-      "id": 1199668171,
-      "full_name": "fathah/hermes-desktop",
-      "html_url": "https://github.com/fathah/hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "stars": 13078,
-      "forks": 1485,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T03:24:58Z",
-      "updated_at": "2026-07-05T03:20:08Z"
+      "id": 1128204614,
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 8148,
+      "forks": 914,
+      "language": "Rust",
+      "pushed_at": "2026-07-05T07:30:18Z",
+      "updated_at": "2026-07-05T07:30:21Z"
     },
     {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 11817,
-      "forks": 987,
-      "language": "Python",
-      "pushed_at": "2026-07-05T03:07:11Z",
-      "updated_at": "2026-07-05T03:34:40Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-studio",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 8817,
-      "forks": 1088,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T03:14:12Z",
-      "updated_at": "2026-07-05T03:14:16Z"
-    },
-    {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6242,
-      "forks": 815,
-      "language": "Python",
-      "pushed_at": "2026-07-05T02:48:07Z",
-      "updated_at": "2026-07-05T03:47:12Z"
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 3386,
+      "forks": 954,
+      "language": "Go",
+      "pushed_at": "2026-07-05T07:04:17Z",
+      "updated_at": "2026-07-05T06:57:10Z"
     },
     {
       "id": 220867748,
@@ -125,8 +92,8 @@
       "stars": 3226,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-05T03:10:38Z",
-      "updated_at": "2026-07-05T03:10:42Z"
+      "pushed_at": "2026-07-05T07:15:21Z",
+      "updated_at": "2026-07-05T07:15:26Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +103,74 @@
       "stars": 1134,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T03:50:37Z",
-      "updated_at": "2026-07-05T03:50:40Z"
+      "pushed_at": "2026-07-05T07:22:45Z",
+      "updated_at": "2026-07-05T07:15:55Z"
+    },
+    {
+      "id": 1230831838,
+      "full_name": "OpenOSINT/OpenOSINT",
+      "html_url": "https://github.com/OpenOSINT/OpenOSINT",
+      "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
+      "stars": 903,
+      "forks": 137,
+      "language": "Python",
+      "pushed_at": "2026-07-05T07:23:18Z",
+      "updated_at": "2026-07-05T07:23:22Z"
     },
     {
       "id": 1252432466,
       "full_name": "Gitlawb/zero",
       "html_url": "https://github.com/Gitlawb/zero",
       "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 849,
-      "forks": 72,
+      "stars": 850,
+      "forks": 73,
       "language": "Go",
-      "pushed_at": "2026-07-05T03:51:38Z",
-      "updated_at": "2026-07-05T03:39:26Z"
+      "pushed_at": "2026-07-05T06:47:21Z",
+      "updated_at": "2026-07-05T07:09:51Z"
     },
     {
-      "id": 1255122629,
-      "full_name": "ayuayue/PiDeck",
-      "html_url": "https://github.com/ayuayue/PiDeck",
-      "description": "Desktop workbench for managing multiple pi coding-agent sessions across project folders.",
-      "stars": 218,
-      "forks": 25,
+      "id": 1086124473,
+      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 509,
+      "forks": 55,
+      "language": "Python",
+      "pushed_at": "2026-07-05T07:27:23Z",
+      "updated_at": "2026-07-05T07:27:27Z"
+    },
+    {
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 239,
+      "forks": 401,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T02:52:56Z",
-      "updated_at": "2026-07-05T02:53:00Z"
+      "pushed_at": "2026-07-05T07:26:18Z",
+      "updated_at": "2026-07-05T07:26:22Z"
     },
     {
-      "id": 1234425239,
-      "full_name": "zoyluoblue/mc_aiplayer",
-      "html_url": "https://github.com/zoyluoblue/mc_aiplayer",
-      "description": "Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-compatible LLM drives a real player to mine, build, farm, fight and survive from natural-language commands. LLM plans, deterministic tasks execute — no Python harness, no bot account.",
-      "stars": 212,
-      "forks": 2,
-      "language": "Java",
-      "pushed_at": "2026-07-05T02:46:19Z",
-      "updated_at": "2026-07-05T02:46:23Z"
+      "id": 1186822753,
+      "full_name": "openwong2kim/wmux",
+      "html_url": "https://github.com/openwong2kim/wmux",
+      "description": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+      "stars": 228,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-05T06:36:24Z",
+      "updated_at": "2026-07-05T06:36:29Z"
+    },
+    {
+      "id": 1177055450,
+      "full_name": "PM-Shawn/Abu-Cowork",
+      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
+      "description": "Claude Cowork 开源替代品，开源的本地 AI Agent 桌面端 · 多模型适配 · 自进化 Skills · 隐私优先",
+      "stars": 183,
+      "forks": 52,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-05T06:46:59Z",
+      "updated_at": "2026-07-05T06:47:03Z"
     }
   ]
 }
