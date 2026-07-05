@@ -5,84 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1042,
+  "total_found": 1043,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 209558,
-      "forks": 38283,
+      "stars": 209620,
+      "forks": 38306,
       "language": "Python",
-      "pushed_at": "2026-07-05T16:38:43Z",
-      "updated_at": "2026-07-05T17:13:17Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48180,
-      "forks": 4572,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T17:00:01Z",
-      "updated_at": "2026-07-05T16:52:40Z"
+      "pushed_at": "2026-07-05T21:06:04Z",
+      "updated_at": "2026-07-05T21:06:30Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 26019,
+      "stars": 26029,
       "forks": 1617,
       "language": "Go",
-      "pushed_at": "2026-07-05T17:03:54Z",
-      "updated_at": "2026-07-05T17:03:58Z"
+      "pushed_at": "2026-07-05T19:56:24Z",
+      "updated_at": "2026-07-05T20:36:02Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23130,
-      "forks": 3894,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 16178,
+      "forks": 1440,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T16:17:23Z",
-      "updated_at": "2026-07-05T16:17:33Z"
+      "pushed_at": "2026-07-05T21:06:37Z",
+      "updated_at": "2026-07-05T21:06:41Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 19373,
-      "forks": 1273,
-      "language": "HTML",
-      "pushed_at": "2026-07-05T16:44:48Z",
-      "updated_at": "2026-07-05T17:07:42Z"
-    },
-    {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5447,
-      "forks": 845,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T16:52:15Z",
-      "updated_at": "2026-07-05T17:10:46Z"
+      "id": 1128204614,
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 8167,
+      "forks": 916,
+      "language": "Rust",
+      "pushed_at": "2026-07-05T20:51:41Z",
+      "updated_at": "2026-07-05T20:51:49Z"
     },
     {
       "id": 1163814566,
       "full_name": "nextlevelbuilder/goclaw",
       "html_url": "https://github.com/nextlevelbuilder/goclaw",
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 3389,
+      "stars": 3390,
       "forks": 954,
       "language": "Go",
-      "pushed_at": "2026-07-05T16:46:31Z",
-      "updated_at": "2026-07-05T16:39:01Z"
+      "pushed_at": "2026-07-05T20:16:53Z",
+      "updated_at": "2026-07-05T20:09:13Z"
     },
     {
       "id": 220867748,
@@ -92,30 +70,30 @@
       "stars": 3226,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-05T17:14:05Z",
-      "updated_at": "2026-07-05T17:14:06Z"
+      "pushed_at": "2026-07-05T21:02:46Z",
+      "updated_at": "2026-07-05T21:00:27Z"
     },
     {
-      "id": 1133660268,
-      "full_name": "OpenCoworkAI/open-cowork",
-      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
-      "description": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.",
-      "stars": 1767,
-      "forks": 236,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T16:50:03Z",
-      "updated_at": "2026-07-05T17:08:00Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
       "stars": 1134,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-05T17:10:22Z",
-      "updated_at": "2026-07-05T17:10:26Z"
+      "forks": 66,
+      "language": "Python",
+      "pushed_at": "2026-07-05T20:17:53Z",
+      "updated_at": "2026-07-05T21:06:35Z"
+    },
+    {
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.",
+      "stars": 652,
+      "forks": 50,
+      "language": "Python",
+      "pushed_at": "2026-07-05T20:36:51Z",
+      "updated_at": "2026-07-05T20:36:54Z"
     },
     {
       "id": 1142397834,
@@ -125,52 +103,74 @@
       "stars": 486,
       "forks": 41,
       "language": "Go",
-      "pushed_at": "2026-07-05T16:36:35Z",
-      "updated_at": "2026-07-05T16:36:38Z"
+      "pushed_at": "2026-07-05T20:16:08Z",
+      "updated_at": "2026-07-05T20:16:09Z"
     },
     {
-      "id": 1278668528,
-      "full_name": "abundantbeing/hermes-browser-extension",
-      "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "stars": 481,
-      "forks": 39,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-05T16:44:50Z",
-      "updated_at": "2026-07-05T16:44:54Z"
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 384,
+      "forks": 63,
+      "language": "Python",
+      "pushed_at": "2026-07-05T21:04:49Z",
+      "updated_at": "2026-07-05T21:04:53Z"
     },
     {
-      "id": 1248315096,
-      "full_name": "vuejs-ai/vue-tui",
-      "html_url": "https://github.com/vuejs-ai/vue-tui",
-      "description": "The Vue framework for terminal UIs. SFC & JSX, Yoga flexbox, HMR, and testing out of the box.",
-      "stars": 310,
-      "forks": 10,
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 246,
+      "forks": 409,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T17:15:40Z",
-      "updated_at": "2026-07-05T16:29:33Z"
+      "pushed_at": "2026-07-05T21:05:02Z",
+      "updated_at": "2026-07-05T21:05:06Z"
     },
     {
-      "id": 1276595002,
-      "full_name": "NotASithLord/peerd",
-      "html_url": "https://github.com/NotASithLord/peerd",
-      "description": "The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.",
-      "stars": 309,
-      "forks": 31,
+      "id": 1202954853,
+      "full_name": "webbrain-one/webbrain",
+      "html_url": "https://github.com/webbrain-one/webbrain",
+      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
+      "stars": 210,
+      "forks": 26,
       "language": "JavaScript",
-      "pushed_at": "2026-07-05T17:10:13Z",
-      "updated_at": "2026-07-05T17:10:16Z"
+      "pushed_at": "2026-07-05T20:41:59Z",
+      "updated_at": "2026-07-05T20:41:56Z"
     },
     {
-      "id": 1228890794,
-      "full_name": "aqm857886159/Nomi",
-      "html_url": "https://github.com/aqm857886159/Nomi",
-      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
-      "stars": 278,
-      "forks": 53,
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-05T20:55:26Z",
+      "updated_at": "2026-07-05T20:55:30Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-05T20:52:47Z",
+      "updated_at": "2026-07-05T20:52:50Z"
+    },
+    {
+      "id": 1227043167,
+      "full_name": "rajudandigam/agent-inspect",
+      "html_url": "https://github.com/rajudandigam/agent-inspect",
+      "description": "Local execution trees for TypeScript AI agents.  agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal.  It is built for TypeScript/Node.js developers..",
+      "stars": 151,
+      "forks": 83,
       "language": "TypeScript",
-      "pushed_at": "2026-07-05T17:02:56Z",
-      "updated_at": "2026-07-05T17:02:41Z"
+      "pushed_at": "2026-07-05T20:49:29Z",
+      "updated_at": "2026-07-05T20:49:32Z"
     }
   ]
 }
