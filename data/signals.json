@@ -5,84 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1045,
+  "total_found": 1049,
   "items": [
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35805,
-      "forks": 4436,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:40:23Z",
-      "updated_at": "2026-07-06T15:41:39Z"
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 210247,
+      "forks": 38496,
+      "language": "Python",
+      "pushed_at": "2026-07-06T18:12:17Z",
+      "updated_at": "2026-07-06T18:12:53Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23144,
-      "forks": 3898,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:31:19Z",
-      "updated_at": "2026-07-06T15:31:31Z"
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 58821,
+      "forks": 11548,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-06T18:10:19Z",
+      "updated_at": "2026-07-06T18:13:12Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 16344,
+      "stars": 16354,
       "forks": 1448,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:24:45Z",
-      "updated_at": "2026-07-06T15:39:26Z"
+      "pushed_at": "2026-07-06T18:01:32Z",
+      "updated_at": "2026-07-06T18:11:23Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6374,
-      "forks": 837,
-      "language": "Python",
-      "pushed_at": "2026-07-06T15:35:46Z",
-      "updated_at": "2026-07-06T15:39:15Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4817,
-      "forks": 473,
-      "language": "Python",
-      "pushed_at": "2026-07-06T15:35:13Z",
-      "updated_at": "2026-07-06T15:33:07Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 3568,
-      "forks": 225,
+      "id": 1133660268,
+      "full_name": "OpenCoworkAI/open-cowork",
+      "html_url": "https://github.com/OpenCoworkAI/open-cowork",
+      "description": "Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.",
+      "stars": 1778,
+      "forks": 239,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:27:14Z",
-      "updated_at": "2026-07-06T15:27:20Z"
+      "pushed_at": "2026-07-06T17:36:42Z",
+      "updated_at": "2026-07-06T17:58:52Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2421,
-      "forks": 421,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:39:12Z",
-      "updated_at": "2026-07-06T15:39:18Z"
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
+      "stars": 1191,
+      "forks": 68,
+      "language": "Python",
+      "pushed_at": "2026-07-06T17:44:54Z",
+      "updated_at": "2026-07-06T17:44:58Z"
     },
     {
       "id": 1096175506,
@@ -92,41 +70,41 @@
       "stars": 1134,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:41:49Z",
-      "updated_at": "2026-07-06T15:22:00Z"
+      "pushed_at": "2026-07-06T18:01:54Z",
+      "updated_at": "2026-07-06T18:02:13Z"
     },
     {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 1107,
-      "forks": 184,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:14:11Z",
-      "updated_at": "2026-07-06T15:19:09Z"
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1117,
+      "forks": 203,
+      "language": "Go",
+      "pushed_at": "2026-07-06T18:02:52Z",
+      "updated_at": "2026-07-06T18:03:20Z"
     },
     {
-      "id": 1186701238,
-      "full_name": "K-Dense-AI/k-dense-byok",
-      "html_url": "https://github.com/K-Dense-AI/k-dense-byok",
-      "description": "An AI co-scientist powered by Scientific Agent Skills running on your desktop.",
-      "stars": 889,
-      "forks": 103,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:15:44Z",
-      "updated_at": "2026-07-06T15:26:01Z"
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 230K LoC pure Python. Up to 200X Cost Saving!",
+      "stars": 677,
+      "forks": 117,
+      "language": "Python",
+      "pushed_at": "2026-07-06T17:56:56Z",
+      "updated_at": "2026-07-06T17:56:58Z"
     },
     {
-      "id": 1288402762,
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "stars": 606,
-      "forks": 72,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:39:10Z",
-      "updated_at": "2026-07-06T15:41:20Z"
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 605,
+      "forks": 36,
+      "language": "ReScript",
+      "pushed_at": "2026-07-06T18:03:27Z",
+      "updated_at": "2026-07-06T18:00:07Z"
     },
     {
       "id": 1142397834,
@@ -136,30 +114,8 @@
       "stars": 486,
       "forks": 41,
       "language": "Go",
-      "pushed_at": "2026-07-06T15:37:42Z",
-      "updated_at": "2026-07-06T15:33:32Z"
-    },
-    {
-      "id": 1164646909,
-      "full_name": "jazzenchen/VibeAround",
-      "html_url": "https://github.com/jazzenchen/VibeAround",
-      "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
-      "stars": 468,
-      "forks": 53,
-      "language": "Rust",
-      "pushed_at": "2026-07-06T15:08:54Z",
-      "updated_at": "2026-07-06T15:13:29Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 255,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:10:02Z",
-      "updated_at": "2026-07-06T15:14:27Z"
+      "pushed_at": "2026-07-06T17:48:50Z",
+      "updated_at": "2026-07-06T17:48:52Z"
     },
     {
       "id": 1257915692,
@@ -169,8 +125,52 @@
       "stars": 248,
       "forks": 413,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T15:41:06Z",
-      "updated_at": "2026-07-06T15:41:24Z"
+      "pushed_at": "2026-07-06T17:58:51Z",
+      "updated_at": "2026-07-06T17:58:55Z"
+    },
+    {
+      "id": 1243365944,
+      "full_name": "open-software-network/os-june",
+      "html_url": "https://github.com/open-software-network/os-june",
+      "description": "Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.",
+      "stars": 229,
+      "forks": 27,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T17:57:58Z",
+      "updated_at": "2026-07-06T18:13:13Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-06T17:38:51Z",
+      "updated_at": "2026-07-06T17:38:55Z"
+    },
+    {
+      "id": 1156623779,
+      "full_name": "dcostenco/prism-coder",
+      "html_url": "https://github.com/dcostenco/prism-coder",
+      "description": "Persistent memory + local AI for coding agents. 1.7B–32B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
+      "stars": 151,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T18:10:02Z",
+      "updated_at": "2026-07-06T18:10:09Z"
+    },
+    {
+      "id": 1160923871,
+      "full_name": "inngest/utah",
+      "html_url": "https://github.com/inngest/utah",
+      "description": "Universally Triggered Agent Harness - An OpenClaw-like Inngest-powered personal agent",
+      "stars": 132,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T17:48:06Z",
+      "updated_at": "2026-07-06T17:48:16Z"
     }
   ]
 }
