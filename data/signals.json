@@ -8,92 +8,81 @@
   "total_found": 1045,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 209941,
-      "forks": 38405,
-      "language": "Python",
-      "pushed_at": "2026-07-06T08:23:31Z",
-      "updated_at": "2026-07-06T08:36:41Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48201,
-      "forks": 4573,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 35805,
+      "forks": 4436,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T08:37:15Z",
-      "updated_at": "2026-07-06T08:38:07Z"
+      "pushed_at": "2026-07-06T15:40:23Z",
+      "updated_at": "2026-07-06T15:41:39Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 26105,
-      "forks": 1625,
-      "language": "Go",
-      "pushed_at": "2026-07-06T08:23:43Z",
-      "updated_at": "2026-07-06T08:37:02Z"
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 23144,
+      "forks": 3898,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T15:31:19Z",
+      "updated_at": "2026-07-06T15:31:31Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 16269,
-      "forks": 1444,
+      "stars": 16344,
+      "forks": 1448,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T08:19:08Z",
-      "updated_at": "2026-07-06T08:37:06Z"
+      "pushed_at": "2026-07-06T15:24:45Z",
+      "updated_at": "2026-07-06T15:39:26Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6343,
-      "forks": 828,
+      "stars": 6374,
+      "forks": 837,
       "language": "Python",
-      "pushed_at": "2026-07-06T08:37:12Z",
-      "updated_at": "2026-07-06T08:37:17Z"
+      "pushed_at": "2026-07-06T15:35:46Z",
+      "updated_at": "2026-07-06T15:39:15Z"
     },
     {
-      "id": 1229284184,
-      "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-      "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
-      "stars": 4169,
-      "forks": 533,
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4817,
+      "forks": 473,
       "language": "Python",
-      "pushed_at": "2026-07-06T08:19:39Z",
-      "updated_at": "2026-07-06T08:36:52Z"
+      "pushed_at": "2026-07-06T15:35:13Z",
+      "updated_at": "2026-07-06T15:33:07Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3148,
-      "forks": 630,
-      "language": "Python",
-      "pushed_at": "2026-07-06T08:17:23Z",
-      "updated_at": "2026-07-06T08:16:56Z"
+      "id": 1142800652,
+      "full_name": "TabularisDB/tabularis",
+      "html_url": "https://github.com/TabularisDB/tabularis",
+      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
+      "stars": 3568,
+      "forks": 225,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T15:27:14Z",
+      "updated_at": "2026-07-06T15:27:20Z"
     },
     {
-      "id": 982183014,
-      "full_name": "lioensky/VCPToolBox",
-      "html_url": "https://github.com/lioensky/VCPToolBox",
-      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
-      "stars": 2181,
-      "forks": 354,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-06T08:36:12Z",
-      "updated_at": "2026-07-06T08:36:16Z"
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 2421,
+      "forks": 421,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T15:39:12Z",
+      "updated_at": "2026-07-06T15:39:18Z"
     },
     {
       "id": 1096175506,
@@ -103,19 +92,41 @@
       "stars": 1134,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T08:38:22Z",
-      "updated_at": "2026-07-06T08:31:28Z"
+      "pushed_at": "2026-07-06T15:41:49Z",
+      "updated_at": "2026-07-06T15:22:00Z"
     },
     {
-      "id": 1258413847,
-      "full_name": "eddyzzl/marvis-risk-agent",
-      "html_url": "https://github.com/eddyzzl/marvis-risk-agent",
-      "description": "MARVIS-Agent: all-purpose credit risk agent for model development, validation, data processing, feature engineering, and strategy workflows.",
-      "stars": 523,
-      "forks": 4,
-      "language": "Python",
-      "pushed_at": "2026-07-06T08:15:22Z",
-      "updated_at": "2026-07-06T08:15:29Z"
+      "id": 1158138383,
+      "full_name": "CyberStrikeus/CyberStrike",
+      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "stars": 1107,
+      "forks": 184,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T15:14:11Z",
+      "updated_at": "2026-07-06T15:19:09Z"
+    },
+    {
+      "id": 1186701238,
+      "full_name": "K-Dense-AI/k-dense-byok",
+      "html_url": "https://github.com/K-Dense-AI/k-dense-byok",
+      "description": "An AI co-scientist powered by Scientific Agent Skills running on your desktop.",
+      "stars": 889,
+      "forks": 103,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T15:15:44Z",
+      "updated_at": "2026-07-06T15:26:01Z"
+    },
+    {
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 606,
+      "forks": 72,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-06T15:39:10Z",
+      "updated_at": "2026-07-06T15:41:20Z"
     },
     {
       "id": 1142397834,
@@ -125,19 +136,19 @@
       "stars": 486,
       "forks": 41,
       "language": "Go",
-      "pushed_at": "2026-07-06T08:24:58Z",
-      "updated_at": "2026-07-06T08:25:02Z"
+      "pushed_at": "2026-07-06T15:37:42Z",
+      "updated_at": "2026-07-06T15:33:32Z"
     },
     {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 348,
-      "forks": 61,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-06T08:25:19Z",
-      "updated_at": "2026-07-06T08:25:23Z"
+      "id": 1164646909,
+      "full_name": "jazzenchen/VibeAround",
+      "html_url": "https://github.com/jazzenchen/VibeAround",
+      "description": "Keep your AI coding agents around. Launch Claude Code, Codex CLI, Gemini CLI, Pi Agent, and more from one place — side by side, connected, reachable, and ready to work across web, mobile, and messaging.",
+      "stars": 468,
+      "forks": 53,
+      "language": "Rust",
+      "pushed_at": "2026-07-06T15:08:54Z",
+      "updated_at": "2026-07-06T15:13:29Z"
     },
     {
       "id": 1174812893,
@@ -147,30 +158,19 @@
       "stars": 255,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T08:15:52Z",
-      "updated_at": "2026-07-06T08:15:55Z"
+      "pushed_at": "2026-07-06T15:10:02Z",
+      "updated_at": "2026-07-06T15:14:27Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 246,
-      "forks": 412,
+      "stars": 248,
+      "forks": 413,
       "language": "TypeScript",
-      "pushed_at": "2026-07-06T08:21:44Z",
-      "updated_at": "2026-07-06T08:21:48Z"
-    },
-    {
-      "id": 1147729941,
-      "full_name": "telagod/code-abyss",
-      "html_url": "https://github.com/telagod/code-abyss",
-      "description": "Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw. Ships Tech Persona Card v1.0 spec.",
-      "stars": 231,
-      "forks": 30,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-06T08:26:43Z",
-      "updated_at": "2026-07-06T08:26:48Z"
+      "pushed_at": "2026-07-06T15:41:06Z",
+      "updated_at": "2026-07-06T15:41:24Z"
     }
   ]
 }
