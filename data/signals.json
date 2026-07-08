@@ -5,84 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1064,
+  "total_found": 1066,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48306,
-      "forks": 4588,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 211386,
+      "forks": 38827,
+      "language": "Python",
+      "pushed_at": "2026-07-08T14:12:22Z",
+      "updated_at": "2026-07-08T14:24:43Z"
+    },
+    {
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 55811,
+      "forks": 48141,
+      "language": "Python",
+      "pushed_at": "2026-07-08T14:18:31Z",
+      "updated_at": "2026-07-08T14:22:06Z"
+    },
+    {
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 29878,
+      "forks": 8860,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:15:48Z",
-      "updated_at": "2026-07-08T10:15:24Z"
+      "pushed_at": "2026-07-08T14:14:53Z",
+      "updated_at": "2026-07-08T14:12:53Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 26394,
-      "forks": 1645,
+      "stars": 26403,
+      "forks": 1646,
       "language": "Go",
-      "pushed_at": "2026-07-08T10:11:19Z",
-      "updated_at": "2026-07-08T10:11:43Z"
-    },
-    {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23279,
-      "forks": 2741,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:11:48Z",
-      "updated_at": "2026-07-08T10:19:56Z"
-    },
-    {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
-      "stars": 8973,
-      "forks": 1407,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:02:03Z",
-      "updated_at": "2026-07-08T10:16:12Z"
+      "pushed_at": "2026-07-08T14:03:33Z",
+      "updated_at": "2026-07-08T14:23:46Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6705,
-      "forks": 897,
+      "stars": 6726,
+      "forks": 898,
       "language": "Python",
-      "pushed_at": "2026-07-08T10:11:39Z",
-      "updated_at": "2026-07-08T10:11:40Z"
-    },
-    {
-      "id": 1074023461,
-      "full_name": "FullAgent/fulling",
-      "html_url": "https://github.com/FullAgent/fulling",
-      "description": "Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.",
-      "stars": 2425,
-      "forks": 230,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:06:46Z",
-      "updated_at": "2026-07-08T10:04:19Z"
+      "pushed_at": "2026-07-08T13:59:19Z",
+      "updated_at": "2026-07-08T14:24:11Z"
     },
     {
       "id": 1273015953,
       "full_name": "shy3130/tickflow-stock-panel",
       "html_url": "https://github.com/shy3130/tickflow-stock-panel",
       "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
-      "stars": 1897,
-      "forks": 377,
+      "stars": 1909,
+      "forks": 379,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:19:01Z",
-      "updated_at": "2026-07-08T10:19:35Z"
+      "pushed_at": "2026-07-08T14:20:06Z",
+      "updated_at": "2026-07-08T14:22:58Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1746,
+      "forks": 183,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-08T14:19:12Z",
+      "updated_at": "2026-07-08T14:21:42Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +92,85 @@
       "stars": 1133,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:22:39Z",
-      "updated_at": "2026-07-08T10:13:35Z"
+      "pushed_at": "2026-07-08T14:24:43Z",
+      "updated_at": "2026-07-08T13:59:42Z"
     },
     {
-      "id": 1252432466,
-      "full_name": "Gitlawb/zero",
-      "html_url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 1002,
-      "forks": 93,
-      "language": "Go",
-      "pushed_at": "2026-07-08T10:01:16Z",
-      "updated_at": "2026-07-08T10:01:22Z"
-    },
-    {
-      "id": 1201960789,
-      "full_name": "mm7894215/TokenTracker",
-      "html_url": "https://github.com/mm7894215/TokenTracker",
-      "description": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.",
-      "stars": 941,
-      "forks": 91,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-08T10:18:44Z",
-      "updated_at": "2026-07-08T10:19:04Z"
-    },
-    {
-      "id": 1201201482,
-      "full_name": "mateaix/mateclaw",
-      "html_url": "https://github.com/mateaix/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "stars": 723,
-      "forks": 223,
-      "language": "Java",
-      "pushed_at": "2026-07-08T10:18:36Z",
-      "updated_at": "2026-07-08T10:18:53Z"
-    },
-    {
-      "id": 1193300953,
-      "full_name": "dramaclaw/dramaclaw",
-      "html_url": "https://github.com/dramaclaw/dramaclaw",
-      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "stars": 695,
-      "forks": 56,
+      "id": 1158138383,
+      "full_name": "CyberStrikeus/CyberStrike",
+      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
+      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
+      "stars": 1132,
+      "forks": 185,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:10:08Z",
-      "updated_at": "2026-07-08T10:22:06Z"
+      "pushed_at": "2026-07-08T14:16:39Z",
+      "updated_at": "2026-07-08T14:18:12Z"
     },
     {
-      "id": 1172782796,
-      "full_name": "AI-Shell-Team/aish",
-      "html_url": "https://github.com/AI-Shell-Team/aish",
-      "description": "Empower the Shell to think. Evolve Operations. ",
-      "stars": 503,
-      "forks": 102,
-      "language": "Rust",
-      "pushed_at": "2026-07-08T10:07:39Z",
-      "updated_at": "2026-07-08T10:07:49Z"
+      "id": 1207006614,
+      "full_name": "cookiy-ai/user-research-skill",
+      "html_url": "https://github.com/cookiy-ai/user-research-skill",
+      "description": "Cookiy AI Skill for AI agents (Claude, Codex, Cursor, OpenClaw) — end-to-end user research: AI interviews, synthetic users, quant surveys, participant recruitment.",
+      "stars": 1048,
+      "forks": 57,
+      "language": "Shell",
+      "pushed_at": "2026-07-08T13:58:47Z",
+      "updated_at": "2026-07-08T13:58:58Z"
+    },
+    {
+      "id": 1209910880,
+      "full_name": "RandallLiuXin/GodotMaker",
+      "html_url": "https://github.com/RandallLiuXin/GodotMaker",
+      "description": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode",
+      "stars": 435,
+      "forks": 34,
+      "language": "Python",
+      "pushed_at": "2026-07-08T14:20:10Z",
+      "updated_at": "2026-07-08T14:20:55Z"
+    },
+    {
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 303,
+      "forks": 52,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-08T14:14:04Z",
+      "updated_at": "2026-07-08T14:16:02Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 250,
-      "forks": 419,
+      "stars": 251,
+      "forks": 421,
       "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:11:28Z",
-      "updated_at": "2026-07-08T10:11:42Z"
+      "pushed_at": "2026-07-08T14:12:05Z",
+      "updated_at": "2026-07-08T14:14:22Z"
     },
     {
-      "id": 1255122629,
-      "full_name": "ayuayue/PiDeck",
-      "html_url": "https://github.com/ayuayue/PiDeck",
-      "description": "Desktop workbench for managing multiple pi coding-agent sessions across project folders.",
-      "stars": 228,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T10:17:20Z",
-      "updated_at": "2026-07-08T10:17:29Z"
+      "id": 1185162676,
+      "full_name": "InternScience/ResearchClawBench",
+      "html_url": "https://github.com/InternScience/ResearchClawBench",
+      "description": "🦞 ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery",
+      "stars": 183,
+      "forks": 16,
+      "language": "Jupyter Notebook",
+      "pushed_at": "2026-07-08T13:56:37Z",
+      "updated_at": "2026-07-08T13:58:14Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 152,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-08T13:54:45Z",
+      "updated_at": "2026-07-08T13:56:31Z"
     }
   ]
 }
