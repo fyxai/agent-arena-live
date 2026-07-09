@@ -5,84 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1072,
+  "total_found": 1073,
   "items": [
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 26504,
-      "forks": 1655,
-      "language": "Go",
-      "pushed_at": "2026-07-09T11:00:56Z",
-      "updated_at": "2026-07-09T11:07:28Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23184,
-      "forks": 3901,
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 29909,
+      "forks": 8865,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T10:52:05Z",
-      "updated_at": "2026-07-09T11:04:39Z"
+      "pushed_at": "2026-07-09T14:50:29Z",
+      "updated_at": "2026-07-09T15:03:40Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 16906,
-      "forks": 1504,
+      "stars": 16940,
+      "forks": 1507,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T11:07:43Z",
-      "updated_at": "2026-07-09T11:07:59Z"
+      "pushed_at": "2026-07-09T14:53:18Z",
+      "updated_at": "2026-07-09T15:19:06Z"
+    },
+    {
+      "id": 1139782619,
+      "full_name": "waooAI/waoowaoo",
+      "html_url": "https://github.com/waooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 13166,
+      "forks": 2942,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-09T15:11:36Z",
+      "updated_at": "2026-07-09T14:59:13Z"
+    },
+    {
+      "id": 1147063571,
+      "full_name": "EvoMap/evolver",
+      "html_url": "https://github.com/EvoMap/evolver",
+      "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+      "stars": 8878,
+      "forks": 819,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-09T15:03:16Z",
+      "updated_at": "2026-07-09T15:04:44Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6854,
-      "forks": 917,
+      "stars": 6888,
+      "forks": 919,
       "language": "Python",
-      "pushed_at": "2026-07-09T10:57:28Z",
-      "updated_at": "2026-07-09T11:07:19Z"
+      "pushed_at": "2026-07-09T14:52:51Z",
+      "updated_at": "2026-07-09T15:18:43Z"
     },
     {
-      "id": 991092853,
-      "full_name": "RedPlanetHQ/core",
-      "html_url": "https://github.com/RedPlanetHQ/core",
-      "description": "Your Personal AI OS",
-      "stars": 1884,
-      "forks": 177,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T10:44:30Z",
-      "updated_at": "2026-07-09T10:47:44Z"
-    },
-    {
-      "id": 1288402762,
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "stars": 1857,
-      "forks": 264,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T10:43:56Z",
-      "updated_at": "2026-07-09T11:06:28Z"
-    },
-    {
-      "id": 1186842622,
-      "full_name": "Paca-AI/paca",
-      "html_url": "https://github.com/Paca-AI/paca",
-      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
-      "stars": 1550,
-      "forks": 103,
-      "language": "Go",
-      "pushed_at": "2026-07-09T10:44:21Z",
-      "updated_at": "2026-07-09T11:03:53Z"
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
+      "stars": 1265,
+      "forks": 74,
+      "language": "Python",
+      "pushed_at": "2026-07-09T15:14:09Z",
+      "updated_at": "2026-07-09T15:17:15Z"
     },
     {
       "id": 1096175506,
@@ -92,19 +81,19 @@
       "stars": 1133,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T11:06:48Z",
-      "updated_at": "2026-07-09T10:49:20Z"
+      "pushed_at": "2026-07-09T15:16:39Z",
+      "updated_at": "2026-07-09T15:17:19Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 260K LoC pure Python. Up to 200X Cost Saving!",
-      "stars": 767,
-      "forks": 137,
-      "language": "Python",
-      "pushed_at": "2026-07-09T10:41:48Z",
-      "updated_at": "2026-07-09T10:41:56Z"
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1120,
+      "forks": 207,
+      "language": "Go",
+      "pushed_at": "2026-07-09T15:13:16Z",
+      "updated_at": "2026-07-09T15:16:31Z"
     },
     {
       "id": 1142397834,
@@ -114,63 +103,74 @@
       "stars": 521,
       "forks": 43,
       "language": "Go",
-      "pushed_at": "2026-07-09T10:40:52Z",
-      "updated_at": "2026-07-09T10:57:59Z"
+      "pushed_at": "2026-07-09T15:04:47Z",
+      "updated_at": "2026-07-09T15:06:33Z"
     },
     {
-      "id": 1288102626,
-      "full_name": "ai4s-research/open-science",
-      "html_url": "https://github.com/ai4s-research/open-science",
-      "description": "Open Science Desktop — local-first, model-agnostic, reproducible AI research desktop for macOS & Windows. Open-source Claude Science alternative built on Tauri + MCP + agent skills.",
-      "stars": 451,
-      "forks": 48,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T11:05:04Z",
-      "updated_at": "2026-07-09T11:07:26Z"
+      "id": 1207661371,
+      "full_name": "shihuili1218/rssh",
+      "html_url": "https://github.com/shihuili1218/rssh",
+      "description": "The SSH client built to be an AI ops copilot · 为 AI 运维而生的 SSH 客户端(macOS/Windows/Linux/Android)",
+      "stars": 408,
+      "forks": 35,
+      "language": "Rust",
+      "pushed_at": "2026-07-09T15:02:08Z",
+      "updated_at": "2026-07-09T15:03:31Z"
     },
     {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 346,
-      "forks": 61,
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 259,
+      "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T10:51:05Z",
-      "updated_at": "2026-07-09T10:51:18Z"
-    },
-    {
-      "id": 1235491525,
-      "full_name": "Mininglamp-OSS/octo-web",
-      "html_url": "https://github.com/Mininglamp-OSS/octo-web",
-      "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
-      "stars": 293,
-      "forks": 54,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T10:44:47Z",
-      "updated_at": "2026-07-09T10:44:55Z"
+      "pushed_at": "2026-07-09T15:05:59Z",
+      "updated_at": "2026-07-09T15:06:47Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 252,
-      "forks": 425,
+      "stars": 253,
+      "forks": 426,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T11:01:36Z",
-      "updated_at": "2026-07-09T11:01:47Z"
+      "pushed_at": "2026-07-09T14:58:30Z",
+      "updated_at": "2026-07-09T14:59:30Z"
     },
     {
-      "id": 989406293,
-      "full_name": "surendranb/google-analytics-mcp",
-      "html_url": "https://github.com/surendranb/google-analytics-mcp",
-      "description": "Google Analytics 4 data to AI agents, agentic workflows, and MCP clients. Give agents analysis-ready access to website traffic, user behavior, and performance data with schema discovery, server-side aggregation, and safe defaults that reduce data wrangling.",
-      "stars": 225,
-      "forks": 45,
+      "id": 1108188054,
+      "full_name": "QVerisAI/qveris-agent-toolkit",
+      "html_url": "https://github.com/QVerisAI/qveris-agent-toolkit",
+      "description": "Open-source toolkit for the QVeris capability routing network: CLI, MCP server, Python SDK, skills, and REST API docs for agents to discover, inspect, call, and audit real-world tools.",
+      "stars": 241,
+      "forks": 22,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-09T15:03:13Z",
+      "updated_at": "2026-07-09T14:58:34Z"
+    },
+    {
+      "id": 1147729941,
+      "full_name": "telagod/code-abyss",
+      "html_url": "https://github.com/telagod/code-abyss",
+      "description": "Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw. Ships Tech Persona Card v1.0 spec.",
+      "stars": 231,
+      "forks": 30,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-09T15:19:07Z",
+      "updated_at": "2026-07-09T15:07:53Z"
+    },
+    {
+      "id": 1224734286,
+      "full_name": "Ikalus1988/MisakaNet",
+      "html_url": "https://github.com/Ikalus1988/MisakaNet",
+      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+      "stars": 218,
+      "forks": 69,
       "language": "Python",
-      "pushed_at": "2026-07-09T10:51:15Z",
-      "updated_at": "2026-07-09T10:51:27Z"
+      "pushed_at": "2026-07-09T15:01:13Z",
+      "updated_at": "2026-07-09T15:01:53Z"
     }
   ]
 }
