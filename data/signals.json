@@ -12,77 +12,143 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 212163,
-      "forks": 39081,
+      "stars": 212292,
+      "forks": 39124,
       "language": "Python",
-      "pushed_at": "2026-07-09T21:14:30Z",
-      "updated_at": "2026-07-09T21:21:39Z"
+      "pushed_at": "2026-07-10T03:43:57Z",
+      "updated_at": "2026-07-10T03:42:53Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 35879,
-      "forks": 4437,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48379,
+      "forks": 4595,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:17:07Z",
-      "updated_at": "2026-07-09T21:24:40Z"
+      "pushed_at": "2026-07-10T03:44:42Z",
+      "updated_at": "2026-07-10T03:33:25Z"
+    },
+    {
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 45189,
+      "forks": 7982,
+      "language": "Python",
+      "pushed_at": "2026-07-10T03:44:45Z",
+      "updated_at": "2026-07-10T03:33:46Z"
+    },
+    {
+      "id": 1198306812,
+      "full_name": "HKUDS/Vibe-Trading",
+      "html_url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 18922,
+      "forks": 3189,
+      "language": "Python",
+      "pushed_at": "2026-07-10T03:28:28Z",
+      "updated_at": "2026-07-10T03:45:18Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 17006,
-      "forks": 1512,
+      "stars": 17055,
+      "forks": 1517,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:18:06Z",
-      "updated_at": "2026-07-09T21:18:36Z"
+      "pushed_at": "2026-07-10T03:40:50Z",
+      "updated_at": "2026-07-10T03:43:29Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2422,
-      "forks": 421,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:10:27Z",
-      "updated_at": "2026-07-09T21:10:36Z"
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 13348,
+      "forks": 1540,
+      "language": "Python",
+      "pushed_at": "2026-07-10T03:42:10Z",
+      "updated_at": "2026-07-10T03:42:15Z"
     },
     {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-      "stars": 1158,
-      "forks": 189,
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-studio",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 8998,
+      "forks": 1109,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:16:18Z",
-      "updated_at": "2026-07-09T21:16:33Z"
+      "pushed_at": "2026-07-10T03:26:02Z",
+      "updated_at": "2026-07-10T03:26:07Z"
     },
     {
-      "id": 1180642359,
-      "full_name": "xalgord/xalgorix",
-      "html_url": "https://github.com/xalgord/xalgorix",
-      "description": "Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
-      "stars": 700,
-      "forks": 123,
+      "id": 1128204614,
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 8256,
+      "forks": 937,
+      "language": "Rust",
+      "pushed_at": "2026-07-10T03:23:14Z",
+      "updated_at": "2026-07-10T03:23:20Z"
+    },
+    {
+      "id": 1273015953,
+      "full_name": "shy3130/tickflow-stock-panel",
+      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+      "stars": 1966,
+      "forks": 398,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T03:38:30Z",
+      "updated_at": "2026-07-10T03:38:34Z"
+    },
+    {
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 1961,
+      "forks": 282,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T03:24:20Z",
+      "updated_at": "2026-07-10T03:45:12Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1120,
+      "forks": 207,
       "language": "Go",
-      "pushed_at": "2026-07-09T21:10:23Z",
-      "updated_at": "2026-07-09T21:10:45Z"
+      "pushed_at": "2026-07-10T03:43:02Z",
+      "updated_at": "2026-07-10T03:43:07Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 523,
-      "forks": 43,
-      "language": "Go",
-      "pushed_at": "2026-07-09T21:22:24Z",
-      "updated_at": "2026-07-09T21:22:27Z"
+      "id": 1193300953,
+      "full_name": "dramaclaw/dramaclaw",
+      "html_url": "https://github.com/dramaclaw/dramaclaw",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "stars": 829,
+      "forks": 106,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T03:42:29Z",
+      "updated_at": "2026-07-10T03:41:59Z"
+    },
+    {
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 433,
+      "forks": 102,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-10T03:32:08Z",
+      "updated_at": "2026-07-10T03:32:12Z"
     },
     {
       "id": 1194576770,
@@ -92,8 +158,8 @@
       "stars": 352,
       "forks": 71,
       "language": "Python",
-      "pushed_at": "2026-07-09T21:11:49Z",
-      "updated_at": "2026-07-09T21:11:52Z"
+      "pushed_at": "2026-07-10T03:30:01Z",
+      "updated_at": "2026-07-10T03:30:06Z"
     },
     {
       "id": 1191737450,
@@ -103,74 +169,8 @@
       "stars": 346,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:15:22Z",
-      "updated_at": "2026-07-09T21:15:27Z"
-    },
-    {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 309,
-      "forks": 38,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-09T21:14:14Z",
-      "updated_at": "2026-07-09T21:14:19Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 259,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:19:48Z",
-      "updated_at": "2026-07-09T21:19:51Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first",
-      "stars": 188,
-      "forks": 53,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-09T21:09:22Z",
-      "updated_at": "2026-07-09T21:07:11Z"
-    },
-    {
-      "id": 1283015427,
-      "full_name": "israriqbal/agent-ecologies",
-      "html_url": "https://github.com/israriqbal/agent-ecologies",
-      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-      "stars": 152,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-09T21:19:57Z",
-      "updated_at": "2026-07-09T21:20:03Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-09T21:18:12Z",
-      "updated_at": "2026-07-09T21:18:17Z"
-    },
-    {
-      "id": 1151752366,
-      "full_name": "jfarcand/mirroir-mcp",
-      "html_url": "https://github.com/jfarcand/mirroir-mcp",
-      "description": "MCP server for controlling a real iPhone via macOS iPhone Mirroring...and any MacOs app. Screenshot, tap, swipe, type — from any MCP client.",
-      "stars": 131,
-      "forks": 19,
-      "language": "Swift",
-      "pushed_at": "2026-07-09T21:07:51Z",
-      "updated_at": "2026-07-09T21:07:55Z"
+      "pushed_at": "2026-07-10T03:28:48Z",
+      "updated_at": "2026-07-10T03:28:52Z"
     }
   ]
 }
