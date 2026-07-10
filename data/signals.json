@@ -5,117 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1075,
+  "total_found": 1076,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 212415,
-      "forks": 39151,
+      "stars": 212525,
+      "forks": 39180,
       "language": "Python",
-      "pushed_at": "2026-07-10T07:38:50Z",
-      "updated_at": "2026-07-10T07:39:03Z"
+      "pushed_at": "2026-07-10T10:42:25Z",
+      "updated_at": "2026-07-10T11:08:08Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48392,
-      "forks": 4597,
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
+      "stars": 59497,
+      "forks": 11812,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T10:49:36Z",
+      "updated_at": "2026-07-10T10:57:58Z"
+    },
+    {
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+      "stars": 29754,
+      "forks": 2977,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:33:03Z",
-      "updated_at": "2026-07-10T07:39:14Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 26569,
-      "forks": 1658,
-      "language": "Go",
-      "pushed_at": "2026-07-10T07:35:06Z",
-      "updated_at": "2026-07-10T07:35:17Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23196,
-      "forks": 3905,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:36:02Z",
-      "updated_at": "2026-07-10T07:36:11Z"
+      "pushed_at": "2026-07-10T11:04:38Z",
+      "updated_at": "2026-07-10T11:05:27Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 17086,
-      "forks": 1523,
+      "stars": 17118,
+      "forks": 1526,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:25:37Z",
-      "updated_at": "2026-07-10T07:38:52Z"
+      "pushed_at": "2026-07-10T10:59:57Z",
+      "updated_at": "2026-07-10T11:03:32Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6944,
-      "forks": 936,
+      "stars": 6956,
+      "forks": 939,
       "language": "Python",
-      "pushed_at": "2026-07-10T07:32:37Z",
-      "updated_at": "2026-07-10T07:36:29Z"
+      "pushed_at": "2026-07-10T11:06:49Z",
+      "updated_at": "2026-07-10T11:08:08Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 3674,
-      "forks": 240,
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6909,
+      "forks": 1451,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:28:00Z",
-      "updated_at": "2026-07-10T07:28:38Z"
+      "pushed_at": "2026-07-10T10:40:54Z",
+      "updated_at": "2026-07-10T10:41:12Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3214,
-      "forks": 645,
-      "language": "Python",
-      "pushed_at": "2026-07-10T07:37:10Z",
-      "updated_at": "2026-07-10T07:22:09Z"
-    },
-    {
-      "id": 1273015953,
-      "full_name": "shy3130/tickflow-stock-panel",
-      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
-      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
-      "stars": 1967,
-      "forks": 398,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:18:46Z",
-      "updated_at": "2026-07-10T07:18:51Z"
-    },
-    {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
-      "stars": 1268,
-      "forks": 75,
-      "language": "Python",
-      "pushed_at": "2026-07-10T07:33:11Z",
-      "updated_at": "2026-07-10T07:33:22Z"
+      "id": 1186842622,
+      "full_name": "Paca-AI/paca",
+      "html_url": "https://github.com/Paca-AI/paca",
+      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
+      "stars": 1561,
+      "forks": 104,
+      "language": "Go",
+      "pushed_at": "2026-07-10T10:46:20Z",
+      "updated_at": "2026-07-10T11:07:40Z"
     },
     {
       "id": 1096175506,
@@ -125,30 +92,74 @@
       "stars": 1134,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:39:51Z",
-      "updated_at": "2026-07-10T07:37:51Z"
+      "pushed_at": "2026-07-10T11:05:55Z",
+      "updated_at": "2026-07-10T10:53:02Z"
     },
     {
-      "id": 1245256564,
-      "full_name": "Eynzof/Hermes-CN-Desktop",
-      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
-      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
-      "stars": 852,
-      "forks": 37,
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1120,
+      "forks": 207,
+      "language": "Go",
+      "pushed_at": "2026-07-10T10:56:01Z",
+      "updated_at": "2026-07-10T10:56:10Z"
+    },
+    {
+      "id": 1201960789,
+      "full_name": "mm7894215/TokenTracker",
+      "html_url": "https://github.com/mm7894215/TokenTracker",
+      "description": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.",
+      "stars": 967,
+      "forks": 94,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-10T11:06:27Z",
+      "updated_at": "2026-07-10T11:07:13Z"
+    },
+    {
+      "id": 1180642359,
+      "full_name": "xalgord/xalgorix",
+      "html_url": "https://github.com/xalgord/xalgorix",
+      "description": "Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
+      "stars": 701,
+      "forks": 123,
+      "language": "Go",
+      "pushed_at": "2026-07-10T11:01:18Z",
+      "updated_at": "2026-07-10T11:02:18Z"
+    },
+    {
+      "id": 1288102626,
+      "full_name": "ai4s-research/open-science",
+      "html_url": "https://github.com/ai4s-research/open-science",
+      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "stars": 558,
+      "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:37:26Z",
-      "updated_at": "2026-07-10T07:34:48Z"
+      "pushed_at": "2026-07-10T11:04:58Z",
+      "updated_at": "2026-07-10T11:06:47Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 260K LoC pure Python. Up to 200X Cost Saving!",
-      "stars": 776,
-      "forks": 140,
+      "id": 1132275655,
+      "full_name": "cordum-io/cordum",
+      "html_url": "https://github.com/cordum-io/cordum",
+      "description": "The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.",
+      "stars": 490,
+      "forks": 29,
+      "language": "Go",
+      "pushed_at": "2026-07-10T10:59:50Z",
+      "updated_at": "2026-07-10T10:56:49Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 12 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 387,
+      "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-10T07:26:48Z",
-      "updated_at": "2026-07-10T07:26:24Z"
+      "pushed_at": "2026-07-10T11:07:32Z",
+      "updated_at": "2026-07-10T11:08:13Z"
     },
     {
       "id": 1191737450,
@@ -158,19 +169,8 @@
       "stars": 346,
       "forks": 61,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:38:30Z",
-      "updated_at": "2026-07-10T07:38:54Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 260,
-      "forks": 14,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T07:35:17Z",
-      "updated_at": "2026-07-10T07:35:31Z"
+      "pushed_at": "2026-07-10T10:45:09Z",
+      "updated_at": "2026-07-10T10:45:35Z"
     }
   ]
 }
