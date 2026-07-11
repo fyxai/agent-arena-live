@@ -5,84 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1078,
+  "total_found": 1081,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 212714,
-      "forks": 39262,
+      "stars": 212822,
+      "forks": 39302,
       "language": "Python",
-      "pushed_at": "2026-07-10T21:05:09Z",
-      "updated_at": "2026-07-10T21:07:19Z"
+      "pushed_at": "2026-07-11T02:38:55Z",
+      "updated_at": "2026-07-11T03:08:51Z"
     },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 56493,
-      "forks": 48598,
+      "stars": 56522,
+      "forks": 48624,
       "language": "Python",
-      "pushed_at": "2026-07-10T20:57:54Z",
-      "updated_at": "2026-07-10T21:06:23Z"
+      "pushed_at": "2026-07-11T03:12:13Z",
+      "updated_at": "2026-07-11T03:11:50Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 19548,
-      "forks": 1283,
-      "language": "HTML",
-      "pushed_at": "2026-07-10T20:29:16Z",
-      "updated_at": "2026-07-10T20:29:25Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48423,
+      "forks": 4598,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T03:11:48Z",
+      "updated_at": "2026-07-11T02:56:24Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 17171,
-      "forks": 1536,
+      "stars": 17194,
+      "forks": 1542,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T20:26:45Z",
-      "updated_at": "2026-07-10T20:58:08Z"
+      "pushed_at": "2026-07-11T02:44:36Z",
+      "updated_at": "2026-07-11T03:08:48Z"
+    },
+    {
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 13356,
+      "forks": 1540,
+      "language": "Python",
+      "pushed_at": "2026-07-11T02:57:13Z",
+      "updated_at": "2026-07-11T03:04:03Z"
+    },
+    {
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-studio",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 9020,
+      "forks": 1114,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T03:10:07Z",
+      "updated_at": "2026-07-11T03:10:14Z"
     },
     {
       "id": 1128204614,
       "full_name": "1jehuang/jcode",
       "html_url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
-      "stars": 8276,
-      "forks": 940,
+      "stars": 8282,
+      "forks": 941,
       "language": "Rust",
-      "pushed_at": "2026-07-10T20:41:17Z",
-      "updated_at": "2026-07-10T20:41:21Z"
+      "pushed_at": "2026-07-11T03:08:56Z",
+      "updated_at": "2026-07-11T03:08:59Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 6995,
-      "forks": 945,
+      "stars": 7011,
+      "forks": 946,
       "language": "Python",
-      "pushed_at": "2026-07-10T21:07:17Z",
-      "updated_at": "2026-07-10T21:07:50Z"
+      "pushed_at": "2026-07-11T03:05:54Z",
+      "updated_at": "2026-07-11T03:05:59Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2422,
-      "forks": 421,
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 6914,
+      "forks": 1452,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T20:49:12Z",
-      "updated_at": "2026-07-10T20:49:36Z"
+      "pushed_at": "2026-07-11T03:09:46Z",
+      "updated_at": "2026-07-11T03:10:24Z"
+    },
+    {
+      "id": 1273015953,
+      "full_name": "shy3130/tickflow-stock-panel",
+      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+      "stars": 1986,
+      "forks": 405,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T02:58:34Z",
+      "updated_at": "2026-07-11T03:03:38Z"
     },
     {
       "id": 1096175506,
@@ -92,30 +125,30 @@
       "stars": 1134,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-10T20:38:48Z",
-      "updated_at": "2026-07-10T20:30:51Z"
+      "pushed_at": "2026-07-11T03:11:41Z",
+      "updated_at": "2026-07-11T03:11:43Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
-      "stars": 1120,
-      "forks": 207,
-      "language": "Go",
-      "pushed_at": "2026-07-10T21:05:58Z",
-      "updated_at": "2026-07-10T21:06:03Z"
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 621,
+      "forks": 52,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T03:02:02Z",
+      "updated_at": "2026-07-11T03:02:07Z"
     },
     {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
-      "stars": 657,
-      "forks": 51,
-      "language": "Python",
-      "pushed_at": "2026-07-10T20:53:07Z",
-      "updated_at": "2026-07-10T20:45:30Z"
+      "id": 1207661371,
+      "full_name": "shihuili1218/rssh",
+      "html_url": "https://github.com/shihuili1218/rssh",
+      "description": "The SSH client built to be an AI ops copilot · 为 AI 运维而生的 SSH 客户端(macOS/Windows/Linux/Android)",
+      "stars": 414,
+      "forks": 35,
+      "language": "Rust",
+      "pushed_at": "2026-07-11T02:55:58Z",
+      "updated_at": "2026-07-11T02:55:38Z"
     },
     {
       "id": 1156882085,
@@ -125,52 +158,19 @@
       "stars": 387,
       "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-10T21:07:12Z",
-      "updated_at": "2026-07-10T21:05:28Z"
+      "pushed_at": "2026-07-11T03:07:34Z",
+      "updated_at": "2026-07-11T03:07:17Z"
     },
     {
-      "id": 1243365944,
-      "full_name": "open-software-network/os-june",
-      "html_url": "https://github.com/open-software-network/os-june",
-      "description": "Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.",
-      "stars": 259,
-      "forks": 32,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T21:06:43Z",
-      "updated_at": "2026-07-10T21:06:37Z"
-    },
-    {
-      "id": 1174756063,
-      "full_name": "bitrouter/bitrouter",
-      "html_url": "https://github.com/bitrouter/bitrouter",
-      "description": "An open-source agentic LLM gateway & router that optimize your agentic loops in your way, works with any harnesses, any models, any workflows.",
-      "stars": 201,
-      "forks": 12,
-      "language": "Rust",
-      "pushed_at": "2026-07-10T20:56:18Z",
-      "updated_at": "2026-07-10T20:46:53Z"
-    },
-    {
-      "id": 1160004652,
-      "full_name": "kstevica/captain-claw",
-      "html_url": "https://github.com/kstevica/captain-claw",
-      "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
-      "stars": 160,
-      "forks": 13,
-      "language": "Python",
-      "pushed_at": "2026-07-10T20:56:15Z",
-      "updated_at": "2026-07-10T20:56:20Z"
-    },
-    {
-      "id": 950937118,
-      "full_name": "awkoy/notion-mcp-server",
-      "html_url": "https://github.com/awkoy/notion-mcp-server",
-      "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
-      "stars": 159,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-10T20:35:56Z",
-      "updated_at": "2026-07-10T20:35:52Z"
+      "id": 1202954853,
+      "full_name": "webbrain-one/webbrain",
+      "html_url": "https://github.com/webbrain-one/webbrain",
+      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
+      "stars": 321,
+      "forks": 38,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-11T02:57:06Z",
+      "updated_at": "2026-07-11T02:57:11Z"
     }
   ]
 }
