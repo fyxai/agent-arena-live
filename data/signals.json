@@ -8,81 +8,48 @@
   "total_found": 1085,
   "items": [
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 45253,
-      "forks": 7986,
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "stars": 38395,
+      "forks": 3197,
       "language": "Python",
-      "pushed_at": "2026-07-11T16:35:17Z",
-      "updated_at": "2026-07-11T16:35:28Z"
-    },
-    {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 26480,
-      "forks": 2608,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-11T16:58:16Z",
-      "updated_at": "2026-07-11T16:58:23Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23218,
-      "forks": 3914,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T16:32:36Z",
-      "updated_at": "2026-07-11T16:49:30Z"
+      "pushed_at": "2026-07-11T20:51:46Z",
+      "updated_at": "2026-07-11T20:52:06Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 19571,
-      "forks": 1284,
+      "stars": 19574,
+      "forks": 1287,
       "language": "HTML",
-      "pushed_at": "2026-07-11T16:29:01Z",
-      "updated_at": "2026-07-11T16:42:02Z"
+      "pushed_at": "2026-07-11T20:27:48Z",
+      "updated_at": "2026-07-11T20:23:37Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 17281,
-      "forks": 1556,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T16:55:22Z",
-      "updated_at": "2026-07-11T16:57:50Z"
-    },
-    {
-      "id": 1028832403,
-      "full_name": "UfoMiao/zcf",
-      "html_url": "https://github.com/UfoMiao/zcf",
-      "description": "Zero-Config Code Flow for Claude code & Codex",
-      "stars": 6070,
-      "forks": 426,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-11T16:44:24Z",
-      "updated_at": "2026-07-11T16:44:31Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4860,
-      "forks": 479,
+      "id": 1213049020,
+      "full_name": "browser-use/browser-harness",
+      "html_url": "https://github.com/browser-use/browser-harness",
+      "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+      "stars": 15886,
+      "forks": 1479,
       "language": "Python",
-      "pushed_at": "2026-07-11T17:01:29Z",
-      "updated_at": "2026-07-11T16:50:34Z"
+      "pushed_at": "2026-07-11T19:58:13Z",
+      "updated_at": "2026-07-11T19:58:21Z"
+    },
+    {
+      "id": 1128204614,
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 8285,
+      "forks": 942,
+      "language": "Rust",
+      "pushed_at": "2026-07-11T20:48:02Z",
+      "updated_at": "2026-07-11T20:48:09Z"
     },
     {
       "id": 220867748,
@@ -92,41 +59,74 @@
       "stars": 3229,
       "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-11T16:31:37Z",
-      "updated_at": "2026-07-11T16:31:41Z"
+      "pushed_at": "2026-07-11T20:47:40Z",
+      "updated_at": "2026-07-11T20:47:44Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1135,
-      "forks": 67,
+      "id": 1190557545,
+      "full_name": "eugeniughelbur/obsidian-second-brain",
+      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Hermes, and Pi. 44 commands - self-rewriting notes, local+hybrid semantic search, key-less web research, /obsidian-architect codebase docs, and scheduled agents that maintain the vault while you sleep.",
+      "stars": 3141,
+      "forks": 385,
+      "language": "Python",
+      "pushed_at": "2026-07-11T19:30:14Z",
+      "updated_at": "2026-07-11T20:35:34Z"
+    },
+    {
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 1430,
+      "forks": 212,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-11T20:17:06Z",
+      "updated_at": "2026-07-11T20:27:39Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 784,
+      "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T17:01:03Z",
-      "updated_at": "2026-07-11T16:52:11Z"
+      "pushed_at": "2026-07-11T20:09:44Z",
+      "updated_at": "2026-07-11T20:39:37Z"
     },
     {
-      "id": 701627142,
-      "full_name": "ALwrity/ALwrity",
-      "html_url": "https://github.com/ALwrity/ALwrity",
-      "description": "ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP",
-      "stars": 1086,
-      "forks": 299,
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
+      "stars": 657,
+      "forks": 51,
       "language": "Python",
-      "pushed_at": "2026-07-11T16:50:48Z",
-      "updated_at": "2026-07-11T16:50:54Z"
+      "pushed_at": "2026-07-11T19:59:24Z",
+      "updated_at": "2026-07-11T19:59:28Z"
     },
     {
-      "id": 801447013,
-      "full_name": "JetXu-LLM/llama-github",
-      "html_url": "https://github.com/JetXu-LLM/llama-github",
-      "description": "Llama-github is an open-source Python library that empowers LLM Chatbots, AI Agents, and Auto-dev Solutions to conduct Agentic RAG from actively selected GitHub public projects. It Augments through LLMs and Generates context for any coding question, in order to streamline the development of sophisticated AI-driven applications.",
-      "stars": 295,
-      "forks": 23,
+      "id": 1175588150,
+      "full_name": "RyanAlberts/best-of-Agent-Harnesses",
+      "html_url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses",
+      "description": "🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.",
+      "stars": 293,
+      "forks": 24,
       "language": "Python",
-      "pushed_at": "2026-07-11T16:36:35Z",
-      "updated_at": "2026-07-11T16:35:00Z"
+      "pushed_at": "2026-07-11T19:52:35Z",
+      "updated_at": "2026-07-11T20:18:49Z"
+    },
+    {
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 262,
+      "forks": 14,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-11T19:34:07Z",
+      "updated_at": "2026-07-11T20:19:17Z"
     },
     {
       "id": 1243365944,
@@ -136,41 +136,41 @@
       "stars": 260,
       "forks": 32,
       "language": "TypeScript",
-      "pushed_at": "2026-07-11T17:01:03Z",
-      "updated_at": "2026-07-11T17:00:59Z"
+      "pushed_at": "2026-07-11T19:27:19Z",
+      "updated_at": "2026-07-11T19:27:30Z"
+    },
+    {
+      "id": 1245561762,
+      "full_name": "yashab-cyber/opendroid",
+      "html_url": "https://github.com/yashab-cyber/opendroid",
+      "description": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
+      "stars": 253,
+      "forks": 38,
+      "language": "Kotlin",
+      "pushed_at": "2026-07-11T19:37:34Z",
+      "updated_at": "2026-07-11T19:37:29Z"
     },
     {
       "id": 1224734286,
       "full_name": "Ikalus1988/MisakaNet",
       "html_url": "https://github.com/Ikalus1988/MisakaNet",
       "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 234,
+      "stars": 237,
       "forks": 72,
       "language": "Python",
-      "pushed_at": "2026-07-11T17:01:36Z",
-      "updated_at": "2026-07-11T17:01:54Z"
+      "pushed_at": "2026-07-11T19:36:26Z",
+      "updated_at": "2026-07-11T20:38:02Z"
     },
     {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 182,
-      "forks": 33,
+      "id": 1134428804,
+      "full_name": "slive777/OpenAver",
+      "html_url": "https://github.com/slive777/OpenAver",
+      "description": "Free open-source desktop app that scrapes JAV metadata and generates NFO + cover art for Jellyfin, Emby & Kodi. No Docker, no CLI — one-click install on Windows & macOS. 8 built-in sources + optional Metatube federation (30+ providers), actress collections, cross-language tag aliases, and a REST API for AI agents.",
+      "stars": 161,
+      "forks": 16,
       "language": "Python",
-      "pushed_at": "2026-07-11T16:41:05Z",
-      "updated_at": "2026-07-11T16:41:11Z"
-    },
-    {
-      "id": 1242415623,
-      "full_name": "huangjia2019/agent-design-patterns",
-      "html_url": "https://github.com/huangjia2019/agent-design-patterns",
-      "description": "A 7×6 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified engineering slices from Claude Code, Aider, OpenHands, DeerFlow. Companion to Designing AI Agents (Manning) by Jia Huang.",
-      "stars": 156,
-      "forks": 17,
-      "language": "HTML",
-      "pushed_at": "2026-07-11T16:58:17Z",
-      "updated_at": "2026-07-11T16:58:24Z"
+      "pushed_at": "2026-07-11T20:08:16Z",
+      "updated_at": "2026-07-11T20:08:19Z"
     }
   ]
 }
