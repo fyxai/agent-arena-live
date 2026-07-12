@@ -8,147 +8,136 @@
   "total_found": 1086,
   "items": [
     {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
-      "stars": 59727,
-      "forks": 11855,
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 26748,
+      "forks": 1678,
+      "language": "Go",
+      "pushed_at": "2026-07-12T20:39:02Z",
+      "updated_at": "2026-07-12T20:54:19Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 19586,
+      "forks": 1287,
+      "language": "HTML",
+      "pushed_at": "2026-07-12T20:55:51Z",
+      "updated_at": "2026-07-12T20:22:20Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3230,
+      "forks": 214,
       "language": "JavaScript",
-      "pushed_at": "2026-07-12T16:39:04Z",
-      "updated_at": "2026-07-12T17:01:22Z"
+      "pushed_at": "2026-07-12T20:50:48Z",
+      "updated_at": "2026-07-12T20:50:55Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23321,
-      "forks": 2749,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-12T16:59:55Z",
-      "updated_at": "2026-07-12T16:56:54Z"
-    },
-    {
-      "id": 169975410,
-      "full_name": "leon-ai/leon",
-      "html_url": "https://github.com/leon-ai/leon",
-      "description": "🧠 Leon is your open-source personal assistant.",
-      "stars": 17352,
-      "forks": 1450,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-12T16:38:50Z",
-      "updated_at": "2026-07-12T16:38:55Z"
-    },
-    {
-      "id": 1104370536,
-      "full_name": "ChatLab/ChatLab",
-      "html_url": "https://github.com/ChatLab/ChatLab",
-      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
-      "stars": 6924,
-      "forks": 1454,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-12T17:01:43Z",
-      "updated_at": "2026-07-12T17:01:58Z"
-    },
-    {
-      "id": 1190557545,
-      "full_name": "eugeniughelbur/obsidian-second-brain",
-      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
-      "description": "Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Hermes, and Pi. 44 commands - self-rewriting notes, local+hybrid semantic search, key-less web research, /obsidian-architect codebase docs, and scheduled agents that maintain the vault while you sleep.",
-      "stars": 3173,
-      "forks": 390,
-      "language": "Python",
-      "pushed_at": "2026-07-12T16:46:24Z",
-      "updated_at": "2026-07-12T16:58:01Z"
-    },
-    {
-      "id": 1166321809,
-      "full_name": "chrysb/alphaclaw",
-      "html_url": "https://github.com/chrysb/alphaclaw",
-      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
-      "stars": 1431,
-      "forks": 212,
+      "id": 1167607007,
+      "full_name": "qingchencloud/clawpanel",
+      "html_url": "https://github.com/qingchencloud/clawpanel",
+      "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+      "stars": 2879,
+      "forks": 357,
       "language": "JavaScript",
-      "pushed_at": "2026-07-12T17:02:27Z",
-      "updated_at": "2026-07-12T17:02:27Z"
+      "pushed_at": "2026-07-12T20:09:23Z",
+      "updated_at": "2026-07-12T20:09:26Z"
     },
     {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
-      "stars": 657,
-      "forks": 51,
+      "id": 982183014,
+      "full_name": "lioensky/VCPToolBox",
+      "html_url": "https://github.com/lioensky/VCPToolBox",
+      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+      "stars": 2187,
+      "forks": 357,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-12T20:30:08Z",
+      "updated_at": "2026-07-12T20:30:14Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1135,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-12T20:07:54Z",
+      "updated_at": "2026-07-12T20:07:09Z"
+    },
+    {
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 260K LoC pure Python. Up to 200X Cost Saving!",
+      "stars": 796,
+      "forks": 143,
       "language": "Python",
-      "pushed_at": "2026-07-12T17:02:25Z",
-      "updated_at": "2026-07-12T17:02:35Z"
+      "pushed_at": "2026-07-12T20:33:20Z",
+      "updated_at": "2026-07-12T20:33:29Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 785,
+      "forks": 81,
+      "language": "Python",
+      "pushed_at": "2026-07-12T20:32:00Z",
+      "updated_at": "2026-07-12T20:32:03Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 532,
+      "forks": 44,
+      "language": "Go",
+      "pushed_at": "2026-07-12T20:33:03Z",
+      "updated_at": "2026-07-12T20:33:08Z"
     },
     {
       "id": 1109341946,
       "full_name": "asheshgoplani/agent-deck",
       "html_url": "https://github.com/asheshgoplani/agent-deck",
       "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 483,
+      "stars": 484,
       "forks": 73,
       "language": "Go",
-      "pushed_at": "2026-07-12T16:36:06Z",
-      "updated_at": "2026-07-12T16:36:15Z"
+      "pushed_at": "2026-07-12T20:54:46Z",
+      "updated_at": "2026-07-12T20:52:53Z"
     },
     {
-      "id": 1239048160,
-      "full_name": "linghungegeg/Linghun",
-      "html_url": "https://github.com/linghungegeg/Linghun",
-      "description": "AGI-oriented, hallucination-resistant AI coding runtime grounded in evidence, tools, memory, agents, and verification.",
-      "stars": 294,
-      "forks": 26,
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 366,
+      "forks": 58,
       "language": "TypeScript",
-      "pushed_at": "2026-07-12T16:36:28Z",
-      "updated_at": "2026-07-12T16:43:49Z"
+      "pushed_at": "2026-07-12T20:47:36Z",
+      "updated_at": "2026-07-12T20:47:42Z"
     },
     {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 262,
-      "forks": 14,
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 255,
+      "forks": 432,
       "language": "TypeScript",
-      "pushed_at": "2026-07-12T16:54:02Z",
-      "updated_at": "2026-07-12T16:54:15Z"
-    },
-    {
-      "id": 1166995215,
-      "full_name": "CodeAlta/CodeAlta",
-      "html_url": "https://github.com/CodeAlta/CodeAlta",
-      "description": "Your efficient agentic AI coding CLI assistant",
-      "stars": 212,
-      "forks": 14,
-      "language": "C#",
-      "pushed_at": "2026-07-12T17:02:51Z",
-      "updated_at": "2026-07-12T17:02:28Z"
-    },
-    {
-      "id": 1224508792,
-      "full_name": "codehamr/codehamr",
-      "html_url": "https://github.com/codehamr/codehamr",
-      "description": "A minimal, local-first coding agent for the terminal.",
-      "stars": 197,
-      "forks": 17,
-      "language": "Go",
-      "pushed_at": "2026-07-12T16:42:04Z",
-      "updated_at": "2026-07-12T16:41:46Z"
-    },
-    {
-      "id": 1283015427,
-      "full_name": "israriqbal/agent-ecologies",
-      "html_url": "https://github.com/israriqbal/agent-ecologies",
-      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-      "stars": 153,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-12T16:58:22Z",
-      "updated_at": "2026-07-12T16:58:26Z"
+      "pushed_at": "2026-07-12T20:47:20Z",
+      "updated_at": "2026-07-12T20:47:27Z"
     },
     {
       "id": 1283323996,
@@ -158,8 +147,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-12T16:53:15Z",
-      "updated_at": "2026-07-12T16:53:23Z"
+      "pushed_at": "2026-07-12T20:08:18Z",
+      "updated_at": "2026-07-12T20:08:56Z"
     },
     {
       "id": 1169289143,
@@ -169,8 +158,19 @@
       "stars": 115,
       "forks": 9,
       "language": "Shell",
-      "pushed_at": "2026-07-12T16:47:06Z",
-      "updated_at": "2026-07-12T16:47:14Z"
+      "pushed_at": "2026-07-12T20:57:33Z",
+      "updated_at": "2026-07-12T20:57:37Z"
+    },
+    {
+      "id": 1188280950,
+      "full_name": "WingedGuardian/GENesis-AGI",
+      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
+      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+      "stars": 87,
+      "forks": 16,
+      "language": "Python",
+      "pushed_at": "2026-07-12T20:47:51Z",
+      "updated_at": "2026-07-12T20:43:56Z"
     }
   ]
 }
