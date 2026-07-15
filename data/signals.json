@@ -5,150 +5,161 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1102,
+  "total_found": 1104,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 215250,
+      "forks": 40106,
+      "language": "Python",
+      "pushed_at": "2026-07-15T13:38:31Z",
+      "updated_at": "2026-07-15T13:51:36Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48605,
-      "forks": 4615,
+      "stars": 48608,
+      "forks": 4612,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T10:05:51Z",
-      "updated_at": "2026-07-15T09:57:56Z"
+      "pushed_at": "2026-07-15T13:50:11Z",
+      "updated_at": "2026-07-15T13:45:13Z"
     },
     {
       "id": 291438522,
       "full_name": "siyuan-note/siyuan",
       "html_url": "https://github.com/siyuan-note/siyuan",
       "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 45124,
+      "stars": 45130,
       "forks": 2887,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T09:56:25Z",
-      "updated_at": "2026-07-15T10:03:36Z"
+      "pushed_at": "2026-07-15T13:51:26Z",
+      "updated_at": "2026-07-15T13:37:52Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 36043,
-      "forks": 4441,
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 30016,
+      "forks": 8862,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T09:52:46Z",
-      "updated_at": "2026-07-15T09:51:27Z"
+      "pushed_at": "2026-07-15T13:50:39Z",
+      "updated_at": "2026-07-15T13:51:17Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars": 19709,
+      "forks": 1296,
+      "language": "HTML",
+      "pushed_at": "2026-07-15T13:24:27Z",
+      "updated_at": "2026-07-15T13:50:37Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 17848,
-      "forks": 1625,
+      "stars": 17869,
+      "forks": 1627,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T10:05:32Z",
-      "updated_at": "2026-07-15T10:02:34Z"
+      "pushed_at": "2026-07-15T13:46:44Z",
+      "updated_at": "2026-07-15T13:37:51Z"
+    },
+    {
+      "id": 1139782619,
+      "full_name": "waooAI/waoowaoo",
+      "html_url": "https://github.com/waooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 13233,
+      "forks": 2954,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-15T13:34:59Z",
+      "updated_at": "2026-07-15T13:43:57Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 7299,
-      "forks": 1011,
+      "stars": 7310,
+      "forks": 1013,
       "language": "Python",
-      "pushed_at": "2026-07-15T10:04:48Z",
-      "updated_at": "2026-07-15T10:05:18Z"
+      "pushed_at": "2026-07-15T13:49:43Z",
+      "updated_at": "2026-07-15T13:35:31Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5556,
-      "forks": 863,
+      "id": 1218208502,
+      "full_name": "worldwonderer/oh-story-claudecode",
+      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+      "stars": 4131,
+      "forks": 648,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-15T13:30:55Z",
+      "updated_at": "2026-07-15T13:39:59Z"
+    },
+    {
+      "id": 982183014,
+      "full_name": "lioensky/VCPToolBox",
+      "html_url": "https://github.com/lioensky/VCPToolBox",
+      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+      "stars": 2191,
+      "forks": 358,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-15T13:24:19Z",
+      "updated_at": "2026-07-15T13:26:06Z"
+    },
+    {
+      "id": 1273015953,
+      "full_name": "shy3130/tickflow-stock-panel",
+      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+      "stars": 2155,
+      "forks": 471,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T09:56:16Z",
-      "updated_at": "2026-07-15T09:43:32Z"
+      "pushed_at": "2026-07-15T13:34:58Z",
+      "updated_at": "2026-07-15T13:39:29Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 3714,
-      "forks": 245,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 792,
+      "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-07-15T09:58:31Z",
-      "updated_at": "2026-07-15T09:59:50Z"
+      "pushed_at": "2026-07-15T13:26:05Z",
+      "updated_at": "2026-07-15T13:27:13Z"
     },
     {
-      "id": 1163814566,
-      "full_name": "nextlevelbuilder/goclaw",
-      "html_url": "https://github.com/nextlevelbuilder/goclaw",
-      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
-      "stars": 3440,
-      "forks": 973,
-      "language": "Go",
-      "pushed_at": "2026-07-15T10:02:41Z",
-      "updated_at": "2026-07-15T09:54:56Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1137,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-15T10:05:55Z",
-      "updated_at": "2026-07-15T10:05:58Z"
-    },
-    {
-      "id": 192416575,
-      "full_name": "minthcm/minthcm",
-      "html_url": "https://github.com/minthcm/minthcm",
-      "description": "Open-source HCM system for managing HR processes with AI agents. Full data ownership, MCP/A2A-native, no vendor lock-in.",
-      "stars": 378,
-      "forks": 79,
-      "language": "PHP",
-      "pushed_at": "2026-07-15T09:50:53Z",
-      "updated_at": "2026-07-15T09:51:26Z"
-    },
-    {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 267,
-      "forks": 80,
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
+      "stars": 657,
+      "forks": 51,
       "language": "Python",
-      "pushed_at": "2026-07-15T09:55:50Z",
-      "updated_at": "2026-07-15T09:55:56Z"
+      "pushed_at": "2026-07-15T13:42:40Z",
+      "updated_at": "2026-07-15T13:44:40Z"
     },
     {
-      "id": 1293051640,
-      "full_name": "Moore-developers/moore-wechat-article-downloader",
-      "html_url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
-      "description": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
-      "stars": 263,
-      "forks": 39,
+      "id": 1227341286,
+      "full_name": "worldwonderer/video-recap-skills",
+      "html_url": "https://github.com/worldwonderer/video-recap-skills",
+      "description": "Clip any video into a narration recap with claude code skill｜用claude code skill把任何视频剪辑成中文解说视频，支持剪映导出",
+      "stars": 390,
+      "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-15T10:06:34Z",
-      "updated_at": "2026-07-15T10:06:38Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 260,
-      "forks": 439,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-15T09:53:16Z",
-      "updated_at": "2026-07-15T09:53:19Z"
+      "pushed_at": "2026-07-15T13:42:04Z",
+      "updated_at": "2026-07-15T13:43:33Z"
     },
     {
       "id": 1160004652,
@@ -158,19 +169,8 @@
       "stars": 161,
       "forks": 13,
       "language": "Python",
-      "pushed_at": "2026-07-15T10:05:25Z",
-      "updated_at": "2026-07-15T10:05:29Z"
-    },
-    {
-      "id": 1226657790,
-      "full_name": "Joanium/Joanium",
-      "html_url": "https://github.com/Joanium/Joanium",
-      "description": "Your smart, reliable, and friendly personal AI assistant.",
-      "stars": 160,
-      "forks": 23,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-15T09:53:54Z",
-      "updated_at": "2026-07-15T09:54:12Z"
+      "pushed_at": "2026-07-15T13:29:19Z",
+      "updated_at": "2026-07-15T13:29:37Z"
     }
   ]
 }
