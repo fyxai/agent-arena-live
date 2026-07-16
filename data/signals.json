@@ -12,66 +12,44 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 215889,
-      "forks": 40301,
+      "stars": 215942,
+      "forks": 40332,
       "language": "Python",
-      "pushed_at": "2026-07-16T17:18:30Z",
-      "updated_at": "2026-07-16T17:20:04Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48663,
-      "forks": 4620,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-16T17:15:55Z",
-      "updated_at": "2026-07-16T17:19:14Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23289,
-      "forks": 3925,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-16T17:09:19Z",
-      "updated_at": "2026-07-16T17:09:31Z"
+      "pushed_at": "2026-07-16T21:02:21Z",
+      "updated_at": "2026-07-16T20:55:03Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "stars": 19937,
-      "forks": 1307,
+      "stars": 19950,
+      "forks": 1310,
       "language": "HTML",
-      "pushed_at": "2026-07-16T17:18:42Z",
-      "updated_at": "2026-07-16T17:14:07Z"
+      "pushed_at": "2026-07-16T20:18:44Z",
+      "updated_at": "2026-07-16T21:00:59Z"
     },
     {
-      "id": 813564769,
-      "full_name": "clidey/whodb",
-      "html_url": "https://github.com/clidey/whodb",
-      "description": "Where data access meets operational intelligence",
-      "stars": 4927,
-      "forks": 221,
-      "language": "Go",
-      "pushed_at": "2026-07-16T17:04:05Z",
-      "updated_at": "2026-07-16T17:04:22Z"
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 18077,
+      "forks": 1657,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-16T20:48:00Z",
+      "updated_at": "2026-07-16T20:57:45Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3314,
-      "forks": 665,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 7381,
+      "forks": 1040,
       "language": "Python",
-      "pushed_at": "2026-07-16T17:21:05Z",
-      "updated_at": "2026-07-16T17:20:07Z"
+      "pushed_at": "2026-07-16T20:56:52Z",
+      "updated_at": "2026-07-16T21:00:40Z"
     },
     {
       "id": 220867748,
@@ -81,8 +59,52 @@
       "stars": 3234,
       "forks": 218,
       "language": "JavaScript",
-      "pushed_at": "2026-07-16T17:22:51Z",
-      "updated_at": "2026-07-16T17:12:13Z"
+      "pushed_at": "2026-07-16T21:01:46Z",
+      "updated_at": "2026-07-16T20:54:43Z"
+    },
+    {
+      "id": 114540126,
+      "full_name": "SciSharp/BotSharp",
+      "html_url": "https://github.com/SciSharp/BotSharp",
+      "description": "AI Multi-Agent Framework in .NET",
+      "stars": 3084,
+      "forks": 642,
+      "language": "C#",
+      "pushed_at": "2026-07-16T20:57:39Z",
+      "updated_at": "2026-07-16T20:57:48Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1137,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-16T21:02:27Z",
+      "updated_at": "2026-07-16T20:54:43Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1129,
+      "forks": 207,
+      "language": "Go",
+      "pushed_at": "2026-07-16T20:53:01Z",
+      "updated_at": "2026-07-16T20:53:08Z"
+    },
+    {
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 260K LoC pure Python. Up to 200X Cost Saving!",
+      "stars": 813,
+      "forks": 145,
+      "language": "Python",
+      "pushed_at": "2026-07-16T20:24:51Z",
+      "updated_at": "2026-07-16T20:24:46Z"
     },
     {
       "id": 591995344,
@@ -92,19 +114,8 @@
       "stars": 788,
       "forks": 81,
       "language": "Python",
-      "pushed_at": "2026-07-16T17:21:40Z",
-      "updated_at": "2026-07-16T17:21:53Z"
-    },
-    {
-      "id": 1291242597,
-      "full_name": "ronak-create/FableCut",
-      "html_url": "https://github.com/ronak-create/FableCut",
-      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "stars": 460,
-      "forks": 43,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-16T17:21:41Z",
-      "updated_at": "2026-07-16T17:22:09Z"
+      "pushed_at": "2026-07-16T20:49:37Z",
+      "updated_at": "2026-07-16T20:49:43Z"
     },
     {
       "id": 1194576770,
@@ -112,65 +123,54 @@
       "html_url": "https://github.com/sonichi/sutando",
       "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
       "stars": 353,
-      "forks": 72,
+      "forks": 74,
       "language": "Python",
-      "pushed_at": "2026-07-16T17:22:15Z",
-      "updated_at": "2026-07-16T17:22:36Z"
+      "pushed_at": "2026-07-16T20:31:10Z",
+      "updated_at": "2026-07-16T20:31:23Z"
     },
     {
-      "id": 1191737450,
-      "full_name": "xiaojilele-glitch/WhyBuddy",
-      "html_url": "https://github.com/xiaojilele-glitch/WhyBuddy",
-      "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. 简洁通用的产品推演引擎，推演万物。",
-      "stars": 351,
-      "forks": 61,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-16T17:06:02Z",
-      "updated_at": "2026-07-16T17:07:10Z"
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 153,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-16T20:53:46Z",
+      "updated_at": "2026-07-16T20:53:50Z"
     },
     {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 285,
-      "forks": 81,
-      "language": "Python",
-      "pushed_at": "2026-07-16T17:09:31Z",
-      "updated_at": "2026-07-16T17:09:50Z"
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 151,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-16T21:03:55Z",
+      "updated_at": "2026-07-16T21:04:00Z"
     },
     {
-      "id": 1247095976,
-      "full_name": "microsoft/SwiftStreamingMarkdown",
-      "html_url": "https://github.com/microsoft/SwiftStreamingMarkdown",
-      "description": "A performant markdown library for iOS & macOS that supports streaming",
-      "stars": 277,
+      "id": 1279470595,
+      "full_name": "cynative/cynative",
+      "html_url": "https://github.com/cynative/cynative",
+      "description": "Deep cybersecurity research agent for your cloud, code and runtime - ask your infrastructure anything. Read-only, sandboxed.",
+      "stars": 124,
       "forks": 24,
-      "language": "Swift",
-      "pushed_at": "2026-07-16T17:17:47Z",
-      "updated_at": "2026-07-16T17:17:06Z"
+      "language": "Go",
+      "pushed_at": "2026-07-16T20:48:44Z",
+      "updated_at": "2026-07-16T20:49:13Z"
     },
     {
-      "id": 1148233533,
-      "full_name": "sepivip/SeekerClaw",
-      "html_url": "https://github.com/sepivip/SeekerClaw",
-      "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
-      "stars": 267,
-      "forks": 63,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-16T17:06:16Z",
-      "updated_at": "2026-07-16T17:06:32Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 261,
-      "forks": 441,
+      "id": 1150677698,
+      "full_name": "joshuaswarren/remnic",
+      "html_url": "https://github.com/joshuaswarren/remnic",
+      "description": "Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access.",
+      "stars": 111,
+      "forks": 16,
       "language": "TypeScript",
-      "pushed_at": "2026-07-16T17:13:45Z",
-      "updated_at": "2026-07-16T17:14:35Z"
+      "pushed_at": "2026-07-16T21:03:21Z",
+      "updated_at": "2026-07-16T21:01:35Z"
     }
   ]
 }
