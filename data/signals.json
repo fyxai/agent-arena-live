@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1120,
+  "total_found": 1121,
   "items": [
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23363,
-      "forks": 2772,
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
+      "stars": 60431,
+      "forks": 11891,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-18T05:45:44Z",
+      "updated_at": "2026-07-18T05:34:25Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 48707,
+      "forks": 4628,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T02:37:20Z",
-      "updated_at": "2026-07-18T02:36:43Z"
+      "pushed_at": "2026-07-18T05:57:54Z",
+      "updated_at": "2026-07-18T06:07:32Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20051,
-      "forks": 1324,
-      "language": "HTML",
-      "pushed_at": "2026-07-18T02:15:44Z",
-      "updated_at": "2026-07-18T02:48:05Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-studio",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 9254,
-      "forks": 1145,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 36127,
+      "forks": 4452,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T02:18:43Z",
-      "updated_at": "2026-07-18T02:48:08Z"
-    },
-    {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 7428,
-      "forks": 1060,
-      "language": "Python",
-      "pushed_at": "2026-07-18T02:47:14Z",
-      "updated_at": "2026-07-18T02:47:19Z"
+      "pushed_at": "2026-07-18T05:45:35Z",
+      "updated_at": "2026-07-18T05:45:38Z"
     },
     {
       "id": 1229284184,
       "full_name": "WenyuChiou/awesome-agentic-ai-zh",
       "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
       "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
-      "stars": 4602,
-      "forks": 599,
+      "stars": 4603,
+      "forks": 600,
       "language": "Python",
-      "pushed_at": "2026-07-18T02:21:41Z",
-      "updated_at": "2026-07-18T02:21:47Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3337,
-      "forks": 669,
-      "language": "Python",
-      "pushed_at": "2026-07-18T02:48:48Z",
-      "updated_at": "2026-07-18T02:48:14Z"
+      "pushed_at": "2026-07-18T05:36:36Z",
+      "updated_at": "2026-07-18T05:58:22Z"
     },
     {
       "id": 220867748,
@@ -81,19 +59,63 @@
       "stars": 3236,
       "forks": 218,
       "language": "JavaScript",
-      "pushed_at": "2026-07-18T02:46:12Z",
-      "updated_at": "2026-07-18T02:46:05Z"
+      "pushed_at": "2026-07-18T06:06:29Z",
+      "updated_at": "2026-07-18T06:06:29Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2425,
-      "forks": 422,
+      "id": 1053118194,
+      "full_name": "bojieli/ai-agent-book",
+      "html_url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 2516,
+      "forks": 276,
+      "language": "Python",
+      "pushed_at": "2026-07-18T06:05:24Z",
+      "updated_at": "2026-07-18T06:07:01Z"
+    },
+    {
+      "id": 1186842622,
+      "full_name": "Paca-AI/paca",
+      "html_url": "https://github.com/Paca-AI/paca",
+      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
+      "stars": 1611,
+      "forks": 110,
+      "language": "Go",
+      "pushed_at": "2026-07-18T06:01:36Z",
+      "updated_at": "2026-07-18T06:07:48Z"
+    },
+    {
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
+      "stars": 1418,
+      "forks": 86,
+      "language": "Python",
+      "pushed_at": "2026-07-18T05:52:56Z",
+      "updated_at": "2026-07-18T05:52:59Z"
+    },
+    {
+      "id": 1099636778,
+      "full_name": "study8677/repobrain",
+      "html_url": "https://github.com/study8677/repobrain",
+      "description": "🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more.",
+      "stars": 1295,
+      "forks": 259,
+      "language": "Python",
+      "pushed_at": "2026-07-18T05:35:44Z",
+      "updated_at": "2026-07-18T05:35:42Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1137,
+      "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T02:41:57Z",
-      "updated_at": "2026-07-18T02:42:01Z"
+      "pushed_at": "2026-07-18T06:07:03Z",
+      "updated_at": "2026-07-18T06:07:08Z"
     },
     {
       "id": 960549454,
@@ -103,63 +125,41 @@
       "stars": 829,
       "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T02:46:44Z",
-      "updated_at": "2026-07-18T02:46:48Z"
+      "pushed_at": "2026-07-18T05:48:54Z",
+      "updated_at": "2026-07-18T05:48:57Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 788,
-      "forks": 81,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 390,
+      "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-18T02:42:44Z",
-      "updated_at": "2026-07-18T02:42:48Z"
+      "pushed_at": "2026-07-18T06:05:45Z",
+      "updated_at": "2026-07-18T06:05:36Z"
     },
     {
-      "id": 1117896698,
-      "full_name": "tony1223/better-agent-terminal",
-      "html_url": "https://github.com/tony1223/better-agent-terminal",
-      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
-      "stars": 437,
-      "forks": 103,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T02:38:52Z",
-      "updated_at": "2026-07-18T02:38:23Z"
-    },
-    {
-      "id": 1207661371,
-      "full_name": "shihuili1218/rssh",
-      "html_url": "https://github.com/shihuili1218/rssh",
-      "description": "The SSH client built to be an AI ops copilot · 为 AI 运维而生的 SSH 客户端(macOS/Windows/Linux/Android)",
-      "stars": 428,
-      "forks": 37,
-      "language": "Rust",
-      "pushed_at": "2026-07-18T02:23:03Z",
-      "updated_at": "2026-07-18T02:23:07Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 353,
-      "forks": 74,
+      "id": 1190546286,
+      "full_name": "42-evey/hermes-plugins",
+      "html_url": "https://github.com/42-evey/hermes-plugins",
+      "description": "Custom plugins for hermes-agent — goal management, inter-agent bridge, model selection, cost control",
+      "stars": 277,
+      "forks": 32,
       "language": "Python",
-      "pushed_at": "2026-07-18T02:21:46Z",
-      "updated_at": "2026-07-18T02:21:51Z"
+      "pushed_at": "2026-07-18T05:50:32Z",
+      "updated_at": "2026-07-18T05:50:36Z"
     },
     {
-      "id": 1239048160,
-      "full_name": "linghungegeg/Linghun",
-      "html_url": "https://github.com/linghungegeg/Linghun",
-      "description": "AGI-oriented, hallucination-resistant AI coding runtime grounded in evidence, tools, memory, agents, and verification.",
-      "stars": 333,
-      "forks": 27,
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 266,
+      "forks": 449,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T02:48:54Z",
-      "updated_at": "2026-07-18T02:48:58Z"
+      "pushed_at": "2026-07-18T05:42:51Z",
+      "updated_at": "2026-07-18T05:42:55Z"
     },
     {
       "id": 719577983,
@@ -169,8 +169,8 @@
       "stars": 249,
       "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T02:47:35Z",
-      "updated_at": "2026-07-18T02:47:07Z"
+      "pushed_at": "2026-07-18T06:02:05Z",
+      "updated_at": "2026-07-18T06:01:49Z"
     }
   ]
 }
