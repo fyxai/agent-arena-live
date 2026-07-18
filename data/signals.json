@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1121,
+  "total_found": 1123,
   "items": [
     {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
-      "stars": 60431,
-      "forks": 11891,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-18T05:45:44Z",
-      "updated_at": "2026-07-18T05:34:25Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48707,
-      "forks": 4628,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T05:57:54Z",
-      "updated_at": "2026-07-18T06:07:32Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 36127,
-      "forks": 4452,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T05:45:35Z",
-      "updated_at": "2026-07-18T05:45:38Z"
-    },
-    {
-      "id": 1229284184,
-      "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-      "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
-      "stars": 4603,
-      "forks": 600,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 216611,
+      "forks": 40617,
       "language": "Python",
-      "pushed_at": "2026-07-18T05:36:36Z",
-      "updated_at": "2026-07-18T05:58:22Z"
+      "pushed_at": "2026-07-18T09:32:33Z",
+      "updated_at": "2026-07-18T09:31:33Z"
+    },
+    {
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 45838,
+      "forks": 8096,
+      "language": "Python",
+      "pushed_at": "2026-07-18T09:37:07Z",
+      "updated_at": "2026-07-18T09:37:12Z"
+    },
+    {
+      "id": 560299175,
+      "full_name": "teableio/teable",
+      "html_url": "https://github.com/teableio/teable",
+      "description": "✨ AI Spreadsheet for Business",
+      "stars": 21503,
+      "forks": 1299,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T09:32:49Z",
+      "updated_at": "2026-07-18T09:35:05Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 20085,
+      "forks": 1328,
+      "language": "HTML",
+      "pushed_at": "2026-07-18T09:22:07Z",
+      "updated_at": "2026-07-18T09:29:42Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 18273,
+      "forks": 1691,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T09:17:59Z",
+      "updated_at": "2026-07-18T09:28:14Z"
     },
     {
       "id": 220867748,
@@ -57,76 +68,76 @@
       "html_url": "https://github.com/neomjs/neo",
       "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
       "stars": 3236,
-      "forks": 218,
+      "forks": 219,
       "language": "JavaScript",
-      "pushed_at": "2026-07-18T06:06:29Z",
-      "updated_at": "2026-07-18T06:06:29Z"
+      "pushed_at": "2026-07-18T09:34:32Z",
+      "updated_at": "2026-07-18T09:28:48Z"
     },
     {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 2516,
-      "forks": 276,
+      "id": 1187014628,
+      "full_name": "can4hou6joeng4/boss-agent-cli",
+      "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
+      "description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.",
+      "stars": 1396,
+      "forks": 111,
       "language": "Python",
-      "pushed_at": "2026-07-18T06:05:24Z",
-      "updated_at": "2026-07-18T06:07:01Z"
-    },
-    {
-      "id": 1186842622,
-      "full_name": "Paca-AI/paca",
-      "html_url": "https://github.com/Paca-AI/paca",
-      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
-      "stars": 1611,
-      "forks": 110,
-      "language": "Go",
-      "pushed_at": "2026-07-18T06:01:36Z",
-      "updated_at": "2026-07-18T06:07:48Z"
-    },
-    {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
-      "stars": 1418,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-07-18T05:52:56Z",
-      "updated_at": "2026-07-18T05:52:59Z"
-    },
-    {
-      "id": 1099636778,
-      "full_name": "study8677/repobrain",
-      "html_url": "https://github.com/study8677/repobrain",
-      "description": "🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more.",
-      "stars": 1295,
-      "forks": 259,
-      "language": "Python",
-      "pushed_at": "2026-07-18T05:35:44Z",
-      "updated_at": "2026-07-18T05:35:42Z"
+      "pushed_at": "2026-07-18T09:29:48Z",
+      "updated_at": "2026-07-18T09:30:15Z"
     },
     {
       "id": 1096175506,
       "full_name": "vm0-ai/vm0",
       "html_url": "https://github.com/vm0-ai/vm0",
       "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1137,
+      "stars": 1138,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T06:07:03Z",
-      "updated_at": "2026-07-18T06:07:08Z"
+      "pushed_at": "2026-07-18T09:33:59Z",
+      "updated_at": "2026-07-18T09:26:01Z"
     },
     {
-      "id": 960549454,
-      "full_name": "SylphxAI/pdf-reader-mcp",
-      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
-      "description": "📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, VS Code, and any MCP client.",
-      "stars": 829,
-      "forks": 71,
+      "id": 1245256564,
+      "full_name": "Eynzof/Hermes-CN-Desktop",
+      "html_url": "https://github.com/Eynzof/Hermes-CN-Desktop",
+      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
+      "stars": 1015,
+      "forks": 41,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T05:48:54Z",
-      "updated_at": "2026-07-18T05:48:57Z"
+      "pushed_at": "2026-07-18T09:27:05Z",
+      "updated_at": "2026-07-18T09:27:08Z"
+    },
+    {
+      "id": 1152181595,
+      "full_name": "xvirobotics/metabot",
+      "html_url": "https://github.com/xvirobotics/metabot",
+      "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。",
+      "stars": 919,
+      "forks": 146,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T09:31:36Z",
+      "updated_at": "2026-07-18T09:31:35Z"
+    },
+    {
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 614,
+      "forks": 38,
+      "language": "ReScript",
+      "pushed_at": "2026-07-18T09:34:00Z",
+      "updated_at": "2026-07-18T09:30:06Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 528,
+      "forks": 83,
+      "language": "Go",
+      "pushed_at": "2026-07-18T09:14:08Z",
+      "updated_at": "2026-07-18T09:06:58Z"
     },
     {
       "id": 1156882085,
@@ -136,41 +147,30 @@
       "stars": 390,
       "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-18T06:05:45Z",
-      "updated_at": "2026-07-18T06:05:36Z"
+      "pushed_at": "2026-07-18T09:30:19Z",
+      "updated_at": "2026-07-18T09:08:43Z"
     },
     {
-      "id": 1190546286,
-      "full_name": "42-evey/hermes-plugins",
-      "html_url": "https://github.com/42-evey/hermes-plugins",
-      "description": "Custom plugins for hermes-agent — goal management, inter-agent bridge, model selection, cost control",
-      "stars": 277,
-      "forks": 32,
+      "id": 1224734286,
+      "full_name": "Ikalus1988/MisakaNet",
+      "html_url": "https://github.com/Ikalus1988/MisakaNet",
+      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+      "stars": 307,
+      "forks": 85,
       "language": "Python",
-      "pushed_at": "2026-07-18T05:50:32Z",
-      "updated_at": "2026-07-18T05:50:36Z"
+      "pushed_at": "2026-07-18T09:12:50Z",
+      "updated_at": "2026-07-18T09:12:58Z"
     },
     {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 266,
-      "forks": 449,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T05:42:51Z",
-      "updated_at": "2026-07-18T05:42:55Z"
-    },
-    {
-      "id": 719577983,
-      "full_name": "chmonitor/chmonitor",
-      "html_url": "https://github.com/chmonitor/chmonitor",
-      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. Self-host or use the cloud.",
-      "stars": 249,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T06:02:05Z",
-      "updated_at": "2026-07-18T06:01:49Z"
+      "id": 1174756063,
+      "full_name": "bitrouter/bitrouter",
+      "html_url": "https://github.com/bitrouter/bitrouter",
+      "description": "The self-improving LLM router that optimize your agentic workflows with every runs, works with any harnesses, any models, any loops.",
+      "stars": 206,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-07-18T09:35:20Z",
+      "updated_at": "2026-07-18T09:24:53Z"
     }
   ]
 }
