@@ -5,128 +5,150 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1123,
+  "total_found": 1126,
   "items": [
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 30372,
-      "forks": 3041,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:57:47Z",
-      "updated_at": "2026-07-18T13:05:24Z"
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 45857,
+      "forks": 8102,
+      "language": "Python",
+      "pushed_at": "2026-07-18T16:57:55Z",
+      "updated_at": "2026-07-18T16:59:47Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20103,
-      "forks": 1330,
+      "stars": 20122,
+      "forks": 1332,
       "language": "HTML",
-      "pushed_at": "2026-07-18T13:23:17Z",
-      "updated_at": "2026-07-18T13:15:41Z"
+      "pushed_at": "2026-07-18T16:56:15Z",
+      "updated_at": "2026-07-18T16:51:19Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 18290,
-      "forks": 1692,
+      "stars": 18324,
+      "forks": 1695,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T13:04:19Z",
-      "updated_at": "2026-07-18T13:18:46Z"
+      "pushed_at": "2026-07-18T16:58:09Z",
+      "updated_at": "2026-07-18T16:57:32Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4965,
-      "forks": 496,
+      "stars": 4970,
+      "forks": 497,
       "language": "Python",
-      "pushed_at": "2026-07-18T13:23:26Z",
-      "updated_at": "2026-07-18T13:18:44Z"
+      "pushed_at": "2026-07-18T16:55:15Z",
+      "updated_at": "2026-07-18T16:50:16Z"
     },
     {
-      "id": 1122859216,
-      "full_name": "the-open-engine/zeroshot",
-      "html_url": "https://github.com/the-open-engine/zeroshot",
-      "description": "Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI with trivial setup.",
-      "stars": 1651,
-      "forks": 141,
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3236,
+      "forks": 219,
       "language": "JavaScript",
-      "pushed_at": "2026-07-18T13:08:33Z",
-      "updated_at": "2026-07-18T13:00:36Z"
+      "pushed_at": "2026-07-18T16:50:43Z",
+      "updated_at": "2026-07-18T16:50:43Z"
     },
     {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team.",
-      "stars": 1229,
-      "forks": 203,
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
+      "stars": 1422,
+      "forks": 86,
+      "language": "Python",
+      "pushed_at": "2026-07-18T16:54:29Z",
+      "updated_at": "2026-07-18T16:54:34Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1139,
+      "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:54:36Z",
-      "updated_at": "2026-07-18T13:13:17Z"
+      "pushed_at": "2026-07-18T17:00:48Z",
+      "updated_at": "2026-07-18T17:00:53Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 541,
-      "forks": 44,
-      "language": "Go",
-      "pushed_at": "2026-07-18T13:04:30Z",
-      "updated_at": "2026-07-18T13:04:44Z"
-    },
-    {
-      "id": 1163756223,
-      "full_name": "mlhher/late-cli",
-      "html_url": "https://github.com/mlhher/late-cli",
-      "description": "Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Claude and Kimi K3.",
-      "stars": 380,
-      "forks": 37,
-      "language": "Go",
-      "pushed_at": "2026-07-18T13:17:58Z",
-      "updated_at": "2026-07-18T13:17:28Z"
-    },
-    {
-      "id": 1257915692,
-      "full_name": "xevrion-v2/agent-playground",
-      "html_url": "https://github.com/xevrion-v2/agent-playground",
-      "description": "",
-      "stars": 266,
-      "forks": 449,
+      "id": 1188475888,
+      "full_name": "BlockRunAI/Franklin",
+      "html_url": "https://github.com/BlockRunAI/Franklin",
+      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+      "stars": 624,
+      "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T13:21:22Z",
-      "updated_at": "2026-07-18T13:21:37Z"
+      "pushed_at": "2026-07-18T17:01:30Z",
+      "updated_at": "2026-07-18T17:01:23Z"
     },
     {
-      "id": 1174756063,
-      "full_name": "bitrouter/bitrouter",
-      "html_url": "https://github.com/bitrouter/bitrouter",
-      "description": "The self-improving LLM router that optimize your agentic workflows with every runs, works with any harnesses, any models, any loops.",
-      "stars": 206,
-      "forks": 13,
-      "language": "Rust",
-      "pushed_at": "2026-07-18T13:11:34Z",
-      "updated_at": "2026-07-18T12:58:06Z"
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 353,
+      "forks": 74,
+      "language": "Python",
+      "pushed_at": "2026-07-18T16:52:12Z",
+      "updated_at": "2026-07-18T16:45:21Z"
     },
     {
-      "id": 1156623779,
-      "full_name": "dcostenco/prism-coder",
-      "html_url": "https://github.com/dcostenco/prism-coder",
-      "description": "Persistent memory + local AI for coding agents. 2B–27B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
-      "stars": 155,
-      "forks": 24,
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
+      "stars": 348,
+      "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T12:51:11Z",
-      "updated_at": "2026-07-18T12:51:18Z"
+      "pushed_at": "2026-07-18T17:01:11Z",
+      "updated_at": "2026-07-18T17:01:21Z"
+    },
+    {
+      "id": 1224734286,
+      "full_name": "Ikalus1988/MisakaNet",
+      "html_url": "https://github.com/Ikalus1988/MisakaNet",
+      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+      "stars": 311,
+      "forks": 85,
+      "language": "Python",
+      "pushed_at": "2026-07-18T17:00:34Z",
+      "updated_at": "2026-07-18T17:01:50Z"
+    },
+    {
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 268,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T16:54:13Z",
+      "updated_at": "2026-07-18T16:54:20Z"
+    },
+    {
+      "id": 1154718152,
+      "full_name": "Peiiii/nextclaw",
+      "html_url": "https://github.com/Peiiii/nextclaw",
+      "description": "Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.",
+      "stars": 225,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-18T16:56:38Z",
+      "updated_at": "2026-07-18T16:53:20Z"
     },
     {
       "id": 1283015427,
@@ -136,8 +158,8 @@
       "stars": 153,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-18T13:22:42Z",
-      "updated_at": "2026-07-18T13:22:48Z"
+      "pushed_at": "2026-07-18T16:53:26Z",
+      "updated_at": "2026-07-18T16:53:30Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +169,8 @@
       "stars": 151,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-18T13:01:40Z",
-      "updated_at": "2026-07-18T13:02:05Z"
-    },
-    {
-      "id": 1169289143,
-      "full_name": "Bande-a-Bonnot/Boucle-framework",
-      "html_url": "https://github.com/Bande-a-Bonnot/Boucle-framework",
-      "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
-      "stars": 116,
-      "forks": 9,
-      "language": "Shell",
-      "pushed_at": "2026-07-18T13:20:33Z",
-      "updated_at": "2026-07-18T13:20:36Z"
-    },
-    {
-      "id": 1276001351,
-      "full_name": "gintasz/unigent",
-      "html_url": "https://github.com/gintasz/unigent",
-      "description": "Build stateful agent workflows with typed outputs, reusable tools, session forks, and ordinary TypeScript.",
-      "stars": 102,
-      "forks": 0,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T13:09:39Z",
-      "updated_at": "2026-07-18T13:09:30Z"
+      "pushed_at": "2026-07-18T16:51:03Z",
+      "updated_at": "2026-07-18T16:51:07Z"
     }
   ]
 }
