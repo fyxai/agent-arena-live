@@ -5,51 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1126,
+  "total_found": 1125,
   "items": [
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 45857,
-      "forks": 8102,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 216812,
+      "forks": 40708,
       "language": "Python",
-      "pushed_at": "2026-07-18T16:57:55Z",
-      "updated_at": "2026-07-18T16:59:47Z"
+      "pushed_at": "2026-07-18T20:39:27Z",
+      "updated_at": "2026-07-18T20:40:12Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20122,
+      "stars": 20131,
       "forks": 1332,
       "language": "HTML",
-      "pushed_at": "2026-07-18T16:56:15Z",
-      "updated_at": "2026-07-18T16:51:19Z"
+      "pushed_at": "2026-07-18T20:46:35Z",
+      "updated_at": "2026-07-18T20:51:48Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 18324,
-      "forks": 1695,
+      "stars": 18343,
+      "forks": 1699,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T16:58:09Z",
-      "updated_at": "2026-07-18T16:57:32Z"
+      "pushed_at": "2026-07-18T20:20:58Z",
+      "updated_at": "2026-07-18T20:31:55Z"
+    },
+    {
+      "id": 1128204614,
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 8522,
+      "forks": 977,
+      "language": "Rust",
+      "pushed_at": "2026-07-18T20:34:05Z",
+      "updated_at": "2026-07-18T20:55:02Z"
     },
     {
       "id": 1133901637,
       "full_name": "Q00/ouroboros",
       "html_url": "https://github.com/Q00/ouroboros",
       "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 4970,
+      "stars": 4972,
       "forks": 497,
       "language": "Python",
-      "pushed_at": "2026-07-18T16:55:15Z",
-      "updated_at": "2026-07-18T16:50:16Z"
+      "pushed_at": "2026-07-18T20:54:45Z",
+      "updated_at": "2026-07-18T20:47:08Z"
     },
     {
       "id": 220867748,
@@ -57,10 +68,10 @@
       "html_url": "https://github.com/neomjs/neo",
       "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
       "stars": 3236,
-      "forks": 219,
+      "forks": 220,
       "language": "JavaScript",
-      "pushed_at": "2026-07-18T16:50:43Z",
-      "updated_at": "2026-07-18T16:50:43Z"
+      "pushed_at": "2026-07-18T20:45:49Z",
+      "updated_at": "2026-07-18T20:30:55Z"
     },
     {
       "id": 1175278883,
@@ -70,8 +81,8 @@
       "stars": 1422,
       "forks": 86,
       "language": "Python",
-      "pushed_at": "2026-07-18T16:54:29Z",
-      "updated_at": "2026-07-18T16:54:34Z"
+      "pushed_at": "2026-07-18T20:17:08Z",
+      "updated_at": "2026-07-18T20:17:15Z"
     },
     {
       "id": 1096175506,
@@ -81,52 +92,41 @@
       "stars": 1139,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T17:00:48Z",
-      "updated_at": "2026-07-18T17:00:53Z"
+      "pushed_at": "2026-07-18T20:53:26Z",
+      "updated_at": "2026-07-18T20:48:31Z"
     },
     {
-      "id": 1188475888,
-      "full_name": "BlockRunAI/Franklin",
-      "html_url": "https://github.com/BlockRunAI/Franklin",
-      "description": "The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-      "stars": 624,
-      "forks": 52,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-18T17:01:30Z",
-      "updated_at": "2026-07-18T17:01:23Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 353,
-      "forks": 74,
-      "language": "Python",
-      "pushed_at": "2026-07-18T16:52:12Z",
-      "updated_at": "2026-07-18T16:45:21Z"
-    },
-    {
-      "id": 1228890794,
-      "full_name": "aqm857886159/Nomi",
-      "html_url": "https://github.com/aqm857886159/Nomi",
-      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
-      "stars": 348,
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, VS Code, and any MCP client.",
+      "stars": 829,
       "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T17:01:11Z",
-      "updated_at": "2026-07-18T17:01:21Z"
+      "pushed_at": "2026-07-18T20:47:56Z",
+      "updated_at": "2026-07-18T20:47:59Z"
     },
     {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 311,
-      "forks": 85,
-      "language": "Python",
-      "pushed_at": "2026-07-18T17:00:34Z",
-      "updated_at": "2026-07-18T17:01:50Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 532,
+      "forks": 86,
+      "language": "Go",
+      "pushed_at": "2026-07-18T20:23:40Z",
+      "updated_at": "2026-07-18T20:23:42Z"
+    },
+    {
+      "id": 1132275655,
+      "full_name": "cordum-io/cordum",
+      "html_url": "https://github.com/cordum-io/cordum",
+      "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, and production changes, with auditable evidence.",
+      "stars": 490,
+      "forks": 29,
+      "language": "Go",
+      "pushed_at": "2026-07-18T20:53:21Z",
+      "updated_at": "2026-07-18T20:53:25Z"
     },
     {
       "id": 1174812893,
@@ -136,41 +136,41 @@
       "stars": 268,
       "forks": 17,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T16:54:13Z",
-      "updated_at": "2026-07-18T16:54:20Z"
+      "pushed_at": "2026-07-18T20:14:56Z",
+      "updated_at": "2026-07-18T20:15:02Z"
     },
     {
-      "id": 1154718152,
-      "full_name": "Peiiii/nextclaw",
-      "html_url": "https://github.com/Peiiii/nextclaw",
-      "description": "Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.",
-      "stars": 225,
-      "forks": 33,
+      "id": 719577983,
+      "full_name": "chmonitor/chmonitor",
+      "html_url": "https://github.com/chmonitor/chmonitor",
+      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. Self-host or use the cloud.",
+      "stars": 250,
+      "forks": 40,
       "language": "TypeScript",
-      "pushed_at": "2026-07-18T16:56:38Z",
-      "updated_at": "2026-07-18T16:53:20Z"
+      "pushed_at": "2026-07-18T20:26:42Z",
+      "updated_at": "2026-07-18T20:26:45Z"
     },
     {
-      "id": 1283015427,
-      "full_name": "israriqbal/agent-ecologies",
-      "html_url": "https://github.com/israriqbal/agent-ecologies",
-      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-      "stars": 153,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-18T16:53:26Z",
-      "updated_at": "2026-07-18T16:53:30Z"
+      "id": 1174756063,
+      "full_name": "bitrouter/bitrouter",
+      "html_url": "https://github.com/bitrouter/bitrouter",
+      "description": "The self-improving LLM router that optimize your agentic workflows with every runs, works with any harnesses, any models, any loops.",
+      "stars": 206,
+      "forks": 13,
+      "language": "Rust",
+      "pushed_at": "2026-07-18T20:51:06Z",
+      "updated_at": "2026-07-18T20:36:57Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 151,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-07-18T16:51:03Z",
-      "updated_at": "2026-07-18T16:51:07Z"
+      "id": 1160004652,
+      "full_name": "kstevica/captain-claw",
+      "html_url": "https://github.com/kstevica/captain-claw",
+      "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
+      "stars": 161,
+      "forks": 13,
+      "language": "Python",
+      "pushed_at": "2026-07-18T20:36:02Z",
+      "updated_at": "2026-07-18T20:36:06Z"
     }
   ]
 }
