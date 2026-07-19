@@ -5,62 +5,51 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1130,
+  "total_found": 1131,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 217163,
-      "forks": 40860,
+      "stars": 217208,
+      "forks": 40881,
       "language": "Python",
-      "pushed_at": "2026-07-19T16:59:36Z",
-      "updated_at": "2026-07-19T16:59:24Z"
+      "pushed_at": "2026-07-19T20:52:35Z",
+      "updated_at": "2026-07-19T20:46:28Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 27316,
-      "forks": 1743,
-      "language": "Go",
-      "pushed_at": "2026-07-19T16:51:05Z",
-      "updated_at": "2026-07-19T16:50:32Z"
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 4987,
+      "forks": 500,
+      "language": "Python",
+      "pushed_at": "2026-07-19T20:52:39Z",
+      "updated_at": "2026-07-19T20:36:21Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23330,
-      "forks": 3934,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-19T16:57:07Z",
-      "updated_at": "2026-07-19T16:57:12Z"
-    },
-    {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20189,
-      "forks": 1339,
-      "language": "HTML",
-      "pushed_at": "2026-07-19T16:54:09Z",
-      "updated_at": "2026-07-19T16:56:28Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3238,
+      "forks": 220,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-19T20:55:32Z",
+      "updated_at": "2026-07-19T19:38:19Z"
     },
     {
       "id": 1175278883,
       "full_name": "whiteguo233/OpenBiliClaw",
       "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
       "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
-      "stars": 1434,
+      "stars": 1435,
       "forks": 88,
       "language": "Python",
-      "pushed_at": "2026-07-19T16:50:54Z",
-      "updated_at": "2026-07-19T16:50:12Z"
+      "pushed_at": "2026-07-19T20:50:42Z",
+      "updated_at": "2026-07-19T20:50:46Z"
     },
     {
       "id": 1096175506,
@@ -70,63 +59,85 @@
       "stars": 1138,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-19T16:57:50Z",
-      "updated_at": "2026-07-19T16:47:10Z"
+      "pushed_at": "2026-07-19T20:29:22Z",
+      "updated_at": "2026-07-19T20:29:25Z"
     },
     {
-      "id": 1252432466,
-      "full_name": "Gitlawb/zero",
-      "html_url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 1100,
-      "forks": 108,
+      "id": 1037868089,
+      "full_name": "best-of-ai/best-of-ai",
+      "html_url": "https://github.com/best-of-ai/best-of-ai",
+      "description": "A curated list of best ai tools",
+      "stars": 664,
+      "forks": 101,
+      "language": "HTML",
+      "pushed_at": "2026-07-19T19:51:35Z",
+      "updated_at": "2026-07-19T19:41:31Z"
+    },
+    {
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
+      "stars": 662,
+      "forks": 53,
+      "language": "Python",
+      "pushed_at": "2026-07-19T20:50:00Z",
+      "updated_at": "2026-07-19T20:27:12Z"
+    },
+    {
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 546,
+      "forks": 89,
       "language": "Go",
-      "pushed_at": "2026-07-19T16:43:59Z",
-      "updated_at": "2026-07-19T16:43:41Z"
+      "pushed_at": "2026-07-19T20:30:14Z",
+      "updated_at": "2026-07-19T20:30:19Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 270K LoC pure Python. Up to 200X Cost Saving!",
-      "stars": 812,
-      "forks": 145,
-      "language": "Python",
-      "pushed_at": "2026-07-19T16:24:31Z",
-      "updated_at": "2026-07-19T16:24:23Z"
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 541,
+      "forks": 44,
+      "language": "Go",
+      "pushed_at": "2026-07-19T20:25:32Z",
+      "updated_at": "2026-07-19T19:43:22Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 353,
-      "forks": 73,
-      "language": "Python",
-      "pushed_at": "2026-07-19T16:40:12Z",
-      "updated_at": "2026-07-19T16:39:26Z"
+      "id": 848182195,
+      "full_name": "Palm1r/QodeAssist",
+      "html_url": "https://github.com/Palm1r/QodeAssist",
+      "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+      "stars": 426,
+      "forks": 59,
+      "language": "C++",
+      "pushed_at": "2026-07-19T20:45:09Z",
+      "updated_at": "2026-07-19T20:45:09Z"
     },
     {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 269,
-      "forks": 17,
+      "id": 759567420,
+      "full_name": "nirholas/XActions",
+      "html_url": "https://github.com/nirholas/XActions",
+      "description": "⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API. Follow Bot. Like bot. Grow your account automatically. ",
+      "stars": 393,
+      "forks": 81,
+      "language": "HTML",
+      "pushed_at": "2026-07-19T20:54:14Z",
+      "updated_at": "2026-07-19T20:54:18Z"
+    },
+    {
+      "id": 1126779651,
+      "full_name": "nirholas/cryptocurrency.cv",
+      "html_url": "https://github.com/nirholas/cryptocurrency.cv",
+      "description": "Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source.",
+      "stars": 262,
+      "forks": 38,
       "language": "TypeScript",
-      "pushed_at": "2026-07-19T16:58:39Z",
-      "updated_at": "2026-07-19T16:47:36Z"
-    },
-    {
-      "id": 719577983,
-      "full_name": "chmonitor/chmonitor",
-      "html_url": "https://github.com/chmonitor/chmonitor",
-      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. Self-host or use the cloud.",
-      "stars": 250,
-      "forks": 40,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-19T16:37:23Z",
-      "updated_at": "2026-07-19T16:37:03Z"
+      "pushed_at": "2026-07-19T20:44:48Z",
+      "updated_at": "2026-07-19T20:44:52Z"
     },
     {
       "id": 1283015427,
@@ -136,8 +147,8 @@
       "stars": 153,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-07-19T16:54:15Z",
-      "updated_at": "2026-07-19T16:54:18Z"
+      "pushed_at": "2026-07-19T20:41:22Z",
+      "updated_at": "2026-07-19T20:41:26Z"
     },
     {
       "id": 1283323996,
@@ -147,30 +158,19 @@
       "stars": 152,
       "forks": 1,
       "language": "HTML",
-      "pushed_at": "2026-07-19T16:51:47Z",
-      "updated_at": "2026-07-19T16:51:50Z"
+      "pushed_at": "2026-07-19T20:07:35Z",
+      "updated_at": "2026-07-19T20:07:39Z"
     },
     {
-      "id": 1279470595,
-      "full_name": "cynative/cynative",
-      "html_url": "https://github.com/cynative/cynative",
-      "description": "Deep cybersecurity research agent for your cloud, code and runtime - ask your infrastructure anything. Read-only, sandboxed.",
-      "stars": 138,
-      "forks": 24,
-      "language": "Go",
-      "pushed_at": "2026-07-19T16:47:34Z",
-      "updated_at": "2026-07-19T16:47:39Z"
-    },
-    {
-      "id": 1150677698,
-      "full_name": "joshuaswarren/remnic",
-      "html_url": "https://github.com/joshuaswarren/remnic",
-      "description": "Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access.",
-      "stars": 117,
-      "forks": 18,
+      "id": 1157993273,
+      "full_name": "n1byn1kt/apitap",
+      "html_url": "https://github.com/n1byn1kt/apitap",
+      "description": "CLI, MCP server, and npm library that turns any website into an API — no docs, no SDK, no browser.",
+      "stars": 98,
+      "forks": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-07-19T17:01:28Z",
-      "updated_at": "2026-07-19T16:40:14Z"
+      "pushed_at": "2026-07-19T19:39:46Z",
+      "updated_at": "2026-07-19T20:48:39Z"
     }
   ]
 }
