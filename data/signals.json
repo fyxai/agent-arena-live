@@ -12,110 +12,110 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 217675,
-      "forks": 41038,
+      "stars": 217740,
+      "forks": 41059,
       "language": "Python",
-      "pushed_at": "2026-07-20T18:06:09Z",
-      "updated_at": "2026-07-20T18:01:44Z"
+      "pushed_at": "2026-07-20T21:14:27Z",
+      "updated_at": "2026-07-20T21:07:17Z"
     },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
-      "stars": 60708,
-      "forks": 11959,
+      "stars": 60723,
+      "forks": 11967,
       "language": "JavaScript",
-      "pushed_at": "2026-07-20T17:48:42Z",
-      "updated_at": "2026-07-20T18:05:21Z"
+      "pushed_at": "2026-07-20T21:08:00Z",
+      "updated_at": "2026-07-20T21:10:48Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 36175,
-      "forks": 4462,
+      "stars": 36176,
+      "forks": 4463,
       "language": "TypeScript",
-      "pushed_at": "2026-07-20T17:52:07Z",
-      "updated_at": "2026-07-20T17:52:12Z"
-    },
-    {
-      "id": 1181982220,
-      "full_name": "jackwener/OpenCLI",
-      "html_url": "https://github.com/jackwener/OpenCLI",
-      "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
-      "stars": 26992,
-      "forks": 2662,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-20T17:58:26Z",
-      "updated_at": "2026-07-20T17:59:07Z"
+      "pushed_at": "2026-07-20T21:03:29Z",
+      "updated_at": "2026-07-20T21:10:41Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20380,
-      "forks": 1360,
+      "stars": 20385,
+      "forks": 1361,
       "language": "HTML",
-      "pushed_at": "2026-07-20T18:02:24Z",
-      "updated_at": "2026-07-20T18:07:02Z"
+      "pushed_at": "2026-07-20T21:00:52Z",
+      "updated_at": "2026-07-20T21:03:06Z"
     },
     {
-      "id": 1199668171,
-      "full_name": "fathah/hermes-desktop",
-      "html_url": "https://github.com/fathah/hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "stars": 13461,
-      "forks": 1534,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 18658,
+      "forks": 1741,
       "language": "TypeScript",
-      "pushed_at": "2026-07-20T17:58:59Z",
-      "updated_at": "2026-07-20T18:00:46Z"
-    },
-    {
-      "id": 981177285,
-      "full_name": "presenton/presenton",
-      "html_url": "https://github.com/presenton/presenton",
-      "description": "Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)",
-      "stars": 9122,
-      "forks": 1427,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-20T17:53:37Z",
-      "updated_at": "2026-07-20T17:53:46Z"
+      "pushed_at": "2026-07-20T20:59:21Z",
+      "updated_at": "2026-07-20T20:59:55Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 7540,
-      "forks": 1076,
+      "stars": 7547,
+      "forks": 1079,
       "language": "Python",
-      "pushed_at": "2026-07-20T17:56:43Z",
-      "updated_at": "2026-07-20T17:57:11Z"
+      "pushed_at": "2026-07-20T21:12:46Z",
+      "updated_at": "2026-07-20T20:55:43Z"
     },
     {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
-      "stars": 1440,
-      "forks": 88,
-      "language": "Python",
-      "pushed_at": "2026-07-20T17:46:23Z",
-      "updated_at": "2026-07-20T17:46:56Z"
+      "id": 632871628,
+      "full_name": "Agenta-AI/agenta",
+      "html_url": "https://github.com/Agenta-AI/agenta",
+      "description": "The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.",
+      "stars": 4315,
+      "forks": 575,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-20T21:10:20Z",
+      "updated_at": "2026-07-20T21:07:10Z"
     },
     {
-      "id": 1252432466,
-      "full_name": "Gitlawb/zero",
-      "html_url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 1102,
-      "forks": 109,
-      "language": "Go",
-      "pushed_at": "2026-07-20T17:59:37Z",
-      "updated_at": "2026-07-20T18:00:08Z"
+      "id": 1142800652,
+      "full_name": "TabularisDB/tabularis",
+      "html_url": "https://github.com/TabularisDB/tabularis",
+      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
+      "stars": 3769,
+      "forks": 251,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-20T20:52:27Z",
+      "updated_at": "2026-07-20T20:53:19Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3239,
+      "forks": 220,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-20T21:04:10Z",
+      "updated_at": "2026-07-20T21:05:34Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1139,
+      "forks": 67,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-20T21:00:33Z",
+      "updated_at": "2026-07-20T20:55:47Z"
     },
     {
       "id": 960549454,
@@ -125,19 +125,8 @@
       "stars": 831,
       "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-07-20T18:02:14Z",
-      "updated_at": "2026-07-20T18:03:08Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 791,
-      "forks": 83,
-      "language": "Python",
-      "pushed_at": "2026-07-20T17:53:39Z",
-      "updated_at": "2026-07-20T17:54:04Z"
+      "pushed_at": "2026-07-20T21:12:46Z",
+      "updated_at": "2026-07-20T21:00:24Z"
     },
     {
       "id": 1187461911,
@@ -147,19 +136,19 @@
       "stars": 700,
       "forks": 58,
       "language": "Python",
-      "pushed_at": "2026-07-20T18:02:26Z",
-      "updated_at": "2026-07-20T18:04:19Z"
+      "pushed_at": "2026-07-20T20:54:20Z",
+      "updated_at": "2026-07-20T20:55:51Z"
     },
     {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 626,
-      "forks": 39,
-      "language": "ReScript",
-      "pushed_at": "2026-07-20T17:52:25Z",
-      "updated_at": "2026-07-20T17:52:09Z"
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 390,
+      "forks": 63,
+      "language": "Python",
+      "pushed_at": "2026-07-20T21:12:48Z",
+      "updated_at": "2026-07-20T21:11:54Z"
     },
     {
       "id": 1194576770,
@@ -169,8 +158,19 @@
       "stars": 355,
       "forks": 76,
       "language": "Python",
-      "pushed_at": "2026-07-20T17:48:05Z",
-      "updated_at": "2026-07-20T17:48:16Z"
+      "pushed_at": "2026-07-20T21:10:06Z",
+      "updated_at": "2026-07-20T21:11:51Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 153,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-20T21:08:07Z",
+      "updated_at": "2026-07-20T21:09:00Z"
     }
   ]
 }
