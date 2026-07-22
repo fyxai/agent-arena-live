@@ -12,66 +12,44 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 218866,
-      "forks": 41446,
+      "stars": 218929,
+      "forks": 41470,
       "language": "Python",
-      "pushed_at": "2026-07-22T17:21:13Z",
-      "updated_at": "2026-07-22T17:20:06Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48871,
-      "forks": 4647,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T17:08:45Z",
-      "updated_at": "2026-07-22T17:20:30Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23378,
-      "forks": 3946,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T17:05:05Z",
-      "updated_at": "2026-07-22T17:18:59Z"
+      "pushed_at": "2026-07-22T21:10:05Z",
+      "updated_at": "2026-07-22T21:09:30Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20474,
-      "forks": 1363,
+      "stars": 20482,
+      "forks": 1364,
       "language": "HTML",
-      "pushed_at": "2026-07-22T17:13:19Z",
-      "updated_at": "2026-07-22T17:12:14Z"
+      "pushed_at": "2026-07-22T20:57:00Z",
+      "updated_at": "2026-07-22T20:55:36Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 19172,
-      "forks": 1780,
+      "stars": 19200,
+      "forks": 1783,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T17:15:33Z",
-      "updated_at": "2026-07-22T17:22:34Z"
+      "pushed_at": "2026-07-22T21:05:30Z",
+      "updated_at": "2026-07-22T21:06:41Z"
     },
     {
-      "id": 813564769,
-      "full_name": "clidey/whodb",
-      "html_url": "https://github.com/clidey/whodb",
-      "description": "Where data access meets operational intelligence",
-      "stars": 4931,
-      "forks": 222,
-      "language": "Go",
-      "pushed_at": "2026-07-22T17:18:57Z",
-      "updated_at": "2026-07-22T17:19:02Z"
+      "id": 1190557545,
+      "full_name": "eugeniughelbur/obsidian-second-brain",
+      "html_url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+      "description": "Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Antigravity, Hermes, and Pi. 45 commands - self-rewriting notes, hybrid semantic search, key-less web research, /obsidian-architect codebase docs, and scheduled agents that maintain the vault while you sleep.",
+      "stars": 3493,
+      "forks": 424,
+      "language": "Python",
+      "pushed_at": "2026-07-22T21:07:35Z",
+      "updated_at": "2026-07-22T21:08:14Z"
     },
     {
       "id": 220867748,
@@ -81,19 +59,41 @@
       "stars": 3241,
       "forks": 223,
       "language": "JavaScript",
-      "pushed_at": "2026-07-22T17:18:33Z",
-      "updated_at": "2026-07-22T17:18:34Z"
+      "pushed_at": "2026-07-22T21:07:31Z",
+      "updated_at": "2026-07-22T21:02:24Z"
     },
     {
-      "id": 1169101061,
-      "full_name": "AgentsMesh/AgentsMesh",
-      "html_url": "https://github.com/AgentsMesh/AgentsMesh",
-      "description": "The AI Agent Workforce Platform. Run a hundred AI coding agents across your own machines — schedule, isolate, and steer them all from one console.",
-      "stars": 2293,
-      "forks": 233,
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1138,
+      "forks": 208,
       "language": "Go",
-      "pushed_at": "2026-07-22T17:06:55Z",
-      "updated_at": "2026-07-22T17:07:33Z"
+      "pushed_at": "2026-07-22T21:09:50Z",
+      "updated_at": "2026-07-22T21:10:24Z"
+    },
+    {
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, VS Code, and any MCP client.",
+      "stars": 832,
+      "forks": 72,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T21:04:11Z",
+      "updated_at": "2026-07-22T21:04:58Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 799,
+      "forks": 74,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T21:07:22Z",
+      "updated_at": "2026-07-22T20:57:22Z"
     },
     {
       "id": 1123446919,
@@ -103,74 +103,74 @@
       "stars": 667,
       "forks": 52,
       "language": "Python",
-      "pushed_at": "2026-07-22T17:16:51Z",
-      "updated_at": "2026-07-22T17:19:23Z"
+      "pushed_at": "2026-07-22T20:55:59Z",
+      "updated_at": "2026-07-22T20:56:05Z"
     },
     {
-      "id": 1217028120,
-      "full_name": "Hao0321/claude-skill-social-post",
-      "html_url": "https://github.com/Hao0321/claude-skill-social-post",
-      "description": "A Claude Code skill by Hao (駱君昊) that learns your Facebook voice and auto-posts to FB / IG / Threads / X with a 14-day content calendar. Mega-viral validated: 72K reach / 358 likes / 443 comments / +700 community members on first post. Includes Day 2 flop postmortem.",
-      "stars": 562,
-      "forks": 125,
-      "language": "Unknown",
-      "pushed_at": "2026-07-22T17:20:45Z",
-      "updated_at": "2026-07-22T17:21:44Z"
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 428,
+      "forks": 69,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T21:04:47Z",
+      "updated_at": "2026-07-22T21:05:27Z"
     },
     {
-      "id": 1232824274,
-      "full_name": "stormzhang/token-tracker",
-      "html_url": "https://github.com/stormzhang/token-tracker",
-      "description": "Claude Code & Codex 本地 token 追踪 — 状态栏（Codex 业界首创伪 statusline）、GitHub 风格热力图、多模型成本分析。 | Local token tracker for Claude Code & Codex — status line (industry-first Codex faux statusline), GitHub-style heatmap, multi-model cost analysis",
-      "stars": 452,
-      "forks": 46,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 392,
+      "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-07-22T17:20:32Z",
-      "updated_at": "2026-07-22T17:20:45Z"
-    },
-    {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 440,
-      "forks": 55,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-22T17:12:12Z",
-      "updated_at": "2026-07-22T17:19:08Z"
+      "pushed_at": "2026-07-22T21:07:17Z",
+      "updated_at": "2026-07-22T21:06:43Z"
     },
     {
       "id": 1243365944,
       "full_name": "open-software-network/os-june",
       "html_url": "https://github.com/open-software-network/os-june",
       "description": "Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.",
-      "stars": 324,
+      "stars": 325,
       "forks": 39,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T17:05:21Z",
-      "updated_at": "2026-07-22T17:07:11Z"
+      "pushed_at": "2026-07-22T21:11:30Z",
+      "updated_at": "2026-07-22T20:54:33Z"
     },
     {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 313,
-      "forks": 103,
-      "language": "Python",
-      "pushed_at": "2026-07-22T17:20:34Z",
-      "updated_at": "2026-07-22T17:20:49Z"
-    },
-    {
-      "id": 1154718152,
-      "full_name": "Peiiii/nextclaw",
-      "html_url": "https://github.com/Peiiii/nextclaw",
-      "description": "Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.",
-      "stars": 238,
-      "forks": 36,
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
+      "description": "",
+      "stars": 267,
+      "forks": 450,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T17:12:30Z",
-      "updated_at": "2026-07-22T17:12:39Z"
+      "pushed_at": "2026-07-22T20:46:13Z",
+      "updated_at": "2026-07-22T20:46:17Z"
+    },
+    {
+      "id": 1185795656,
+      "full_name": "KryptosAI/mcp-observatory",
+      "html_url": "https://github.com/KryptosAI/mcp-observatory",
+      "description": "CI-native security testing for MCP servers. Attack simulation, schema drift detection, and health scoring before agents depend on them.",
+      "stars": 238,
+      "forks": 29,
+      "language": "HTML",
+      "pushed_at": "2026-07-22T20:43:20Z",
+      "updated_at": "2026-07-22T20:43:26Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 153,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-22T21:01:55Z",
+      "updated_at": "2026-07-22T21:02:40Z"
     }
   ]
 }
