@@ -8,114 +8,92 @@
   "total_found": 1141,
   "items": [
     {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 60973,
-      "forks": 12005,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-22T10:24:18Z",
-      "updated_at": "2026-07-22T10:25:01Z"
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 218785,
+      "forks": 41412,
+      "language": "Python",
+      "pushed_at": "2026-07-22T14:04:57Z",
+      "updated_at": "2026-07-22T14:03:14Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 30633,
-      "forks": 3067,
+      "id": 1113573066,
+      "full_name": "hugohe3/ppt-master",
+      "html_url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": 40514,
+      "forks": 3367,
+      "language": "Python",
+      "pushed_at": "2026-07-22T13:59:59Z",
+      "updated_at": "2026-07-22T14:03:05Z"
+    },
+    {
+      "id": 1197990888,
+      "full_name": "Gitlawb/openclaude",
+      "html_url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 30266,
+      "forks": 8886,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T10:28:50Z",
-      "updated_at": "2026-07-22T10:28:47Z"
+      "pushed_at": "2026-07-22T13:55:26Z",
+      "updated_at": "2026-07-22T13:56:43Z"
     },
     {
       "id": 306829688,
       "full_name": "nocobase/nocobase",
       "html_url": "https://github.com/nocobase/nocobase",
       "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23404,
+      "stars": 23405,
       "forks": 2785,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T10:21:56Z",
-      "updated_at": "2026-07-22T10:23:05Z"
+      "pushed_at": "2026-07-22T14:01:04Z",
+      "updated_at": "2026-07-22T13:58:59Z"
     },
     {
       "id": 1053118194,
       "full_name": "bojieli/ai-agent-book",
       "html_url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 16820,
-      "forks": 1600,
+      "stars": 17034,
+      "forks": 1630,
       "language": "Python",
-      "pushed_at": "2026-07-22T10:23:43Z",
-      "updated_at": "2026-07-22T10:29:00Z"
-    },
-    {
-      "id": 1128204614,
-      "full_name": "1jehuang/jcode",
-      "html_url": "https://github.com/1jehuang/jcode",
-      "description": "The most intelligent agent harness for code",
-      "stars": 10572,
-      "forks": 1154,
-      "language": "Rust",
-      "pushed_at": "2026-07-22T10:28:00Z",
-      "updated_at": "2026-07-22T10:27:01Z"
+      "pushed_at": "2026-07-22T13:53:44Z",
+      "updated_at": "2026-07-22T14:05:04Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 7611,
-      "forks": 1091,
+      "stars": 7617,
+      "forks": 1092,
       "language": "Python",
-      "pushed_at": "2026-07-22T10:28:33Z",
-      "updated_at": "2026-07-22T10:25:49Z"
+      "pushed_at": "2026-07-22T14:03:32Z",
+      "updated_at": "2026-07-22T14:05:43Z"
     },
     {
-      "id": 1156137396,
-      "full_name": "netease-youdao/LobsterAI",
-      "html_url": "https://github.com/netease-youdao/LobsterAI",
-      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
-      "stars": 5643,
-      "forks": 883,
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 3465,
+      "forks": 983,
+      "language": "Go",
+      "pushed_at": "2026-07-22T14:00:37Z",
+      "updated_at": "2026-07-22T14:02:42Z"
+    },
+    {
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "stars": 1211,
+      "forks": 185,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T10:24:40Z",
-      "updated_at": "2026-07-22T10:25:47Z"
-    },
-    {
-      "id": 243201359,
-      "full_name": "killop/anything_about_game",
-      "html_url": "https://github.com/killop/anything_about_game",
-      "description": "A wonderful list of Game Development resources.",
-      "stars": 3985,
-      "forks": 516,
-      "language": "Unknown",
-      "pushed_at": "2026-07-22T10:21:48Z",
-      "updated_at": "2026-07-22T10:22:05Z"
-    },
-    {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "AI coding platform for teams",
-      "stars": 3782,
-      "forks": 489,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T10:27:15Z",
-      "updated_at": "2026-07-22T10:27:34Z"
-    },
-    {
-      "id": 1111937658,
-      "full_name": "boxlite-ai/boxlite",
-      "html_url": "https://github.com/boxlite-ai/boxlite",
-      "description": "The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.",
-      "stars": 2190,
-      "forks": 145,
-      "language": "Rust",
-      "pushed_at": "2026-07-22T10:21:18Z",
-      "updated_at": "2026-07-22T10:21:43Z"
+      "pushed_at": "2026-07-22T14:01:42Z",
+      "updated_at": "2026-07-22T14:04:25Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +103,74 @@
       "stars": 1137,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T10:28:45Z",
-      "updated_at": "2026-07-22T10:28:55Z"
+      "pushed_at": "2026-07-22T14:05:31Z",
+      "updated_at": "2026-07-22T13:59:06Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 541,
-      "forks": 44,
-      "language": "Go",
-      "pushed_at": "2026-07-22T10:28:32Z",
-      "updated_at": "2026-07-22T10:28:57Z"
+      "id": 1306722822,
+      "full_name": "powerycy/goutoujunshi",
+      "html_url": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "stars": 452,
+      "forks": 62,
+      "language": "Python",
+      "pushed_at": "2026-07-22T13:59:22Z",
+      "updated_at": "2026-07-22T14:02:30Z"
     },
     {
-      "id": 1132275655,
-      "full_name": "cordum-io/cordum",
-      "html_url": "https://github.com/cordum-io/cordum",
-      "description": "The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, and production changes, with auditable evidence.",
-      "stars": 493,
-      "forks": 29,
-      "language": "Go",
-      "pushed_at": "2026-07-22T10:28:16Z",
-      "updated_at": "2026-07-22T10:28:24Z"
-    },
-    {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 436,
-      "forks": 55,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-22T10:22:26Z",
-      "updated_at": "2026-07-22T10:23:02Z"
-    },
-    {
-      "id": 1161723599,
-      "full_name": "AmrDab/clawdcursor",
-      "html_url": "https://github.com/AmrDab/clawdcursor",
-      "description": "clawdcursor compiles whatever's on screen into one UI map — accessibility tree and OCR fused into stable, addressable elements, with a screenshot only when needed — then drives apps through reusable scripts, verifying every action and routing it through a single safety gate.",
-      "stars": 391,
-      "forks": 58,
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
+      "stars": 332,
+      "forks": 77,
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T10:26:38Z",
-      "updated_at": "2026-07-22T10:26:42Z"
+      "pushed_at": "2026-07-22T14:05:13Z",
+      "updated_at": "2026-07-22T14:01:49Z"
+    },
+    {
+      "id": 1235491525,
+      "full_name": "Mininglamp-OSS/octo-web",
+      "html_url": "https://github.com/Mininglamp-OSS/octo-web",
+      "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
+      "stars": 307,
+      "forks": 59,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T13:56:45Z",
+      "updated_at": "2026-07-22T13:58:31Z"
+    },
+    {
+      "id": 1235467345,
+      "full_name": "ys-ll/uniterm",
+      "html_url": "https://github.com/ys-ll/uniterm",
+      "description": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+      "stars": 182,
+      "forks": 15,
+      "language": "Vue",
+      "pushed_at": "2026-07-22T14:00:43Z",
+      "updated_at": "2026-07-22T14:02:47Z"
+    },
+    {
+      "id": 1156623779,
+      "full_name": "dcostenco/prism-coder",
+      "html_url": "https://github.com/dcostenco/prism-coder",
+      "description": "Persistent memory + local AI for coding agents. 2B–27B open-weight LLM fleet, cross-session Mind Palace, cognitive routing, L3 grounding verifier, multi-agent Hivemind. Works with Claude Code, Cursor, VS Code. Offline-first, HIPAA-ready. Free tier included.",
+      "stars": 157,
+      "forks": 24,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T13:53:28Z",
+      "updated_at": "2026-07-22T13:56:27Z"
+    },
+    {
+      "id": 1150677698,
+      "full_name": "joshuaswarren/remnic",
+      "html_url": "https://github.com/joshuaswarren/remnic",
+      "description": "Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access.",
+      "stars": 125,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T14:05:04Z",
+      "updated_at": "2026-07-22T13:59:53Z"
     }
   ]
 }
