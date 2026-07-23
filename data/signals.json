@@ -12,88 +12,110 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 219020,
-      "forks": 41509,
+      "stars": 219091,
+      "forks": 41526,
       "language": "Python",
-      "pushed_at": "2026-07-23T03:19:24Z",
-      "updated_at": "2026-07-23T03:19:36Z"
+      "pushed_at": "2026-07-23T06:29:03Z",
+      "updated_at": "2026-07-23T06:29:22Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48883,
-      "forks": 4649,
+      "stars": 48885,
+      "forks": 4650,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T03:14:13Z",
-      "updated_at": "2026-07-23T03:08:00Z"
+      "pushed_at": "2026-07-23T06:31:19Z",
+      "updated_at": "2026-07-23T06:16:19Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 46093,
-      "forks": 8141,
+      "stars": 46106,
+      "forks": 8143,
       "language": "Python",
-      "pushed_at": "2026-07-23T02:56:37Z",
-      "updated_at": "2026-07-23T02:59:50Z"
+      "pushed_at": "2026-07-23T06:18:50Z",
+      "updated_at": "2026-07-23T06:32:23Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20497,
+      "stars": 20502,
       "forks": 1365,
       "language": "HTML",
-      "pushed_at": "2026-07-23T03:12:07Z",
-      "updated_at": "2026-07-23T03:17:20Z"
+      "pushed_at": "2026-07-23T06:15:42Z",
+      "updated_at": "2026-07-23T06:14:26Z"
     },
     {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 12128,
-      "forks": 1015,
+      "id": 1135791677,
+      "full_name": "lsdefine/GenericAgent",
+      "html_url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 13539,
+      "forks": 1569,
       "language": "Python",
-      "pushed_at": "2026-07-23T03:11:59Z",
-      "updated_at": "2026-07-23T03:12:05Z"
+      "pushed_at": "2026-07-23T06:18:39Z",
+      "updated_at": "2026-07-23T06:18:59Z"
     },
     {
-      "id": 1010318950,
-      "full_name": "SWE-agent/mini-swe-agent",
-      "html_url": "https://github.com/SWE-agent/mini-swe-agent",
-      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
-      "stars": 5967,
-      "forks": 830,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 7650,
+      "forks": 1095,
       "language": "Python",
-      "pushed_at": "2026-07-23T03:12:32Z",
-      "updated_at": "2026-07-23T03:12:05Z"
+      "pushed_at": "2026-07-23T06:32:45Z",
+      "updated_at": "2026-07-23T06:25:58Z"
     },
     {
-      "id": 114540126,
-      "full_name": "SciSharp/BotSharp",
-      "html_url": "https://github.com/SciSharp/BotSharp",
-      "description": "AI Multi-Agent Framework in .NET",
-      "stars": 3085,
-      "forks": 640,
-      "language": "C#",
-      "pushed_at": "2026-07-23T03:03:43Z",
-      "updated_at": "2026-07-23T03:03:48Z"
-    },
-    {
-      "id": 1193300953,
-      "full_name": "dramaclaw/dramaclaw",
-      "html_url": "https://github.com/dramaclaw/dramaclaw",
-      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "stars": 1997,
-      "forks": 160,
+      "id": 632871628,
+      "full_name": "Agenta-AI/agenta",
+      "html_url": "https://github.com/Agenta-AI/agenta",
+      "description": "The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.",
+      "stars": 4325,
+      "forks": 582,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T03:12:20Z",
-      "updated_at": "2026-07-23T03:17:30Z"
+      "pushed_at": "2026-07-23T06:26:52Z",
+      "updated_at": "2026-07-23T06:27:50Z"
+    },
+    {
+      "id": 1186842622,
+      "full_name": "Paca-AI/paca",
+      "html_url": "https://github.com/Paca-AI/paca",
+      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
+      "stars": 1638,
+      "forks": 116,
+      "language": "Go",
+      "pushed_at": "2026-07-23T06:18:22Z",
+      "updated_at": "2026-07-23T06:19:05Z"
+    },
+    {
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 1448,
+      "forks": 215,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-23T06:11:06Z",
+      "updated_at": "2026-07-23T06:11:51Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "SPEC-First Agentic Development Kit for Claude Code — 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language projects, 4-language docs. Go CLI, zero deps.",
+      "stars": 1140,
+      "forks": 209,
+      "language": "Go",
+      "pushed_at": "2026-07-23T06:11:48Z",
+      "updated_at": "2026-07-23T06:12:42Z"
     },
     {
       "id": 1096175506,
@@ -103,63 +125,41 @@
       "stars": 1137,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T03:18:41Z",
-      "updated_at": "2026-07-23T03:13:53Z"
+      "pushed_at": "2026-07-23T06:31:56Z",
+      "updated_at": "2026-07-23T06:16:26Z"
     },
     {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 446,
-      "forks": 55,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-23T03:04:29Z",
-      "updated_at": "2026-07-23T03:04:22Z"
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1056,
+      "forks": 176,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-23T06:24:55Z",
+      "updated_at": "2026-07-23T06:22:39Z"
     },
     {
-      "id": 1207661371,
-      "full_name": "shihuili1218/rssh",
-      "html_url": "https://github.com/shihuili1218/rssh",
-      "description": "The SSH client built to be an AI ops copilot · 为 AI 运维而生的 SSH 客户端(macOS/Windows/Linux/Android)",
-      "stars": 442,
-      "forks": 37,
-      "language": "Rust",
-      "pushed_at": "2026-07-23T03:19:26Z",
-      "updated_at": "2026-07-23T03:18:21Z"
-    },
-    {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 392,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-07-23T03:17:05Z",
-      "updated_at": "2026-07-23T03:07:10Z"
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, VS Code, and any MCP client.",
+      "stars": 832,
+      "forks": 72,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-23T06:24:48Z",
+      "updated_at": "2026-07-23T06:25:06Z"
     },
     {
       "id": 1287804060,
       "full_name": "aipoch/open-science",
       "html_url": "https://github.com/aipoch/open-science",
       "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
-      "stars": 342,
-      "forks": 77,
+      "stars": 344,
+      "forks": 78,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T03:17:12Z",
-      "updated_at": "2026-07-23T03:06:06Z"
-    },
-    {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 310,
-      "forks": 41,
-      "language": "HTML",
-      "pushed_at": "2026-07-23T02:55:11Z",
-      "updated_at": "2026-07-23T02:57:46Z"
+      "pushed_at": "2026-07-23T06:31:18Z",
+      "updated_at": "2026-07-23T06:26:26Z"
     },
     {
       "id": 1235491525,
@@ -169,8 +169,8 @@
       "stars": 307,
       "forks": 59,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T03:17:35Z",
-      "updated_at": "2026-07-23T03:17:45Z"
+      "pushed_at": "2026-07-23T06:30:23Z",
+      "updated_at": "2026-07-23T06:31:18Z"
     }
   ]
 }
