@@ -5,95 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1139,
+  "total_found": 1140,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48906,
-      "forks": 4651,
+      "stars": 48915,
+      "forks": 4652,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T14:10:32Z",
-      "updated_at": "2026-07-23T14:06:48Z"
+      "pushed_at": "2026-07-23T17:24:38Z",
+      "updated_at": "2026-07-23T17:24:44Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 36229,
-      "forks": 4472,
+      "stars": 36230,
+      "forks": 4473,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T13:54:09Z",
-      "updated_at": "2026-07-23T14:09:33Z"
+      "pushed_at": "2026-07-23T17:12:18Z",
+      "updated_at": "2026-07-23T17:03:28Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20512,
+      "stars": 20517,
       "forks": 1365,
       "language": "HTML",
-      "pushed_at": "2026-07-23T13:55:33Z",
-      "updated_at": "2026-07-23T13:59:11Z"
-    },
-    {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 18002,
-      "forks": 1764,
-      "language": "Python",
-      "pushed_at": "2026-07-23T14:09:52Z",
-      "updated_at": "2026-07-23T14:09:40Z"
+      "pushed_at": "2026-07-23T17:24:00Z",
+      "updated_at": "2026-07-23T17:18:53Z"
     },
     {
       "id": 609539715,
       "full_name": "e2b-dev/E2B",
       "html_url": "https://github.com/e2b-dev/E2B",
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 13079,
+      "stars": 13080,
       "forks": 969,
       "language": "Python",
-      "pushed_at": "2026-07-23T14:08:22Z",
-      "updated_at": "2026-07-23T14:04:22Z"
+      "pushed_at": "2026-07-23T17:12:56Z",
+      "updated_at": "2026-07-23T17:10:00Z"
     },
     {
-      "id": 1104370536,
-      "full_name": "ChatLab/ChatLab",
-      "html_url": "https://github.com/ChatLab/ChatLab",
-      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
-      "stars": 7015,
-      "forks": 1468,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-23T14:07:50Z",
-      "updated_at": "2026-07-23T14:08:05Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3579,
-      "forks": 712,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 7673,
+      "forks": 1098,
       "language": "Python",
-      "pushed_at": "2026-07-23T13:46:37Z",
-      "updated_at": "2026-07-23T14:00:22Z"
+      "pushed_at": "2026-07-23T17:00:28Z",
+      "updated_at": "2026-07-23T17:00:39Z"
     },
     {
-      "id": 220867748,
-      "full_name": "neomjs/neo",
-      "html_url": "https://github.com/neomjs/neo",
-      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3243,
-      "forks": 223,
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 5121,
+      "forks": 514,
+      "language": "Python",
+      "pushed_at": "2026-07-23T17:03:06Z",
+      "updated_at": "2026-07-23T17:15:45Z"
+    },
+    {
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2789,
+      "forks": 328,
+      "language": "Rust",
+      "pushed_at": "2026-07-23T17:26:04Z",
+      "updated_at": "2026-07-23T17:26:06Z"
+    },
+    {
+      "id": 1212503250,
+      "full_name": "citrolabs/ego-lite",
+      "html_url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "stars": 1448,
+      "forks": 83,
       "language": "JavaScript",
-      "pushed_at": "2026-07-23T13:45:22Z",
-      "updated_at": "2026-07-23T13:47:19Z"
+      "pushed_at": "2026-07-23T17:15:30Z",
+      "updated_at": "2026-07-23T17:25:32Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +103,74 @@
       "stars": 1137,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-07-23T14:04:55Z",
-      "updated_at": "2026-07-23T14:04:38Z"
+      "pushed_at": "2026-07-23T17:14:53Z",
+      "updated_at": "2026-07-23T17:14:57Z"
     },
     {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
-      "stars": 664,
-      "forks": 52,
-      "language": "Python",
-      "pushed_at": "2026-07-23T14:01:03Z",
-      "updated_at": "2026-07-23T14:02:24Z"
-    },
-    {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 552,
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, VS Code, and any MCP client.",
+      "stars": 834,
       "forks": 72,
-      "language": "Python",
-      "pushed_at": "2026-07-23T13:49:33Z",
-      "updated_at": "2026-07-23T13:51:16Z"
+      "language": "TypeScript",
+      "pushed_at": "2026-07-23T17:20:39Z",
+      "updated_at": "2026-07-23T17:20:44Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 541,
-      "forks": 44,
-      "language": "Go",
-      "pushed_at": "2026-07-23T14:07:29Z",
-      "updated_at": "2026-07-23T14:09:19Z"
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 800,
+      "forks": 74,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-23T17:26:01Z",
+      "updated_at": "2026-07-23T17:26:06Z"
     },
     {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 452,
-      "forks": 56,
+      "id": 1066256303,
+      "full_name": "frontman-ai/frontman",
+      "html_url": "https://github.com/frontman-ai/frontman",
+      "description": "The AI agent that lives in your framework/browser",
+      "stars": 626,
+      "forks": 39,
+      "language": "ReScript",
+      "pushed_at": "2026-07-23T17:21:42Z",
+      "updated_at": "2026-07-23T17:21:45Z"
+    },
+    {
+      "id": 1276999782,
+      "full_name": "Johell1NS/browser-search",
+      "html_url": "https://github.com/Johell1NS/browser-search",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "stars": 460,
+      "forks": 37,
       "language": "JavaScript",
-      "pushed_at": "2026-07-23T13:44:00Z",
-      "updated_at": "2026-07-23T13:49:44Z"
+      "pushed_at": "2026-07-23T17:08:10Z",
+      "updated_at": "2026-07-23T17:07:58Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-23T13:43:22Z",
-      "updated_at": "2026-07-23T13:44:05Z"
-    },
-    {
-      "id": 1306503677,
-      "full_name": "TryCaspian/caspian-sdk",
-      "html_url": "https://github.com/TryCaspian/caspian-sdk",
-      "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stars": 147,
-      "forks": 6,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 393,
+      "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-07-23T14:03:38Z",
-      "updated_at": "2026-07-23T14:05:05Z"
+      "pushed_at": "2026-07-23T17:25:00Z",
+      "updated_at": "2026-07-23T17:18:58Z"
+    },
+    {
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
+      "stars": 363,
+      "forks": 76,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-23T17:15:04Z",
+      "updated_at": "2026-07-23T17:15:10Z"
     }
   ]
 }
