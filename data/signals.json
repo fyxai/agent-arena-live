@@ -5,73 +5,51 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1161,
+  "total_found": 1162,
   "items": [
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 220268,
-      "forks": 41899,
-      "language": "Python",
-      "pushed_at": "2026-07-25T13:15:55Z",
-      "updated_at": "2026-07-25T13:38:24Z"
-    },
     {
       "id": 1131513930,
       "full_name": "ZhuLinsen/daily_stock_analysis",
       "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 58754,
-      "forks": 50411,
+      "stars": 58779,
+      "forks": 50437,
       "language": "Python",
-      "pushed_at": "2026-07-25T13:35:50Z",
-      "updated_at": "2026-07-25T13:36:39Z"
+      "pushed_at": "2026-07-25T16:58:21Z",
+      "updated_at": "2026-07-25T17:00:56Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 48973,
-      "forks": 4659,
+      "stars": 48978,
+      "forks": 4661,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:42:22Z",
-      "updated_at": "2026-07-25T13:42:58Z"
+      "pushed_at": "2026-07-25T16:56:49Z",
+      "updated_at": "2026-07-25T16:55:34Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 19681,
-      "forks": 1850,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 36271,
+      "forks": 4475,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:43:09Z",
-      "updated_at": "2026-07-25T13:44:01Z"
+      "pushed_at": "2026-07-25T16:59:42Z",
+      "updated_at": "2026-07-25T17:00:23Z"
     },
     {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 5161,
-      "forks": 518,
-      "language": "Python",
-      "pushed_at": "2026-07-25T13:38:20Z",
-      "updated_at": "2026-07-25T13:38:21Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3617,
-      "forks": 718,
-      "language": "Python",
-      "pushed_at": "2026-07-25T13:44:01Z",
-      "updated_at": "2026-07-25T13:41:18Z"
+      "id": 1218208502,
+      "full_name": "worldwonderer/oh-story-claudecode",
+      "html_url": "https://github.com/worldwonderer/oh-story-claudecode",
+      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.",
+      "stars": 4587,
+      "forks": 703,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-25T16:57:41Z",
+      "updated_at": "2026-07-25T16:57:45Z"
     },
     {
       "id": 220867748,
@@ -81,30 +59,41 @@
       "stars": 3243,
       "forks": 223,
       "language": "JavaScript",
-      "pushed_at": "2026-07-25T13:43:19Z",
-      "updated_at": "2026-07-25T13:37:51Z"
+      "pushed_at": "2026-07-25T16:56:52Z",
+      "updated_at": "2026-07-25T16:57:14Z"
     },
     {
-      "id": 254879070,
-      "full_name": "xpf0000/FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
-      "stars": 3088,
-      "forks": 332,
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 2768,
+      "forks": 383,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:38:40Z",
-      "updated_at": "2026-07-25T13:38:49Z"
+      "pushed_at": "2026-07-25T16:59:34Z",
+      "updated_at": "2026-07-25T16:57:34Z"
     },
     {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1784,
-      "forks": 185,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:42:35Z",
-      "updated_at": "2026-07-25T13:43:18Z"
+      "id": 1273015953,
+      "full_name": "shy3130/tickflow-stock-panel",
+      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+      "stars": 2364,
+      "forks": 544,
+      "language": "Python",
+      "pushed_at": "2026-07-25T16:31:43Z",
+      "updated_at": "2026-07-25T16:31:57Z"
+    },
+    {
+      "id": 1186842622,
+      "full_name": "Paca-AI/paca",
+      "html_url": "https://github.com/Paca-AI/paca",
+      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
+      "stars": 1650,
+      "forks": 118,
+      "language": "Go",
+      "pushed_at": "2026-07-25T16:53:44Z",
+      "updated_at": "2026-07-25T16:54:13Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +103,74 @@
       "stars": 1138,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:41:38Z",
-      "updated_at": "2026-07-25T13:39:54Z"
+      "pushed_at": "2026-07-25T16:49:13Z",
+      "updated_at": "2026-07-25T16:45:21Z"
     },
     {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "An open-source, model-agnostic AI workbench for scientific discovery.",
-      "stars": 667,
-      "forks": 80,
+      "id": 1180642359,
+      "full_name": "xalgord/xalgorix",
+      "html_url": "https://github.com/xalgord/xalgorix",
+      "description": "Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
+      "stars": 805,
+      "forks": 141,
+      "language": "Go",
+      "pushed_at": "2026-07-25T16:32:07Z",
+      "updated_at": "2026-07-25T16:43:44Z"
+    },
+    {
+      "id": 1209910880,
+      "full_name": "RandallLiuXin/GodotMaker",
+      "html_url": "https://github.com/RandallLiuXin/GodotMaker",
+      "description": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode",
+      "stars": 489,
+      "forks": 43,
+      "language": "Python",
+      "pushed_at": "2026-07-25T16:57:15Z",
+      "updated_at": "2026-07-25T16:56:52Z"
+    },
+    {
+      "id": 1202954853,
+      "full_name": "webbrain-one/webbrain",
+      "html_url": "https://github.com/webbrain-one/webbrain",
+      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
+      "stars": 480,
+      "forks": 59,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-25T16:38:27Z",
+      "updated_at": "2026-07-25T16:38:33Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 357,
+      "forks": 79,
+      "language": "Python",
+      "pushed_at": "2026-07-25T16:47:01Z",
+      "updated_at": "2026-07-25T16:54:38Z"
+    },
+    {
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 277,
+      "forks": 20,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:39:31Z",
-      "updated_at": "2026-07-25T13:25:41Z"
-    },
-    {
-      "id": 1066256303,
-      "full_name": "frontman-ai/frontman",
-      "html_url": "https://github.com/frontman-ai/frontman",
-      "description": "The AI agent that lives in your framework/browser",
-      "stars": 634,
-      "forks": 40,
-      "language": "ReScript",
-      "pushed_at": "2026-07-25T13:37:38Z",
-      "updated_at": "2026-07-25T13:37:41Z"
-    },
-    {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 416,
-      "forks": 52,
-      "language": "HTML",
-      "pushed_at": "2026-07-25T13:41:50Z",
-      "updated_at": "2026-07-25T13:42:26Z"
-    },
-    {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Workspace multiplexer for AI coding agent",
-      "stars": 273,
-      "forks": 49,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:31:39Z",
-      "updated_at": "2026-07-25T13:27:46Z"
+      "pushed_at": "2026-07-25T17:02:55Z",
+      "updated_at": "2026-07-25T17:02:10Z"
     },
     {
       "id": 1257915692,
       "full_name": "xevrion-v2/agent-playground",
       "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 267,
-      "forks": 449,
+      "stars": 268,
+      "forks": 450,
       "language": "TypeScript",
-      "pushed_at": "2026-07-25T13:27:17Z",
-      "updated_at": "2026-07-25T13:27:45Z"
+      "pushed_at": "2026-07-25T16:56:14Z",
+      "updated_at": "2026-07-25T16:56:37Z"
     }
   ]
 }
