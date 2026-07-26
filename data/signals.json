@@ -5,95 +5,51 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1168,
+  "total_found": 1169,
   "items": [
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 58902,
-      "forks": 50538,
-      "language": "Python",
-      "pushed_at": "2026-07-26T13:31:02Z",
-      "updated_at": "2026-07-26T13:34:58Z"
-    },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
-      "stars": 46256,
-      "forks": 8188,
+      "stars": 46263,
+      "forks": 8192,
       "language": "Python",
-      "pushed_at": "2026-07-26T13:36:07Z",
-      "updated_at": "2026-07-26T13:32:36Z"
+      "pushed_at": "2026-07-26T17:00:13Z",
+      "updated_at": "2026-07-26T17:00:29Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 46137,
-      "forks": 10277,
-      "language": "Python",
-      "pushed_at": "2026-07-26T13:29:07Z",
-      "updated_at": "2026-07-26T13:30:15Z"
-    },
-    {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23432,
-      "forks": 3961,
+      "id": 291438522,
+      "full_name": "siyuan-note/siyuan",
+      "html_url": "https://github.com/siyuan-note/siyuan",
+      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+      "stars": 45432,
+      "forks": 2920,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T13:37:28Z",
-      "updated_at": "2026-07-26T13:14:31Z"
+      "pushed_at": "2026-07-26T17:01:13Z",
+      "updated_at": "2026-07-26T16:57:44Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 7767,
-      "forks": 1125,
-      "language": "Python",
-      "pushed_at": "2026-07-26T13:14:41Z",
-      "updated_at": "2026-07-26T13:33:09Z"
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 20644,
+      "forks": 1375,
+      "language": "HTML",
+      "pushed_at": "2026-07-26T17:02:23Z",
+      "updated_at": "2026-07-26T17:01:43Z"
     },
     {
-      "id": 813564769,
-      "full_name": "clidey/whodb",
-      "html_url": "https://github.com/clidey/whodb",
-      "description": "Where data access meets operational intelligence",
-      "stars": 4934,
-      "forks": 224,
-      "language": "Go",
-      "pushed_at": "2026-07-26T13:19:15Z",
-      "updated_at": "2026-07-26T13:19:21Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 3912,
-      "forks": 262,
+      "id": 1188521544,
+      "full_name": "holaboss-ai/holaOS",
+      "html_url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Your super agent for work: learn your working context in mins and never forget it.",
+      "stars": 5521,
+      "forks": 397,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T13:34:20Z",
-      "updated_at": "2026-07-26T13:35:06Z"
-    },
-    {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1786,
-      "forks": 185,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-26T13:32:46Z",
-      "updated_at": "2026-07-26T13:33:03Z"
+      "pushed_at": "2026-07-26T17:05:16Z",
+      "updated_at": "2026-07-26T16:59:30Z"
     },
     {
       "id": 1096175506,
@@ -103,8 +59,19 @@
       "stars": 1138,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T13:35:26Z",
-      "updated_at": "2026-07-26T13:22:34Z"
+      "pushed_at": "2026-07-26T17:06:12Z",
+      "updated_at": "2026-07-26T16:53:55Z"
+    },
+    {
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
+      "stars": 838,
+      "forks": 73,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-26T16:53:38Z",
+      "updated_at": "2026-07-26T16:53:43Z"
     },
     {
       "id": 1215678767,
@@ -114,63 +81,96 @@
       "stars": 817,
       "forks": 147,
       "language": "Python",
-      "pushed_at": "2026-07-26T13:36:18Z",
-      "updated_at": "2026-07-26T13:35:09Z"
+      "pushed_at": "2026-07-26T17:00:08Z",
+      "updated_at": "2026-07-26T17:00:20Z"
     },
     {
-      "id": 1123446919,
-      "full_name": "gmickel/flow-next",
-      "html_url": "https://github.com/gmickel/flow-next",
-      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
-      "stars": 666,
-      "forks": 52,
-      "language": "Python",
-      "pushed_at": "2026-07-26T13:33:33Z",
-      "updated_at": "2026-07-26T13:33:37Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 600,
+      "forks": 100,
+      "language": "Go",
+      "pushed_at": "2026-07-26T17:05:15Z",
+      "updated_at": "2026-07-26T17:05:23Z"
     },
     {
-      "id": 1269050856,
-      "full_name": "addsumtech/slides_maker",
-      "html_url": "https://github.com/addsumtech/slides_maker",
-      "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
-      "stars": 294,
-      "forks": 25,
-      "language": "Python",
-      "pushed_at": "2026-07-26T13:22:24Z",
-      "updated_at": "2026-07-26T13:22:32Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 279,
-      "forks": 20,
+      "id": 1301135370,
+      "full_name": "0xsline/OpenChatCut",
+      "html_url": "https://github.com/0xsline/OpenChatCut",
+      "description": "Local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion-powered rendering.",
+      "stars": 525,
+      "forks": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T13:30:14Z",
-      "updated_at": "2026-07-26T13:30:57Z"
+      "pushed_at": "2026-07-26T17:01:59Z",
+      "updated_at": "2026-07-26T17:02:39Z"
+    },
+    {
+      "id": 759567420,
+      "full_name": "nirholas/XActions",
+      "html_url": "https://github.com/nirholas/XActions",
+      "description": "⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API. Follow Bot. Like bot. Grow your account automatically. ",
+      "stars": 411,
+      "forks": 84,
+      "language": "HTML",
+      "pushed_at": "2026-07-26T16:52:12Z",
+      "updated_at": "2026-07-26T16:52:23Z"
+    },
+    {
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 403,
+      "forks": 25,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-26T17:04:33Z",
+      "updated_at": "2026-07-26T17:04:36Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 279,
-      "forks": 31,
+      "stars": 375,
+      "forks": 42,
       "language": "TypeScript",
-      "pushed_at": "2026-07-26T13:38:11Z",
-      "updated_at": "2026-07-26T13:35:58Z"
+      "pushed_at": "2026-07-26T17:04:24Z",
+      "updated_at": "2026-07-26T17:03:07Z"
     },
     {
-      "id": 1306503677,
-      "full_name": "TryCaspian/caspian-sdk",
-      "html_url": "https://github.com/TryCaspian/caspian-sdk",
-      "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stars": 243,
-      "forks": 112,
-      "language": "Python",
-      "pushed_at": "2026-07-26T13:22:20Z",
-      "updated_at": "2026-07-26T13:22:29Z"
+      "id": 80163148,
+      "full_name": "tinystruct/tinystruct",
+      "html_url": "https://github.com/tinystruct/tinystruct",
+      "description": "A lightweight, modular Java application framework for web and CLI development,         designed for AI integration and plugin-based architecture.         Enabling developers to create robust solutions with ease for building efficient and scalable applications.",
+      "stars": 351,
+      "forks": 46,
+      "language": "Java",
+      "pushed_at": "2026-07-26T16:53:11Z",
+      "updated_at": "2026-07-26T16:53:15Z"
+    },
+    {
+      "id": 1243365944,
+      "full_name": "open-software-network/os-june",
+      "html_url": "https://github.com/open-software-network/os-june",
+      "description": "Private AI on your Mac. Chat, dictation, meeting notes, and a local agent in one open source workspace.",
+      "stars": 326,
+      "forks": 41,
+      "language": "Rust",
+      "pushed_at": "2026-07-26T17:00:02Z",
+      "updated_at": "2026-07-26T17:00:06Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 154,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-26T16:55:14Z",
+      "updated_at": "2026-07-26T16:55:20Z"
     }
   ]
 }
