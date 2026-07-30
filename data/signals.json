@@ -5,106 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1194,
+  "total_found": 1197,
   "items": [
     {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 62253,
-      "forks": 12243,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-30T13:54:02Z",
-      "updated_at": "2026-07-30T14:03:51Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 49162,
-      "forks": 4682,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-30T13:57:11Z",
-      "updated_at": "2026-07-30T14:00:32Z"
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 222789,
+      "forks": 42782,
+      "language": "Python",
+      "pushed_at": "2026-07-30T17:27:29Z",
+      "updated_at": "2026-07-30T17:38:29Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 36369,
-      "forks": 4491,
+      "stars": 36371,
+      "forks": 4490,
       "language": "TypeScript",
-      "pushed_at": "2026-07-30T14:03:26Z",
-      "updated_at": "2026-07-30T14:07:28Z"
+      "pushed_at": "2026-07-30T17:36:46Z",
+      "updated_at": "2026-07-30T17:38:56Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 30437,
-      "forks": 8910,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 20798,
+      "forks": 1393,
+      "language": "HTML",
+      "pushed_at": "2026-07-30T17:35:33Z",
+      "updated_at": "2026-07-30T17:37:18Z"
+    },
+    {
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 2945,
+      "forks": 405,
       "language": "TypeScript",
-      "pushed_at": "2026-07-30T13:52:35Z",
-      "updated_at": "2026-07-30T14:07:22Z"
+      "pushed_at": "2026-07-30T17:26:35Z",
+      "updated_at": "2026-07-30T17:10:33Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23500,
-      "forks": 3978,
+      "id": 1252432466,
+      "full_name": "Gitlawb/zero",
+      "html_url": "https://github.com/Gitlawb/zero",
+      "description": "The coding agent that answers to you, your model, your machine, your rules.",
+      "stars": 1190,
+      "forks": 123,
+      "language": "Go",
+      "pushed_at": "2026-07-30T17:21:23Z",
+      "updated_at": "2026-07-30T17:06:53Z"
+    },
+    {
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 1168,
+      "forks": 147,
       "language": "TypeScript",
-      "pushed_at": "2026-07-30T13:53:58Z",
-      "updated_at": "2026-07-30T14:00:16Z"
+      "pushed_at": "2026-07-30T17:39:03Z",
+      "updated_at": "2026-07-30T17:22:44Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23496,
-      "forks": 2798,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-30T14:08:49Z",
-      "updated_at": "2026-07-30T14:00:45Z"
-    },
-    {
-      "id": 1264811161,
-      "full_name": "chuspeeism/dashi-ppt-skill",
-      "html_url": "https://github.com/chuspeeism/dashi-ppt-skill",
-      "description": "An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.",
-      "stars": 4423,
-      "forks": 420,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-30T14:02:33Z",
-      "updated_at": "2026-07-30T14:07:12Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Get web data for AI agents and LLMs",
-      "stars": 2631,
-      "forks": 222,
-      "language": "Rust",
-      "pushed_at": "2026-07-30T13:53:03Z",
-      "updated_at": "2026-07-30T13:56:00Z"
-    },
-    {
-      "id": 1023024788,
-      "full_name": "VersusControl/devops-ai-guidelines",
-      "html_url": "https://github.com/VersusControl/devops-ai-guidelines",
-      "description": "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines",
-      "stars": 1367,
-      "forks": 358,
-      "language": "Python",
-      "pushed_at": "2026-07-30T14:00:16Z",
-      "updated_at": "2026-07-30T14:04:51Z"
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+      "stars": 1151,
+      "forks": 213,
+      "language": "Go",
+      "pushed_at": "2026-07-30T17:24:18Z",
+      "updated_at": "2026-07-30T17:04:54Z"
     },
     {
       "id": 1096175506,
@@ -114,30 +92,19 @@
       "stars": 1138,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-07-30T14:09:24Z",
-      "updated_at": "2026-07-30T14:00:15Z"
+      "pushed_at": "2026-07-30T17:38:50Z",
+      "updated_at": "2026-07-30T17:32:21Z"
     },
     {
-      "id": 1180642359,
-      "full_name": "xalgord/xalgorix",
-      "html_url": "https://github.com/xalgord/xalgorix",
-      "description": "Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
-      "stars": 813,
-      "forks": 146,
-      "language": "Go",
-      "pushed_at": "2026-07-30T14:06:05Z",
-      "updated_at": "2026-07-30T14:09:27Z"
-    },
-    {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 677,
-      "forks": 80,
-      "language": "HTML",
-      "pushed_at": "2026-07-30T14:09:45Z",
-      "updated_at": "2026-07-30T14:10:34Z"
+      "id": 1288102626,
+      "full_name": "ai4s-research/open-science",
+      "html_url": "https://github.com/ai4s-research/open-science",
+      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "stars": 1035,
+      "forks": 112,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-30T17:28:32Z",
+      "updated_at": "2026-07-30T17:32:30Z"
     },
     {
       "id": 1142397834,
@@ -147,30 +114,63 @@
       "stars": 541,
       "forks": 45,
       "language": "Go",
-      "pushed_at": "2026-07-30T14:08:04Z",
-      "updated_at": "2026-07-30T14:11:10Z"
+      "pushed_at": "2026-07-30T17:22:23Z",
+      "updated_at": "2026-07-30T17:26:01Z"
     },
     {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 393,
-      "forks": 64,
-      "language": "Python",
-      "pushed_at": "2026-07-30T14:06:13Z",
-      "updated_at": "2026-07-30T14:02:35Z"
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 463,
+      "forks": 78,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-30T17:39:07Z",
+      "updated_at": "2026-07-30T17:19:06Z"
     },
     {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "Just install once. Anyone can use hermes-agent professionally. the powerful intelligence for your agent — OMH (Oh-My-Hermes) ⚚",
-      "stars": 370,
-      "forks": 36,
+      "id": 1234425239,
+      "full_name": "zoyluoblue/mc_aiplayer",
+      "html_url": "https://github.com/zoyluoblue/mc_aiplayer",
+      "description": "Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-compatible LLM drives a real player to mine, build, farm, fight and survive from natural-language commands. LLM plans, deterministic tasks execute — no Python harness, no bot account.",
+      "stars": 191,
+      "forks": 5,
+      "language": "Java",
+      "pushed_at": "2026-07-30T17:09:42Z",
+      "updated_at": "2026-07-30T17:13:52Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 154,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-07-30T17:22:16Z",
+      "updated_at": "2026-07-30T17:24:51Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-07-30T17:20:20Z",
+      "updated_at": "2026-07-30T17:22:50Z"
+    },
+    {
+      "id": 1182535754,
+      "full_name": "Digital-Process-Tools/claude-remember",
+      "html_url": "https://github.com/Digital-Process-Tools/claude-remember",
+      "description": "Persistent memory for Claude Code — identity, context, and continuity across sessions",
+      "stars": 143,
+      "forks": 47,
       "language": "Python",
-      "pushed_at": "2026-07-30T14:01:34Z",
-      "updated_at": "2026-07-30T14:05:34Z"
+      "pushed_at": "2026-07-30T17:11:31Z",
+      "updated_at": "2026-07-30T17:12:54Z"
     }
   ]
 }
