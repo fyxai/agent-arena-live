@@ -8,81 +8,81 @@
   "total_found": 1202,
   "items": [
     {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 223241,
+      "forks": 42928,
+      "language": "Python",
+      "pushed_at": "2026-07-31T14:18:00Z",
+      "updated_at": "2026-07-31T14:15:21Z"
+    },
+    {
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 59677,
+      "forks": 51091,
+      "language": "Python",
+      "pushed_at": "2026-07-31T13:58:33Z",
+      "updated_at": "2026-07-31T14:17:39Z"
+    },
+    {
       "id": 1053118194,
       "full_name": "bojieli/ai-agent-book",
       "html_url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 28198,
-      "forks": 2984,
+      "stars": 28319,
+      "forks": 2991,
       "language": "Python",
-      "pushed_at": "2026-07-31T10:39:45Z",
-      "updated_at": "2026-07-31T10:39:59Z"
+      "pushed_at": "2026-07-31T14:09:29Z",
+      "updated_at": "2026-07-31T14:16:11Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 20833,
-      "forks": 1975,
+      "stars": 20853,
+      "forks": 1980,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T10:34:52Z",
-      "updated_at": "2026-07-31T10:40:00Z"
+      "pushed_at": "2026-07-31T14:04:57Z",
+      "updated_at": "2026-07-31T14:14:22Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 7956,
+      "stars": 7965,
       "forks": 1180,
       "language": "Python",
-      "pushed_at": "2026-07-31T10:42:53Z",
-      "updated_at": "2026-07-31T10:39:11Z"
-    },
-    {
-      "id": 1288402762,
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "stars": 2997,
-      "forks": 411,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-31T10:32:34Z",
-      "updated_at": "2026-07-31T10:24:15Z"
+      "pushed_at": "2026-07-31T14:17:15Z",
+      "updated_at": "2026-07-31T14:12:14Z"
     },
     {
       "id": 1287804060,
       "full_name": "aipoch/open-science",
       "html_url": "https://github.com/aipoch/open-science",
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "stars": 1260,
+      "stars": 1262,
       "forks": 87,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T10:38:47Z",
-      "updated_at": "2026-07-31T10:22:55Z"
+      "pushed_at": "2026-07-31T14:17:36Z",
+      "updated_at": "2026-07-31T13:58:14Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1235,
-      "forks": 157,
+      "stars": 1248,
+      "forks": 159,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T10:34:14Z",
-      "updated_at": "2026-07-31T10:31:08Z"
-    },
-    {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
-      "stars": 1152,
-      "forks": 213,
-      "language": "Go",
-      "pushed_at": "2026-07-31T10:40:24Z",
-      "updated_at": "2026-07-31T10:40:36Z"
+      "pushed_at": "2026-07-31T14:13:58Z",
+      "updated_at": "2026-07-31T14:04:05Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +92,85 @@
       "stars": 1138,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T10:43:15Z",
-      "updated_at": "2026-07-31T10:42:54Z"
-    },
-    {
-      "id": 1288102626,
-      "full_name": "ai4s-research/open-science",
-      "html_url": "https://github.com/ai4s-research/open-science",
-      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-      "stars": 1047,
-      "forks": 113,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-31T10:26:29Z",
-      "updated_at": "2026-07-31T10:26:51Z"
-    },
-    {
-      "id": 1155766506,
-      "full_name": "razzant/ouroboros",
-      "html_url": "https://github.com/razzant/ouroboros",
-      "description": "Ouroboros — self-creating AI agent. Born Feb 16, 2026.",
-      "stars": 739,
-      "forks": 555,
-      "language": "Python",
-      "pushed_at": "2026-07-31T10:31:45Z",
-      "updated_at": "2026-07-31T10:33:48Z"
+      "pushed_at": "2026-07-31T14:17:30Z",
+      "updated_at": "2026-07-31T14:15:37Z"
     },
     {
       "id": 1296471449,
       "full_name": "ShenSeanChen/waku-agent",
       "html_url": "https://github.com/ShenSeanChen/waku-agent",
       "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "stars": 654,
-      "forks": 124,
+      "stars": 658,
+      "forks": 125,
       "language": "Python",
-      "pushed_at": "2026-07-31T10:39:28Z",
-      "updated_at": "2026-07-31T10:39:48Z"
+      "pushed_at": "2026-07-31T14:18:25Z",
+      "updated_at": "2026-07-31T14:08:42Z"
     },
     {
-      "id": 1269050856,
-      "full_name": "addsumtech/slides_maker",
-      "html_url": "https://github.com/addsumtech/slides_maker",
-      "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
-      "stars": 339,
-      "forks": 33,
-      "language": "Python",
-      "pushed_at": "2026-07-31T10:24:31Z",
-      "updated_at": "2026-07-31T10:24:49Z"
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 542,
+      "forks": 45,
+      "language": "Go",
+      "pushed_at": "2026-07-31T14:06:49Z",
+      "updated_at": "2026-07-31T14:10:39Z"
     },
     {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 313,
-      "forks": 39,
+      "id": 803221216,
+      "full_name": "devforth/adminforth",
+      "html_url": "https://github.com/devforth/adminforth",
+      "description": "Create Agentic admin panels faster on TypeScript and Vue.js with AdminForth Framework. Setup main CRUD pages within minutes, extend as you need",
+      "stars": 401,
+      "forks": 25,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T10:39:50Z",
-      "updated_at": "2026-07-31T10:40:09Z"
+      "pushed_at": "2026-07-31T13:59:53Z",
+      "updated_at": "2026-07-31T14:04:44Z"
     },
     {
-      "id": 1239699520,
-      "full_name": "410979729/scope-recall-hermes",
-      "html_url": "https://github.com/410979729/scope-recall-hermes",
-      "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-      "stars": 204,
-      "forks": 17,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 393,
+      "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-07-31T10:23:00Z",
-      "updated_at": "2026-07-31T10:23:37Z"
+      "pushed_at": "2026-07-31T14:05:28Z",
+      "updated_at": "2026-07-31T14:06:43Z"
     },
     {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 152,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-07-31T10:33:02Z",
-      "updated_at": "2026-07-31T10:33:22Z"
+      "id": 1203993806,
+      "full_name": "usepr/eva",
+      "html_url": "https://github.com/usepr/eva",
+      "description": "单文件智能体",
+      "stars": 384,
+      "forks": 49,
+      "language": "Python",
+      "pushed_at": "2026-07-31T13:58:05Z",
+      "updated_at": "2026-07-31T14:03:29Z"
+    },
+    {
+      "id": 1186822753,
+      "full_name": "openwong2kim/wmux",
+      "html_url": "https://github.com/openwong2kim/wmux",
+      "description": "Workspace multiplexer for AI agent",
+      "stars": 314,
+      "forks": 55,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-31T14:18:23Z",
+      "updated_at": "2026-07-31T14:11:53Z"
+    },
+    {
+      "id": 1274452075,
+      "full_name": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+      "html_url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+      "description": "From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase",
+      "stars": 183,
+      "forks": 47,
+      "language": "Python",
+      "pushed_at": "2026-07-31T14:14:36Z",
+      "updated_at": "2026-07-31T14:15:12Z"
     }
   ]
 }
