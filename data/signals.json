@@ -5,139 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1202,
+  "total_found": 1203,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 223316,
-      "forks": 42961,
+      "stars": 223371,
+      "forks": 42989,
       "language": "Python",
-      "pushed_at": "2026-07-31T17:42:37Z",
-      "updated_at": "2026-07-31T17:42:30Z"
+      "pushed_at": "2026-07-31T20:52:47Z",
+      "updated_at": "2026-07-31T21:08:43Z"
     },
     {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 62388,
-      "forks": 12279,
-      "language": "JavaScript",
-      "pushed_at": "2026-07-31T17:27:04Z",
-      "updated_at": "2026-07-31T17:36:38Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 59691,
-      "forks": 51095,
-      "language": "Python",
-      "pushed_at": "2026-07-31T17:18:51Z",
-      "updated_at": "2026-07-31T17:42:14Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 36382,
-      "forks": 4494,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 20900,
+      "forks": 1983,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T17:37:59Z",
-      "updated_at": "2026-07-31T17:38:16Z"
+      "pushed_at": "2026-07-31T21:08:13Z",
+      "updated_at": "2026-07-31T21:06:38Z"
     },
     {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 28400,
-      "forks": 3003,
-      "language": "Python",
-      "pushed_at": "2026-07-31T17:21:13Z",
-      "updated_at": "2026-07-31T17:40:22Z"
+      "id": 1128204614,
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "stars": 14572,
+      "forks": 1608,
+      "language": "Rust",
+      "pushed_at": "2026-07-31T21:01:10Z",
+      "updated_at": "2026-07-31T21:08:48Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 28216,
-      "forks": 1813,
+      "id": 1142800652,
+      "full_name": "TabularisDB/tabularis",
+      "html_url": "https://github.com/TabularisDB/tabularis",
+      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
+      "stars": 3989,
+      "forks": 269,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-31T21:02:58Z",
+      "updated_at": "2026-07-31T21:03:18Z"
+    },
+    {
+      "id": 1163814566,
+      "full_name": "nextlevelbuilder/goclaw",
+      "html_url": "https://github.com/nextlevelbuilder/goclaw",
+      "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.",
+      "stars": 3493,
+      "forks": 995,
       "language": "Go",
-      "pushed_at": "2026-07-31T17:26:09Z",
-      "updated_at": "2026-07-31T17:37:39Z"
+      "pushed_at": "2026-07-31T21:09:51Z",
+      "updated_at": "2026-07-31T20:59:41Z"
     },
     {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 14800,
-      "forks": 2103,
-      "language": "Python",
-      "pushed_at": "2026-07-31T17:32:45Z",
-      "updated_at": "2026-07-31T17:35:15Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3249,
+      "forks": 226,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-31T21:05:02Z",
+      "updated_at": "2026-07-31T21:05:23Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 7976,
-      "forks": 1182,
-      "language": "Python",
-      "pushed_at": "2026-07-31T17:41:15Z",
-      "updated_at": "2026-07-31T17:37:27Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 5231,
-      "forks": 525,
-      "language": "Python",
-      "pushed_at": "2026-07-31T17:39:46Z",
-      "updated_at": "2026-07-31T17:22:17Z"
-    },
-    {
-      "id": 1200204014,
-      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
-      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
-      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
-      "stars": 3190,
-      "forks": 421,
-      "language": "Stata",
-      "pushed_at": "2026-07-31T17:20:57Z",
-      "updated_at": "2026-07-31T17:27:19Z"
+      "id": 1166321809,
+      "full_name": "chrysb/alphaclaw",
+      "html_url": "https://github.com/chrysb/alphaclaw",
+      "description": "The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.",
+      "stars": 1448,
+      "forks": 216,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-31T20:46:15Z",
+      "updated_at": "2026-07-31T20:46:15Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1257,
+      "stars": 1260,
       "forks": 161,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T17:39:23Z",
-      "updated_at": "2026-07-31T17:38:16Z"
+      "pushed_at": "2026-07-31T21:08:01Z",
+      "updated_at": "2026-07-31T20:51:12Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1139,
-      "forks": 68,
-      "language": "TypeScript",
-      "pushed_at": "2026-07-31T17:42:29Z",
-      "updated_at": "2026-07-31T17:17:17Z"
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+      "stars": 1151,
+      "forks": 213,
+      "language": "Go",
+      "pushed_at": "2026-07-31T21:08:22Z",
+      "updated_at": "2026-07-31T21:08:36Z"
     },
     {
       "id": 960549454,
@@ -147,8 +114,8 @@
       "stars": 875,
       "forks": 81,
       "language": "TypeScript",
-      "pushed_at": "2026-07-31T17:26:58Z",
-      "updated_at": "2026-07-31T17:27:02Z"
+      "pushed_at": "2026-07-31T20:55:23Z",
+      "updated_at": "2026-07-31T20:55:43Z"
     },
     {
       "id": 591995344,
@@ -158,8 +125,19 @@
       "stars": 818,
       "forks": 86,
       "language": "Python",
-      "pushed_at": "2026-07-31T17:28:02Z",
-      "updated_at": "2026-07-31T17:28:07Z"
+      "pushed_at": "2026-07-31T21:04:57Z",
+      "updated_at": "2026-07-31T21:05:14Z"
+    },
+    {
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 467,
+      "forks": 80,
+      "language": "TypeScript",
+      "pushed_at": "2026-07-31T21:07:38Z",
+      "updated_at": "2026-07-31T21:05:06Z"
     },
     {
       "id": 1232824274,
@@ -169,8 +147,30 @@
       "stars": 460,
       "forks": 45,
       "language": "Python",
-      "pushed_at": "2026-07-31T17:38:59Z",
-      "updated_at": "2026-07-31T17:39:30Z"
+      "pushed_at": "2026-07-31T20:48:31Z",
+      "updated_at": "2026-07-31T20:48:32Z"
+    },
+    {
+      "id": 1276595002,
+      "full_name": "NotASithLord/peerd",
+      "html_url": "https://github.com/NotASithLord/peerd",
+      "description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
+      "stars": 371,
+      "forks": 36,
+      "language": "JavaScript",
+      "pushed_at": "2026-07-31T21:07:54Z",
+      "updated_at": "2026-07-31T21:08:25Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 358,
+      "forks": 80,
+      "language": "Python",
+      "pushed_at": "2026-07-31T21:05:31Z",
+      "updated_at": "2026-07-31T20:48:42Z"
     }
   ]
 }
