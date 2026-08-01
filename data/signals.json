@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1209,
+  "total_found": 1210,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 223749,
-      "forks": 43151,
+      "stars": 223797,
+      "forks": 43179,
       "language": "Python",
-      "pushed_at": "2026-08-01T16:53:26Z",
-      "updated_at": "2026-08-01T17:02:19Z"
+      "pushed_at": "2026-08-01T20:52:40Z",
+      "updated_at": "2026-08-01T20:58:13Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 28493,
-      "forks": 1828,
-      "language": "Go",
-      "pushed_at": "2026-08-01T16:49:22Z",
-      "updated_at": "2026-08-01T16:56:57Z"
-    },
-    {
-      "id": 169975410,
-      "full_name": "leon-ai/leon",
-      "html_url": "https://github.com/leon-ai/leon",
-      "description": "🧠 Leon is your open-source personal assistant.",
-      "stars": 17398,
-      "forks": 1450,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 21051,
+      "forks": 2005,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T16:43:11Z",
-      "updated_at": "2026-08-01T16:43:16Z"
+      "pushed_at": "2026-08-01T20:55:05Z",
+      "updated_at": "2026-08-01T20:55:24Z"
+    },
+    {
+      "id": 1128204614,
+      "full_name": "1jehuang/jcode",
+      "html_url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "stars": 14922,
+      "forks": 1654,
+      "language": "Rust",
+      "pushed_at": "2026-08-01T20:43:10Z",
+      "updated_at": "2026-08-01T20:54:56Z"
+    },
+    {
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 5549,
+      "forks": 542,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T20:26:16Z",
+      "updated_at": "2026-08-01T20:45:02Z"
     },
     {
       "id": 632871628,
       "full_name": "Agenta-AI/agenta",
       "html_url": "https://github.com/Agenta-AI/agenta",
       "description": "The open-source workspace for building AI agents and automations for teams.",
-      "stars": 4416,
+      "stars": 4419,
       "forks": 600,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T16:52:30Z",
-      "updated_at": "2026-08-01T16:47:19Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3806,
-      "forks": 760,
-      "language": "Python",
-      "pushed_at": "2026-08-01T16:47:15Z",
-      "updated_at": "2026-08-01T17:02:07Z"
+      "pushed_at": "2026-08-01T20:25:50Z",
+      "updated_at": "2026-08-01T20:43:21Z"
     },
     {
       "id": 220867748,
@@ -70,107 +70,107 @@
       "stars": 3249,
       "forks": 226,
       "language": "JavaScript",
-      "pushed_at": "2026-08-01T16:59:09Z",
-      "updated_at": "2026-08-01T16:59:05Z"
+      "pushed_at": "2026-08-01T20:55:31Z",
+      "updated_at": "2026-08-01T20:48:34Z"
+    },
+    {
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 3020,
+      "forks": 415,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T20:24:55Z",
+      "updated_at": "2026-08-01T20:24:59Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1355,
+      "stars": 1364,
       "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T17:00:00Z",
-      "updated_at": "2026-08-01T16:42:35Z"
+      "pushed_at": "2026-08-01T20:29:29Z",
+      "updated_at": "2026-08-01T20:29:32Z"
     },
     {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
-      "stars": 1152,
-      "forks": 213,
-      "language": "Go",
-      "pushed_at": "2026-08-01T16:42:14Z",
-      "updated_at": "2026-08-01T16:42:17Z"
-    },
-    {
-      "id": 1213491458,
-      "full_name": "1ay1/agentty",
-      "html_url": "https://github.com/1ay1/agentty",
-      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
-      "stars": 395,
-      "forks": 12,
-      "language": "C++",
-      "pushed_at": "2026-08-01T17:03:00Z",
-      "updated_at": "2026-08-01T17:03:10Z"
-    },
-    {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 393,
-      "forks": 63,
-      "language": "Python",
-      "pushed_at": "2026-08-01T16:59:50Z",
-      "updated_at": "2026-08-01T16:59:54Z"
-    },
-    {
-      "id": 1228890794,
-      "full_name": "aqm857886159/Nomi",
-      "html_url": "https://github.com/aqm857886159/Nomi",
-      "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
-      "stars": 384,
-      "forks": 81,
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
+      "stars": 1354,
+      "forks": 87,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T16:39:42Z",
-      "updated_at": "2026-08-01T16:39:47Z"
+      "pushed_at": "2026-08-01T20:52:03Z",
+      "updated_at": "2026-08-01T20:36:20Z"
     },
     {
-      "id": 1276595002,
-      "full_name": "NotASithLord/peerd",
-      "html_url": "https://github.com/NotASithLord/peerd",
-      "description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
-      "stars": 371,
-      "forks": 36,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-01T16:55:38Z",
-      "updated_at": "2026-08-01T16:45:17Z"
+      "id": 1175857225,
+      "full_name": "skalesapp/skales",
+      "html_url": "https://github.com/skalesapp/skales",
+      "description": "Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+      "stars": 1285,
+      "forks": 191,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T20:36:35Z",
+      "updated_at": "2026-08-01T20:36:40Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 358,
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1140,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T20:31:59Z",
+      "updated_at": "2026-08-01T20:29:57Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 818,
+      "forks": 86,
+      "language": "Python",
+      "pushed_at": "2026-08-01T20:26:44Z",
+      "updated_at": "2026-08-01T20:26:48Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 806,
+      "forks": 75,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T20:56:47Z",
+      "updated_at": "2026-08-01T20:56:51Z"
+    },
+    {
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
+      "stars": 670,
+      "forks": 52,
+      "language": "Python",
+      "pushed_at": "2026-08-01T20:38:39Z",
+      "updated_at": "2026-08-01T20:38:43Z"
+    },
+    {
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 468,
       "forks": 80,
-      "language": "Python",
-      "pushed_at": "2026-08-01T17:01:23Z",
-      "updated_at": "2026-08-01T17:01:31Z"
-    },
-    {
-      "id": 1161490172,
-      "full_name": "ImFeH2/flowent",
-      "html_url": "https://github.com/ImFeH2/flowent",
-      "description": "Just say what you need. Flowent gets it done.",
-      "stars": 283,
-      "forks": 13,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T17:01:17Z",
-      "updated_at": "2026-08-01T17:01:27Z"
-    },
-    {
-      "id": 1227043167,
-      "full_name": "rajudandigam/agent-inspect",
-      "html_url": "https://github.com/rajudandigam/agent-inspect",
-      "description": "Local execution trees for TypeScript AI agents.  agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal.  It is built for TypeScript/Node.js developers..",
-      "stars": 262,
-      "forks": 89,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T16:58:09Z",
-      "updated_at": "2026-08-01T16:58:13Z"
+      "pushed_at": "2026-08-01T20:57:07Z",
+      "updated_at": "2026-08-01T20:57:03Z"
     }
   ]
 }
