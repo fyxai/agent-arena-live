@@ -5,62 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1208,
+  "total_found": 1209,
   "items": [
     {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 59751,
-      "forks": 51146,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 223749,
+      "forks": 43151,
       "language": "Python",
-      "pushed_at": "2026-08-01T13:27:46Z",
-      "updated_at": "2026-08-01T13:35:30Z"
+      "pushed_at": "2026-08-01T16:53:26Z",
+      "updated_at": "2026-08-01T17:02:19Z"
     },
     {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 28974,
-      "forks": 3062,
-      "language": "Python",
-      "pushed_at": "2026-08-01T13:30:57Z",
-      "updated_at": "2026-08-01T13:37:01Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 28493,
+      "forks": 1828,
+      "language": "Go",
+      "pushed_at": "2026-08-01T16:49:22Z",
+      "updated_at": "2026-08-01T16:56:57Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23537,
-      "forks": 3992,
+      "id": 169975410,
+      "full_name": "leon-ai/leon",
+      "html_url": "https://github.com/leon-ai/leon",
+      "description": "🧠 Leon is your open-source personal assistant.",
+      "stars": 17398,
+      "forks": 1450,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:26:47Z",
-      "updated_at": "2026-08-01T13:15:08Z"
+      "pushed_at": "2026-08-01T16:43:11Z",
+      "updated_at": "2026-08-01T16:43:16Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20829,
-      "forks": 1401,
-      "language": "HTML",
-      "pushed_at": "2026-08-01T13:36:58Z",
-      "updated_at": "2026-08-01T13:36:35Z"
+      "id": 632871628,
+      "full_name": "Agenta-AI/agenta",
+      "html_url": "https://github.com/Agenta-AI/agenta",
+      "description": "The open-source workspace for building AI agents and automations for teams.",
+      "stars": 4416,
+      "forks": 600,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T16:52:30Z",
+      "updated_at": "2026-08-01T16:47:19Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 8001,
-      "forks": 1186,
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 3806,
+      "forks": 760,
       "language": "Python",
-      "pushed_at": "2026-08-01T13:27:13Z",
-      "updated_at": "2026-08-01T13:29:02Z"
+      "pushed_at": "2026-08-01T16:47:15Z",
+      "updated_at": "2026-08-01T17:02:07Z"
     },
     {
       "id": 220867748,
@@ -70,30 +70,19 @@
       "stars": 3249,
       "forks": 226,
       "language": "JavaScript",
-      "pushed_at": "2026-08-01T13:26:57Z",
-      "updated_at": "2026-08-01T13:27:33Z"
+      "pushed_at": "2026-08-01T16:59:09Z",
+      "updated_at": "2026-08-01T16:59:05Z"
     },
     {
-      "id": 1288402762,
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "stars": 3016,
-      "forks": 414,
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 1355,
+      "forks": 172,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:21:04Z",
-      "updated_at": "2026-08-01T13:34:42Z"
-    },
-    {
-      "id": 1138835447,
-      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1792,
-      "forks": 186,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:31:35Z",
-      "updated_at": "2026-08-01T13:31:45Z"
+      "pushed_at": "2026-08-01T17:00:00Z",
+      "updated_at": "2026-08-01T16:42:35Z"
     },
     {
       "id": 1057975087,
@@ -103,41 +92,19 @@
       "stars": 1152,
       "forks": 213,
       "language": "Go",
-      "pushed_at": "2026-08-01T13:22:33Z",
-      "updated_at": "2026-08-01T13:22:37Z"
+      "pushed_at": "2026-08-01T16:42:14Z",
+      "updated_at": "2026-08-01T16:42:17Z"
     },
     {
-      "id": 1288102626,
-      "full_name": "ai4s-research/open-science",
-      "html_url": "https://github.com/ai4s-research/open-science",
-      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
-      "stars": 1056,
-      "forks": 115,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:34:33Z",
-      "updated_at": "2026-08-01T13:35:16Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 818,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-08-01T13:35:18Z",
-      "updated_at": "2026-08-01T13:35:24Z"
-    },
-    {
-      "id": 1158621117,
-      "full_name": "artokun/comfyui-mcp",
-      "html_url": "https://github.com/artokun/comfyui-mcp",
-      "description": "The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 468,
-      "forks": 80,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:20:45Z",
-      "updated_at": "2026-08-01T13:15:15Z"
+      "id": 1213491458,
+      "full_name": "1ay1/agentty",
+      "html_url": "https://github.com/1ay1/agentty",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "stars": 395,
+      "forks": 12,
+      "language": "C++",
+      "pushed_at": "2026-08-01T17:03:00Z",
+      "updated_at": "2026-08-01T17:03:10Z"
     },
     {
       "id": 1156882085,
@@ -147,30 +114,63 @@
       "stars": 393,
       "forks": 63,
       "language": "Python",
-      "pushed_at": "2026-08-01T13:36:11Z",
-      "updated_at": "2026-08-01T13:30:07Z"
+      "pushed_at": "2026-08-01T16:59:50Z",
+      "updated_at": "2026-08-01T16:59:54Z"
     },
     {
       "id": 1228890794,
       "full_name": "aqm857886159/Nomi",
       "html_url": "https://github.com/aqm857886159/Nomi",
       "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Built with Electron + React.",
-      "stars": 383,
+      "stars": 384,
       "forks": 81,
       "language": "TypeScript",
-      "pushed_at": "2026-08-01T13:35:44Z",
-      "updated_at": "2026-08-01T13:35:49Z"
+      "pushed_at": "2026-08-01T16:39:42Z",
+      "updated_at": "2026-08-01T16:39:47Z"
     },
     {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 351,
-      "forks": 131,
+      "id": 1276595002,
+      "full_name": "NotASithLord/peerd",
+      "html_url": "https://github.com/NotASithLord/peerd",
+      "description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
+      "stars": 371,
+      "forks": 36,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-01T16:55:38Z",
+      "updated_at": "2026-08-01T16:45:17Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 358,
+      "forks": 80,
       "language": "Python",
-      "pushed_at": "2026-08-01T13:23:55Z",
-      "updated_at": "2026-08-01T13:23:58Z"
+      "pushed_at": "2026-08-01T17:01:23Z",
+      "updated_at": "2026-08-01T17:01:31Z"
+    },
+    {
+      "id": 1161490172,
+      "full_name": "ImFeH2/flowent",
+      "html_url": "https://github.com/ImFeH2/flowent",
+      "description": "Just say what you need. Flowent gets it done.",
+      "stars": 283,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T17:01:17Z",
+      "updated_at": "2026-08-01T17:01:27Z"
+    },
+    {
+      "id": 1227043167,
+      "full_name": "rajudandigam/agent-inspect",
+      "html_url": "https://github.com/rajudandigam/agent-inspect",
+      "description": "Local execution trees for TypeScript AI agents.  agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal.  It is built for TypeScript/Node.js developers..",
+      "stars": 262,
+      "forks": 89,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-01T16:58:09Z",
+      "updated_at": "2026-08-01T16:58:13Z"
     }
   ]
 }
