@@ -8,70 +8,26 @@
   "total_found": 1214,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 224191,
-      "forks": 43316,
-      "language": "Python",
-      "pushed_at": "2026-08-02T17:03:44Z",
-      "updated_at": "2026-08-02T17:03:54Z"
-    },
-    {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 45579,
-      "forks": 2930,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 21260,
+      "forks": 2031,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T16:58:27Z",
-      "updated_at": "2026-08-02T17:00:21Z"
+      "pushed_at": "2026-08-02T20:55:33Z",
+      "updated_at": "2026-08-02T20:58:08Z"
     },
     {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 29818,
-      "forks": 3176,
-      "language": "Python",
-      "pushed_at": "2026-08-02T16:56:40Z",
-      "updated_at": "2026-08-02T17:01:19Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 28921,
-      "forks": 1862,
-      "language": "Go",
-      "pushed_at": "2026-08-02T16:59:56Z",
-      "updated_at": "2026-08-02T17:02:52Z"
-    },
-    {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 14888,
-      "forks": 2131,
-      "language": "Python",
-      "pushed_at": "2026-08-02T16:50:19Z",
-      "updated_at": "2026-08-02T16:50:24Z"
-    },
-    {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 5592,
-      "forks": 544,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-02T17:00:54Z",
-      "updated_at": "2026-08-02T17:01:26Z"
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 20864,
+      "forks": 1407,
+      "language": "HTML",
+      "pushed_at": "2026-08-02T20:54:31Z",
+      "updated_at": "2026-08-02T20:54:34Z"
     },
     {
       "id": 632871628,
@@ -79,21 +35,10 @@
       "html_url": "https://github.com/Agenta-AI/agenta",
       "description": "Agenta is a workspace where you and your team build agents and automations.",
       "stars": 4421,
-      "forks": 601,
+      "forks": 602,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T17:01:45Z",
-      "updated_at": "2026-08-02T16:59:03Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3820,
-      "forks": 764,
-      "language": "Python",
-      "pushed_at": "2026-08-02T16:49:38Z",
-      "updated_at": "2026-08-02T16:49:10Z"
+      "pushed_at": "2026-08-02T20:55:54Z",
+      "updated_at": "2026-08-02T20:55:21Z"
     },
     {
       "id": 220867748,
@@ -103,52 +48,85 @@
       "stars": 3250,
       "forks": 226,
       "language": "JavaScript",
-      "pushed_at": "2026-08-02T17:00:08Z",
-      "updated_at": "2026-08-02T17:00:31Z"
+      "pushed_at": "2026-08-02T20:56:19Z",
+      "updated_at": "2026-08-02T20:45:59Z"
     },
     {
-      "id": 1122859216,
-      "full_name": "the-open-engine/zeroshot",
-      "html_url": "https://github.com/the-open-engine/zeroshot",
-      "description": "Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI with trivial setup.",
-      "stars": 1686,
-      "forks": 147,
+      "id": 982183014,
+      "full_name": "lioensky/VCPToolBox",
+      "html_url": "https://github.com/lioensky/VCPToolBox",
+      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+      "stars": 2224,
+      "forks": 361,
       "language": "JavaScript",
-      "pushed_at": "2026-08-02T16:59:24Z",
-      "updated_at": "2026-08-02T16:54:26Z"
-    },
-    {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
-      "stars": 1576,
-      "forks": 96,
-      "language": "Python",
-      "pushed_at": "2026-08-02T16:54:12Z",
-      "updated_at": "2026-08-02T16:45:34Z"
+      "pushed_at": "2026-08-02T20:06:40Z",
+      "updated_at": "2026-08-02T20:06:49Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1448,
-      "forks": 181,
+      "stars": 1468,
+      "forks": 182,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T17:00:29Z",
-      "updated_at": "2026-08-02T17:04:06Z"
+      "pushed_at": "2026-08-02T20:58:58Z",
+      "updated_at": "2026-08-02T20:09:40Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 270K LoC pure Python. Up to 200X Cost Saving!",
-      "stars": 821,
-      "forks": 148,
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
+      "stars": 1360,
+      "forks": 88,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T20:44:06Z",
+      "updated_at": "2026-08-02T20:44:10Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+      "stars": 1152,
+      "forks": 213,
+      "language": "Go",
+      "pushed_at": "2026-08-02T20:58:22Z",
+      "updated_at": "2026-08-02T20:56:53Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1140,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T20:58:49Z",
+      "updated_at": "2026-08-02T20:58:53Z"
+    },
+    {
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
+      "stars": 670,
+      "forks": 52,
       "language": "Python",
-      "pushed_at": "2026-08-02T16:59:56Z",
-      "updated_at": "2026-08-02T17:00:00Z"
+      "pushed_at": "2026-08-02T20:52:32Z",
+      "updated_at": "2026-08-02T20:15:01Z"
+    },
+    {
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 476,
+      "forks": 82,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T20:50:22Z",
+      "updated_at": "2026-08-02T20:50:45Z"
     },
     {
       "id": 1227043167,
@@ -158,19 +136,41 @@
       "stars": 265,
       "forks": 89,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T17:04:32Z",
-      "updated_at": "2026-08-02T17:04:36Z"
+      "pushed_at": "2026-08-02T20:33:24Z",
+      "updated_at": "2026-08-02T20:21:02Z"
     },
     {
-      "id": 1134428804,
-      "full_name": "slive777/OpenAver",
-      "html_url": "https://github.com/slive777/OpenAver",
-      "description": "Free open-source desktop app that scrapes JAV metadata and generates NFO + cover art for Jellyfin, Emby & Kodi. No Docker, no CLI — one-click install on Windows & macOS. 8 built-in sources + optional Metatube federation (30+ providers), actress collections, cross-language tag aliases, and a REST API for AI agents.",
-      "stars": 201,
-      "forks": 20,
+      "id": 1188772136,
+      "full_name": "Bomx/distribb-skill",
+      "html_url": "https://github.com/Bomx/distribb-skill",
+      "description": "Distribb CLI, Claude, Codex, Hermes, OpenClaw skill for AI-powered SEO. Write content with your own AI, publish through Distribb's backlink network.",
+      "stars": 158,
+      "forks": 24,
       "language": "Python",
-      "pushed_at": "2026-08-02T16:54:14Z",
-      "updated_at": "2026-08-02T16:54:29Z"
+      "pushed_at": "2026-08-02T20:48:29Z",
+      "updated_at": "2026-08-02T20:48:37Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 154,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-02T20:50:10Z",
+      "updated_at": "2026-08-02T20:50:22Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-02T20:46:41Z",
+      "updated_at": "2026-08-02T20:46:54Z"
     }
   ]
 }
