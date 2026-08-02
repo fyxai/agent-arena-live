@@ -5,128 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1211,
+  "total_found": 1213,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 223938,
-      "forks": 43246,
+      "stars": 224017,
+      "forks": 43262,
       "language": "Python",
-      "pushed_at": "2026-08-02T06:22:59Z",
-      "updated_at": "2026-08-02T06:36:53Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 59810,
-      "forks": 51183,
-      "language": "Python",
-      "pushed_at": "2026-08-02T06:26:07Z",
-      "updated_at": "2026-08-02T06:30:32Z"
+      "pushed_at": "2026-08-02T09:36:35Z",
+      "updated_at": "2026-08-02T09:58:41Z"
     },
     {
       "id": 1053118194,
       "full_name": "bojieli/ai-agent-book",
       "html_url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 29410,
-      "forks": 3112,
+      "stars": 29552,
+      "forks": 3137,
       "language": "Python",
-      "pushed_at": "2026-08-02T06:34:51Z",
-      "updated_at": "2026-08-02T06:35:26Z"
+      "pushed_at": "2026-08-02T09:38:56Z",
+      "updated_at": "2026-08-02T09:59:56Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20843,
-      "forks": 1403,
-      "language": "HTML",
-      "pushed_at": "2026-08-02T06:19:57Z",
-      "updated_at": "2026-08-02T06:30:01Z"
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 21146,
+      "forks": 2019,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T09:37:52Z",
+      "updated_at": "2026-08-02T09:47:08Z"
     },
     {
       "id": 1128204614,
       "full_name": "1jehuang/jcode",
       "html_url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
-      "stars": 15012,
-      "forks": 1665,
+      "stars": 15081,
+      "forks": 1671,
       "language": "Rust",
-      "pushed_at": "2026-08-02T06:23:40Z",
-      "updated_at": "2026-08-02T06:35:42Z"
+      "pushed_at": "2026-08-02T09:41:48Z",
+      "updated_at": "2026-08-02T09:56:01Z"
     },
     {
-      "id": 1245699721,
-      "full_name": "KunAgent/Kun",
-      "html_url": "https://github.com/KunAgent/Kun",
-      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
-      "stars": 5569,
-      "forks": 543,
+      "id": 1008177062,
+      "full_name": "chaitin/MonkeyCode",
+      "html_url": "https://github.com/chaitin/MonkeyCode",
+      "description": "AI coding platform for teams",
+      "stars": 4042,
+      "forks": 572,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T06:14:02Z",
-      "updated_at": "2026-08-02T06:30:52Z"
-    },
-    {
-      "id": 1133901637,
-      "full_name": "Q00/ouroboros",
-      "html_url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: Stop prompting. Start specifying.",
-      "stars": 5242,
-      "forks": 526,
-      "language": "Python",
-      "pushed_at": "2026-08-02T06:24:09Z",
-      "updated_at": "2026-08-02T06:30:32Z"
-    },
-    {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、具身智能、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、世界模型、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
-      "stars": 4217,
-      "forks": 441,
-      "language": "Unknown",
-      "pushed_at": "2026-08-02T06:21:58Z",
-      "updated_at": "2026-08-02T06:22:18Z"
-    },
-    {
-      "id": 929338255,
-      "full_name": "groupultra/telegram-search",
-      "html_url": "https://github.com/groupultra/telegram-search",
-      "description": "🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history",
-      "stars": 4039,
-      "forks": 267,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-02T06:29:16Z",
-      "updated_at": "2026-08-02T06:29:42Z"
+      "pushed_at": "2026-08-02T09:35:19Z",
+      "updated_at": "2026-08-02T09:35:39Z"
     },
     {
       "id": 1152014383,
       "full_name": "ArcReel/ArcReel",
       "html_url": "https://github.com/ArcReel/ArcReel",
       "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3811,
-      "forks": 762,
+      "stars": 3814,
+      "forks": 764,
       "language": "Python",
-      "pushed_at": "2026-08-02T06:28:45Z",
-      "updated_at": "2026-08-02T06:18:19Z"
+      "pushed_at": "2026-08-02T10:00:07Z",
+      "updated_at": "2026-08-02T10:00:26Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3250,
+      "forks": 226,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-02T09:49:22Z",
+      "updated_at": "2026-08-02T09:49:25Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1381,
+      "stars": 1386,
       "forks": 175,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T06:32:15Z",
-      "updated_at": "2026-08-02T06:36:27Z"
+      "pushed_at": "2026-08-02T10:00:14Z",
+      "updated_at": "2026-08-02T09:44:53Z"
+    },
+    {
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
+      "stars": 1358,
+      "forks": 87,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T09:50:32Z",
+      "updated_at": "2026-08-02T09:38:12Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+      "stars": 1152,
+      "forks": 213,
+      "language": "Go",
+      "pushed_at": "2026-08-02T09:45:00Z",
+      "updated_at": "2026-08-02T09:45:04Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +125,52 @@
       "stars": 1140,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-08-02T06:36:57Z",
-      "updated_at": "2026-08-02T06:34:35Z"
+      "pushed_at": "2026-08-02T09:44:48Z",
+      "updated_at": "2026-08-02T09:44:34Z"
     },
     {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 791,
-      "forks": 96,
-      "language": "HTML",
-      "pushed_at": "2026-08-02T06:21:31Z",
-      "updated_at": "2026-08-02T06:29:48Z"
+      "id": 669468498,
+      "full_name": "geek-fun/dockit",
+      "html_url": "https://github.com/geek-fun/dockit",
+      "description": "Agentic desktop GUI client for Elasticsearch, OpenSearch, DynamoDB, MongoDB & EasySearch. Natural language queries, visual management, and monitoring. Privacy-first. Open source.",
+      "stars": 1129,
+      "forks": 114,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-02T09:47:51Z",
+      "updated_at": "2026-08-02T09:47:54Z"
     },
     {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 586,
-      "forks": 74,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-02T06:26:11Z",
-      "updated_at": "2026-08-02T06:26:29Z"
-    },
-    {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "Just install once. Anyone can use hermes-agent professionally. the powerful intelligence and memory system for your agent ⚚",
-      "stars": 421,
-      "forks": 44,
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 270K LoC pure Python. Up to 200X Cost Saving!",
+      "stars": 821,
+      "forks": 147,
       "language": "Python",
-      "pushed_at": "2026-08-02T06:13:10Z",
-      "updated_at": "2026-08-02T06:13:23Z"
+      "pushed_at": "2026-08-02T09:41:30Z",
+      "updated_at": "2026-08-02T09:41:50Z"
+    },
+    {
+      "id": 1209910880,
+      "full_name": "RandallLiuXin/GodotMaker",
+      "html_url": "https://github.com/RandallLiuXin/GodotMaker",
+      "description": "Autonomous text-to-game pipeline for Godot, powered by Claude Code,Codex,Opencode",
+      "stars": 504,
+      "forks": 43,
+      "language": "Python",
+      "pushed_at": "2026-08-02T09:51:05Z",
+      "updated_at": "2026-08-02T09:50:20Z"
+    },
+    {
+      "id": 1136535021,
+      "full_name": "govctl-org/govctl",
+      "html_url": "https://github.com/govctl-org/govctl",
+      "description": "A governance harness for AI coding.",
+      "stars": 237,
+      "forks": 12,
+      "language": "Rust",
+      "pushed_at": "2026-08-02T09:45:29Z",
+      "updated_at": "2026-08-02T09:45:39Z"
     }
   ]
 }
