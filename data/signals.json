@@ -5,84 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1227,
+  "total_found": 1229,
   "items": [
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 49373,
-      "forks": 4690,
+      "stars": 49388,
+      "forks": 4692,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:30:32Z",
-      "updated_at": "2026-08-04T06:26:31Z"
-    },
-    {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
-      "stars": 45614,
-      "forks": 2931,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:23:35Z",
-      "updated_at": "2026-08-04T06:26:51Z"
-    },
-    {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 31114,
-      "forks": 3331,
-      "language": "Python",
-      "pushed_at": "2026-08-04T06:11:09Z",
-      "updated_at": "2026-08-04T06:29:32Z"
+      "pushed_at": "2026-08-04T10:40:17Z",
+      "updated_at": "2026-08-04T10:40:23Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 30219,
-      "forks": 1944,
+      "stars": 30422,
+      "forks": 1961,
       "language": "Go",
-      "pushed_at": "2026-08-04T06:26:52Z",
-      "updated_at": "2026-08-04T06:30:36Z"
+      "pushed_at": "2026-08-04T10:42:39Z",
+      "updated_at": "2026-08-04T10:42:27Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26641,
-      "forks": 2773,
+      "stars": 26653,
+      "forks": 2774,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:24:03Z",
-      "updated_at": "2026-08-04T06:29:32Z"
+      "pushed_at": "2026-08-04T10:40:28Z",
+      "updated_at": "2026-08-04T10:40:43Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 21651,
-      "forks": 2067,
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5766,
+      "forks": 905,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:08:12Z",
-      "updated_at": "2026-08-04T06:25:12Z"
+      "pushed_at": "2026-08-04T10:39:39Z",
+      "updated_at": "2026-08-04T10:41:52Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 8080,
-      "forks": 1209,
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+      "stars": 3853,
+      "forks": 768,
       "language": "Python",
-      "pushed_at": "2026-08-04T06:26:14Z",
-      "updated_at": "2026-08-04T06:28:14Z"
+      "pushed_at": "2026-08-04T10:38:48Z",
+      "updated_at": "2026-08-04T10:31:40Z"
     },
     {
       "id": 220867748,
@@ -92,19 +70,30 @@
       "stars": 3251,
       "forks": 227,
       "language": "JavaScript",
-      "pushed_at": "2026-08-04T06:21:01Z",
-      "updated_at": "2026-08-04T06:04:29Z"
+      "pushed_at": "2026-08-04T10:39:12Z",
+      "updated_at": "2026-08-04T10:39:49Z"
     },
     {
-      "id": 1193300953,
-      "full_name": "dramaclaw/dramaclaw",
-      "html_url": "https://github.com/dramaclaw/dramaclaw",
-      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "stars": 3069,
-      "forks": 270,
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 1676,
+      "forks": 208,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:29:34Z",
-      "updated_at": "2026-08-04T06:28:00Z"
+      "pushed_at": "2026-08-04T10:38:07Z",
+      "updated_at": "2026-08-04T10:38:12Z"
+    },
+    {
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
+      "stars": 1535,
+      "forks": 125,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-04T10:40:11Z",
+      "updated_at": "2026-08-04T10:28:52Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +103,74 @@
       "stars": 1141,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:29:57Z",
-      "updated_at": "2026-08-04T06:29:51Z"
-    },
-    {
-      "id": 1301135370,
-      "full_name": "0xsline/OpenChatCut",
-      "html_url": "https://github.com/0xsline/OpenChatCut",
-      "description": "Open-source, local-first conversational AI video editor with a professional multi-track timeline, Agent Skills, MCP integration, and Remotion rendering.",
-      "stars": 785,
-      "forks": 101,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:21:56Z",
-      "updated_at": "2026-08-04T06:22:44Z"
+      "pushed_at": "2026-08-04T10:42:32Z",
+      "updated_at": "2026-08-04T10:42:53Z"
     },
     {
       "id": 1176557412,
       "full_name": "LvcidPsyche/auto-browser",
       "html_url": "https://github.com/LvcidPsyche/auto-browser",
       "description": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.",
-      "stars": 744,
+      "stars": 746,
       "forks": 121,
       "language": "Python",
-      "pushed_at": "2026-08-04T06:29:10Z",
-      "updated_at": "2026-08-04T06:30:17Z"
+      "pushed_at": "2026-08-04T10:41:50Z",
+      "updated_at": "2026-08-04T10:40:32Z"
     },
     {
-      "id": 1156882085,
-      "full_name": "vivekchand/clawmetry",
-      "html_url": "https://github.com/vivekchand/clawmetry",
-      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
-      "stars": 394,
-      "forks": 63,
-      "language": "Python",
-      "pushed_at": "2026-08-04T06:30:29Z",
-      "updated_at": "2026-08-04T06:07:22Z"
+      "id": 1276595002,
+      "full_name": "NotASithLord/peerd",
+      "html_url": "https://github.com/NotASithLord/peerd",
+      "description": "The first AI agent harness native to the browser. A browser extension that runs a full agent loop where you already work: it drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK, no backend, no telemetry.",
+      "stars": 373,
+      "forks": 36,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-04T10:35:16Z",
+      "updated_at": "2026-08-04T10:35:50Z"
     },
     {
-      "id": 1235491525,
-      "full_name": "Mininglamp-OSS/octo-web",
-      "html_url": "https://github.com/Mininglamp-OSS/octo-web",
-      "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
-      "stars": 387,
-      "forks": 72,
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 341,
+      "forks": 46,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T06:24:42Z",
-      "updated_at": "2026-08-04T06:25:18Z"
+      "pushed_at": "2026-08-04T10:42:25Z",
+      "updated_at": "2026-08-04T10:42:29Z"
     },
     {
-      "id": 1197475926,
-      "full_name": "7df-lab/devo",
-      "html_url": "https://github.com/7df-lab/devo",
-      "description": "Model-neutral agent desktop/runtime for private, enterprise, and OpenAI-compatible / Anthropic-compatible model API. Tested on DeepSeek, Qwen, Kimi, GLM models. Supports MCP,  Skills,and local code search.",
-      "stars": 312,
-      "forks": 131,
+      "id": 1174756063,
+      "full_name": "bitrouter/bitrouter",
+      "html_url": "https://github.com/bitrouter/bitrouter",
+      "description": "The model router that continuously improve your agentic workflows, works with any harnesses, any models, any loops.",
+      "stars": 216,
+      "forks": 14,
       "language": "Rust",
-      "pushed_at": "2026-08-04T06:18:30Z",
-      "updated_at": "2026-08-04T06:18:59Z"
+      "pushed_at": "2026-08-04T10:31:02Z",
+      "updated_at": "2026-08-04T10:42:21Z"
+    },
+    {
+      "id": 1185795656,
+      "full_name": "KryptosAI/mcp-observatory",
+      "html_url": "https://github.com/KryptosAI/mcp-observatory",
+      "description": "CI-native security testing for MCP servers. Attack simulation, schema drift detection, and health scoring before agents depend on them.",
+      "stars": 190,
+      "forks": 23,
+      "language": "HTML",
+      "pushed_at": "2026-08-04T10:37:39Z",
+      "updated_at": "2026-08-04T10:42:37Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 154,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-04T10:33:42Z",
+      "updated_at": "2026-08-04T10:34:41Z"
     }
   ]
 }
