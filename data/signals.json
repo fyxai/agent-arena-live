@@ -5,106 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1229,
+  "total_found": 1230,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 225396,
+      "forks": 43758,
+      "language": "Python",
+      "pushed_at": "2026-08-04T17:46:22Z",
+      "updated_at": "2026-08-04T17:49:29Z"
+    },
+    {
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 62765,
+      "forks": 12366,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-04T17:38:30Z",
+      "updated_at": "2026-08-04T17:47:11Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 49400,
+      "stars": 49404,
       "forks": 4694,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:19:19Z",
-      "updated_at": "2026-08-04T14:21:02Z"
+      "pushed_at": "2026-08-04T17:48:57Z",
+      "updated_at": "2026-08-04T17:41:46Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-      "stars": 46610,
-      "forks": 8244,
-      "language": "Python",
-      "pushed_at": "2026-08-04T14:04:22Z",
-      "updated_at": "2026-08-04T14:12:29Z"
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 20920,
+      "forks": 1424,
+      "language": "HTML",
+      "pushed_at": "2026-08-04T17:45:39Z",
+      "updated_at": "2026-08-04T17:48:30Z"
     },
     {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 31488,
-      "forks": 3376,
-      "language": "Python",
-      "pushed_at": "2026-08-04T14:17:37Z",
-      "updated_at": "2026-08-04T14:24:49Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
-      "stars": 31399,
-      "forks": 3171,
+      "id": 1139782619,
+      "full_name": "waooAI/waoowaoo",
+      "html_url": "https://github.com/waooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "stars": 13458,
+      "forks": 3001,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:16:30Z",
-      "updated_at": "2026-08-04T14:20:46Z"
+      "pushed_at": "2026-08-04T17:43:48Z",
+      "updated_at": "2026-08-04T17:50:44Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26670,
-      "forks": 2777,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:24:24Z",
-      "updated_at": "2026-08-04T14:17:57Z"
-    },
-    {
-      "id": 609539715,
-      "full_name": "e2b-dev/E2B",
-      "html_url": "https://github.com/e2b-dev/E2B",
-      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
-      "stars": 13252,
-      "forks": 982,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 8100,
+      "forks": 1212,
       "language": "Python",
-      "pushed_at": "2026-08-04T14:22:38Z",
-      "updated_at": "2026-08-04T14:23:01Z"
+      "pushed_at": "2026-08-04T17:49:02Z",
+      "updated_at": "2026-08-04T17:49:01Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
-      "stars": 3862,
-      "forks": 769,
-      "language": "Python",
-      "pushed_at": "2026-08-04T14:09:56Z",
-      "updated_at": "2026-08-04T14:14:52Z"
-    },
-    {
-      "id": 1200204014,
-      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
-      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
-      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
-      "stars": 3243,
-      "forks": 429,
-      "language": "Stata",
-      "pushed_at": "2026-08-04T14:09:18Z",
-      "updated_at": "2026-08-04T14:12:00Z"
-    },
-    {
-      "id": 254879070,
-      "full_name": "xpf0000/FlyEnv",
-      "html_url": "https://github.com/xpf0000/FlyEnv",
-      "description": "All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
-      "stars": 3109,
-      "forks": 345,
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 1701,
+      "forks": 210,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:08:30Z",
-      "updated_at": "2026-08-04T14:12:01Z"
+      "pushed_at": "2026-08-04T17:49:56Z",
+      "updated_at": "2026-08-04T17:51:31Z"
     },
     {
       "id": 1057975087,
@@ -114,52 +92,52 @@
       "stars": 1156,
       "forks": 213,
       "language": "Go",
-      "pushed_at": "2026-08-04T14:18:17Z",
-      "updated_at": "2026-08-04T14:20:50Z"
+      "pushed_at": "2026-08-04T17:37:03Z",
+      "updated_at": "2026-08-04T17:37:08Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1141,
-      "forks": 68,
+      "id": 1155766506,
+      "full_name": "razzant/ouroboros",
+      "html_url": "https://github.com/razzant/ouroboros",
+      "description": "Ouroboros — self-creating AI agent. Born Feb 16, 2026.",
+      "stars": 944,
+      "forks": 571,
+      "language": "Python",
+      "pushed_at": "2026-08-04T17:49:01Z",
+      "updated_at": "2026-08-04T17:44:54Z"
+    },
+    {
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 808,
+      "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:13:32Z",
-      "updated_at": "2026-08-04T14:10:46Z"
+      "pushed_at": "2026-08-04T17:45:06Z",
+      "updated_at": "2026-08-04T17:45:30Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 543,
-      "forks": 45,
-      "language": "Go",
-      "pushed_at": "2026-08-04T14:09:56Z",
-      "updated_at": "2026-08-04T14:11:47Z"
+      "id": 1213491458,
+      "full_name": "1ay1/agentty",
+      "html_url": "https://github.com/1ay1/agentty",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "stars": 377,
+      "forks": 13,
+      "language": "C++",
+      "pushed_at": "2026-08-04T17:41:25Z",
+      "updated_at": "2026-08-04T17:41:48Z"
     },
     {
-      "id": 1146091496,
-      "full_name": "Enderfga/claw-orchestrator",
-      "html_url": "https://github.com/Enderfga/claw-orchestrator",
-      "description": "Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support.",
-      "stars": 542,
-      "forks": 85,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:17:35Z",
-      "updated_at": "2026-08-04T14:21:28Z"
-    },
-    {
-      "id": 1158621117,
-      "full_name": "artokun/comfyui-mcp",
-      "html_url": "https://github.com/artokun/comfyui-mcp",
-      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 486,
-      "forks": 84,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T14:07:32Z",
-      "updated_at": "2026-08-04T14:09:58Z"
+      "id": 1302093382,
+      "full_name": "gakonst/nanocodex",
+      "html_url": "https://github.com/gakonst/nanocodex",
+      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
+      "stars": 360,
+      "forks": 38,
+      "language": "Rust",
+      "pushed_at": "2026-08-04T17:48:33Z",
+      "updated_at": "2026-08-04T17:48:57Z"
     },
     {
       "id": 1194576770,
@@ -169,8 +147,30 @@
       "stars": 359,
       "forks": 80,
       "language": "Python",
-      "pushed_at": "2026-08-04T14:22:58Z",
-      "updated_at": "2026-08-04T14:24:40Z"
+      "pushed_at": "2026-08-04T17:50:17Z",
+      "updated_at": "2026-08-04T17:49:14Z"
+    },
+    {
+      "id": 1186822753,
+      "full_name": "openwong2kim/wmux",
+      "html_url": "https://github.com/openwong2kim/wmux",
+      "description": "Workspace multiplexer for AI agent",
+      "stars": 321,
+      "forks": 55,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-04T17:37:10Z",
+      "updated_at": "2026-08-04T17:46:10Z"
+    },
+    {
+      "id": 1227043167,
+      "full_name": "rajudandigam/agent-inspect",
+      "html_url": "https://github.com/rajudandigam/agent-inspect",
+      "description": "Local execution trees for TypeScript AI agents.  agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal.  It is built for TypeScript/Node.js developers..",
+      "stars": 300,
+      "forks": 91,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-04T17:36:08Z",
+      "updated_at": "2026-08-04T17:36:14Z"
     }
   ]
 }
