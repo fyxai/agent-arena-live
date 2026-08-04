@@ -5,84 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1230,
+  "total_found": 1231,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 225396,
-      "forks": 43758,
+      "stars": 225450,
+      "forks": 43781,
       "language": "Python",
-      "pushed_at": "2026-08-04T17:46:22Z",
-      "updated_at": "2026-08-04T17:49:29Z"
+      "pushed_at": "2026-08-04T21:10:14Z",
+      "updated_at": "2026-08-04T21:12:32Z"
     },
     {
       "id": 1201476594,
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 62765,
-      "forks": 12366,
+      "stars": 62781,
+      "forks": 12369,
       "language": "JavaScript",
-      "pushed_at": "2026-08-04T17:38:30Z",
-      "updated_at": "2026-08-04T17:47:11Z"
+      "pushed_at": "2026-08-04T20:46:07Z",
+      "updated_at": "2026-08-04T21:07:10Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 49404,
-      "forks": 4694,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 36453,
+      "forks": 4505,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T17:48:57Z",
-      "updated_at": "2026-08-04T17:41:46Z"
+      "pushed_at": "2026-08-04T21:13:27Z",
+      "updated_at": "2026-08-04T21:12:31Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 23576,
+      "forks": 3997,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-04T21:10:06Z",
+      "updated_at": "2026-08-04T21:07:03Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 21830,
+      "forks": 2077,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-04T21:14:43Z",
+      "updated_at": "2026-08-04T21:15:00Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20920,
+      "stars": 20921,
       "forks": 1424,
       "language": "HTML",
-      "pushed_at": "2026-08-04T17:45:39Z",
-      "updated_at": "2026-08-04T17:48:30Z"
+      "pushed_at": "2026-08-04T20:58:38Z",
+      "updated_at": "2026-08-04T20:55:54Z"
     },
     {
-      "id": 1139782619,
-      "full_name": "waooAI/waoowaoo",
-      "html_url": "https://github.com/waooAI/waoowaoo",
-      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
-      "stars": 13458,
-      "forks": 3001,
+      "id": 1197569406,
+      "full_name": "NanmiCoder/cc-haha",
+      "html_url": "https://github.com/NanmiCoder/cc-haha",
+      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
+      "stars": 13906,
+      "forks": 8524,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T17:43:48Z",
-      "updated_at": "2026-08-04T17:50:44Z"
+      "pushed_at": "2026-08-04T20:47:47Z",
+      "updated_at": "2026-08-04T20:48:19Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 8100,
-      "forks": 1212,
+      "stars": 8109,
+      "forks": 1214,
       "language": "Python",
-      "pushed_at": "2026-08-04T17:49:02Z",
-      "updated_at": "2026-08-04T17:49:01Z"
+      "pushed_at": "2026-08-04T21:02:08Z",
+      "updated_at": "2026-08-04T21:02:28Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1701,
-      "forks": 210,
+      "stars": 1706,
+      "forks": 211,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T17:49:56Z",
-      "updated_at": "2026-08-04T17:51:31Z"
+      "pushed_at": "2026-08-04T21:13:44Z",
+      "updated_at": "2026-08-04T20:50:51Z"
     },
     {
       "id": 1057975087,
@@ -92,74 +114,52 @@
       "stars": 1156,
       "forks": 213,
       "language": "Go",
-      "pushed_at": "2026-08-04T17:37:03Z",
-      "updated_at": "2026-08-04T17:37:08Z"
+      "pushed_at": "2026-08-04T21:07:16Z",
+      "updated_at": "2026-08-04T21:07:36Z"
     },
     {
-      "id": 1155766506,
-      "full_name": "razzant/ouroboros",
-      "html_url": "https://github.com/razzant/ouroboros",
-      "description": "Ouroboros — self-creating AI agent. Born Feb 16, 2026.",
-      "stars": 944,
-      "forks": 571,
-      "language": "Python",
-      "pushed_at": "2026-08-04T17:49:01Z",
-      "updated_at": "2026-08-04T17:44:54Z"
+      "id": 1196898989,
+      "full_name": "awizemann/scarf",
+      "html_url": "https://github.com/awizemann/scarf",
+      "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+      "stars": 777,
+      "forks": 50,
+      "language": "Swift",
+      "pushed_at": "2026-08-04T21:09:30Z",
+      "updated_at": "2026-08-04T21:09:34Z"
     },
     {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 808,
-      "forks": 74,
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 543,
+      "forks": 45,
+      "language": "Go",
+      "pushed_at": "2026-08-04T20:36:25Z",
+      "updated_at": "2026-08-04T20:36:34Z"
+    },
+    {
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 490,
+      "forks": 84,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T17:45:06Z",
-      "updated_at": "2026-08-04T17:45:30Z"
+      "pushed_at": "2026-08-04T20:40:26Z",
+      "updated_at": "2026-08-04T20:48:54Z"
     },
     {
-      "id": 1213491458,
-      "full_name": "1ay1/agentty",
-      "html_url": "https://github.com/1ay1/agentty",
-      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
-      "stars": 377,
-      "forks": 13,
-      "language": "C++",
-      "pushed_at": "2026-08-04T17:41:25Z",
-      "updated_at": "2026-08-04T17:41:48Z"
-    },
-    {
-      "id": 1302093382,
-      "full_name": "gakonst/nanocodex",
-      "html_url": "https://github.com/gakonst/nanocodex",
-      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-      "stars": 360,
-      "forks": 38,
-      "language": "Rust",
-      "pushed_at": "2026-08-04T17:48:33Z",
-      "updated_at": "2026-08-04T17:48:57Z"
-    },
-    {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 359,
-      "forks": 80,
+      "id": 1303258850,
+      "full_name": "kirodotdev/KiroCrew",
+      "html_url": "https://github.com/kirodotdev/KiroCrew",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "stars": 320,
+      "forks": 21,
       "language": "Python",
-      "pushed_at": "2026-08-04T17:50:17Z",
-      "updated_at": "2026-08-04T17:49:14Z"
-    },
-    {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Workspace multiplexer for AI agent",
-      "stars": 321,
-      "forks": 55,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-04T17:37:10Z",
-      "updated_at": "2026-08-04T17:46:10Z"
+      "pushed_at": "2026-08-04T21:13:43Z",
+      "updated_at": "2026-08-04T21:14:26Z"
     },
     {
       "id": 1227043167,
@@ -169,8 +169,8 @@
       "stars": 300,
       "forks": 91,
       "language": "TypeScript",
-      "pushed_at": "2026-08-04T17:36:08Z",
-      "updated_at": "2026-08-04T17:36:14Z"
+      "pushed_at": "2026-08-04T21:14:29Z",
+      "updated_at": "2026-08-04T21:01:16Z"
     }
   ]
 }
