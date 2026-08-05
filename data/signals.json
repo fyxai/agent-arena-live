@@ -5,128 +5,161 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1232,
+  "total_found": 1237,
   "items": [
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 225654,
-      "forks": 43850,
-      "language": "Python",
-      "pushed_at": "2026-08-05T06:29:34Z",
-      "updated_at": "2026-08-05T06:30:36Z"
-    },
-    {
-      "id": 1131513930,
-      "full_name": "ZhuLinsen/daily_stock_analysis",
-      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "stars": 60106,
-      "forks": 51434,
-      "language": "Python",
-      "pushed_at": "2026-08-05T06:20:17Z",
-      "updated_at": "2026-08-05T06:28:50Z"
-    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 49428,
-      "forks": 4695,
+      "stars": 49484,
+      "forks": 4699,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:24:08Z",
-      "updated_at": "2026-08-05T06:30:18Z"
+      "pushed_at": "2026-08-05T10:38:06Z",
+      "updated_at": "2026-08-05T10:40:18Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 36472,
-      "forks": 4505,
+      "stars": 36477,
+      "forks": 4506,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:22:14Z",
-      "updated_at": "2026-08-05T06:27:04Z"
+      "pushed_at": "2026-08-05T10:31:55Z",
+      "updated_at": "2026-08-05T10:33:02Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26712,
-      "forks": 2783,
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 31160,
+      "forks": 2003,
+      "language": "Go",
+      "pushed_at": "2026-08-05T10:31:22Z",
+      "updated_at": "2026-08-05T10:33:02Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 23587,
+      "forks": 3997,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:28:22Z",
-      "updated_at": "2026-08-05T06:26:39Z"
+      "pushed_at": "2026-08-05T10:36:37Z",
+      "updated_at": "2026-08-05T10:30:55Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 21966,
-      "forks": 2088,
+      "stars": 22061,
+      "forks": 2092,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:22:54Z",
-      "updated_at": "2026-08-05T06:27:18Z"
+      "pushed_at": "2026-08-05T10:39:15Z",
+      "updated_at": "2026-08-05T10:40:15Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 8133,
-      "forks": 1220,
+      "stars": 8146,
+      "forks": 1223,
       "language": "Python",
-      "pushed_at": "2026-08-05T06:26:49Z",
-      "updated_at": "2026-08-05T06:27:13Z"
+      "pushed_at": "2026-08-05T10:40:24Z",
+      "updated_at": "2026-08-05T10:40:02Z"
+    },
+    {
+      "id": 1156137396,
+      "full_name": "netease-youdao/LobsterAI",
+      "html_url": "https://github.com/netease-youdao/LobsterAI",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "stars": 5774,
+      "forks": 905,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T10:31:35Z",
+      "updated_at": "2026-08-05T10:30:48Z"
+    },
+    {
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 5307,
+      "forks": 535,
+      "language": "Python",
+      "pushed_at": "2026-08-05T10:33:59Z",
+      "updated_at": "2026-08-05T10:34:14Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3250,
+      "forks": 227,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-05T10:35:19Z",
+      "updated_at": "2026-08-05T10:31:39Z"
     },
     {
       "id": 1193300953,
       "full_name": "dramaclaw/dramaclaw",
       "html_url": "https://github.com/dramaclaw/dramaclaw",
       "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "stars": 3241,
-      "forks": 275,
+      "stars": 3245,
+      "forks": 277,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:28:11Z",
-      "updated_at": "2026-08-05T06:29:12Z"
+      "pushed_at": "2026-08-05T10:32:30Z",
+      "updated_at": "2026-08-05T10:33:37Z"
     },
     {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1738,
-      "forks": 214,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:20:39Z",
-      "updated_at": "2026-08-05T06:31:10Z"
-    },
-    {
-      "id": 1186842622,
-      "full_name": "Paca-AI/paca",
-      "html_url": "https://github.com/Paca-AI/paca",
-      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
-      "stars": 1684,
-      "forks": 122,
-      "language": "Go",
-      "pushed_at": "2026-08-05T06:29:56Z",
-      "updated_at": "2026-08-05T06:30:05Z"
+      "id": 861556786,
+      "full_name": "ForceInjection/AI-fundamentals",
+      "html_url": "https://github.com/ForceInjection/AI-fundamentals",
+      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
+      "stars": 2117,
+      "forks": 330,
+      "language": "HTML",
+      "pushed_at": "2026-08-05T10:33:29Z",
+      "updated_at": "2026-08-05T10:33:36Z"
     },
     {
       "id": 1287804060,
       "full_name": "aipoch/open-science",
       "html_url": "https://github.com/aipoch/open-science",
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "stars": 1601,
-      "forks": 146,
+      "stars": 1607,
+      "forks": 151,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:30:10Z",
-      "updated_at": "2026-08-05T06:31:32Z"
+      "pushed_at": "2026-08-05T10:37:45Z",
+      "updated_at": "2026-08-05T10:37:53Z"
+    },
+    {
+      "id": 1222215394,
+      "full_name": "zhu1090093659/deepseek-pp",
+      "html_url": "https://github.com/zhu1090093659/deepseek-pp",
+      "description": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
+      "stars": 1456,
+      "forks": 186,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T10:40:02Z",
+      "updated_at": "2026-08-05T10:40:05Z"
+    },
+    {
+      "id": 1288102626,
+      "full_name": "ai4s-research/open-science",
+      "html_url": "https://github.com/ai4s-research/open-science",
+      "description": "Open Science Desktop — local-first, model-agnostic AI research workbench for macOS, Windows & Linux. Open-source Claude Science desktop alternative built on Tauri + MCP + agent skills.",
+      "stars": 1188,
+      "forks": 131,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T10:28:58Z",
+      "updated_at": "2026-08-05T10:29:03Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +169,8 @@
       "stars": 1141,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T06:30:16Z",
-      "updated_at": "2026-08-05T06:30:33Z"
-    },
-    {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 644,
-      "forks": 51,
-      "language": "Python",
-      "pushed_at": "2026-08-05T06:29:52Z",
-      "updated_at": "2026-08-05T06:31:09Z"
-    },
-    {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 341,
-      "forks": 39,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-05T06:29:05Z",
-      "updated_at": "2026-08-05T06:30:05Z"
-    },
-    {
-      "id": 1195094712,
-      "full_name": "initMAX/zabbix-mcp-server",
-      "html_url": "https://github.com/initMAX/zabbix-mcp-server",
-      "description": "MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer auth, PDF reports, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.",
-      "stars": 169,
-      "forks": 31,
-      "language": "Python",
-      "pushed_at": "2026-08-05T06:18:59Z",
-      "updated_at": "2026-08-05T06:19:42Z"
+      "pushed_at": "2026-08-05T10:40:13Z",
+      "updated_at": "2026-08-05T10:38:01Z"
     }
   ]
 }
