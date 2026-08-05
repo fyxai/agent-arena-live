@@ -5,106 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1238,
+  "total_found": 1240,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 225967,
+      "forks": 43941,
+      "language": "Python",
+      "pushed_at": "2026-08-05T17:32:18Z",
+      "updated_at": "2026-08-05T17:40:04Z"
+    },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 49558,
-      "forks": 4702,
+      "stars": 49630,
+      "forks": 4705,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:15:51Z",
-      "updated_at": "2026-08-05T14:14:13Z"
+      "pushed_at": "2026-08-05T17:41:47Z",
+      "updated_at": "2026-08-05T17:42:40Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 36488,
+      "forks": 4507,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T17:39:29Z",
+      "updated_at": "2026-08-05T17:41:18Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26726,
-      "forks": 2788,
+      "stars": 26740,
+      "forks": 2787,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:11:08Z",
-      "updated_at": "2026-08-05T14:15:18Z"
+      "pushed_at": "2026-08-05T17:30:55Z",
+      "updated_at": "2026-08-05T17:38:07Z"
     },
     {
-      "id": 813564769,
-      "full_name": "clidey/whodb",
-      "html_url": "https://github.com/clidey/whodb",
-      "description": "Where data access meets operational intelligence",
-      "stars": 4943,
-      "forks": 227,
-      "language": "Go",
-      "pushed_at": "2026-08-05T14:05:16Z",
-      "updated_at": "2026-08-05T14:07:03Z"
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 22156,
+      "forks": 2101,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-05T17:26:54Z",
+      "updated_at": "2026-08-05T17:28:15Z"
     },
     {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 4517,
-      "forks": 297,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 8166,
+      "forks": 1228,
       "language": "Python",
-      "pushed_at": "2026-08-05T14:08:12Z",
-      "updated_at": "2026-08-05T14:16:50Z"
+      "pushed_at": "2026-08-05T17:37:24Z",
+      "updated_at": "2026-08-05T17:41:34Z"
     },
     {
-      "id": 1193300953,
-      "full_name": "dramaclaw/dramaclaw",
-      "html_url": "https://github.com/dramaclaw/dramaclaw",
-      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "stars": 3252,
-      "forks": 277,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:05:28Z",
-      "updated_at": "2026-08-05T14:17:19Z"
+      "id": 1200204014,
+      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
+      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
+      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+      "stars": 3263,
+      "forks": 429,
+      "language": "Stata",
+      "pushed_at": "2026-08-05T17:32:13Z",
+      "updated_at": "2026-08-05T17:32:33Z"
     },
     {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Flights and hotels for AI agents. Hundreds of airlines plus the major booking sites, with per-flight reliability history and instant booking. Bookable hotel rates with free cancellation, pay-later terms and a 10% reservation fee.",
-      "stars": 1638,
-      "forks": 100,
+      "id": 1122859216,
+      "full_name": "the-open-engine/zeroshot",
+      "html_url": "https://github.com/the-open-engine/zeroshot",
+      "description": "Independent executor–verifier orchestration for software changes.",
+      "stars": 1691,
+      "forks": 146,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-05T17:41:34Z",
+      "updated_at": "2026-08-05T17:43:27Z"
+    },
+    {
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
+      "stars": 1627,
+      "forks": 102,
       "language": "Python",
-      "pushed_at": "2026-08-05T14:18:28Z",
-      "updated_at": "2026-08-05T14:17:02Z"
+      "pushed_at": "2026-08-05T17:32:36Z",
+      "updated_at": "2026-08-05T17:33:29Z"
     },
     {
-      "id": 1252432466,
-      "full_name": "Gitlawb/zero",
-      "html_url": "https://github.com/Gitlawb/zero",
-      "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 1207,
-      "forks": 126,
-      "language": "Go",
-      "pushed_at": "2026-08-05T14:09:56Z",
-      "updated_at": "2026-08-05T14:13:33Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1141,
-      "forks": 68,
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1352,
+      "forks": 159,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:18:32Z",
-      "updated_at": "2026-08-05T14:13:14Z"
+      "pushed_at": "2026-08-05T17:34:15Z",
+      "updated_at": "2026-08-05T17:35:05Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 862,
-      "forks": 68,
+      "stars": 1014,
+      "forks": 77,
       "language": "Python",
-      "pushed_at": "2026-08-05T14:12:57Z",
-      "updated_at": "2026-08-05T14:18:08Z"
+      "pushed_at": "2026-08-05T17:38:02Z",
+      "updated_at": "2026-08-05T17:43:53Z"
     },
     {
       "id": 591995344,
@@ -114,52 +136,30 @@
       "stars": 819,
       "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-05T14:08:44Z",
-      "updated_at": "2026-08-05T14:12:32Z"
-    },
-    {
-      "id": 1202410617,
-      "full_name": "FailproofAI/failproofai",
-      "html_url": "https://github.com/FailproofAI/failproofai",
-      "description": "Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
-      "stars": 713,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:08:56Z",
-      "updated_at": "2026-08-05T14:10:49Z"
-    },
-    {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 569,
-      "forks": 75,
-      "language": "Python",
-      "pushed_at": "2026-08-05T14:11:55Z",
-      "updated_at": "2026-08-05T14:14:26Z"
+      "pushed_at": "2026-08-05T17:38:12Z",
+      "updated_at": "2026-08-05T17:38:59Z"
     },
     {
       "id": 1142397834,
       "full_name": "qf-studio/pilot",
       "html_url": "https://github.com/qf-studio/pilot",
       "description": "AI that ships your tickets.",
-      "stars": 544,
+      "stars": 545,
       "forks": 45,
       "language": "Go",
-      "pushed_at": "2026-08-05T14:07:47Z",
-      "updated_at": "2026-08-05T14:10:13Z"
+      "pushed_at": "2026-08-05T17:42:21Z",
+      "updated_at": "2026-08-05T17:42:56Z"
     },
     {
       "id": 1158621117,
       "full_name": "artokun/comfyui-mcp",
       "html_url": "https://github.com/artokun/comfyui-mcp",
       "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 497,
-      "forks": 85,
+      "stars": 498,
+      "forks": 84,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:09:07Z",
-      "updated_at": "2026-08-05T14:11:28Z"
+      "pushed_at": "2026-08-05T17:43:16Z",
+      "updated_at": "2026-08-05T17:37:17Z"
     },
     {
       "id": 803221216,
@@ -169,8 +169,8 @@
       "stars": 402,
       "forks": 26,
       "language": "TypeScript",
-      "pushed_at": "2026-08-05T14:11:30Z",
-      "updated_at": "2026-08-05T14:14:59Z"
+      "pushed_at": "2026-08-05T17:34:45Z",
+      "updated_at": "2026-08-05T17:35:10Z"
     }
   ]
 }
