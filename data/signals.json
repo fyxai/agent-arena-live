@@ -8,169 +8,169 @@
   "total_found": 1240,
   "items": [
     {
-      "id": 1165277268,
-      "full_name": "Panniantong/Agent-Reach",
-      "html_url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "stars": 67080,
-      "forks": 5589,
-      "language": "Python",
-      "pushed_at": "2026-08-06T02:40:27Z",
-      "updated_at": "2026-08-06T02:52:45Z"
-    },
-    {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 49713,
-      "forks": 4712,
+      "stars": 49762,
+      "forks": 4716,
       "language": "TypeScript",
-      "pushed_at": "2026-08-06T02:49:08Z",
-      "updated_at": "2026-08-06T02:53:28Z"
+      "pushed_at": "2026-08-06T06:34:18Z",
+      "updated_at": "2026-08-06T06:30:03Z"
     },
     {
       "id": 1165324947,
       "full_name": "agentscope-ai/QwenPaw",
       "html_url": "https://github.com/agentscope-ai/QwenPaw",
       "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 33668,
+      "stars": 33717,
       "forks": 2948,
       "language": "Python",
-      "pushed_at": "2026-08-06T02:46:46Z",
-      "updated_at": "2026-08-06T02:46:51Z"
+      "pushed_at": "2026-08-06T06:34:05Z",
+      "updated_at": "2026-08-06T06:33:48Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 30533,
-      "forks": 8900,
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 31855,
+      "forks": 2057,
+      "language": "Go",
+      "pushed_at": "2026-08-06T06:24:25Z",
+      "updated_at": "2026-08-06T06:34:01Z"
+    },
+    {
+      "id": 1033778670,
+      "full_name": "iOfficeAI/AionUi",
+      "html_url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up ｜Star if you like it!",
+      "stars": 31549,
+      "forks": 3203,
       "language": "TypeScript",
-      "pushed_at": "2026-08-06T02:42:41Z",
-      "updated_at": "2026-08-06T02:49:32Z"
+      "pushed_at": "2026-08-06T06:12:14Z",
+      "updated_at": "2026-08-06T06:22:46Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 20957,
-      "forks": 1427,
-      "language": "HTML",
-      "pushed_at": "2026-08-06T02:51:25Z",
-      "updated_at": "2026-08-06T02:47:26Z"
-    },
-    {
-      "id": 1128204614,
-      "full_name": "1jehuang/jcode",
-      "html_url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "stars": 16102,
-      "forks": 1787,
-      "language": "Rust",
-      "pushed_at": "2026-08-06T02:47:51Z",
-      "updated_at": "2026-08-06T02:49:07Z"
-    },
-    {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
-      "stars": 3884,
-      "forks": 779,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 8190,
+      "forks": 1234,
       "language": "Python",
-      "pushed_at": "2026-08-06T02:51:20Z",
-      "updated_at": "2026-08-06T02:51:22Z"
+      "pushed_at": "2026-08-06T06:33:32Z",
+      "updated_at": "2026-08-06T06:33:46Z"
+    },
+    {
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 7101,
+      "forks": 1484,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-06T06:31:25Z",
+      "updated_at": "2026-08-06T06:30:20Z"
+    },
+    {
+      "id": 1178833585,
+      "full_name": "iflytek/skillhub",
+      "html_url": "https://github.com/iflytek/skillhub",
+      "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+      "stars": 4836,
+      "forks": 765,
+      "language": "Java",
+      "pushed_at": "2026-08-06T06:26:34Z",
+      "updated_at": "2026-08-06T06:27:47Z"
+    },
+    {
+      "id": 243201359,
+      "full_name": "killop/anything_about_game",
+      "html_url": "https://github.com/killop/anything_about_game",
+      "description": "A wonderful list of Game Development resources.",
+      "stars": 3995,
+      "forks": 517,
+      "language": "Unknown",
+      "pushed_at": "2026-08-06T06:09:09Z",
+      "updated_at": "2026-08-06T06:09:49Z"
+    },
+    {
+      "id": 1193300953,
+      "full_name": "dramaclaw/dramaclaw",
+      "html_url": "https://github.com/dramaclaw/dramaclaw",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "stars": 3304,
+      "forks": 281,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-06T06:31:32Z",
+      "updated_at": "2026-08-06T06:23:42Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1788,
+      "stars": 1797,
       "forks": 220,
       "language": "TypeScript",
-      "pushed_at": "2026-08-06T02:43:01Z",
-      "updated_at": "2026-08-06T02:45:40Z"
+      "pushed_at": "2026-08-06T06:33:32Z",
+      "updated_at": "2026-08-06T06:34:01Z"
+    },
+    {
+      "id": 1306722822,
+      "full_name": "powerycy/goutoujunshi",
+      "html_url": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "stars": 1730,
+      "forks": 192,
+      "language": "Python",
+      "pushed_at": "2026-08-06T06:21:03Z",
+      "updated_at": "2026-08-06T06:21:46Z"
     },
     {
       "id": 1287804060,
       "full_name": "aipoch/open-science",
       "html_url": "https://github.com/aipoch/open-science",
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "stars": 1700,
+      "stars": 1716,
       "forks": 154,
       "language": "TypeScript",
-      "pushed_at": "2026-08-06T02:52:16Z",
-      "updated_at": "2026-08-06T02:50:53Z"
+      "pushed_at": "2026-08-06T06:34:00Z",
+      "updated_at": "2026-08-06T06:34:42Z"
+    },
+    {
+      "id": 1222215394,
+      "full_name": "zhu1090093659/deepseek-pp",
+      "html_url": "https://github.com/zhu1090093659/deepseek-pp",
+      "description": "DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.",
+      "stars": 1467,
+      "forks": 185,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-06T06:28:09Z",
+      "updated_at": "2026-08-06T06:28:45Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 1233,
-      "forks": 96,
+      "stars": 1288,
+      "forks": 102,
       "language": "Python",
-      "pushed_at": "2026-08-06T02:52:51Z",
-      "updated_at": "2026-08-06T02:53:03Z"
+      "pushed_at": "2026-08-06T06:30:34Z",
+      "updated_at": "2026-08-06T06:32:23Z"
     },
     {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 954,
-      "forks": 101,
-      "language": "HTML",
-      "pushed_at": "2026-08-06T02:43:50Z",
-      "updated_at": "2026-08-06T02:43:55Z"
-    },
-    {
-      "id": 1158621117,
-      "full_name": "artokun/comfyui-mcp",
-      "html_url": "https://github.com/artokun/comfyui-mcp",
-      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 500,
-      "forks": 83,
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Zero, your trustworthy AI teammate for real work. ",
+      "stars": 1141,
+      "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-08-06T02:52:20Z",
-      "updated_at": "2026-08-06T02:52:29Z"
-    },
-    {
-      "id": 1235491525,
-      "full_name": "Mininglamp-OSS/octo-web",
-      "html_url": "https://github.com/Mininglamp-OSS/octo-web",
-      "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
-      "stars": 488,
-      "forks": 82,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-06T02:43:23Z",
-      "updated_at": "2026-08-06T02:43:32Z"
-    },
-    {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 383,
-      "forks": 48,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-06T02:46:38Z",
-      "updated_at": "2026-08-06T02:51:33Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 350,
-      "forks": 51,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-06T02:40:10Z",
-      "updated_at": "2026-08-06T02:40:13Z"
+      "pushed_at": "2026-08-06T06:33:58Z",
+      "updated_at": "2026-08-06T06:20:12Z"
     }
   ]
 }
