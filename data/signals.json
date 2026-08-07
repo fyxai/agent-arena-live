@@ -5,51 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1250,
+  "total_found": 1253,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 226795,
-      "forks": 44286,
+      "stars": 226892,
+      "forks": 44313,
       "language": "Python",
-      "pushed_at": "2026-08-07T09:01:43Z",
-      "updated_at": "2026-08-07T09:03:10Z"
+      "pushed_at": "2026-08-07T13:10:47Z",
+      "updated_at": "2026-08-07T13:12:43Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-      "stars": 46732,
-      "forks": 8273,
+      "id": 1131513930,
+      "full_name": "ZhuLinsen/daily_stock_analysis",
+      "html_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 60363,
+      "forks": 51629,
       "language": "Python",
-      "pushed_at": "2026-08-07T08:53:31Z",
-      "updated_at": "2026-08-07T08:56:57Z"
-    },
-    {
-      "id": 1165324947,
-      "full_name": "agentscope-ai/QwenPaw",
-      "html_url": "https://github.com/agentscope-ai/QwenPaw",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 34305,
-      "forks": 2955,
-      "language": "Python",
-      "pushed_at": "2026-08-07T08:50:24Z",
-      "updated_at": "2026-08-07T08:52:11Z"
+      "pushed_at": "2026-08-07T13:06:57Z",
+      "updated_at": "2026-08-07T13:12:53Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26808,
-      "forks": 2801,
+      "stars": 26821,
+      "forks": 2802,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T08:55:08Z",
-      "updated_at": "2026-08-07T08:56:04Z"
+      "pushed_at": "2026-08-07T13:00:46Z",
+      "updated_at": "2026-08-07T13:11:25Z"
+    },
+    {
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 23582,
+      "forks": 2814,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T12:57:33Z",
+      "updated_at": "2026-08-07T13:07:00Z"
+    },
+    {
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-studio",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 9831,
+      "forks": 1208,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T12:55:46Z",
+      "updated_at": "2026-08-07T12:56:10Z"
+    },
+    {
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 8248,
+      "forks": 1245,
+      "language": "Python",
+      "pushed_at": "2026-08-07T13:02:32Z",
+      "updated_at": "2026-08-07T13:11:26Z"
+    },
+    {
+      "id": 1245699721,
+      "full_name": "KunAgent/Kun",
+      "html_url": "https://github.com/KunAgent/Kun",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "stars": 5741,
+      "forks": 554,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T13:05:25Z",
+      "updated_at": "2026-08-07T13:10:03Z"
     },
     {
       "id": 1152014383,
@@ -59,41 +92,30 @@
       "stars": 3904,
       "forks": 783,
       "language": "Python",
-      "pushed_at": "2026-08-07T08:58:39Z",
-      "updated_at": "2026-08-07T08:58:58Z"
+      "pushed_at": "2026-08-07T12:58:51Z",
+      "updated_at": "2026-08-07T12:58:23Z"
     },
     {
-      "id": 1288402762,
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "stars": 3103,
-      "forks": 429,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T08:48:24Z",
-      "updated_at": "2026-08-07T09:00:49Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3252,
+      "forks": 230,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-07T13:11:28Z",
+      "updated_at": "2026-08-07T13:11:50Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 2113,
-      "forks": 162,
+      "stars": 2199,
+      "forks": 172,
       "language": "Python",
-      "pushed_at": "2026-08-07T09:02:29Z",
-      "updated_at": "2026-08-07T09:02:56Z"
-    },
-    {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "stars": 1737,
-      "forks": 156,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T08:45:33Z",
-      "updated_at": "2026-08-07T08:47:03Z"
+      "pushed_at": "2026-08-07T12:53:11Z",
+      "updated_at": "2026-08-07T13:03:28Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +125,52 @@
       "stars": 1142,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T09:03:07Z",
-      "updated_at": "2026-08-07T08:57:28Z"
+      "pushed_at": "2026-08-07T13:12:29Z",
+      "updated_at": "2026-08-07T13:06:34Z"
     },
     {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 983,
-      "forks": 103,
-      "language": "HTML",
-      "pushed_at": "2026-08-07T08:49:10Z",
-      "updated_at": "2026-08-07T08:50:25Z"
-    },
-    {
-      "id": 1202410617,
-      "full_name": "FailproofAI/failproofai",
-      "html_url": "https://github.com/FailproofAI/failproofai",
-      "description": "Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
-      "stars": 714,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-07T08:52:16Z",
-      "updated_at": "2026-08-07T08:53:10Z"
-    },
-    {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "Just install once. Anyone can use hermes-agent professionally. the powerful intelligence and memory system for your agent ⚚",
-      "stars": 613,
-      "forks": 56,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 821,
+      "forks": 87,
       "language": "Python",
-      "pushed_at": "2026-08-07T08:59:37Z",
-      "updated_at": "2026-08-07T09:02:09Z"
+      "pushed_at": "2026-08-07T13:11:49Z",
+      "updated_at": "2026-08-07T13:12:23Z"
+    },
+    {
+      "id": 860476957,
+      "full_name": "rusiaaman/wcgw",
+      "html_url": "https://github.com/rusiaaman/wcgw",
+      "description": "Shell and coding agent on mcp clients",
+      "stars": 670,
+      "forks": 64,
+      "language": "Python",
+      "pushed_at": "2026-08-07T13:02:37Z",
+      "updated_at": "2026-08-07T13:05:23Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 547,
+      "forks": 45,
+      "language": "Go",
+      "pushed_at": "2026-08-07T13:05:59Z",
+      "updated_at": "2026-08-07T13:08:09Z"
     },
     {
       "id": 1158621117,
       "full_name": "artokun/comfyui-mcp",
       "html_url": "https://github.com/artokun/comfyui-mcp",
       "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 515,
+      "stars": 518,
       "forks": 83,
       "language": "TypeScript",
-      "pushed_at": "2026-08-07T09:00:48Z",
-      "updated_at": "2026-08-07T09:02:45Z"
-    },
-    {
-      "id": 1276999782,
-      "full_name": "Johell1NS/browser-search",
-      "html_url": "https://github.com/Johell1NS/browser-search",
-      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "stars": 484,
-      "forks": 36,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-07T08:48:51Z",
-      "updated_at": "2026-08-07T09:01:57Z"
-    },
-    {
-      "id": 809764991,
-      "full_name": "shibing624/agentica",
-      "html_url": "https://github.com/shibing624/agentica",
-      "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & death-spiral guards, persistent cross-session memory, self-evolving SKILL.md, /goal long-task loop, 40+ tools, 20+ models, MCP/ACP. Ships a CLI + Web Gateway out of the box.",
-      "stars": 340,
-      "forks": 49,
-      "language": "Python",
-      "pushed_at": "2026-08-07T08:55:07Z",
-      "updated_at": "2026-08-07T08:56:34Z"
+      "pushed_at": "2026-08-07T13:02:53Z",
+      "updated_at": "2026-08-07T13:05:36Z"
     }
   ]
 }
