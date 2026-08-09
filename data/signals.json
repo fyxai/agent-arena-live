@@ -5,95 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1263,
+  "total_found": 1264,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 227677,
+      "forks": 44652,
+      "language": "Python",
+      "pushed_at": "2026-08-09T08:43:34Z",
+      "updated_at": "2026-08-09T08:47:51Z"
+    },
+    {
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46427,
+      "forks": 10305,
+      "language": "Python",
+      "pushed_at": "2026-08-09T08:33:25Z",
+      "updated_at": "2026-08-09T08:33:42Z"
+    },
     {
       "id": 1053118194,
       "full_name": "bojieli/ai-agent-book",
       "html_url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 34876,
-      "forks": 3771,
+      "stars": 34968,
+      "forks": 3778,
       "language": "Python",
-      "pushed_at": "2026-08-09T05:04:06Z",
-      "updated_at": "2026-08-09T05:09:06Z"
+      "pushed_at": "2026-08-09T08:42:16Z",
+      "updated_at": "2026-08-09T08:47:06Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 33226,
-      "forks": 2146,
+      "stars": 33278,
+      "forks": 2148,
       "language": "Go",
-      "pushed_at": "2026-08-09T05:01:59Z",
-      "updated_at": "2026-08-09T05:01:44Z"
-    },
-    {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-      "stars": 31732,
-      "forks": 3233,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T05:00:12Z",
-      "updated_at": "2026-08-09T05:02:34Z"
+      "pushed_at": "2026-08-09T08:35:12Z",
+      "updated_at": "2026-08-09T08:40:40Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26862,
-      "forks": 2826,
+      "stars": 26865,
+      "forks": 2827,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T05:05:57Z",
-      "updated_at": "2026-08-09T05:03:59Z"
+      "pushed_at": "2026-08-09T08:47:36Z",
+      "updated_at": "2026-08-09T08:32:24Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 23080,
-      "forks": 2192,
+      "id": 254879070,
+      "full_name": "xpf0000/FlyEnv",
+      "html_url": "https://github.com/xpf0000/FlyEnv",
+      "description": "All-in-One Native Local Development Environment for Windows, macOS & Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
+      "stars": 3121,
+      "forks": 347,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T04:51:45Z",
-      "updated_at": "2026-08-09T05:02:12Z"
+      "pushed_at": "2026-08-09T08:38:24Z",
+      "updated_at": "2026-08-09T08:38:47Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 2410,
-      "forks": 201,
+      "stars": 2418,
+      "forks": 204,
       "language": "Python",
-      "pushed_at": "2026-08-09T05:09:15Z",
-      "updated_at": "2026-08-09T05:08:27Z"
+      "pushed_at": "2026-08-09T08:48:48Z",
+      "updated_at": "2026-08-09T08:43:05Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 1919,
-      "forks": 244,
+      "stars": 1920,
+      "forks": 245,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T04:44:19Z",
-      "updated_at": "2026-08-09T05:02:55Z"
+      "pushed_at": "2026-08-09T08:44:11Z",
+      "updated_at": "2026-08-09T08:33:57Z"
     },
     {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "stars": 1750,
-      "forks": 160,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T05:04:55Z",
-      "updated_at": "2026-08-09T04:51:35Z"
+      "id": 1215501706,
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+      "stars": 1190,
+      "forks": 167,
+      "language": "Rust",
+      "pushed_at": "2026-08-09T08:42:17Z",
+      "updated_at": "2026-08-09T08:42:35Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +114,63 @@
       "stars": 1144,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T05:08:34Z",
-      "updated_at": "2026-08-09T05:00:42Z"
+      "pushed_at": "2026-08-09T08:48:43Z",
+      "updated_at": "2026-08-09T08:27:56Z"
     },
     {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 1025,
-      "forks": 103,
-      "language": "HTML",
-      "pushed_at": "2026-08-09T05:05:29Z",
-      "updated_at": "2026-08-09T04:55:59Z"
-    },
-    {
-      "id": 1293600453,
-      "full_name": "TencentCloud/Octop",
-      "html_url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "stars": 970,
-      "forks": 117,
-      "language": "Python",
-      "pushed_at": "2026-08-09T04:41:43Z",
-      "updated_at": "2026-08-09T04:48:39Z"
-    },
-    {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "Just install once. Anyone can use hermes-agent professionally. the powerful intelligence and memory system for your agent ⚚",
-      "stars": 724,
-      "forks": 63,
-      "language": "Python",
-      "pushed_at": "2026-08-09T05:08:46Z",
-      "updated_at": "2026-08-09T05:03:51Z"
-    },
-    {
-      "id": 1228890794,
-      "full_name": "aqm857886159/Nomi",
-      "html_url": "https://github.com/aqm857886159/Nomi",
-      "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
-      "stars": 403,
-      "forks": 86,
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 310K LoC Python. Up to 200X Cost Saving!",
+      "stars": 860,
+      "forks": 156,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T05:09:38Z",
-      "updated_at": "2026-08-09T04:36:46Z"
+      "pushed_at": "2026-08-09T08:45:17Z",
+      "updated_at": "2026-08-09T08:45:37Z"
     },
     {
-      "id": 1170397757,
-      "full_name": "scitix/siclaw",
-      "html_url": "https://github.com/scitix/siclaw",
-      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
-      "stars": 225,
-      "forks": 28,
+      "id": 1160289313,
+      "full_name": "rcarmo/piclaw",
+      "html_url": "https://github.com/rcarmo/piclaw",
+      "description": "pi coding agent in a technicolor web trenchcoat ",
+      "stars": 813,
+      "forks": 77,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T04:59:52Z",
-      "updated_at": "2026-08-09T04:59:52Z"
+      "pushed_at": "2026-08-09T08:33:38Z",
+      "updated_at": "2026-08-09T08:34:25Z"
     },
     {
-      "id": 1319093879,
-      "full_name": "mrpulor-gh/nuphus-mcp",
-      "html_url": "https://github.com/mrpulor-gh/nuphus-mcp",
-      "description": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "stars": 175,
-      "forks": 22,
-      "language": "Rust",
-      "pushed_at": "2026-08-09T04:42:03Z",
-      "updated_at": "2026-08-09T04:42:09Z"
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 606,
+      "forks": 50,
+      "language": "Go",
+      "pushed_at": "2026-08-09T08:38:41Z",
+      "updated_at": "2026-08-09T08:38:44Z"
+    },
+    {
+      "id": 1086124473,
+      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 572,
+      "forks": 75,
+      "language": "Python",
+      "pushed_at": "2026-08-09T08:46:57Z",
+      "updated_at": "2026-08-09T08:47:01Z"
+    },
+    {
+      "id": 1162230313,
+      "full_name": "mnemon-dev/mnemon",
+      "html_url": "https://github.com/mnemon-dev/mnemon",
+      "description": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.",
+      "stars": 399,
+      "forks": 59,
+      "language": "Go",
+      "pushed_at": "2026-08-09T08:42:13Z",
+      "updated_at": "2026-08-09T08:42:15Z"
     }
   ]
 }
