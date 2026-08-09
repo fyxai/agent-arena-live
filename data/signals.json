@@ -5,128 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1265,
+  "total_found": 1267,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 227836,
-      "forks": 44709,
+      "stars": 227898,
+      "forks": 44740,
       "language": "Python",
-      "pushed_at": "2026-08-09T16:38:24Z",
-      "updated_at": "2026-08-09T16:38:16Z"
+      "pushed_at": "2026-08-09T20:23:11Z",
+      "updated_at": "2026-08-09T20:37:24Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 33390,
-      "forks": 2157,
+      "stars": 33415,
+      "forks": 2160,
       "language": "Go",
-      "pushed_at": "2026-08-09T16:32:09Z",
-      "updated_at": "2026-08-09T16:38:42Z"
+      "pushed_at": "2026-08-09T20:04:08Z",
+      "updated_at": "2026-08-09T20:32:36Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26875,
-      "forks": 2827,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 23274,
+      "forks": 2208,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:26:21Z",
-      "updated_at": "2026-08-09T16:34:10Z"
+      "pushed_at": "2026-08-09T20:26:12Z",
+      "updated_at": "2026-08-09T20:34:39Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23671,
-      "forks": 4014,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:39:41Z",
-      "updated_at": "2026-08-09T16:24:09Z"
-    },
-    {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 15297,
-      "forks": 2264,
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: Stop prompting. Start specifying.",
+      "stars": 5358,
+      "forks": 535,
       "language": "Python",
-      "pushed_at": "2026-08-09T16:26:42Z",
-      "updated_at": "2026-08-09T16:26:49Z"
+      "pushed_at": "2026-08-09T20:32:49Z",
+      "updated_at": "2026-08-09T20:09:15Z"
     },
     {
-      "id": 1197569406,
-      "full_name": "NanmiCoder/cc-haha",
-      "html_url": "https://github.com/NanmiCoder/cc-haha",
-      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
-      "stars": 14009,
-      "forks": 8529,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:30:56Z",
-      "updated_at": "2026-08-09T16:31:45Z"
-    },
-    {
-      "id": 1142406715,
-      "full_name": "EvoScientist/EvoScientist",
-      "html_url": "https://github.com/EvoScientist/EvoScientist",
-      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
-      "stars": 4560,
-      "forks": 301,
-      "language": "Python",
-      "pushed_at": "2026-08-09T16:31:19Z",
-      "updated_at": "2026-08-09T16:34:24Z"
-    },
-    {
-      "id": 1214349536,
-      "full_name": "Netw0rkNoob/VulnClaw",
-      "html_url": "https://github.com/Netw0rkNoob/VulnClaw",
-      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "stars": 2658,
-      "forks": 353,
-      "language": "Python",
-      "pushed_at": "2026-08-09T16:34:37Z",
-      "updated_at": "2026-08-09T16:39:31Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3255,
+      "forks": 230,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-09T20:22:22Z",
+      "updated_at": "2026-08-09T19:56:44Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 2439,
+      "stars": 2449,
       "forks": 208,
       "language": "Python",
-      "pushed_at": "2026-08-09T16:39:21Z",
-      "updated_at": "2026-08-09T16:39:44Z"
+      "pushed_at": "2026-08-09T20:33:09Z",
+      "updated_at": "2026-08-09T20:27:57Z"
     },
     {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "stars": 1805,
-      "forks": 159,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:34:14Z",
-      "updated_at": "2026-08-09T16:34:19Z"
+      "id": 1155766506,
+      "full_name": "razzant/ouroboros",
+      "html_url": "https://github.com/razzant/ouroboros",
+      "description": "Ouroboros — self-creating AI agent. Born Feb 16, 2026.",
+      "stars": 1019,
+      "forks": 582,
+      "language": "Python",
+      "pushed_at": "2026-08-09T19:58:59Z",
+      "updated_at": "2026-08-09T20:00:57Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1144,
-      "forks": 67,
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 310K LoC Python. Up to 200X Cost Saving!",
+      "stars": 860,
+      "forks": 155,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:31:42Z",
-      "updated_at": "2026-08-09T16:24:01Z"
+      "pushed_at": "2026-08-09T20:21:04Z",
+      "updated_at": "2026-08-09T20:21:19Z"
     },
     {
       "id": 591995344,
@@ -136,41 +103,74 @@
       "stars": 823,
       "forks": 89,
       "language": "Python",
-      "pushed_at": "2026-08-09T16:33:21Z",
-      "updated_at": "2026-08-09T16:33:25Z"
+      "pushed_at": "2026-08-09T20:20:22Z",
+      "updated_at": "2026-08-09T20:20:32Z"
     },
     {
       "id": 1158621117,
       "full_name": "artokun/comfyui-mcp",
       "html_url": "https://github.com/artokun/comfyui-mcp",
       "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 531,
+      "stars": 532,
       "forks": 85,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:38:16Z",
-      "updated_at": "2026-08-09T16:32:15Z"
+      "pushed_at": "2026-08-09T20:30:58Z",
+      "updated_at": "2026-08-09T20:24:34Z"
     },
     {
-      "id": 1146959118,
-      "full_name": "opengeos/GeoAgent",
-      "html_url": "https://github.com/opengeos/GeoAgent",
-      "description": "A multimodal AI agent for geospatial data analysis and interactive visualization",
-      "stars": 456,
-      "forks": 85,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 392,
+      "forks": 62,
       "language": "Python",
-      "pushed_at": "2026-08-09T16:28:46Z",
-      "updated_at": "2026-08-09T16:27:56Z"
+      "pushed_at": "2026-08-09T20:36:48Z",
+      "updated_at": "2026-08-09T20:33:13Z"
     },
     {
-      "id": 1230167645,
-      "full_name": "prevalentWare/opencode-goal-plugin",
-      "html_url": "https://github.com/prevalentWare/opencode-goal-plugin",
-      "description": "OpenCode goal plugin for Codex-style goal mode, /goal slash commands, persistent objectives, and AI coding agent focus.",
-      "stars": 237,
-      "forks": 20,
+      "id": 1302093382,
+      "full_name": "gakonst/nanocodex",
+      "html_url": "https://github.com/gakonst/nanocodex",
+      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
+      "stars": 378,
+      "forks": 42,
+      "language": "Rust",
+      "pushed_at": "2026-08-09T20:33:46Z",
+      "updated_at": "2026-08-09T20:24:09Z"
+    },
+    {
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 366,
+      "forks": 52,
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T16:19:06Z",
-      "updated_at": "2026-08-09T16:18:38Z"
+      "pushed_at": "2026-08-09T20:32:51Z",
+      "updated_at": "2026-08-09T20:32:55Z"
+    },
+    {
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 155,
+      "forks": 0,
+      "language": "HTML",
+      "pushed_at": "2026-08-09T20:26:32Z",
+      "updated_at": "2026-08-09T20:26:41Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 152,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-09T20:24:59Z",
+      "updated_at": "2026-08-09T20:25:03Z"
     }
   ]
 }
