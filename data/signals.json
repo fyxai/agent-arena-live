@@ -5,106 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1273,
+  "total_found": 1277,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 228492,
-      "forks": 44951,
+      "stars": 228581,
+      "forks": 44982,
       "language": "Python",
-      "pushed_at": "2026-08-11T02:00:22Z",
-      "updated_at": "2026-08-11T02:00:48Z"
+      "pushed_at": "2026-08-11T05:08:06Z",
+      "updated_at": "2026-08-11T05:11:17Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 46450,
-      "forks": 10311,
-      "language": "Python",
-      "pushed_at": "2026-08-11T01:54:18Z",
-      "updated_at": "2026-08-11T01:54:45Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 50259,
+      "forks": 4760,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-11T05:08:18Z",
+      "updated_at": "2026-08-11T05:08:16Z"
     },
     {
       "id": 1113573066,
       "full_name": "hugohe3/ppt-master",
       "html_url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 44488,
-      "forks": 3636,
+      "stars": 44563,
+      "forks": 3642,
       "language": "Python",
-      "pushed_at": "2026-08-11T01:52:32Z",
-      "updated_at": "2026-08-11T02:00:42Z"
+      "pushed_at": "2026-08-11T04:57:44Z",
+      "updated_at": "2026-08-11T05:12:47Z"
+    },
+    {
+      "id": 1053118194,
+      "full_name": "bojieli/ai-agent-book",
+      "html_url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 35836,
+      "forks": 3895,
+      "language": "Python",
+      "pushed_at": "2026-08-11T04:57:36Z",
+      "updated_at": "2026-08-11T05:10:25Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 33741,
-      "forks": 2194,
+      "stars": 33787,
+      "forks": 2200,
       "language": "Go",
-      "pushed_at": "2026-08-11T01:46:11Z",
-      "updated_at": "2026-08-11T01:59:51Z"
+      "pushed_at": "2026-08-11T05:11:24Z",
+      "updated_at": "2026-08-11T05:11:28Z"
     },
     {
-      "id": 1197990888,
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "runs anywhere. uses anything",
-      "stars": 30616,
-      "forks": 8907,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-11T02:01:15Z",
-      "updated_at": "2026-08-11T01:54:09Z"
-    },
-    {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 26901,
-      "forks": 2837,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-11T01:54:56Z",
-      "updated_at": "2026-08-11T01:56:18Z"
-    },
-    {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 8495,
-      "forks": 1287,
+      "id": 1165324947,
+      "full_name": "agentscope-ai/QwenPaw",
+      "html_url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 33766,
+      "forks": 2973,
       "language": "Python",
-      "pushed_at": "2026-08-11T01:53:35Z",
-      "updated_at": "2026-08-11T01:53:40Z"
+      "pushed_at": "2026-08-11T05:05:57Z",
+      "updated_at": "2026-08-11T05:06:14Z"
+    },
+    {
+      "id": 1118085970,
+      "full_name": "opensandbox-group/OpenSandbox",
+      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 12460,
+      "forks": 1048,
+      "language": "Python",
+      "pushed_at": "2026-08-11T04:55:57Z",
+      "updated_at": "2026-08-11T05:05:14Z"
     },
     {
       "id": 1152014383,
       "full_name": "ArcReel/ArcReel",
       "html_url": "https://github.com/ArcReel/ArcReel",
       "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
-      "stars": 3946,
+      "stars": 3950,
       "forks": 786,
       "language": "Python",
-      "pushed_at": "2026-08-11T01:58:46Z",
-      "updated_at": "2026-08-11T01:58:24Z"
+      "pushed_at": "2026-08-11T05:05:04Z",
+      "updated_at": "2026-08-11T04:54:07Z"
     },
     {
-      "id": 1187014628,
-      "full_name": "can4hou6joeng4/boss-agent-cli",
-      "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
-      "description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.",
-      "stars": 1547,
-      "forks": 129,
+      "id": 1215974868,
+      "full_name": "cosmicstack-labs/mercury-agent",
+      "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "stars": 2993,
+      "forks": 326,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-11T05:10:41Z",
+      "updated_at": "2026-08-11T05:10:48Z"
+    },
+    {
+      "id": 1303258850,
+      "full_name": "kirodotdev/KiroCrew",
+      "html_url": "https://github.com/kirodotdev/KiroCrew",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "stars": 2632,
+      "forks": 237,
       "language": "Python",
-      "pushed_at": "2026-08-11T01:53:54Z",
-      "updated_at": "2026-08-11T01:53:56Z"
+      "pushed_at": "2026-08-11T05:10:03Z",
+      "updated_at": "2026-08-11T05:10:07Z"
+    },
+    {
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
+      "stars": 1906,
+      "forks": 161,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-11T05:05:26Z",
+      "updated_at": "2026-08-11T05:05:36Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +136,41 @@
       "stars": 1145,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-08-11T01:59:38Z",
-      "updated_at": "2026-08-11T01:47:49Z"
+      "pushed_at": "2026-08-11T05:08:40Z",
+      "updated_at": "2026-08-11T05:06:37Z"
     },
     {
       "id": 1285857639,
       "full_name": "xuzhougeng/wisp-science",
       "html_url": "https://github.com/xuzhougeng/wisp-science",
       "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 1108,
+      "stars": 1119,
       "forks": 105,
       "language": "HTML",
-      "pushed_at": "2026-08-11T01:59:14Z",
-      "updated_at": "2026-08-11T01:59:22Z"
+      "pushed_at": "2026-08-11T04:55:43Z",
+      "updated_at": "2026-08-11T05:05:20Z"
     },
     {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "Just install once plugin. Everyone can use hermes-agent professionally. the engineering intelligence & memory system packages ⚚  ",
-      "stars": 833,
-      "forks": 76,
+      "id": 1310666689,
+      "full_name": "tsingyuai/growth-lab",
+      "html_url": "https://github.com/tsingyuai/growth-lab",
+      "description": "An end-to-end growth tool that understands the product, fetch the data it needs, researches the market, executes campaigns, and reviews results to improve the next round of growth. 从代码到市场的开源端到端增长工具。理解产品、接入信息渠道、研究市场、执行增长行动，并基于真实数据自我改进。",
+      "stars": 1038,
+      "forks": 88,
       "language": "Python",
-      "pushed_at": "2026-08-11T01:57:31Z",
-      "updated_at": "2026-08-11T01:57:34Z"
+      "pushed_at": "2026-08-11T04:56:57Z",
+      "updated_at": "2026-08-11T04:59:42Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 824,
-      "forks": 90,
-      "language": "Python",
-      "pushed_at": "2026-08-11T01:41:04Z",
-      "updated_at": "2026-08-11T01:41:15Z"
-    },
-    {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 700,
-      "forks": 85,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-11T01:57:52Z",
-      "updated_at": "2026-08-11T01:57:57Z"
-    },
-    {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 584,
-      "forks": 83,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-11T02:00:14Z",
-      "updated_at": "2026-08-11T01:38:15Z"
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 546,
+      "forks": 86,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-11T05:10:50Z",
+      "updated_at": "2026-08-11T05:08:39Z"
     }
   ]
 }
