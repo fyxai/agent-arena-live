@@ -5,128 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1285,
+  "total_found": 1286,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 229068,
-      "forks": 45148,
+      "stars": 229158,
+      "forks": 45174,
       "language": "Python",
-      "pushed_at": "2026-08-12T02:06:48Z",
-      "updated_at": "2026-08-12T02:17:54Z"
+      "pushed_at": "2026-08-12T05:35:59Z",
+      "updated_at": "2026-08-12T05:36:14Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-      "stars": 46462,
-      "forks": 10312,
-      "language": "Python",
-      "pushed_at": "2026-08-12T02:11:05Z",
-      "updated_at": "2026-08-12T02:12:11Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 50318,
+      "forks": 4765,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-12T05:34:20Z",
+      "updated_at": "2026-08-12T05:32:00Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 33984,
-      "forks": 2215,
+      "stars": 34019,
+      "forks": 2223,
       "language": "Go",
-      "pushed_at": "2026-08-12T02:16:16Z",
-      "updated_at": "2026-08-12T02:17:27Z"
+      "pushed_at": "2026-08-12T05:20:01Z",
+      "updated_at": "2026-08-12T05:35:49Z"
     },
     {
-      "id": 1165324947,
-      "full_name": "agentscope-ai/QwenPaw",
-      "html_url": "https://github.com/agentscope-ai/QwenPaw",
-      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
-      "stars": 33761,
-      "forks": 2974,
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 26936,
+      "forks": 2841,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-12T05:31:17Z",
+      "updated_at": "2026-08-12T05:19:17Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 23998,
+      "forks": 2283,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-12T05:27:16Z",
+      "updated_at": "2026-08-12T05:39:42Z"
+    },
+    {
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-studio",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 10057,
+      "forks": 1232,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-12T05:28:13Z",
+      "updated_at": "2026-08-12T05:28:28Z"
+    },
+    {
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 8631,
+      "forks": 1305,
       "language": "Python",
-      "pushed_at": "2026-08-12T02:18:17Z",
-      "updated_at": "2026-08-12T02:18:22Z"
+      "pushed_at": "2026-08-12T05:39:44Z",
+      "updated_at": "2026-08-12T05:26:10Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-      "stars": 31881,
-      "forks": 3260,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-12T02:17:47Z",
-      "updated_at": "2026-08-12T02:17:51Z"
-    },
-    {
-      "id": 1229284184,
-      "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-      "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
-      "stars": 5166,
-      "forks": 702,
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+      "stars": 3966,
+      "forks": 790,
       "language": "Python",
-      "pushed_at": "2026-08-12T02:13:00Z",
-      "updated_at": "2026-08-12T02:13:03Z"
-    },
-    {
-      "id": 1193300953,
-      "full_name": "dramaclaw/dramaclaw",
-      "html_url": "https://github.com/dramaclaw/dramaclaw",
-      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
-      "stars": 3632,
-      "forks": 329,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-12T02:13:16Z",
-      "updated_at": "2026-08-12T02:15:00Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2003,
-      "forks": 255,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-12T02:17:59Z",
-      "updated_at": "2026-08-12T02:12:07Z"
+      "pushed_at": "2026-08-12T05:37:16Z",
+      "updated_at": "2026-08-12T05:36:45Z"
     },
     {
       "id": 1287804060,
       "full_name": "aipoch/open-science",
       "html_url": "https://github.com/aipoch/open-science",
       "description": "Open Science is an open-source, local-first, model-agnostic AI research workbench for scientific discovery.",
-      "stars": 1911,
-      "forks": 162,
+      "stars": 2042,
+      "forks": 163,
       "language": "TypeScript",
-      "pushed_at": "2026-08-12T02:09:29Z",
-      "updated_at": "2026-08-12T02:11:06Z"
-    },
-    {
-      "id": 1158138383,
-      "full_name": "CyberStrikeus/CyberStrike",
-      "html_url": "https://github.com/CyberStrikeus/CyberStrike",
-      "description": "Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team.",
-      "stars": 1745,
-      "forks": 269,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-12T02:07:42Z",
-      "updated_at": "2026-08-12T02:05:41Z"
+      "pushed_at": "2026-08-12T05:25:49Z",
+      "updated_at": "2026-08-12T05:39:40Z"
     },
     {
       "id": 1122859216,
       "full_name": "the-open-engine/zeroshot",
       "html_url": "https://github.com/the-open-engine/zeroshot",
       "description": "Independent executor–verifier orchestration for software changes.",
-      "stars": 1699,
+      "stars": 1700,
       "forks": 152,
       "language": "JavaScript",
-      "pushed_at": "2026-08-12T02:04:32Z",
-      "updated_at": "2026-08-12T02:04:34Z"
+      "pushed_at": "2026-08-12T05:18:57Z",
+      "updated_at": "2026-08-12T05:19:05Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +125,52 @@
       "stars": 1146,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-08-12T02:16:19Z",
-      "updated_at": "2026-08-12T02:09:09Z"
+      "pushed_at": "2026-08-12T05:38:18Z",
+      "updated_at": "2026-08-12T05:26:20Z"
     },
     {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "Just install once plugin. Everyone can use hermes-agent professionally. the engineering intelligence & memory system packages ⚚  ",
-      "stars": 851,
-      "forks": 79,
-      "language": "Python",
-      "pushed_at": "2026-08-12T02:16:39Z",
-      "updated_at": "2026-08-12T02:08:43Z"
-    },
-    {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
-      "stars": 825,
+      "id": 1310758816,
+      "full_name": "Pinvou/pinvou-agent",
+      "html_url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "stars": 647,
       "forks": 90,
-      "language": "Python",
-      "pushed_at": "2026-08-12T02:02:49Z",
-      "updated_at": "2026-08-12T02:02:53Z"
+      "language": "JavaScript",
+      "pushed_at": "2026-08-12T05:39:10Z",
+      "updated_at": "2026-08-12T05:37:07Z"
     },
     {
       "id": 1158621117,
       "full_name": "artokun/comfyui-mcp",
       "html_url": "https://github.com/artokun/comfyui-mcp",
       "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 562,
+      "stars": 565,
       "forks": 89,
       "language": "TypeScript",
-      "pushed_at": "2026-08-12T02:17:47Z",
-      "updated_at": "2026-08-12T02:17:51Z"
+      "pushed_at": "2026-08-12T05:14:58Z",
+      "updated_at": "2026-08-12T05:34:04Z"
+    },
+    {
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 384,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-12T05:32:04Z",
+      "updated_at": "2026-08-12T05:20:40Z"
+    },
+    {
+      "id": 809764991,
+      "full_name": "shibing624/agentica",
+      "html_url": "https://github.com/shibing624/agentica",
+      "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets & death-spiral guards, persistent cross-session memory, self-evolving SKILL.md, /goal long-task loop, 40+ tools, 20+ models, MCP/ACP. Ships a CLI + Web Gateway out of the box.",
+      "stars": 345,
+      "forks": 49,
+      "language": "Python",
+      "pushed_at": "2026-08-12T05:13:33Z",
+      "updated_at": "2026-08-12T05:13:42Z"
     }
   ]
 }
