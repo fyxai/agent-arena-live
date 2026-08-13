@@ -8,136 +8,125 @@
   "total_found": 1299,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 229816,
-      "forks": 45396,
-      "language": "Python",
-      "pushed_at": "2026-08-13T09:15:44Z",
-      "updated_at": "2026-08-13T09:14:42Z"
-    },
-    {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 63680,
-      "forks": 12557,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-13T09:12:49Z",
-      "updated_at": "2026-08-13T09:12:36Z"
-    },
-    {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 50384,
-      "forks": 4774,
+      "stars": 50398,
+      "forks": 4775,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:16:12Z",
-      "updated_at": "2026-08-13T09:14:03Z"
+      "pushed_at": "2026-08-13T13:05:50Z",
+      "updated_at": "2026-08-13T13:19:08Z"
     },
     {
       "id": 1113573066,
       "full_name": "hugohe3/ppt-master",
       "html_url": "https://github.com/hugohe3/ppt-master",
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 46207,
-      "forks": 3750,
+      "stars": 46362,
+      "forks": 3758,
       "language": "Python",
-      "pushed_at": "2026-08-13T09:06:46Z",
-      "updated_at": "2026-08-13T09:15:49Z"
+      "pushed_at": "2026-08-13T13:10:10Z",
+      "updated_at": "2026-08-13T13:19:11Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 24371,
-      "forks": 2323,
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 26969,
+      "forks": 2851,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:16:04Z",
-      "updated_at": "2026-08-13T09:10:18Z"
+      "pushed_at": "2026-08-13T13:20:11Z",
+      "updated_at": "2026-08-13T13:20:02Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23756,
-      "forks": 4034,
+      "stars": 23759,
+      "forks": 4033,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:13:45Z",
-      "updated_at": "2026-08-13T09:12:16Z"
+      "pushed_at": "2026-08-13T13:17:08Z",
+      "updated_at": "2026-08-13T13:18:31Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 21310,
+      "forks": 1463,
+      "language": "HTML",
+      "pushed_at": "2026-08-13T13:10:21Z",
+      "updated_at": "2026-08-13T13:18:26Z"
+    },
+    {
+      "id": 169975410,
+      "full_name": "leon-ai/leon",
+      "html_url": "https://github.com/leon-ai/leon",
+      "description": "🧠 Leon is your open-source personal assistant.",
+      "stars": 17431,
+      "forks": 1461,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-13T13:07:10Z",
+      "updated_at": "2026-08-13T13:07:52Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 8766,
-      "forks": 1321,
+      "stars": 8775,
+      "forks": 1320,
       "language": "Python",
-      "pushed_at": "2026-08-13T09:12:03Z",
-      "updated_at": "2026-08-13T09:13:48Z"
+      "pushed_at": "2026-08-13T13:12:12Z",
+      "updated_at": "2026-08-13T13:16:15Z"
     },
     {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "AI coding platform for teams",
-      "stars": 4375,
-      "forks": 647,
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3254,
+      "forks": 230,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-13T13:13:04Z",
+      "updated_at": "2026-08-13T13:14:54Z"
+    },
+    {
+      "id": 1194596194,
+      "full_name": "Bitterbot-AI/bitterbot-desktop",
+      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
+      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
+      "stars": 2453,
+      "forks": 421,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:02:55Z",
-      "updated_at": "2026-08-13T09:12:17Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 4084,
-      "forks": 276,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:09:01Z",
-      "updated_at": "2026-08-13T09:10:15Z"
-    },
-    {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 2797,
-      "forks": 272,
-      "language": "Python",
-      "pushed_at": "2026-08-13T09:15:56Z",
-      "updated_at": "2026-08-13T09:12:48Z"
+      "pushed_at": "2026-08-13T13:15:52Z",
+      "updated_at": "2026-08-13T13:17:36Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2046,
-      "forks": 264,
+      "stars": 2051,
+      "forks": 268,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:09:14Z",
-      "updated_at": "2026-08-13T09:10:29Z"
+      "pushed_at": "2026-08-13T13:19:13Z",
+      "updated_at": "2026-08-13T13:17:05Z"
     },
     {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 1152,
-      "forks": 109,
-      "language": "HTML",
-      "pushed_at": "2026-08-13T09:13:08Z",
-      "updated_at": "2026-08-13T09:05:01Z"
+      "id": 1122859216,
+      "full_name": "the-open-engine/zeroshot",
+      "html_url": "https://github.com/the-open-engine/zeroshot",
+      "description": "Independent executor–verifier orchestration for software changes.",
+      "stars": 1700,
+      "forks": 154,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-13T13:08:29Z",
+      "updated_at": "2026-08-13T13:10:49Z"
     },
     {
       "id": 1096175506,
@@ -147,30 +136,41 @@
       "stars": 1146,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:15:39Z",
-      "updated_at": "2026-08-13T09:13:04Z"
+      "pushed_at": "2026-08-13T13:19:43Z",
+      "updated_at": "2026-08-13T13:17:45Z"
     },
     {
-      "id": 1215678767,
-      "full_name": "agentforce314/clawcodex",
-      "html_url": "https://github.com/agentforce314/clawcodex",
-      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 310K LoC Python. Up to 200X Cost Saving!",
-      "stars": 860,
-      "forks": 154,
+      "id": 1235483809,
+      "full_name": "juanjuandog/FinSight-AI",
+      "html_url": "https://github.com/juanjuandog/FinSight-AI",
+      "description": "AI equity research agent with resilient workflows, Redis Lua single-flight, pgvector RAG, versioned reports, evidence tracing, and RAG evaluation.",
+      "stars": 1022,
+      "forks": 58,
+      "language": "Java",
+      "pushed_at": "2026-08-13T13:16:57Z",
+      "updated_at": "2026-08-13T13:18:33Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 607,
+      "forks": 50,
+      "language": "Go",
+      "pushed_at": "2026-08-13T13:15:31Z",
+      "updated_at": "2026-08-13T13:16:56Z"
+    },
+    {
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 581,
+      "forks": 91,
       "language": "TypeScript",
-      "pushed_at": "2026-08-13T09:04:09Z",
-      "updated_at": "2026-08-13T09:04:03Z"
-    },
-    {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 701,
-      "forks": 98,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-13T09:09:00Z",
-      "updated_at": "2026-08-13T09:13:27Z"
+      "pushed_at": "2026-08-13T13:15:41Z",
+      "updated_at": "2026-08-13T13:17:01Z"
     }
   ]
 }
