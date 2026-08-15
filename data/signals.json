@@ -5,95 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1314,
+  "total_found": 1316,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 230789,
-      "forks": 45766,
+      "id": 522158088,
+      "full_name": "zhayujie/CowAgent",
+      "html_url": "https://github.com/zhayujie/CowAgent",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+      "stars": 46512,
+      "forks": 10315,
       "language": "Python",
-      "pushed_at": "2026-08-15T08:27:31Z",
-      "updated_at": "2026-08-15T08:28:42Z"
+      "pushed_at": "2026-08-15T12:26:50Z",
+      "updated_at": "2026-08-15T12:27:02Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 50495,
-      "forks": 4782,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-15T08:32:28Z",
-      "updated_at": "2026-08-15T08:32:36Z"
+      "id": 1053118194,
+      "full_name": "bojieli/ai-agent-book",
+      "html_url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 37490,
+      "forks": 4118,
+      "language": "Python",
+      "pushed_at": "2026-08-15T12:31:37Z",
+      "updated_at": "2026-08-15T12:40:16Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27022,
-      "forks": 2862,
+      "stars": 27033,
+      "forks": 2863,
       "language": "TypeScript",
-      "pushed_at": "2026-08-15T08:32:49Z",
-      "updated_at": "2026-08-15T08:33:12Z"
+      "pushed_at": "2026-08-15T12:41:14Z",
+      "updated_at": "2026-08-15T12:41:28Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 24894,
-      "forks": 2389,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-15T08:27:10Z",
-      "updated_at": "2026-08-15T08:20:14Z"
-    },
-    {
-      "id": 704959035,
-      "full_name": "WeThinkIn/AIGC-Interview-Book",
-      "html_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
-      "description": "【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、具身智能、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、世界模型、元宇宙、AGI等AI行业面试笔试干货经验与核心跨周期知识。",
-      "stars": 4333,
-      "forks": 447,
-      "language": "Unknown",
-      "pushed_at": "2026-08-15T08:19:19Z",
-      "updated_at": "2026-08-15T08:19:34Z"
-    },
-    {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundamentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundamentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
-      "stars": 2243,
-      "forks": 349,
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 21386,
+      "forks": 1471,
       "language": "HTML",
-      "pushed_at": "2026-08-15T08:26:01Z",
-      "updated_at": "2026-08-15T08:26:11Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2075,
-      "forks": 276,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-15T08:20:59Z",
-      "updated_at": "2026-08-15T08:11:04Z"
+      "pushed_at": "2026-08-15T12:35:27Z",
+      "updated_at": "2026-08-15T12:39:15Z"
     },
     {
       "id": 1252432466,
       "full_name": "Gitlawb/zero",
       "html_url": "https://github.com/Gitlawb/zero",
       "description": "The coding agent that answers to you, your model, your machine, your rules.",
-      "stars": 1296,
-      "forks": 137,
+      "stars": 1348,
+      "forks": 143,
       "language": "Go",
-      "pushed_at": "2026-08-15T08:17:07Z",
-      "updated_at": "2026-08-15T08:31:06Z"
+      "pushed_at": "2026-08-15T12:32:33Z",
+      "updated_at": "2026-08-15T12:41:46Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +70,107 @@
       "stars": 1148,
       "forks": 67,
       "language": "TypeScript",
-      "pushed_at": "2026-08-15T08:31:20Z",
-      "updated_at": "2026-08-15T08:18:25Z"
+      "pushed_at": "2026-08-15T12:43:57Z",
+      "updated_at": "2026-08-15T12:43:02Z"
+    },
+    {
+      "id": 1202410617,
+      "full_name": "FailproofAI/failproofai",
+      "html_url": "https://github.com/FailproofAI/failproofai",
+      "description": "Runtime failure resolution for coding agents. Hooks into Claude Code, Codex & your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
+      "stars": 1114,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-15T12:42:47Z",
+      "updated_at": "2026-08-15T12:43:32Z"
     },
     {
       "id": 1285857639,
       "full_name": "xuzhougeng/wisp-science",
       "html_url": "https://github.com/xuzhougeng/wisp-science",
       "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 1101,
+      "stars": 1105,
       "forks": 112,
       "language": "HTML",
-      "pushed_at": "2026-08-15T08:13:24Z",
-      "updated_at": "2026-08-15T08:13:38Z"
+      "pushed_at": "2026-08-15T12:28:54Z",
+      "updated_at": "2026-08-15T12:29:08Z"
+    },
+    {
+      "id": 1153494379,
+      "full_name": "grinev/opencode-telegram-bot",
+      "html_url": "https://github.com/grinev/opencode-telegram-bot",
+      "description": "OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.",
+      "stars": 1035,
+      "forks": 179,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-15T12:25:11Z",
+      "updated_at": "2026-08-15T12:26:08Z"
+    },
+    {
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation",
+      "stars": 826,
+      "forks": 90,
+      "language": "Python",
+      "pushed_at": "2026-08-15T12:35:31Z",
+      "updated_at": "2026-08-15T12:35:53Z"
     },
     {
       "id": 1310758816,
       "full_name": "Pinvou/pinvou-agent",
       "html_url": "https://github.com/Pinvou/pinvou-agent",
       "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 794,
-      "forks": 117,
+      "stars": 800,
+      "forks": 118,
       "language": "JavaScript",
-      "pushed_at": "2026-08-15T08:33:13Z",
-      "updated_at": "2026-08-15T08:17:36Z"
+      "pushed_at": "2026-08-15T12:30:39Z",
+      "updated_at": "2026-08-15T12:44:21Z"
     },
     {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 757,
-      "forks": 91,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-15T08:25:40Z",
-      "updated_at": "2026-08-15T08:25:59Z"
-    },
-    {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 606,
-      "forks": 51,
-      "language": "Go",
-      "pushed_at": "2026-08-15T08:18:55Z",
-      "updated_at": "2026-08-15T08:19:01Z"
-    },
-    {
-      "id": 1280019852,
-      "full_name": "shuxiachai/academic-commercialization-agent",
-      "html_url": "https://github.com/shuxiachai/academic-commercialization-agent",
-      "description": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
-      "stars": 414,
-      "forks": 41,
+      "id": 1306503677,
+      "full_name": "TryCaspian/caspian-sdk",
+      "html_url": "https://github.com/TryCaspian/caspian-sdk",
+      "description": "Agent communication SDK. The open-source agent communication layer for AI agents — email, WhatsApp, Slack, Discord, Telegram, SMS. Python & TypeScript.",
+      "stars": 699,
+      "forks": 131,
       "language": "Python",
-      "pushed_at": "2026-08-15T08:22:08Z",
-      "updated_at": "2026-08-15T08:22:30Z"
+      "pushed_at": "2026-08-15T12:34:11Z",
+      "updated_at": "2026-08-15T12:42:33Z"
     },
     {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
-      "stars": 346,
-      "forks": 57,
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Real-time observability for 14 AI agent runtimes - OpenClaw, NVIDIA NemoClaw, Claude Code, Codex & 8 more.",
+      "stars": 394,
+      "forks": 63,
+      "language": "Python",
+      "pushed_at": "2026-08-15T12:38:24Z",
+      "updated_at": "2026-08-15T12:38:38Z"
+    },
+    {
+      "id": 1153949512,
+      "full_name": "chadbyte/clay",
+      "html_url": "https://github.com/chadbyte/clay",
+      "description": "Multiplayer Claude Code and Codex. Self-hosted team workspace for Claude Code and Codex. Multi-user, browser-based, AI mates with memory.",
+      "stars": 367,
+      "forks": 50,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-15T12:40:54Z",
+      "updated_at": "2026-08-15T12:41:33Z"
+    },
+    {
+      "id": 1156623779,
+      "full_name": "dcostenco/prism-coder",
+      "html_url": "https://github.com/dcostenco/prism-coder",
+      "description": "Persistent session memory for AI coding agents — local-first, with on-device inference, associative recall, and drift detection. Works with Claude Code, Cursor, and Codex.",
+      "stars": 155,
+      "forks": 23,
       "language": "TypeScript",
-      "pushed_at": "2026-08-15T08:30:41Z",
-      "updated_at": "2026-08-15T08:22:07Z"
+      "pushed_at": "2026-08-15T12:20:37Z",
+      "updated_at": "2026-08-15T12:21:08Z"
     }
   ]
 }
