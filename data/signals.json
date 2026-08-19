@@ -5,139 +5,161 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1338,
+  "total_found": 1339,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 232654,
-      "forks": 46451,
+      "stars": 232738,
+      "forks": 46489,
       "language": "Python",
-      "pushed_at": "2026-08-19T04:38:07Z",
-      "updated_at": "2026-08-19T04:38:04Z"
+      "pushed_at": "2026-08-19T08:40:05Z",
+      "updated_at": "2026-08-19T08:38:42Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 50740,
-      "forks": 4813,
+      "stars": 50754,
+      "forks": 4812,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T04:37:01Z",
-      "updated_at": "2026-08-19T04:38:14Z"
+      "pushed_at": "2026-08-19T08:38:39Z",
+      "updated_at": "2026-08-19T08:41:24Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27171,
-      "forks": 2880,
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+      "stars": 47163,
+      "forks": 8327,
+      "language": "Python",
+      "pushed_at": "2026-08-19T08:34:08Z",
+      "updated_at": "2026-08-19T08:34:53Z"
+    },
+    {
+      "id": 1193300953,
+      "full_name": "dramaclaw/dramaclaw",
+      "html_url": "https://github.com/dramaclaw/dramaclaw",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "stars": 3788,
+      "forks": 378,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T04:34:42Z",
-      "updated_at": "2026-08-19T04:38:31Z"
+      "pushed_at": "2026-08-19T08:34:28Z",
+      "updated_at": "2026-08-19T08:41:16Z"
     },
     {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 14283,
-      "forks": 1260,
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
+      "stars": 2920,
+      "forks": 136,
       "language": "Python",
-      "pushed_at": "2026-08-19T04:33:39Z",
-      "updated_at": "2026-08-19T04:40:04Z"
-    },
-    {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 9036,
-      "forks": 1373,
-      "language": "Python",
-      "pushed_at": "2026-08-19T04:33:44Z",
-      "updated_at": "2026-08-19T04:35:34Z"
-    },
-    {
-      "id": 1145420469,
-      "full_name": "moltis-org/moltis",
-      "html_url": "https://github.com/moltis-org/moltis",
-      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
-      "stars": 2826,
-      "forks": 337,
-      "language": "Rust",
-      "pushed_at": "2026-08-19T04:34:23Z",
-      "updated_at": "2026-08-19T04:34:30Z"
+      "pushed_at": "2026-08-19T08:35:26Z",
+      "updated_at": "2026-08-19T08:35:47Z"
     },
     {
       "id": 1217416768,
       "full_name": "AtomicBot-ai/atomic-agent",
       "html_url": "https://github.com/AtomicBot-ai/atomic-agent",
       "description": "Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs privately on your device.",
-      "stars": 2355,
+      "stars": 2373,
       "forks": 219,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T04:33:28Z",
-      "updated_at": "2026-08-19T04:36:18Z"
+      "pushed_at": "2026-08-19T08:39:04Z",
+      "updated_at": "2026-08-19T08:37:39Z"
     },
     {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "The agent engineering intelligence harness, optimized tools, memory system, subagents and mixture of models packages ⚚ ",
-      "stars": 1011,
-      "forks": 93,
+      "id": 1186842622,
+      "full_name": "Paca-AI/paca",
+      "html_url": "https://github.com/Paca-AI/paca",
+      "description": "AI-native, free, open-source alternative to Jira, Trello, ClickUp & Monday. Built for Scrum teams where humans and AI agents collaborate as equals — on the same board, the same sprints, the same goals. Self-hosted. Fully customizable via config and plugins.",
+      "stars": 1732,
+      "forks": 136,
+      "language": "Go",
+      "pushed_at": "2026-08-19T08:28:41Z",
+      "updated_at": "2026-08-19T08:30:42Z"
+    },
+    {
+      "id": 1201201482,
+      "full_name": "mateaix/mateclaw",
+      "html_url": "https://github.com/mateaix/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "stars": 1005,
+      "forks": 309,
+      "language": "Java",
+      "pushed_at": "2026-08-19T08:30:18Z",
+      "updated_at": "2026-08-19T08:30:50Z"
+    },
+    {
+      "id": 1334373503,
+      "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "html_url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "stars": 889,
+      "forks": 27,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-19T08:39:03Z",
+      "updated_at": "2026-08-19T08:40:43Z"
+    },
+    {
+      "id": 1140582982,
+      "full_name": "TNT-Likely/PanWatch",
+      "html_url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "stars": 791,
+      "forks": 187,
       "language": "Python",
-      "pushed_at": "2026-08-19T04:37:24Z",
-      "updated_at": "2026-08-19T04:25:20Z"
+      "pushed_at": "2026-08-19T08:30:39Z",
+      "updated_at": "2026-08-19T08:32:17Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 643,
+      "forks": 51,
+      "language": "Go",
+      "pushed_at": "2026-08-19T08:38:28Z",
+      "updated_at": "2026-08-19T08:40:42Z"
     },
     {
       "id": 1158621117,
       "full_name": "artokun/comfyui-mcp",
       "html_url": "https://github.com/artokun/comfyui-mcp",
       "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 602,
-      "forks": 94,
+      "stars": 604,
+      "forks": 95,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T04:26:01Z",
-      "updated_at": "2026-08-19T04:24:32Z"
+      "pushed_at": "2026-08-19T08:35:12Z",
+      "updated_at": "2026-08-19T08:36:32Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 381,
-      "forks": 83,
-      "language": "Python",
-      "pushed_at": "2026-08-19T04:34:03Z",
-      "updated_at": "2026-08-19T04:27:02Z"
+      "id": 1235467345,
+      "full_name": "ys-ll/uniterm",
+      "html_url": "https://github.com/ys-ll/uniterm",
+      "description": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+      "stars": 297,
+      "forks": 34,
+      "language": "Vue",
+      "pushed_at": "2026-08-19T08:31:21Z",
+      "updated_at": "2026-08-19T08:33:37Z"
     },
     {
-      "id": 1175442678,
-      "full_name": "zqiren/Orbital",
-      "html_url": "https://github.com/zqiren/Orbital",
-      "description": "Context is yours. Agents are replaceable. Orbital — a project agent that turns your context into assets.",
-      "stars": 228,
-      "forks": 13,
+      "id": 1274452075,
+      "full_name": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+      "html_url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+      "description": "From agent user to agent builder: build a Claude Code-style coding agent from scratch in Python: 8 articles, 4 videos, one codebase",
+      "stars": 247,
+      "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-08-19T04:32:56Z",
-      "updated_at": "2026-08-19T04:38:55Z"
-    },
-    {
-      "id": 1293344456,
-      "full_name": "adongwanai/learn-workbuddy",
-      "html_url": "https://github.com/adongwanai/learn-workbuddy",
-      "description": "从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹",
-      "stars": 179,
-      "forks": 24,
-      "language": "Python",
-      "pushed_at": "2026-08-19T04:38:00Z",
-      "updated_at": "2026-08-19T04:39:10Z"
+      "pushed_at": "2026-08-19T08:36:31Z",
+      "updated_at": "2026-08-19T08:37:10Z"
     },
     {
       "id": 1150677698,
@@ -147,30 +169,8 @@
       "stars": 169,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-08-19T04:32:17Z",
-      "updated_at": "2026-08-19T04:28:17Z"
-    },
-    {
-      "id": 1237346118,
-      "full_name": "OpenWhale-Org/OpenWhale",
-      "html_url": "https://github.com/OpenWhale-Org/OpenWhale",
-      "description": "A framework for AI-driven economic activity. Declarative, composable, observable, deterministic.",
-      "stars": 141,
-      "forks": 10,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T04:32:41Z",
-      "updated_at": "2026-08-19T04:32:49Z"
-    },
-    {
-      "id": 1333486649,
-      "full_name": "ningbainb/deepseek-harness-desktop",
-      "html_url": "https://github.com/ningbainb/deepseek-harness-desktop",
-      "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
-      "stars": 133,
-      "forks": 2,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-19T04:34:46Z",
-      "updated_at": "2026-08-19T04:40:11Z"
+      "pushed_at": "2026-08-19T08:39:37Z",
+      "updated_at": "2026-08-19T08:40:40Z"
     }
   ]
 }
