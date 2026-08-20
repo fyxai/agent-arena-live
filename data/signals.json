@@ -5,95 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1348,
+  "total_found": 1350,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 233248,
-      "forks": 46684,
+      "stars": 233356,
+      "forks": 46718,
       "language": "Python",
-      "pushed_at": "2026-08-20T08:29:07Z",
-      "updated_at": "2026-08-20T08:42:09Z"
+      "pushed_at": "2026-08-20T12:50:12Z",
+      "updated_at": "2026-08-20T12:55:23Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 50813,
-      "forks": 4826,
+      "stars": 50828,
+      "forks": 4827,
       "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:39:20Z",
-      "updated_at": "2026-08-20T08:39:39Z"
+      "pushed_at": "2026-08-20T12:51:25Z",
+      "updated_at": "2026-08-20T12:55:58Z"
     },
     {
-      "id": 291438522,
-      "full_name": "siyuan-note/siyuan",
-      "html_url": "https://github.com/siyuan-note/siyuan",
-      "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
-      "stars": 45900,
-      "forks": 2953,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:38:37Z",
-      "updated_at": "2026-08-20T08:36:42Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 34915,
+      "forks": 2317,
+      "language": "Go",
+      "pushed_at": "2026-08-20T12:54:57Z",
+      "updated_at": "2026-08-20T12:56:00Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27216,
-      "forks": 2894,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:38:55Z",
-      "updated_at": "2026-08-20T08:34:05Z"
-    },
-    {
-      "id": 1273015953,
-      "full_name": "shy3130/tickflow-stock-panel",
-      "html_url": "https://github.com/shy3130/tickflow-stock-panel",
-      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
-      "stars": 3231,
-      "forks": 763,
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 13488,
+      "forks": 999,
       "language": "Python",
-      "pushed_at": "2026-08-20T08:41:00Z",
-      "updated_at": "2026-08-20T08:37:27Z"
+      "pushed_at": "2026-08-20T12:46:43Z",
+      "updated_at": "2026-08-20T12:49:30Z"
     },
     {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 3074,
-      "forks": 333,
-      "language": "Python",
-      "pushed_at": "2026-08-20T08:42:05Z",
-      "updated_at": "2026-08-20T08:37:22Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2226,
-      "forks": 306,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:42:58Z",
-      "updated_at": "2026-08-20T08:33:16Z"
+      "id": 1145420469,
+      "full_name": "moltis-org/moltis",
+      "html_url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "stars": 2831,
+      "forks": 339,
+      "language": "Rust",
+      "pushed_at": "2026-08-20T12:53:22Z",
+      "updated_at": "2026-08-20T12:56:00Z"
     },
     {
       "id": 1251460378,
       "full_name": "apache/maka",
       "html_url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": 1708,
-      "forks": 203,
+      "stars": 1781,
+      "forks": 214,
       "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:32:00Z",
-      "updated_at": "2026-08-20T08:40:47Z"
+      "pushed_at": "2026-08-20T12:50:54Z",
+      "updated_at": "2026-08-20T12:54:41Z"
     },
     {
       "id": 1096175506,
@@ -103,19 +81,41 @@
       "stars": 1150,
       "forks": 69,
       "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:42:29Z",
-      "updated_at": "2026-08-20T08:41:28Z"
+      "pushed_at": "2026-08-20T12:55:15Z",
+      "updated_at": "2026-08-20T12:50:16Z"
     },
     {
-      "id": 1217345178,
-      "full_name": "lidge-jun/ima2-gen",
-      "html_url": "https://github.com/lidge-jun/ima2-gen",
-      "description": "Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.",
-      "stars": 705,
-      "forks": 119,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:42:36Z",
-      "updated_at": "2026-08-20T08:41:29Z"
+      "id": 1285857639,
+      "full_name": "xuzhougeng/wisp-science",
+      "html_url": "https://github.com/xuzhougeng/wisp-science",
+      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
+      "stars": 1020,
+      "forks": 106,
+      "language": "HTML",
+      "pushed_at": "2026-08-20T12:50:34Z",
+      "updated_at": "2026-08-20T12:52:22Z"
+    },
+    {
+      "id": 1334373503,
+      "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "html_url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "description": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象",
+      "stars": 1008,
+      "forks": 31,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-20T12:56:09Z",
+      "updated_at": "2026-08-20T12:55:07Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 646,
+      "forks": 51,
+      "language": "Go",
+      "pushed_at": "2026-08-20T12:55:31Z",
+      "updated_at": "2026-08-20T12:49:31Z"
     },
     {
       "id": 1213491458,
@@ -125,52 +125,52 @@
       "stars": 606,
       "forks": 17,
       "language": "C++",
-      "pushed_at": "2026-08-20T08:30:40Z",
-      "updated_at": "2026-08-20T08:32:06Z"
+      "pushed_at": "2026-08-20T12:48:37Z",
+      "updated_at": "2026-08-20T12:51:21Z"
     },
     {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 592,
-      "forks": 85,
-      "language": "Python",
-      "pushed_at": "2026-08-20T08:37:40Z",
-      "updated_at": "2026-08-20T08:38:36Z"
+      "id": 1235467345,
+      "full_name": "ys-ll/uniterm",
+      "html_url": "https://github.com/ys-ll/uniterm",
+      "description": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+      "stars": 304,
+      "forks": 34,
+      "language": "Vue",
+      "pushed_at": "2026-08-20T12:49:20Z",
+      "updated_at": "2026-08-20T12:50:24Z"
     },
     {
-      "id": 1302093382,
-      "full_name": "gakonst/nanocodex",
-      "html_url": "https://github.com/gakonst/nanocodex",
-      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-      "stars": 416,
-      "forks": 47,
-      "language": "Rust",
-      "pushed_at": "2026-08-20T08:35:03Z",
-      "updated_at": "2026-08-20T08:36:07Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 396,
-      "forks": 69,
+      "id": 719577983,
+      "full_name": "chmonitor/chmonitor",
+      "html_url": "https://github.com/chmonitor/chmonitor",
+      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. Self-host or use the cloud.",
+      "stars": 273,
+      "forks": 42,
       "language": "TypeScript",
-      "pushed_at": "2026-08-20T08:37:25Z",
-      "updated_at": "2026-08-20T08:36:50Z"
+      "pushed_at": "2026-08-20T12:52:18Z",
+      "updated_at": "2026-08-20T12:52:59Z"
     },
     {
-      "id": 1134428804,
-      "full_name": "slive777/OpenAver",
-      "html_url": "https://github.com/slive777/OpenAver",
-      "description": "Free open-source desktop app that scrapes JAV metadata and generates NFO + cover art for Jellyfin, Emby & Kodi. No Docker, no CLI — one-click install on Windows & macOS. 8 built-in sources + optional Metatube federation (30+ providers), actress collections, cross-language tag aliases, and a REST API for AI agents.",
-      "stars": 230,
-      "forks": 25,
+      "id": 1197436636,
+      "full_name": "Fzkuji/OpenProgram",
+      "html_url": "https://github.com/Fzkuji/OpenProgram",
+      "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+      "stars": 144,
+      "forks": 24,
       "language": "Python",
-      "pushed_at": "2026-08-20T08:38:17Z",
-      "updated_at": "2026-08-20T08:39:10Z"
+      "pushed_at": "2026-08-20T12:52:59Z",
+      "updated_at": "2026-08-20T12:55:40Z"
+    },
+    {
+      "id": 1310543401,
+      "full_name": "agentconnect-md/agentconnect",
+      "html_url": "https://github.com/agentconnect-md/agentconnect",
+      "description": "Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
+      "stars": 139,
+      "forks": 13,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-20T12:53:22Z",
+      "updated_at": "2026-08-20T12:51:20Z"
     }
   ]
 }
