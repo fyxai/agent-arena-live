@@ -5,139 +5,139 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1364,
+  "total_found": 1363,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 234202,
-      "forks": 47073,
-      "language": "Python",
-      "pushed_at": "2026-08-22T12:32:00Z",
-      "updated_at": "2026-08-22T12:46:30Z"
-    },
-    {
-      "id": 1201476594,
-      "full_name": "santifer/career-ops",
-      "html_url": "https://github.com/santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 67721,
-      "forks": 12887,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-22T12:45:33Z",
-      "updated_at": "2026-08-22T12:45:29Z"
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 50915,
+      "forks": 4845,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T16:25:25Z",
+      "updated_at": "2026-08-22T16:24:44Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 35021,
+      "stars": 35028,
       "forks": 2329,
       "language": "Go",
-      "pushed_at": "2026-08-22T12:38:12Z",
-      "updated_at": "2026-08-22T12:39:51Z"
+      "pushed_at": "2026-08-22T16:24:15Z",
+      "updated_at": "2026-08-22T16:27:49Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27285,
+      "stars": 27288,
       "forks": 2911,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T12:39:35Z",
-      "updated_at": "2026-08-22T12:39:41Z"
+      "pushed_at": "2026-08-22T16:28:37Z",
+      "updated_at": "2026-08-22T16:24:40Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 23979,
-      "forks": 4073,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 26464,
+      "forks": 2577,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T12:42:40Z",
-      "updated_at": "2026-08-22T12:43:22Z"
+      "pushed_at": "2026-08-22T16:23:54Z",
+      "updated_at": "2026-08-22T16:24:48Z"
     },
     {
       "id": 1207639951,
       "full_name": "EKKOLearnAI/hermes-studio",
       "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
       "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
-      "stars": 10508,
+      "stars": 10514,
       "forks": 1280,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T12:33:46Z",
-      "updated_at": "2026-08-22T12:34:42Z"
+      "pushed_at": "2026-08-22T16:20:00Z",
+      "updated_at": "2026-08-22T16:25:43Z"
     },
     {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2251,
-      "forks": 315,
+      "id": 1193300953,
+      "full_name": "dramaclaw/dramaclaw",
+      "html_url": "https://github.com/dramaclaw/dramaclaw",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "stars": 3850,
+      "forks": 397,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T12:41:02Z",
-      "updated_at": "2026-08-22T12:41:13Z"
+      "pushed_at": "2026-08-22T16:07:56Z",
+      "updated_at": "2026-08-22T16:12:59Z"
     },
     {
-      "id": 1251460378,
-      "full_name": "apache/maka",
-      "html_url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": 2147,
-      "forks": 248,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-22T12:34:37Z",
-      "updated_at": "2026-08-22T12:44:43Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3257,
+      "forks": 230,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-22T16:25:44Z",
+      "updated_at": "2026-08-22T16:25:52Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 386,
-      "forks": 85,
-      "language": "Python",
-      "pushed_at": "2026-08-22T12:38:39Z",
-      "updated_at": "2026-08-22T12:43:06Z"
+      "id": 1334373503,
+      "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
+      "html_url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+      "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
+      "stars": 1143,
+      "forks": 42,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-22T16:09:13Z",
+      "updated_at": "2026-08-22T16:20:04Z"
     },
     {
-      "id": 1235467345,
-      "full_name": "ys-ll/uniterm",
-      "html_url": "https://github.com/ys-ll/uniterm",
-      "description": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
-      "stars": 316,
-      "forks": 35,
-      "language": "Vue",
-      "pushed_at": "2026-08-22T12:45:20Z",
-      "updated_at": "2026-08-22T12:45:30Z"
-    },
-    {
-      "id": 1207284726,
-      "full_name": "zenolab124/monet",
-      "html_url": "https://github.com/zenolab124/monet",
-      "description": "Monet — Multi-engine mission control for coding agents (Claude Code and Codex today). Browse, search, and drive your agent sessions from a native desktop app.",
-      "stars": 258,
-      "forks": 9,
+      "id": 1310758816,
+      "full_name": "Pinvou/pinvou-agent",
+      "html_url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "stars": 1130,
+      "forks": 162,
       "language": "Rust",
-      "pushed_at": "2026-08-22T12:38:06Z",
-      "updated_at": "2026-08-22T12:38:39Z"
+      "pushed_at": "2026-08-22T16:27:06Z",
+      "updated_at": "2026-08-22T16:27:47Z"
     },
     {
-      "id": 1182540981,
-      "full_name": "BDFFZI/Alife",
-      "html_url": "https://github.com/BDFFZI/Alife",
-      "description": "一款专注于桌宠方向的AIAgent。特点是一键安装、功能齐全、极低开销、完全暴露上下文、全功能插件化、AI自主插件开发、永久唯一会话、类游戏引擎交互策略。具有极高的扩展性和拟人程度上限，非常适合想长期培养和自定义需求高的用户。",
-      "stars": 156,
-      "forks": 23,
-      "language": "C#",
-      "pushed_at": "2026-08-22T12:36:11Z",
-      "updated_at": "2026-08-22T12:36:20Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 773,
+      "forks": 134,
+      "language": "Go",
+      "pushed_at": "2026-08-22T16:21:28Z",
+      "updated_at": "2026-08-22T16:20:56Z"
+    },
+    {
+      "id": 1086124473,
+      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 596,
+      "forks": 86,
+      "language": "Python",
+      "pushed_at": "2026-08-22T16:14:11Z",
+      "updated_at": "2026-08-22T16:14:14Z"
+    },
+    {
+      "id": 1207844328,
+      "full_name": "Lifecycle-Innovations-Limited/claude-ops",
+      "html_url": "https://github.com/Lifecycle-Innovations-Limited/claude-ops",
+      "description": "Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode.",
+      "stars": 182,
+      "forks": 20,
+      "language": "Shell",
+      "pushed_at": "2026-08-22T16:10:33Z",
+      "updated_at": "2026-08-22T16:10:55Z"
     },
     {
       "id": 1183190247,
@@ -147,8 +147,19 @@
       "stars": 142,
       "forks": 17,
       "language": "Go",
-      "pushed_at": "2026-08-22T12:44:54Z",
-      "updated_at": "2026-08-22T12:39:25Z"
+      "pushed_at": "2026-08-22T16:22:16Z",
+      "updated_at": "2026-08-22T16:08:01Z"
+    },
+    {
+      "id": 1313497021,
+      "full_name": "fy-agent/fyagent",
+      "html_url": "https://github.com/fy-agent/fyagent",
+      "description": "For You Agent——AI 时代的个人随身数字人格。把你的模型、AI 账号、技能、提示词和工作方式，带到每一个 AI 工具里。",
+      "stars": 124,
+      "forks": 10,
+      "language": "Rust",
+      "pushed_at": "2026-08-22T16:23:30Z",
+      "updated_at": "2026-08-22T16:23:51Z"
     },
     {
       "id": 1169289143,
@@ -158,19 +169,8 @@
       "stars": 122,
       "forks": 10,
       "language": "Shell",
-      "pushed_at": "2026-08-22T12:45:24Z",
-      "updated_at": "2026-08-22T12:45:35Z"
-    },
-    {
-      "id": 1283015427,
-      "full_name": "israriqbal/agent-ecologies",
-      "html_url": "https://github.com/israriqbal/agent-ecologies",
-      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-      "stars": 120,
-      "forks": 0,
-      "language": "HTML",
-      "pushed_at": "2026-08-22T12:30:10Z",
-      "updated_at": "2026-08-22T12:30:18Z"
+      "pushed_at": "2026-08-22T16:11:27Z",
+      "updated_at": "2026-08-22T16:11:47Z"
     }
   ]
 }
