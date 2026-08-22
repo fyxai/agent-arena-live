@@ -12,143 +12,132 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 234130,
-      "forks": 47032,
+      "stars": 234202,
+      "forks": 47073,
       "language": "Python",
-      "pushed_at": "2026-08-22T08:23:41Z",
-      "updated_at": "2026-08-22T08:33:17Z"
+      "pushed_at": "2026-08-22T12:32:00Z",
+      "updated_at": "2026-08-22T12:46:30Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 50896,
-      "forks": 4840,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-22T08:30:03Z",
-      "updated_at": "2026-08-22T08:30:20Z"
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 67721,
+      "forks": 12887,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-22T12:45:33Z",
+      "updated_at": "2026-08-22T12:45:29Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 35021,
+      "forks": 2329,
+      "language": "Go",
+      "pushed_at": "2026-08-22T12:38:12Z",
+      "updated_at": "2026-08-22T12:39:51Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27282,
-      "forks": 2910,
+      "stars": 27285,
+      "forks": 2911,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T08:25:46Z",
-      "updated_at": "2026-08-22T08:29:42Z"
+      "pushed_at": "2026-08-22T12:39:35Z",
+      "updated_at": "2026-08-22T12:39:41Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 26382,
-      "forks": 2568,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 23979,
+      "forks": 4073,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T08:14:40Z",
-      "updated_at": "2026-08-22T08:32:05Z"
+      "pushed_at": "2026-08-22T12:42:40Z",
+      "updated_at": "2026-08-22T12:43:22Z"
+    },
+    {
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-studio",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 10508,
+      "forks": 1280,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T12:33:46Z",
+      "updated_at": "2026-08-22T12:34:42Z"
+    },
+    {
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 2251,
+      "forks": 315,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-22T12:41:02Z",
+      "updated_at": "2026-08-22T12:41:13Z"
     },
     {
       "id": 1251460378,
       "full_name": "apache/maka",
       "html_url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": 2107,
-      "forks": 245,
+      "stars": 2147,
+      "forks": 248,
       "language": "TypeScript",
-      "pushed_at": "2026-08-22T08:15:08Z",
-      "updated_at": "2026-08-22T08:30:54Z"
+      "pushed_at": "2026-08-22T12:34:37Z",
+      "updated_at": "2026-08-22T12:44:43Z"
     },
     {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 1114,
-      "forks": 160,
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 386,
+      "forks": 85,
+      "language": "Python",
+      "pushed_at": "2026-08-22T12:38:39Z",
+      "updated_at": "2026-08-22T12:43:06Z"
+    },
+    {
+      "id": 1235467345,
+      "full_name": "ys-ll/uniterm",
+      "html_url": "https://github.com/ys-ll/uniterm",
+      "description": "A lightweight all-in-one terminal with 20+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+      "stars": 316,
+      "forks": 35,
+      "language": "Vue",
+      "pushed_at": "2026-08-22T12:45:20Z",
+      "updated_at": "2026-08-22T12:45:30Z"
+    },
+    {
+      "id": 1207284726,
+      "full_name": "zenolab124/monet",
+      "html_url": "https://github.com/zenolab124/monet",
+      "description": "Monet — Multi-engine mission control for coding agents (Claude Code and Codex today). Browse, search, and drive your agent sessions from a native desktop app.",
+      "stars": 258,
+      "forks": 9,
       "language": "Rust",
-      "pushed_at": "2026-08-22T08:24:33Z",
-      "updated_at": "2026-08-22T08:20:21Z"
+      "pushed_at": "2026-08-22T12:38:06Z",
+      "updated_at": "2026-08-22T12:38:39Z"
     },
     {
-      "id": 1202954853,
-      "full_name": "webbrain-one/webbrain",
-      "html_url": "https://github.com/webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 ",
-      "stars": 848,
-      "forks": 99,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-22T08:28:49Z",
-      "updated_at": "2026-08-22T08:29:22Z"
-    },
-    {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 772,
-      "forks": 134,
-      "language": "Go",
-      "pushed_at": "2026-08-22T08:30:46Z",
-      "updated_at": "2026-08-22T08:30:55Z"
-    },
-    {
-      "id": 1158621117,
-      "full_name": "artokun/comfyui-mcp",
-      "html_url": "https://github.com/artokun/comfyui-mcp",
-      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 646,
-      "forks": 99,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-22T08:18:55Z",
-      "updated_at": "2026-08-22T08:33:35Z"
-    },
-    {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 596,
-      "forks": 86,
-      "language": "Python",
-      "pushed_at": "2026-08-22T08:18:33Z",
-      "updated_at": "2026-08-22T08:19:25Z"
-    },
-    {
-      "id": 1224734286,
-      "full_name": "Ikalus1988/MisakaNet",
-      "html_url": "https://github.com/Ikalus1988/MisakaNet",
-      "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "stars": 422,
-      "forks": 158,
-      "language": "Python",
-      "pushed_at": "2026-08-22T08:16:28Z",
-      "updated_at": "2026-08-22T08:17:40Z"
-    },
-    {
-      "id": 1177055450,
-      "full_name": "PM-Shawn/Abu-Cowork",
-      "html_url": "https://github.com/PM-Shawn/Abu-Cowork",
-      "description": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
-      "stars": 342,
-      "forks": 79,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-22T08:26:33Z",
-      "updated_at": "2026-08-22T08:18:50Z"
-    },
-    {
-      "id": 1310543401,
-      "full_name": "agentconnect-md/agentconnect",
-      "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "Open-source Claude Tag Alternative. Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
-      "stars": 150,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-22T08:26:52Z",
-      "updated_at": "2026-08-22T08:22:43Z"
+      "id": 1182540981,
+      "full_name": "BDFFZI/Alife",
+      "html_url": "https://github.com/BDFFZI/Alife",
+      "description": "一款专注于桌宠方向的AIAgent。特点是一键安装、功能齐全、极低开销、完全暴露上下文、全功能插件化、AI自主插件开发、永久唯一会话、类游戏引擎交互策略。具有极高的扩展性和拟人程度上限，非常适合想长期培养和自定义需求高的用户。",
+      "stars": 156,
+      "forks": 23,
+      "language": "C#",
+      "pushed_at": "2026-08-22T12:36:11Z",
+      "updated_at": "2026-08-22T12:36:20Z"
     },
     {
       "id": 1183190247,
@@ -158,8 +147,19 @@
       "stars": 142,
       "forks": 17,
       "language": "Go",
-      "pushed_at": "2026-08-22T08:32:44Z",
-      "updated_at": "2026-08-22T08:22:57Z"
+      "pushed_at": "2026-08-22T12:44:54Z",
+      "updated_at": "2026-08-22T12:39:25Z"
+    },
+    {
+      "id": 1169289143,
+      "full_name": "Bande-a-Bonnot/Boucle-framework",
+      "html_url": "https://github.com/Bande-a-Bonnot/Boucle-framework",
+      "description": "Autonomous agent framework with structured memory, safety hooks, and loop management. Built by the agent that runs on it.",
+      "stars": 122,
+      "forks": 10,
+      "language": "Shell",
+      "pushed_at": "2026-08-22T12:45:24Z",
+      "updated_at": "2026-08-22T12:45:35Z"
     },
     {
       "id": 1283015427,
@@ -169,8 +169,8 @@
       "stars": 120,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-22T08:23:47Z",
-      "updated_at": "2026-08-22T08:23:52Z"
+      "pushed_at": "2026-08-22T12:30:10Z",
+      "updated_at": "2026-08-22T12:30:18Z"
     }
   ]
 }
