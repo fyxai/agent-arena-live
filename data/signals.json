@@ -12,88 +12,88 @@
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 234447,
-      "forks": 47179,
+      "stars": 234511,
+      "forks": 47209,
       "language": "Python",
-      "pushed_at": "2026-08-23T04:37:54Z",
-      "updated_at": "2026-08-23T04:38:15Z"
+      "pushed_at": "2026-08-23T08:31:34Z",
+      "updated_at": "2026-08-23T08:34:15Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27300,
-      "forks": 2918,
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 50935,
+      "forks": 4846,
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:39:06Z",
-      "updated_at": "2026-08-23T04:30:07Z"
+      "pushed_at": "2026-08-23T08:31:26Z",
+      "updated_at": "2026-08-23T08:29:53Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 26572,
-      "forks": 2586,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 23993,
+      "forks": 4082,
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:40:42Z",
-      "updated_at": "2026-08-23T04:39:59Z"
+      "pushed_at": "2026-08-23T08:27:19Z",
+      "updated_at": "2026-08-23T08:27:32Z"
     },
     {
-      "id": 1152014383,
-      "full_name": "ArcReel/ArcReel",
-      "html_url": "https://github.com/ArcReel/ArcReel",
-      "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
-      "stars": 4130,
-      "forks": 827,
-      "language": "Python",
-      "pushed_at": "2026-08-23T04:35:06Z",
-      "updated_at": "2026-08-23T04:23:02Z"
+      "id": 1207639951,
+      "full_name": "EKKOLearnAI/hermes-studio",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics ",
+      "stars": 10527,
+      "forks": 1282,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-23T08:33:02Z",
+      "updated_at": "2026-08-23T08:33:51Z"
     },
     {
-      "id": 1273015953,
-      "full_name": "shy3130/tick-stock-panel",
-      "html_url": "https://github.com/shy3130/tick-stock-panel",
-      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
-      "stars": 3469,
-      "forks": 817,
-      "language": "Python",
-      "pushed_at": "2026-08-23T04:37:35Z",
-      "updated_at": "2026-08-23T04:37:48Z"
-    },
-    {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 3175,
-      "forks": 349,
-      "language": "Python",
-      "pushed_at": "2026-08-23T04:40:27Z",
-      "updated_at": "2026-08-23T04:11:40Z"
+      "id": 1104370536,
+      "full_name": "ChatLab/ChatLab",
+      "html_url": "https://github.com/ChatLab/ChatLab",
+      "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+      "stars": 7225,
+      "forks": 1491,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-23T08:19:58Z",
+      "updated_at": "2026-08-23T08:21:28Z"
     },
     {
       "id": 1251460378,
       "full_name": "apache/maka",
       "html_url": "https://github.com/apache/maka",
       "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": 2172,
-      "forks": 254,
+      "stars": 2180,
+      "forks": 257,
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:28:42Z",
-      "updated_at": "2026-08-23T04:28:49Z"
+      "pushed_at": "2026-08-23T08:32:43Z",
+      "updated_at": "2026-08-23T08:33:05Z"
     },
     {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Zero, your trustworthy AI teammate for real work. ",
-      "stars": 1149,
-      "forks": 69,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:36:13Z",
-      "updated_at": "2026-08-23T04:27:28Z"
+      "id": 1322651268,
+      "full_name": "fuxicodex/Fuxi",
+      "html_url": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run commands, and drive tools, with cost-aware routing across LLM providers.",
+      "stars": 1728,
+      "forks": 57,
+      "language": "Python",
+      "pushed_at": "2026-08-23T08:25:54Z",
+      "updated_at": "2026-08-23T08:33:48Z"
+    },
+    {
+      "id": 1057975087,
+      "full_name": "modu-ai/moai-adk",
+      "html_url": "https://github.com/modu-ai/moai-adk",
+      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+      "stars": 1183,
+      "forks": 219,
+      "language": "Go",
+      "pushed_at": "2026-08-23T08:25:03Z",
+      "updated_at": "2026-08-23T08:20:37Z"
     },
     {
       "id": 1158621117,
@@ -101,54 +101,43 @@
       "html_url": "https://github.com/artokun/comfyui-mcp",
       "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
       "stars": 652,
-      "forks": 101,
+      "forks": 102,
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:21:56Z",
-      "updated_at": "2026-08-23T04:31:48Z"
+      "pushed_at": "2026-08-23T08:34:05Z",
+      "updated_at": "2026-08-23T08:34:20Z"
     },
     {
-      "id": 1280019852,
-      "full_name": "shuxiachai/academic-commercialization-agent",
-      "html_url": "https://github.com/shuxiachai/academic-commercialization-agent",
-      "description": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
-      "stars": 531,
-      "forks": 44,
-      "language": "Python",
-      "pushed_at": "2026-08-23T04:11:52Z",
-      "updated_at": "2026-08-23T04:12:39Z"
-    },
-    {
-      "id": 809764991,
-      "full_name": "shibing624/agentica",
-      "html_url": "https://github.com/shibing624/agentica",
-      "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeChat/WeCom/Feishu gateway lets you call them back when you walk away. Async Python SDK, persistent memory, self-evolving skills.",
-      "stars": 349,
+      "id": 1302093382,
+      "full_name": "gakonst/nanocodex",
+      "html_url": "https://github.com/gakonst/nanocodex",
+      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
+      "stars": 421,
       "forks": 48,
+      "language": "Rust",
+      "pushed_at": "2026-08-23T08:24:54Z",
+      "updated_at": "2026-08-23T08:25:21Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Zero-config observability & governance for 20+ AI agent runtimes: OpenClaw, Claude Code, OpenAI Codex, Cursor, Aider, Goose, NVIDIA NemoClaw, NanoClaw & more. Live token costs, sessions, tool calls, crons.",
+      "stars": 399,
+      "forks": 65,
       "language": "Python",
-      "pushed_at": "2026-08-23T04:37:35Z",
-      "updated_at": "2026-08-23T04:38:46Z"
+      "pushed_at": "2026-08-23T08:29:09Z",
+      "updated_at": "2026-08-23T08:29:30Z"
     },
     {
-      "id": 719577983,
-      "full_name": "chmonitor/chmonitor",
-      "html_url": "https://github.com/chmonitor/chmonitor",
-      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations.",
-      "stars": 280,
-      "forks": 43,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:39:19Z",
-      "updated_at": "2026-08-23T04:32:09Z"
-    },
-    {
-      "id": 1310543401,
-      "full_name": "agentconnect-md/agentconnect",
-      "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "The open-source, multi-agent alternative to Claude Tag. @ any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
-      "stars": 151,
-      "forks": 13,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:37:10Z",
-      "updated_at": "2026-08-23T04:38:21Z"
+      "id": 1206100170,
+      "full_name": "SudoJacky/tinybot",
+      "html_url": "https://github.com/SudoJacky/tinybot",
+      "description": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
+      "stars": 188,
+      "forks": 32,
+      "language": "Rust",
+      "pushed_at": "2026-08-23T08:26:46Z",
+      "updated_at": "2026-08-23T08:27:10Z"
     },
     {
       "id": 1297904369,
@@ -158,8 +147,8 @@
       "stars": 137,
       "forks": 16,
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T04:37:43Z",
-      "updated_at": "2026-08-23T04:37:50Z"
+      "pushed_at": "2026-08-23T08:32:38Z",
+      "updated_at": "2026-08-23T08:32:47Z"
     },
     {
       "id": 1283015427,
@@ -169,8 +158,19 @@
       "stars": 120,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-23T04:32:04Z",
-      "updated_at": "2026-08-23T04:32:18Z"
+      "pushed_at": "2026-08-23T08:23:46Z",
+      "updated_at": "2026-08-23T08:24:03Z"
+    },
+    {
+      "id": 1283323996,
+      "full_name": "ninouanis84-sudo/foxl-orchestrator",
+      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
+      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
+      "stars": 116,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-08-23T08:21:52Z",
+      "updated_at": "2026-08-23T08:22:06Z"
     }
   ]
 }
