@@ -8,81 +8,103 @@
   "total_found": 1381,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 235931,
-      "forks": 47603,
-      "language": "Python",
-      "pushed_at": "2026-08-25T04:33:19Z",
-      "updated_at": "2026-08-25T04:38:39Z"
+      "id": 1201476594,
+      "full_name": "santifer/career-ops",
+      "html_url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 68221,
+      "forks": 12948,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-25T08:46:16Z",
+      "updated_at": "2026-08-25T08:47:38Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 35129,
-      "forks": 2338,
+      "stars": 35138,
+      "forks": 2339,
       "language": "Go",
-      "pushed_at": "2026-08-25T04:28:21Z",
-      "updated_at": "2026-08-25T04:36:39Z"
+      "pushed_at": "2026-08-25T08:47:00Z",
+      "updated_at": "2026-08-25T08:48:01Z"
     },
     {
-      "id": 1033778670,
-      "full_name": "iOfficeAI/AionUi",
-      "html_url": "https://github.com/iOfficeAI/AionUi",
-      "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-      "stars": 32257,
-      "forks": 3313,
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 27345,
+      "forks": 2931,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T04:37:07Z",
-      "updated_at": "2026-08-25T04:38:08Z"
+      "pushed_at": "2026-08-25T08:47:33Z",
+      "updated_at": "2026-08-25T08:46:31Z"
+    },
+    {
+      "id": 1203558071,
+      "full_name": "TencentCloud/TencentDB-Agent-Memory",
+      "html_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 24340,
+      "forks": 2244,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T08:37:36Z",
+      "updated_at": "2026-08-25T08:46:37Z"
+    },
+    {
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 24029,
+      "forks": 4096,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T08:46:25Z",
+      "updated_at": "2026-08-25T08:48:22Z"
     },
     {
       "id": 1128204614,
       "full_name": "1jehuang/jcode",
       "html_url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
-      "stars": 18478,
-      "forks": 2080,
+      "stars": 18497,
+      "forks": 2086,
       "language": "Rust",
-      "pushed_at": "2026-08-25T04:28:22Z",
-      "updated_at": "2026-08-25T04:36:51Z"
+      "pushed_at": "2026-08-25T08:37:32Z",
+      "updated_at": "2026-08-25T08:41:33Z"
+    },
+    {
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 9252,
+      "forks": 1420,
+      "language": "Python",
+      "pushed_at": "2026-08-25T08:47:13Z",
+      "updated_at": "2026-08-25T08:47:48Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 3225,
-      "forks": 372,
+      "stars": 3234,
+      "forks": 374,
       "language": "Python",
-      "pushed_at": "2026-08-25T04:36:16Z",
-      "updated_at": "2026-08-25T04:27:40Z"
+      "pushed_at": "2026-08-25T08:44:43Z",
+      "updated_at": "2026-08-25T08:45:42Z"
     },
     {
-      "id": 1334373503,
-      "full_name": "zouyuxuan122/Deepseek-Harness-EAC",
-      "html_url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
-      "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
-      "stars": 1272,
-      "forks": 45,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-25T04:30:25Z",
-      "updated_at": "2026-08-25T04:32:20Z"
-    },
-    {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 1222,
-      "forks": 173,
-      "language": "Rust",
-      "pushed_at": "2026-08-25T04:30:23Z",
-      "updated_at": "2026-08-25T04:38:21Z"
+      "id": 1223512305,
+      "full_name": "lessweb/deepcode-cli",
+      "html_url": "https://github.com/lessweb/deepcode-cli",
+      "description": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。",
+      "stars": 2209,
+      "forks": 206,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T08:38:58Z",
+      "updated_at": "2026-08-25T08:39:24Z"
     },
     {
       "id": 1096175506,
@@ -92,63 +114,52 @@
       "stars": 1151,
       "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T04:38:36Z",
-      "updated_at": "2026-08-25T04:31:34Z"
+      "pushed_at": "2026-08-25T08:46:02Z",
+      "updated_at": "2026-08-25T08:46:39Z"
     },
     {
-      "id": 1158621117,
-      "full_name": "artokun/comfyui-mcp",
-      "html_url": "https://github.com/artokun/comfyui-mcp",
-      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
-      "stars": 671,
-      "forks": 104,
+      "id": 1235491525,
+      "full_name": "Mininglamp-OSS/octo-web",
+      "html_url": "https://github.com/Mininglamp-OSS/octo-web",
+      "description": "Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.",
+      "stars": 856,
+      "forks": 136,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T04:40:27Z",
-      "updated_at": "2026-08-25T04:39:02Z"
+      "pushed_at": "2026-08-25T08:40:02Z",
+      "updated_at": "2026-08-25T08:40:39Z"
     },
     {
-      "id": 1326915228,
-      "full_name": "jundizhou/easy-stock",
-      "html_url": "https://github.com/jundizhou/easy-stock",
-      "description": "A 股行情分析与AI智能投研智能体——easy stock",
-      "stars": 444,
-      "forks": 6,
-      "language": "Go",
-      "pushed_at": "2026-08-25T04:28:12Z",
-      "updated_at": "2026-08-25T04:38:04Z"
+      "id": 538144430,
+      "full_name": "mkosir/typescript-style-guide",
+      "html_url": "https://github.com/mkosir/typescript-style-guide",
+      "description": "⚙️ TypeScript Style Guide and Agent Skill. A concise set of conventions and best practices for consistent, maintainable code.",
+      "stars": 780,
+      "forks": 37,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T08:47:44Z",
+      "updated_at": "2026-08-25T08:48:17Z"
     },
     {
-      "id": 1302093382,
-      "full_name": "gakonst/nanocodex",
-      "html_url": "https://github.com/gakonst/nanocodex",
-      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-      "stars": 425,
-      "forks": 49,
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 407,
+      "forks": 72,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T08:43:11Z",
+      "updated_at": "2026-08-25T08:44:53Z"
+    },
+    {
+      "id": 1184635586,
+      "full_name": "pivoshenko/kasetto",
+      "html_url": "https://github.com/pivoshenko/kasetto",
+      "description": "📼 A declarative AI agent environment manager, written in Rust",
+      "stars": 130,
+      "forks": 8,
       "language": "Rust",
-      "pushed_at": "2026-08-25T04:31:03Z",
-      "updated_at": "2026-08-25T04:31:25Z"
-    },
-    {
-      "id": 1313497021,
-      "full_name": "fy-agent/fyagent",
-      "html_url": "https://github.com/fy-agent/fyagent",
-      "description": "For You Agent——AI 时代的个人随身数字人格。把你的模型、AI 账号、技能、提示词和工作方式，带到每一个 AI 工具里。",
-      "stars": 268,
-      "forks": 22,
-      "language": "Rust",
-      "pushed_at": "2026-08-25T04:28:17Z",
-      "updated_at": "2026-08-25T04:32:24Z"
-    },
-    {
-      "id": 1262855632,
-      "full_name": "askie/grix",
-      "html_url": "https://github.com/askie/grix",
-      "description": "Grix : Work with agents like talking to people.",
-      "stars": 122,
-      "forks": 2,
-      "language": "Go",
-      "pushed_at": "2026-08-25T04:39:24Z",
-      "updated_at": "2026-08-25T04:39:48Z"
+      "pushed_at": "2026-08-25T08:45:41Z",
+      "updated_at": "2026-08-25T08:46:08Z"
     },
     {
       "id": 1283015427,
@@ -158,19 +169,8 @@
       "stars": 120,
       "forks": 0,
       "language": "HTML",
-      "pushed_at": "2026-08-25T04:34:21Z",
-      "updated_at": "2026-08-25T04:34:28Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 117,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-08-25T04:32:44Z",
-      "updated_at": "2026-08-25T04:33:02Z"
+      "pushed_at": "2026-08-25T08:36:41Z",
+      "updated_at": "2026-08-25T08:40:14Z"
     }
   ]
 }
