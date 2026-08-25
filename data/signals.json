@@ -5,51 +5,40 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1383,
+  "total_found": 1384,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 236299,
-      "forks": 47693,
-      "language": "Python",
-      "pushed_at": "2026-08-25T16:38:49Z",
-      "updated_at": "2026-08-25T16:40:14Z"
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 37034,
+      "forks": 4582,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T20:27:09Z",
+      "updated_at": "2026-08-25T20:27:23Z"
     },
     {
-      "id": 1053118194,
-      "full_name": "bojieli/ai-agent-book",
-      "html_url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": 42156,
-      "forks": 4663,
-      "language": "Python",
-      "pushed_at": "2026-08-25T16:34:05Z",
-      "updated_at": "2026-08-25T16:33:56Z"
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in",
+      "stars": 27421,
+      "forks": 2695,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T20:26:27Z",
+      "updated_at": "2026-08-25T20:27:53Z"
     },
     {
-      "id": 1218208502,
-      "full_name": "zenstory-ai/oh-story-claudecode",
-      "html_url": "https://github.com/zenstory-ai/oh-story-claudecode",
-      "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程 | An all-in-one skill pack for long- and short-form web fiction.",
-      "stars": 6062,
-      "forks": 898,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-25T16:40:21Z",
-      "updated_at": "2026-08-25T16:39:41Z"
-    },
-    {
-      "id": 1145977416,
-      "full_name": "1186258278/OpenClawChineseTranslation",
-      "html_url": "https://github.com/1186258278/OpenClawChineseTranslation",
-      "description": "🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！",
-      "stars": 3805,
-      "forks": 489,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-25T16:34:37Z",
-      "updated_at": "2026-08-25T16:36:46Z"
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 3334,
+      "forks": 451,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T20:13:33Z",
+      "updated_at": "2026-08-25T20:15:14Z"
     },
     {
       "id": 220867748,
@@ -59,41 +48,19 @@
       "stars": 3261,
       "forks": 231,
       "language": "JavaScript",
-      "pushed_at": "2026-08-25T16:36:36Z",
-      "updated_at": "2026-08-25T16:24:40Z"
+      "pushed_at": "2026-08-25T20:22:59Z",
+      "updated_at": "2026-08-25T20:23:04Z"
     },
     {
-      "id": 1251460378,
-      "full_name": "apache/maka",
-      "html_url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "stars": 3211,
-      "forks": 323,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-25T16:38:33Z",
-      "updated_at": "2026-08-25T16:33:05Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2298,
-      "forks": 323,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-25T16:25:50Z",
-      "updated_at": "2026-08-25T16:29:53Z"
-    },
-    {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 1243,
-      "forks": 185,
-      "language": "Rust",
-      "pushed_at": "2026-08-25T16:40:18Z",
-      "updated_at": "2026-08-25T16:27:31Z"
+      "id": 982183014,
+      "full_name": "lioensky/VCPToolBox",
+      "html_url": "https://github.com/lioensky/VCPToolBox",
+      "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+      "stars": 2263,
+      "forks": 370,
+      "language": "JavaScript",
+      "pushed_at": "2026-08-25T20:20:01Z",
+      "updated_at": "2026-08-25T20:25:58Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +70,107 @@
       "stars": 1151,
       "forks": 70,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T16:39:59Z",
-      "updated_at": "2026-08-25T16:34:15Z"
+      "pushed_at": "2026-08-25T20:29:03Z",
+      "updated_at": "2026-08-25T20:26:24Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 646,
-      "forks": 52,
-      "language": "Go",
-      "pushed_at": "2026-08-25T16:40:06Z",
-      "updated_at": "2026-08-25T16:39:41Z"
-    },
-    {
-      "id": 1253702844,
-      "full_name": "tommy0103/obelisk",
-      "html_url": "https://github.com/tommy0103/obelisk",
-      "description": "Every past session, subagent, and workflow -- queryable by your agent, browsable by you",
-      "stars": 380,
-      "forks": 26,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-25T16:27:38Z",
-      "updated_at": "2026-08-25T16:33:03Z"
-    },
-    {
-      "id": 1185007574,
-      "full_name": "cdxiaodong/cain-agent",
-      "html_url": "https://github.com/cdxiaodong/cain-agent",
-      "description": "Real-world AI penetration testing engineer for authorized assessments — built-in cloud module covering AWS/Azure/GCP + Aliyun/Tencent/Huawei clouds. Built on Claude Agent SDK",
-      "stars": 371,
-      "forks": 87,
+      "id": 591995344,
+      "full_name": "rush86999/atom",
+      "html_url": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 870,
+      "forks": 93,
       "language": "Python",
-      "pushed_at": "2026-08-25T16:35:22Z",
-      "updated_at": "2026-08-25T16:18:39Z"
+      "pushed_at": "2026-08-25T20:21:59Z",
+      "updated_at": "2026-08-25T20:22:04Z"
     },
     {
-      "id": 1154718152,
-      "full_name": "Peiiii/nextclaw",
-      "html_url": "https://github.com/Peiiii/nextclaw",
-      "description": "An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.",
-      "stars": 252,
-      "forks": 43,
+      "id": 1158621117,
+      "full_name": "artokun/comfyui-mcp",
+      "html_url": "https://github.com/artokun/comfyui-mcp",
+      "description": "Local-first, agent-native control plane for ComfyUI — MCP server + sidebar agent that generates images, video & audio, authors and runs workflows, and edits your live graph in natural language on ANY LLM (Claude, ChatGPT, Gemini, offline Ollama, or any hosted model). 178 tools, 36 AI skills, 55 installer packs. Local, LAN, VPS, or Comfy Cloud.",
+      "stars": 674,
+      "forks": 104,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T16:30:56Z",
-      "updated_at": "2026-08-25T14:09:34Z"
+      "pushed_at": "2026-08-25T20:17:20Z",
+      "updated_at": "2026-08-25T20:12:20Z"
     },
     {
-      "id": 1160004652,
-      "full_name": "kstevica/captain-claw",
-      "html_url": "https://github.com/kstevica/captain-claw",
-      "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
-      "stars": 162,
-      "forks": 15,
-      "language": "Python",
-      "pushed_at": "2026-08-25T16:23:48Z",
-      "updated_at": "2026-08-25T16:37:58Z"
+      "id": 1213491458,
+      "full_name": "1ay1/agentty",
+      "html_url": "https://github.com/1ay1/agentty",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "stars": 596,
+      "forks": 17,
+      "language": "C++",
+      "pushed_at": "2026-08-25T20:25:01Z",
+      "updated_at": "2026-08-25T20:25:15Z"
+    },
+    {
+      "id": 1302093382,
+      "full_name": "gakonst/nanocodex",
+      "html_url": "https://github.com/gakonst/nanocodex",
+      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
+      "stars": 427,
+      "forks": 50,
+      "language": "Rust",
+      "pushed_at": "2026-08-25T20:30:30Z",
+      "updated_at": "2026-08-25T20:30:46Z"
+    },
+    {
+      "id": 1267202750,
+      "full_name": "devcxl/mattpocock-skills-zh",
+      "html_url": "https://github.com/devcxl/mattpocock-skills-zh",
+      "description": "Matt Pocock 技能集的中文翻译版 — 地道中文，原汁原味的技术术语。基于 mattpocock/skills 复刻。每日中午12点钟同步",
+      "stars": 257,
+      "forks": 29,
+      "language": "Shell",
+      "pushed_at": "2026-08-25T20:25:38Z",
+      "updated_at": "2026-08-25T20:30:57Z"
+    },
+    {
+      "id": 1150677698,
+      "full_name": "joshuaswarren/remnic",
+      "html_url": "https://github.com/joshuaswarren/remnic",
+      "description": "Open-source memory and context for user-aware agents: scoped memory, provenance, retrieval quality, correction, boundaries, evals, and MCP/HTTP access.",
+      "stars": 182,
+      "forks": 23,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T20:30:45Z",
+      "updated_at": "2026-08-25T20:23:18Z"
     },
     {
       "id": 1310543401,
       "full_name": "agentconnect-md/agentconnect",
       "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "The open-source, multi-agent alternative to Claude Tag. @ any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
+      "description": "The open-source, multi-agent alternative to Claude Tag.           @ any agent, wherever work happens, they work alongside your team, learning as they go.",
       "stars": 152,
       "forks": 14,
       "language": "TypeScript",
-      "pushed_at": "2026-08-25T16:35:51Z",
-      "updated_at": "2026-08-25T16:13:22Z"
+      "pushed_at": "2026-08-25T20:22:34Z",
+      "updated_at": "2026-08-25T20:23:17Z"
+    },
+    {
+      "id": 1183190247,
+      "full_name": "dimetron/pi-go",
+      "html_url": "https://github.com/dimetron/pi-go",
+      "description": "Go implementation of AI coding agent",
+      "stars": 145,
+      "forks": 18,
+      "language": "Go",
+      "pushed_at": "2026-08-25T20:25:19Z",
+      "updated_at": "2026-08-25T20:26:40Z"
+    },
+    {
+      "id": 1237346118,
+      "full_name": "OpenWhale-Org/OpenWhale",
+      "html_url": "https://github.com/OpenWhale-Org/OpenWhale",
+      "description": "A framework for AI-driven economic activity. Declarative, composable, observable, deterministic.",
+      "stars": 142,
+      "forks": 10,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-25T20:18:11Z",
+      "updated_at": "2026-08-25T20:22:48Z"
     }
   ]
 }
