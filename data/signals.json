@@ -5,84 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1411,
+  "total_found": 1415,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 237530,
-      "forks": 48174,
-      "language": "Python",
-      "pushed_at": "2026-08-28T10:38:54Z",
-      "updated_at": "2026-08-28T10:39:08Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 51186,
-      "forks": 4887,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in",
+      "stars": 28141,
+      "forks": 2811,
       "language": "TypeScript",
-      "pushed_at": "2026-08-28T10:40:06Z",
-      "updated_at": "2026-08-28T10:37:47Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 37087,
-      "forks": 4586,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T10:32:24Z",
-      "updated_at": "2026-08-28T10:34:32Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 35232,
-      "forks": 2353,
-      "language": "Go",
-      "pushed_at": "2026-08-28T10:38:34Z",
-      "updated_at": "2026-08-28T10:29:50Z"
-    },
-    {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23905,
-      "forks": 2840,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T10:38:02Z",
-      "updated_at": "2026-08-28T10:37:29Z"
+      "pushed_at": "2026-08-28T21:53:35Z",
+      "updated_at": "2026-08-28T21:57:40Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 9415,
-      "forks": 1455,
+      "stars": 9440,
+      "forks": 1457,
       "language": "Python",
-      "pushed_at": "2026-08-28T10:39:16Z",
-      "updated_at": "2026-08-28T10:34:25Z"
+      "pushed_at": "2026-08-28T21:57:14Z",
+      "updated_at": "2026-08-28T21:53:09Z"
     },
     {
-      "id": 220867748,
-      "full_name": "neomjs/neo",
-      "html_url": "https://github.com/neomjs/neo",
-      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3261,
-      "forks": 231,
-      "language": "JavaScript",
-      "pushed_at": "2026-08-28T10:36:07Z",
-      "updated_at": "2026-08-28T10:40:29Z"
+      "id": 1303258850,
+      "full_name": "kirodotdev/KiroCrew",
+      "html_url": "https://github.com/kirodotdev/KiroCrew",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "stars": 3358,
+      "forks": 404,
+      "language": "Python",
+      "pushed_at": "2026-08-28T21:58:12Z",
+      "updated_at": "2026-08-28T21:53:57Z"
+    },
+    {
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 3352,
+      "forks": 454,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-28T21:55:46Z",
+      "updated_at": "2026-08-28T21:57:34Z"
+    },
+    {
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 2339,
+      "forks": 331,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-28T21:45:30Z",
+      "updated_at": "2026-08-28T21:43:49Z"
+    },
+    {
+      "id": 1138835447,
+      "full_name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "html_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1836,
+      "forks": 196,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-28T21:56:16Z",
+      "updated_at": "2026-08-28T21:56:21Z"
     },
     {
       "id": 1096175506,
@@ -92,85 +81,96 @@
       "stars": 1152,
       "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-08-28T10:41:30Z",
-      "updated_at": "2026-08-28T10:28:09Z"
+      "pushed_at": "2026-08-28T21:47:58Z",
+      "updated_at": "2026-08-28T21:45:20Z"
     },
     {
-      "id": 1310543401,
-      "full_name": "agentconnect-md/agentconnect",
-      "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
+      "stars": 905,
+      "forks": 81,
+      "language": "TypeScript",
+      "pushed_at": "2026-08-28T21:55:49Z",
+      "updated_at": "2026-08-28T21:55:54Z"
+    },
+    {
+      "id": 1213491458,
+      "full_name": "1ay1/agentty",
+      "html_url": "https://github.com/1ay1/agentty",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "stars": 597,
+      "forks": 17,
+      "language": "C++",
+      "pushed_at": "2026-08-28T21:48:01Z",
+      "updated_at": "2026-08-28T21:48:05Z"
+    },
+    {
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
       "stars": 460,
-      "forks": 23,
+      "forks": 100,
       "language": "TypeScript",
-      "pushed_at": "2026-08-28T10:25:26Z",
-      "updated_at": "2026-08-28T10:37:40Z"
+      "pushed_at": "2026-08-28T21:56:07Z",
+      "updated_at": "2026-08-28T21:35:25Z"
     },
     {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
-      "stars": 358,
-      "forks": 61,
+      "id": 1154718152,
+      "full_name": "Peiiii/nextclaw",
+      "html_url": "https://github.com/Peiiii/nextclaw",
+      "description": "An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.",
+      "stars": 253,
+      "forks": 42,
       "language": "TypeScript",
-      "pushed_at": "2026-08-28T10:29:06Z",
-      "updated_at": "2026-08-28T10:25:24Z"
-    },
-    {
-      "id": 809764991,
-      "full_name": "shibing624/agentica",
-      "html_url": "https://github.com/shibing624/agentica",
-      "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeChat/WeCom/Feishu gateway lets you call them back when you walk away. Async Python SDK, persistent memory, self-evolving skills.",
-      "stars": 350,
-      "forks": 49,
-      "language": "Python",
-      "pushed_at": "2026-08-28T10:31:58Z",
-      "updated_at": "2026-08-28T10:32:19Z"
+      "pushed_at": "2026-08-28T21:55:23Z",
+      "updated_at": "2026-08-28T21:41:22Z"
     },
     {
       "id": 1328745700,
       "full_name": "ThinkOffApp/CarWatch",
       "html_url": "https://github.com/ThinkOffApp/CarWatch",
       "description": "Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage.",
-      "stars": 239,
-      "forks": 11,
+      "stars": 247,
+      "forks": 13,
       "language": "Python",
-      "pushed_at": "2026-08-28T10:23:16Z",
-      "updated_at": "2026-08-28T10:25:36Z"
-    },
-    {
-      "id": 1170397757,
-      "full_name": "scitix/siclaw",
-      "html_url": "https://github.com/scitix/siclaw",
-      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
-      "stars": 229,
-      "forks": 28,
-      "language": "TypeScript",
-      "pushed_at": "2026-08-28T10:30:10Z",
-      "updated_at": "2026-08-28T10:32:45Z"
-    },
-    {
-      "id": 1206100170,
-      "full_name": "SudoJacky/tinybot",
-      "html_url": "https://github.com/SudoJacky/tinybot",
-      "description": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
-      "stars": 188,
-      "forks": 32,
-      "language": "Rust",
-      "pushed_at": "2026-08-28T10:32:49Z",
-      "updated_at": "2026-08-28T10:35:10Z"
+      "pushed_at": "2026-08-28T21:39:15Z",
+      "updated_at": "2026-08-28T21:50:03Z"
     },
     {
       "id": 1182535754,
       "full_name": "Digital-Process-Tools/claude-remember",
       "html_url": "https://github.com/Digital-Process-Tools/claude-remember",
       "description": "Persistent memory for Claude Code — identity, context, and continuity across sessions",
-      "stars": 162,
+      "stars": 163,
       "forks": 51,
       "language": "Python",
-      "pushed_at": "2026-08-28T10:39:14Z",
-      "updated_at": "2026-08-28T10:31:07Z"
+      "pushed_at": "2026-08-28T21:56:55Z",
+      "updated_at": "2026-08-28T21:57:28Z"
+    },
+    {
+      "id": 1283078615,
+      "full_name": "rootSunc/CNEquity",
+      "html_url": "https://github.com/rootSunc/CNEquity",
+      "description": "中国股票数据基础设施，覆盖行情、研报、资金面、筹码、公告、龙虎榜、ETF/期权、舆情互动、基本面、行业板块、宏观与风险事件等核心数据。42+A股数据集，日更、自托管、MCP 原生，零注册、零 API Token",
+      "stars": 157,
+      "forks": 31,
+      "language": "Python",
+      "pushed_at": "2026-08-28T21:48:52Z",
+      "updated_at": "2026-08-28T21:48:58Z"
+    },
+    {
+      "id": 1183190247,
+      "full_name": "dimetron/pi-go",
+      "html_url": "https://github.com/dimetron/pi-go",
+      "description": "Go implementation of AI coding agent",
+      "stars": 147,
+      "forks": 19,
+      "language": "Go",
+      "pushed_at": "2026-08-28T21:28:14Z",
+      "updated_at": "2026-08-28T21:28:47Z"
     }
   ]
 }
