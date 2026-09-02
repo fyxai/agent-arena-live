@@ -5,150 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1456,
+  "total_found": 1459,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 239678,
-      "forks": 48990,
+      "stars": 239934,
+      "forks": 49081,
       "language": "Python",
-      "pushed_at": "2026-09-02T08:36:03Z",
-      "updated_at": "2026-09-02T08:36:30Z"
-    },
-    {
-      "id": 1201476594,
-      "full_name": "career-ops-hq/career-ops",
-      "html_url": "https://github.com/career-ops-hq/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "stars": 69819,
-      "forks": 13202,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-02T08:36:24Z",
-      "updated_at": "2026-09-02T08:33:09Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 51362,
-      "forks": 4908,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-02T08:35:06Z",
-      "updated_at": "2026-09-02T08:31:29Z"
+      "pushed_at": "2026-09-02T16:16:48Z",
+      "updated_at": "2026-09-02T16:17:12Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-      "stars": 47637,
+      "stars": 47655,
       "forks": 8409,
       "language": "Python",
-      "pushed_at": "2026-09-02T08:25:10Z",
-      "updated_at": "2026-09-02T08:26:36Z"
+      "pushed_at": "2026-09-02T16:01:41Z",
+      "updated_at": "2026-09-02T16:07:13Z"
     },
     {
-      "id": 573661753,
-      "full_name": "activepieces/activepieces",
-      "html_url": "https://github.com/activepieces/activepieces",
-      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 24182,
-      "forks": 4127,
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 35351,
+      "forks": 2362,
+      "language": "Go",
+      "pushed_at": "2026-09-02T16:15:34Z",
+      "updated_at": "2026-09-02T16:04:14Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in",
+      "stars": 29052,
+      "forks": 2916,
       "language": "TypeScript",
-      "pushed_at": "2026-09-02T08:25:14Z",
-      "updated_at": "2026-09-02T08:26:00Z"
+      "pushed_at": "2026-09-02T16:12:17Z",
+      "updated_at": "2026-09-02T16:16:13Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 23990,
-      "forks": 2853,
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 27585,
+      "forks": 2975,
       "language": "TypeScript",
-      "pushed_at": "2026-09-02T08:35:27Z",
-      "updated_at": "2026-09-02T08:35:01Z"
+      "pushed_at": "2026-09-02T16:10:51Z",
+      "updated_at": "2026-09-02T16:04:57Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 22100,
-      "forks": 1519,
-      "language": "HTML",
-      "pushed_at": "2026-09-02T08:28:01Z",
-      "updated_at": "2026-09-02T08:27:01Z"
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 13653,
+      "forks": 1015,
+      "language": "Python",
+      "pushed_at": "2026-09-02T15:58:31Z",
+      "updated_at": "2026-09-02T16:09:41Z"
     },
     {
-      "id": 931950959,
-      "full_name": "liyupi/ai-guide",
-      "html_url": "https://github.com/liyupi/ai-guide",
-      "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
-      "stars": 19416,
-      "forks": 2196,
+      "id": 1251460378,
+      "full_name": "apache/maka",
+      "html_url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": 4546,
+      "forks": 422,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-02T16:08:13Z",
+      "updated_at": "2026-09-02T16:07:35Z"
+    },
+    {
+      "id": 1318187016,
+      "full_name": "genspark-ai/genoffice",
+      "html_url": "https://github.com/genspark-ai/genoffice",
+      "description": "Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux.",
+      "stars": 4377,
+      "forks": 666,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-02T16:12:21Z",
+      "updated_at": "2026-09-02T16:17:00Z"
+    },
+    {
+      "id": 1303258850,
+      "full_name": "kirodotdev/KiroCrew",
+      "html_url": "https://github.com/kirodotdev/KiroCrew",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "stars": 3553,
+      "forks": 468,
+      "language": "Python",
+      "pushed_at": "2026-09-02T16:13:38Z",
+      "updated_at": "2026-09-02T16:05:26Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3264,
+      "forks": 232,
       "language": "JavaScript",
-      "pushed_at": "2026-09-02T08:32:57Z",
-      "updated_at": "2026-09-02T08:34:37Z"
-    },
-    {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 9609,
-      "forks": 1485,
-      "language": "Python",
-      "pushed_at": "2026-09-02T08:32:45Z",
-      "updated_at": "2026-09-02T08:33:16Z"
-    },
-    {
-      "id": 1178833585,
-      "full_name": "iflytek/skillhub",
-      "html_url": "https://github.com/iflytek/skillhub",
-      "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
-      "stars": 4952,
-      "forks": 821,
-      "language": "Java",
-      "pushed_at": "2026-09-02T08:30:37Z",
-      "updated_at": "2026-09-02T08:33:11Z"
-    },
-    {
-      "id": 1208642537,
-      "full_name": "KnockOutEZ/wigolo",
-      "html_url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "stars": 4839,
-      "forks": 363,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-02T08:26:13Z",
-      "updated_at": "2026-09-02T08:33:01Z"
-    },
-    {
-      "id": 1273015953,
-      "full_name": "shy3130/tick-stock-panel",
-      "html_url": "https://github.com/shy3130/tick-stock-panel",
-      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目",
-      "stars": 4145,
-      "forks": 976,
-      "language": "Python",
-      "pushed_at": "2026-09-02T08:28:50Z",
-      "updated_at": "2026-09-02T08:34:26Z"
+      "pushed_at": "2026-09-02T16:13:34Z",
+      "updated_at": "2026-09-02T16:01:16Z"
     },
     {
       "id": 1310543401,
       "full_name": "agentconnect-md/agentconnect",
       "html_url": "https://github.com/agentconnect-md/agentconnect",
       "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1228,
+      "stars": 1239,
       "forks": 28,
       "language": "TypeScript",
-      "pushed_at": "2026-09-02T08:36:21Z",
-      "updated_at": "2026-09-02T08:27:39Z"
+      "pushed_at": "2026-09-02T16:11:46Z",
+      "updated_at": "2026-09-02T16:11:05Z"
     },
     {
       "id": 1096175506,
@@ -158,19 +136,41 @@
       "stars": 1154,
       "forks": 70,
       "language": "TypeScript",
-      "pushed_at": "2026-09-02T08:36:50Z",
-      "updated_at": "2026-09-02T08:32:41Z"
+      "pushed_at": "2026-09-02T16:16:58Z",
+      "updated_at": "2026-09-02T16:11:20Z"
     },
     {
-      "id": 1182162835,
-      "full_name": "physiclaw/PhysiClaw",
-      "html_url": "https://github.com/physiclaw/PhysiClaw",
-      "description": "The AI agent that interacts with you in the real world.",
-      "stars": 367,
-      "forks": 36,
+      "id": 1313497021,
+      "full_name": "fy-agent/fyagent",
+      "html_url": "https://github.com/fy-agent/fyagent",
+      "description": "For You Agent——AI 时代的个人随身数字人格。把你的模型、AI 账号、技能、提示词和工作方式，带到每一个 AI 工具里。",
+      "stars": 933,
+      "forks": 120,
+      "language": "Rust",
+      "pushed_at": "2026-09-02T16:14:56Z",
+      "updated_at": "2026-09-02T16:14:25Z"
+    },
+    {
+      "id": 1333294285,
+      "full_name": "myYangyunfan/dsh_desktop",
+      "html_url": "https://github.com/myYangyunfan/dsh_desktop",
+      "description": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "stars": 622,
+      "forks": 31,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-02T16:01:59Z",
+      "updated_at": "2026-09-02T16:05:03Z"
+    },
+    {
+      "id": 1269050856,
+      "full_name": "addsumtech/slides_maker",
+      "html_url": "https://github.com/addsumtech/slides_maker",
+      "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
+      "stars": 492,
+      "forks": 47,
       "language": "Python",
-      "pushed_at": "2026-09-02T08:25:39Z",
-      "updated_at": "2026-09-02T08:30:38Z"
+      "pushed_at": "2026-09-02T16:02:26Z",
+      "updated_at": "2026-09-02T16:12:24Z"
     }
   ]
 }
