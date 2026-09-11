@@ -5,95 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1537,
+  "total_found": 1542,
   "items": [
     {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 244504,
-      "forks": 50645,
-      "language": "Python",
-      "pushed_at": "2026-09-11T16:00:47Z",
-      "updated_at": "2026-09-11T16:09:33Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 53713,
-      "forks": 4291,
-      "language": "Python",
-      "pushed_at": "2026-09-11T16:07:39Z",
-      "updated_at": "2026-09-11T16:07:59Z"
-    },
-    {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ Coding agent with the IDE wired in",
-      "stars": 30658,
-      "forks": 3165,
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 37307,
+      "forks": 4621,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T16:08:44Z",
-      "updated_at": "2026-09-11T16:08:50Z"
+      "pushed_at": "2026-09-11T22:15:40Z",
+      "updated_at": "2026-09-11T22:15:43Z"
+    },
+    {
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 27776,
+      "forks": 3024,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-11T22:20:49Z",
+      "updated_at": "2026-09-11T22:04:06Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 9855,
-      "forks": 1536,
+      "stars": 9858,
+      "forks": 1539,
       "language": "Python",
-      "pushed_at": "2026-09-11T16:07:28Z",
-      "updated_at": "2026-09-11T16:01:33Z"
+      "pushed_at": "2026-09-11T22:19:24Z",
+      "updated_at": "2026-09-11T22:10:30Z"
     },
     {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2623,
-      "forks": 383,
+      "id": 1217416768,
+      "full_name": "AtomicBot-ai/atomic-agent",
+      "html_url": "https://github.com/AtomicBot-ai/atomic-agent",
+      "description": "Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.",
+      "stars": 2525,
+      "forks": 246,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T15:58:30Z",
-      "updated_at": "2026-09-11T15:58:35Z"
+      "pushed_at": "2026-09-11T22:20:01Z",
+      "updated_at": "2026-09-11T22:20:03Z"
     },
     {
-      "id": 1194596194,
-      "full_name": "Bitterbot-AI/bitterbot-desktop",
-      "html_url": "https://github.com/Bitterbot-AI/bitterbot-desktop",
-      "description": "A local-first AI agent with persistent memory, emotional intelligence, and a peer-to-peer skills economy.",
-      "stars": 2462,
-      "forks": 417,
+      "id": 1296471449,
+      "full_name": "ShenSeanChen/waku-agent",
+      "html_url": "https://github.com/ShenSeanChen/waku-agent",
+      "description": "Waku Waku! Waku Agent is a local-first AI agent harness you actually own, including loop, memory, eval, all in code built to stay legible as it grows.",
+      "stars": 1728,
+      "forks": 336,
+      "language": "Python",
+      "pushed_at": "2026-09-11T21:57:15Z",
+      "updated_at": "2026-09-11T22:03:30Z"
+    },
+    {
+      "id": 1051086270,
+      "full_name": "inkeep/agents",
+      "html_url": "https://github.com/inkeep/agents",
+      "description": "Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows.",
+      "stars": 1425,
+      "forks": 175,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T16:06:55Z",
-      "updated_at": "2026-09-11T16:06:21Z"
-    },
-    {
-      "id": 1281033762,
-      "full_name": "tianma-if/edgeever",
-      "html_url": "https://github.com/tianma-if/edgeever",
-      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
-      "stars": 1399,
-      "forks": 787,
-      "language": "HTML",
-      "pushed_at": "2026-09-11T16:07:42Z",
-      "updated_at": "2026-09-11T16:07:47Z"
+      "pushed_at": "2026-09-11T21:47:22Z",
+      "updated_at": "2026-09-11T21:47:24Z"
     },
     {
       "id": 1310543401,
       "full_name": "agentconnect-md/agentconnect",
       "html_url": "https://github.com/agentconnect-md/agentconnect",
       "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1357,
+      "stars": 1356,
       "forks": 44,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T16:06:18Z",
-      "updated_at": "2026-09-11T16:06:21Z"
+      "pushed_at": "2026-09-11T22:07:18Z",
+      "updated_at": "2026-09-11T21:53:31Z"
+    },
+    {
+      "id": 1186701238,
+      "full_name": "K-Dense-AI/k-dense-byok",
+      "html_url": "https://github.com/K-Dense-AI/k-dense-byok",
+      "description": "An AI co-scientist running on your desktop. Claude Science but better.",
+      "stars": 1202,
+      "forks": 151,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-11T22:20:37Z",
+      "updated_at": "2026-09-11T22:20:39Z"
     },
     {
       "id": 1096175506,
@@ -103,63 +103,52 @@
       "stars": 1152,
       "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-09-11T15:59:08Z",
-      "updated_at": "2026-09-11T15:59:11Z"
+      "pushed_at": "2026-09-11T22:12:34Z",
+      "updated_at": "2026-09-11T21:52:07Z"
     },
     {
-      "id": 591995344,
-      "full_name": "rush86999/atom",
-      "html_url": "https://github.com/rush86999/atom",
-      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
-      "stars": 887,
-      "forks": 94,
+      "id": 1215678767,
+      "full_name": "agentforce314/clawcodex",
+      "html_url": "https://github.com/agentforce314/clawcodex",
+      "description": "Token efficient Claude Code full Python rebuild. AI Coding Agent in 310K LoC Python.",
+      "stars": 897,
+      "forks": 152,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-11T22:07:22Z",
+      "updated_at": "2026-09-11T22:06:51Z"
+    },
+    {
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
+      "stars": 507,
+      "forks": 109,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-11T22:21:18Z",
+      "updated_at": "2026-09-11T21:48:12Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.",
+      "stars": 413,
+      "forks": 66,
       "language": "Python",
-      "pushed_at": "2026-09-11T16:06:15Z",
-      "updated_at": "2026-09-11T16:06:20Z"
+      "pushed_at": "2026-09-11T22:21:00Z",
+      "updated_at": "2026-09-11T21:37:59Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 681,
-      "forks": 54,
-      "language": "Go",
-      "pushed_at": "2026-09-11T16:03:42Z",
-      "updated_at": "2026-09-11T16:03:46Z"
-    },
-    {
-      "id": 1333486649,
-      "full_name": "ningbainb/deepseek-harness-desktop",
-      "html_url": "https://github.com/ningbainb/deepseek-harness-desktop",
-      "description": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
-      "stars": 472,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T16:10:27Z",
-      "updated_at": "2026-09-11T16:10:32Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 423,
-      "forks": 94,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T16:07:01Z",
-      "updated_at": "2026-09-11T16:04:31Z"
-    },
-    {
-      "id": 1219291910,
-      "full_name": "oneshot-agent/oneshot-gtm",
-      "html_url": "https://github.com/oneshot-agent/oneshot-gtm",
-      "description": "GTM agent for technical founders. Pay-per-result. Signed receipts. Two surfaces: terminal CLI + local web dashboard.",
-      "stars": 293,
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.",
+      "stars": 172,
       "forks": 5,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-11T16:09:24Z",
-      "updated_at": "2026-09-11T16:09:28Z"
+      "language": "Rust",
+      "pushed_at": "2026-09-11T22:09:34Z",
+      "updated_at": "2026-09-11T22:09:37Z"
     },
     {
       "id": 1189273325,
@@ -169,8 +158,19 @@
       "stars": 141,
       "forks": 14,
       "language": "Go",
-      "pushed_at": "2026-09-11T16:07:25Z",
-      "updated_at": "2026-09-11T16:07:14Z"
+      "pushed_at": "2026-09-11T22:08:35Z",
+      "updated_at": "2026-09-11T22:08:00Z"
+    },
+    {
+      "id": 1154198694,
+      "full_name": "prime-radiant-inc/evener",
+      "html_url": "https://github.com/prime-radiant-inc/evener",
+      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "stars": 139,
+      "forks": 11,
+      "language": "Go",
+      "pushed_at": "2026-09-11T22:18:11Z",
+      "updated_at": "2026-09-11T22:09:19Z"
     }
   ]
 }
