@@ -5,139 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1546,
+  "total_found": 1548,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 244806,
-      "forks": 50779,
+      "stars": 244850,
+      "forks": 50789,
       "language": "Python",
-      "pushed_at": "2026-09-12T15:17:04Z",
-      "updated_at": "2026-09-12T15:13:40Z"
-    },
-    {
-      "id": 1113573066,
-      "full_name": "hugohe3/ppt-master",
-      "html_url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "stars": 53865,
-      "forks": 4295,
-      "language": "Python",
-      "pushed_at": "2026-09-12T15:14:19Z",
-      "updated_at": "2026-09-12T15:14:23Z"
+      "pushed_at": "2026-09-12T18:08:17Z",
+      "updated_at": "2026-09-12T18:09:13Z"
     },
     {
       "id": 805155266,
       "full_name": "CherryHQ/cherry-studio",
       "html_url": "https://github.com/CherryHQ/cherry-studio",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 51723,
-      "forks": 4955,
+      "stars": 51727,
+      "forks": 4956,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T15:13:37Z",
-      "updated_at": "2026-09-12T15:13:40Z"
+      "pushed_at": "2026-09-12T17:55:33Z",
+      "updated_at": "2026-09-12T18:12:21Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ Coding agent with the IDE wired in",
-      "stars": 30809,
-      "forks": 3195,
+      "id": 291438522,
+      "full_name": "siyuan-note/siyuan",
+      "html_url": "https://github.com/siyuan-note/siyuan",
+      "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+      "stars": 46316,
+      "forks": 2995,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T15:16:49Z",
-      "updated_at": "2026-09-12T15:16:54Z"
+      "pushed_at": "2026-09-12T18:03:53Z",
+      "updated_at": "2026-09-12T17:58:55Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27800,
-      "forks": 3027,
+      "id": 1251460378,
+      "full_name": "apache/maka",
+      "html_url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "stars": 5272,
+      "forks": 491,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T15:13:27Z",
-      "updated_at": "2026-09-12T15:13:30Z"
-    },
-    {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 9879,
-      "forks": 1544,
-      "language": "Python",
-      "pushed_at": "2026-09-12T15:15:50Z",
-      "updated_at": "2026-09-12T15:14:34Z"
+      "pushed_at": "2026-09-12T18:00:50Z",
+      "updated_at": "2026-09-12T18:00:11Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 3867,
+      "stars": 3868,
       "forks": 566,
       "language": "Python",
-      "pushed_at": "2026-09-12T15:17:11Z",
-      "updated_at": "2026-09-12T15:06:06Z"
+      "pushed_at": "2026-09-12T18:13:41Z",
+      "updated_at": "2026-09-12T18:12:43Z"
     },
     {
-      "id": 617502359,
-      "full_name": "vastsa/PI-Desktop",
-      "html_url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 2994,
-      "forks": 230,
+      "id": 1309102418,
+      "full_name": "makecindy/cindy",
+      "html_url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": 2634,
+      "forks": 386,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T15:16:04Z",
-      "updated_at": "2026-09-12T15:16:08Z"
+      "pushed_at": "2026-09-12T18:04:46Z",
+      "updated_at": "2026-09-12T17:55:53Z"
     },
     {
-      "id": 1202410617,
-      "full_name": "FailproofAI/failproofai",
-      "html_url": "https://github.com/FailproofAI/failproofai",
-      "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  40 built-in policies, a local dashboard, no account required with a generous free cloud plan",
-      "stars": 2950,
-      "forks": 460,
-      "language": "MDX",
-      "pushed_at": "2026-09-12T15:07:30Z",
-      "updated_at": "2026-09-12T15:13:15Z"
-    },
-    {
-      "id": 1122859216,
-      "full_name": "the-open-engine/zeroshot",
-      "html_url": "https://github.com/the-open-engine/zeroshot",
-      "description": "Independent executor–verifier orchestration for software changes.",
-      "stars": 1830,
-      "forks": 169,
-      "language": "Rust",
-      "pushed_at": "2026-09-12T15:17:05Z",
-      "updated_at": "2026-09-12T15:17:07Z"
-    },
-    {
-      "id": 1334373503,
-      "full_name": "DSH-EAC/DSH-Desktop-EAC",
-      "html_url": "https://github.com/DSH-EAC/DSH-Desktop-EAC",
-      "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
-      "stars": 1652,
-      "forks": 62,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-12T15:06:49Z",
-      "updated_at": "2026-09-12T15:06:54Z"
-    },
-    {
-      "id": 423101191,
-      "full_name": "i365dev/free4chat",
-      "html_url": "https://github.com/i365dev/free4chat",
-      "description": "Free4Chat provides the temporary boundary. Participants bring the capabilities.",
-      "stars": 1161,
-      "forks": 162,
+      "id": 1096175506,
+      "full_name": "vm0-ai/vm0",
+      "html_url": "https://github.com/vm0-ai/vm0",
+      "description": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
+      "stars": 1152,
+      "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-09-12T15:16:06Z",
-      "updated_at": "2026-09-12T15:16:09Z"
+      "pushed_at": "2026-09-12T18:07:00Z",
+      "updated_at": "2026-09-12T17:52:52Z"
     },
     {
       "id": 591995344,
@@ -147,30 +92,85 @@
       "stars": 888,
       "forks": 94,
       "language": "Python",
-      "pushed_at": "2026-09-12T15:12:43Z",
-      "updated_at": "2026-09-12T15:12:47Z"
+      "pushed_at": "2026-09-12T18:11:48Z",
+      "updated_at": "2026-09-12T18:11:52Z"
     },
     {
-      "id": 1142397834,
-      "full_name": "qf-studio/pilot",
-      "html_url": "https://github.com/qf-studio/pilot",
-      "description": "AI that ships your tickets.",
-      "stars": 681,
-      "forks": 54,
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 875,
+      "forks": 156,
       "language": "Go",
-      "pushed_at": "2026-09-12T15:12:40Z",
-      "updated_at": "2026-09-12T15:12:43Z"
+      "pushed_at": "2026-09-12T18:13:26Z",
+      "updated_at": "2026-09-12T18:09:55Z"
     },
     {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 230,
-      "forks": 51,
+      "id": 860476957,
+      "full_name": "rusiaaman/wcgw",
+      "html_url": "https://github.com/rusiaaman/wcgw",
+      "description": "Shell and coding agent on mcp clients",
+      "stars": 674,
+      "forks": 64,
       "language": "Python",
-      "pushed_at": "2026-09-12T15:03:35Z",
-      "updated_at": "2026-09-12T15:03:40Z"
+      "pushed_at": "2026-09-12T17:57:43Z",
+      "updated_at": "2026-09-12T17:53:07Z"
+    },
+    {
+      "id": 1159796496,
+      "full_name": "lucasygu/redbook",
+      "html_url": "https://github.com/lucasygu/redbook",
+      "description": "小红书 CLI — 搜索、分析、自动化 Xiaohongshu content. Built for AI agents.",
+      "stars": 475,
+      "forks": 48,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T18:06:03Z",
+      "updated_at": "2026-09-12T18:05:31Z"
+    },
+    {
+      "id": 809764991,
+      "full_name": "shibing624/agentica",
+      "html_url": "https://github.com/shibing624/agentica",
+      "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeChat/WeCom/Feishu gateway lets you call them back when you walk away. Async Python SDK, persistent memory, self-evolving skills.",
+      "stars": 353,
+      "forks": 50,
+      "language": "Python",
+      "pushed_at": "2026-09-12T17:53:15Z",
+      "updated_at": "2026-09-12T17:53:18Z"
+    },
+    {
+      "id": 1170397757,
+      "full_name": "scitix/siclaw",
+      "html_url": "https://github.com/scitix/siclaw",
+      "description": "AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration",
+      "stars": 233,
+      "forks": 29,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-12T18:05:05Z",
+      "updated_at": "2026-09-12T18:05:06Z"
+    },
+    {
+      "id": 751358157,
+      "full_name": "codersauce/red",
+      "html_url": "https://github.com/codersauce/red",
+      "description": ":memo: Vimlike Modal Text Editor in Rust",
+      "stars": 223,
+      "forks": 11,
+      "language": "Rust",
+      "pushed_at": "2026-09-12T17:56:21Z",
+      "updated_at": "2026-09-12T17:56:23Z"
+    },
+    {
+      "id": 1189273325,
+      "full_name": "coddy-project/coddy-agent",
+      "html_url": "https://github.com/coddy-project/coddy-agent",
+      "description": "General-purpose agent in one static Go binary: console TUI, ACP server for editors, OpenAI-compatible API with embedded web UI, Telegram gateway, cron scheduler, swarm relay, remote mode. Rules, skills, subagents, hooks, MCP, background tasks, long-term memory, context compaction. Any OpenAI-compatible provider, distroless-ready.",
+      "stars": 143,
+      "forks": 14,
+      "language": "Go",
+      "pushed_at": "2026-09-12T18:02:22Z",
+      "updated_at": "2026-09-12T18:00:38Z"
     }
   ]
 }
