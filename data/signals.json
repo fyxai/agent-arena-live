@@ -5,161 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1565,
+  "total_found": 1571,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 245558,
-      "forks": 51173,
+      "stars": 245726,
+      "forks": 51240,
       "language": "Python",
-      "pushed_at": "2026-09-15T04:11:24Z",
-      "updated_at": "2026-09-15T04:12:52Z"
+      "pushed_at": "2026-09-15T13:18:38Z",
+      "updated_at": "2026-09-15T13:18:46Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 51799,
-      "forks": 4965,
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 27871,
+      "forks": 3043,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T04:04:03Z",
-      "updated_at": "2026-09-15T03:54:18Z"
+      "pushed_at": "2026-09-15T13:17:11Z",
+      "updated_at": "2026-09-15T13:17:15Z"
     },
     {
-      "id": 1147094660,
-      "full_name": "HKUDS/nanobot",
-      "html_url": "https://github.com/HKUDS/nanobot",
-      "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-      "stars": 48156,
-      "forks": 8511,
-      "language": "Python",
-      "pushed_at": "2026-09-15T03:55:12Z",
-      "updated_at": "2026-09-15T03:55:18Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 37358,
-      "forks": 4629,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 24462,
+      "forks": 4192,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T04:10:35Z",
-      "updated_at": "2026-09-15T04:10:38Z"
+      "pushed_at": "2026-09-15T13:17:46Z",
+      "updated_at": "2026-09-15T13:15:29Z"
     },
     {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 35552,
-      "forks": 2394,
-      "language": "Go",
-      "pushed_at": "2026-09-15T03:57:20Z",
-      "updated_at": "2026-09-15T04:11:39Z"
-    },
-    {
-      "id": 1251460378,
-      "full_name": "apache/maka",
-      "html_url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-      "stars": 5420,
-      "forks": 502,
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 24224,
+      "forks": 2875,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T03:57:37Z",
-      "updated_at": "2026-09-15T04:11:54Z"
+      "pushed_at": "2026-09-15T13:07:38Z",
+      "updated_at": "2026-09-15T13:11:10Z"
+    },
+    {
+      "id": 925270205,
+      "full_name": "trycua/cua",
+      "html_url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": 22678,
+      "forks": 1572,
+      "language": "HTML",
+      "pushed_at": "2026-09-15T13:07:35Z",
+      "updated_at": "2026-09-15T13:18:25Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 3915,
-      "forks": 585,
+      "stars": 3922,
+      "forks": 589,
       "language": "Python",
-      "pushed_at": "2026-09-15T04:09:08Z",
-      "updated_at": "2026-09-15T04:04:25Z"
+      "pushed_at": "2026-09-15T13:14:36Z",
+      "updated_at": "2026-09-15T13:07:14Z"
+    },
+    {
+      "id": 617502359,
+      "full_name": "vastsa/PI-Desktop",
+      "html_url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": 3786,
+      "forks": 299,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-15T13:18:06Z",
+      "updated_at": "2026-09-15T13:17:54Z"
     },
     {
       "id": 1175278883,
       "full_name": "whiteguo233/OpenBiliClaw",
       "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
       "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
-      "stars": 3303,
-      "forks": 174,
+      "stars": 3307,
+      "forks": 175,
       "language": "Python",
-      "pushed_at": "2026-09-15T03:52:06Z",
-      "updated_at": "2026-09-15T03:52:12Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2695,
-      "forks": 394,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-15T04:11:48Z",
-      "updated_at": "2026-09-15T04:12:23Z"
-    },
-    {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundamentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundamentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
-      "stars": 2657,
-      "forks": 398,
-      "language": "HTML",
-      "pushed_at": "2026-09-15T03:57:37Z",
-      "updated_at": "2026-09-15T03:57:44Z"
+      "pushed_at": "2026-09-15T13:18:04Z",
+      "updated_at": "2026-09-15T13:18:04Z"
     },
     {
       "id": 1258301311,
       "full_name": "rlaope/oh-my-hermes",
       "html_url": "https://github.com/rlaope/oh-my-hermes",
       "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "stars": 2156,
-      "forks": 166,
+      "stars": 2338,
+      "forks": 174,
       "language": "Python",
-      "pushed_at": "2026-09-15T04:09:15Z",
-      "updated_at": "2026-09-15T04:12:23Z"
-    },
-    {
-      "id": 1187014628,
-      "full_name": "can4hou6joeng4/boss-agent-cli",
-      "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
-      "description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.",
-      "stars": 1969,
-      "forks": 162,
-      "language": "Python",
-      "pushed_at": "2026-09-15T03:53:57Z",
-      "updated_at": "2026-09-15T03:54:00Z"
-    },
-    {
-      "id": 1281033762,
-      "full_name": "tianma-if/edgeever",
-      "html_url": "https://github.com/tianma-if/edgeever",
-      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
-      "stars": 1415,
-      "forks": 802,
-      "language": "HTML",
-      "pushed_at": "2026-09-15T04:10:42Z",
-      "updated_at": "2026-09-15T04:10:55Z"
-    },
-    {
-      "id": 1310543401,
-      "full_name": "agentconnect-md/agentconnect",
-      "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1371,
-      "forks": 47,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-15T04:07:44Z",
-      "updated_at": "2026-09-15T03:58:44Z"
+      "pushed_at": "2026-09-15T13:13:40Z",
+      "updated_at": "2026-09-15T13:14:47Z"
     },
     {
       "id": 1096175506,
@@ -169,8 +114,63 @@
       "stars": 1152,
       "forks": 70,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T04:12:03Z",
-      "updated_at": "2026-09-15T04:09:27Z"
+      "pushed_at": "2026-09-15T13:17:59Z",
+      "updated_at": "2026-09-15T13:11:17Z"
+    },
+    {
+      "id": 1269050856,
+      "full_name": "addsumtech/slides_maker",
+      "html_url": "https://github.com/addsumtech/slides_maker",
+      "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
+      "stars": 512,
+      "forks": 49,
+      "language": "Python",
+      "pushed_at": "2026-09-15T13:13:49Z",
+      "updated_at": "2026-09-15T13:13:54Z"
+    },
+    {
+      "id": 1235467345,
+      "full_name": "ys-ll/uniterm",
+      "html_url": "https://github.com/ys-ll/uniterm",
+      "description": "A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
+      "stars": 491,
+      "forks": 69,
+      "language": "Go",
+      "pushed_at": "2026-09-15T13:16:42Z",
+      "updated_at": "2026-09-15T13:16:46Z"
+    },
+    {
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 430,
+      "forks": 99,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-15T13:07:39Z",
+      "updated_at": "2026-09-15T13:07:42Z"
+    },
+    {
+      "id": 1161723599,
+      "full_name": "AmrDab/clawdcursor",
+      "html_url": "https://github.com/AmrDab/clawdcursor",
+      "description": "clawdcursor compiles whatever's on screen into one UI map — accessibility tree and OCR fused into stable, addressable elements, with a screenshot only when needed — then drives apps through reusable scripts, verifying every action and routing it through a single safety gate.",
+      "stars": 402,
+      "forks": 58,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-15T13:15:20Z",
+      "updated_at": "2026-09-15T13:15:43Z"
+    },
+    {
+      "id": 809764991,
+      "full_name": "shibing624/agentica",
+      "html_url": "https://github.com/shibing624/agentica",
+      "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeChat/WeCom/Feishu gateway lets you call them back when you walk away. Async Python SDK, persistent memory, self-evolving skills.",
+      "stars": 352,
+      "forks": 50,
+      "language": "Python",
+      "pushed_at": "2026-09-15T13:07:12Z",
+      "updated_at": "2026-09-15T13:07:17Z"
     }
   ]
 }
