@@ -5,139 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1571,
+  "total_found": 1574,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 245726,
-      "forks": 51240,
+      "stars": 245825,
+      "forks": 51284,
       "language": "Python",
-      "pushed_at": "2026-09-15T13:18:38Z",
-      "updated_at": "2026-09-15T13:18:46Z"
-    },
-    {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 27871,
-      "forks": 3043,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-15T13:17:11Z",
-      "updated_at": "2026-09-15T13:17:15Z"
+      "pushed_at": "2026-09-15T19:34:06Z",
+      "updated_at": "2026-09-15T19:32:56Z"
     },
     {
       "id": 573661753,
       "full_name": "activepieces/activepieces",
       "html_url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 24462,
-      "forks": 4192,
+      "stars": 24468,
+      "forks": 4193,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T13:17:46Z",
-      "updated_at": "2026-09-15T13:15:29Z"
+      "pushed_at": "2026-09-15T19:06:38Z",
+      "updated_at": "2026-09-15T19:06:46Z"
     },
     {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 24224,
-      "forks": 2875,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-15T13:07:38Z",
-      "updated_at": "2026-09-15T13:11:10Z"
-    },
-    {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 22678,
-      "forks": 1572,
-      "language": "HTML",
-      "pushed_at": "2026-09-15T13:07:35Z",
-      "updated_at": "2026-09-15T13:18:25Z"
+      "id": 1102195393,
+      "full_name": "tradecatlabs/vibe-coding-cn",
+      "html_url": "https://github.com/tradecatlabs/vibe-coding-cn",
+      "description": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
+      "stars": 16237,
+      "forks": 1645,
+      "language": "Python",
+      "pushed_at": "2026-09-15T19:32:58Z",
+      "updated_at": "2026-09-15T19:15:12Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 3922,
-      "forks": 589,
+      "stars": 3924,
+      "forks": 591,
       "language": "Python",
-      "pushed_at": "2026-09-15T13:14:36Z",
-      "updated_at": "2026-09-15T13:07:14Z"
+      "pushed_at": "2026-09-15T19:28:25Z",
+      "updated_at": "2026-09-15T19:28:29Z"
     },
     {
       "id": 617502359,
       "full_name": "vastsa/PI-Desktop",
       "html_url": "https://github.com/vastsa/PI-Desktop",
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 3786,
-      "forks": 299,
+      "stars": 3832,
+      "forks": 307,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T13:18:06Z",
-      "updated_at": "2026-09-15T13:17:54Z"
+      "pushed_at": "2026-09-15T19:18:52Z",
+      "updated_at": "2026-09-15T19:30:26Z"
     },
     {
-      "id": 1175278883,
-      "full_name": "whiteguo233/OpenBiliClaw",
-      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
-      "stars": 3307,
-      "forks": 175,
-      "language": "Python",
-      "pushed_at": "2026-09-15T13:18:04Z",
-      "updated_at": "2026-09-15T13:18:04Z"
-    },
-    {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "stars": 2338,
-      "forks": 174,
-      "language": "Python",
-      "pushed_at": "2026-09-15T13:13:40Z",
-      "updated_at": "2026-09-15T13:14:47Z"
-    },
-    {
-      "id": 1096175506,
-      "full_name": "vm0-ai/vm0",
-      "html_url": "https://github.com/vm0-ai/vm0",
-      "description": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
-      "stars": 1152,
-      "forks": 70,
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 3583,
+      "forks": 478,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T13:17:59Z",
-      "updated_at": "2026-09-15T13:11:17Z"
+      "pushed_at": "2026-09-15T19:11:03Z",
+      "updated_at": "2026-09-15T19:11:07Z"
     },
     {
-      "id": 1269050856,
-      "full_name": "addsumtech/slides_maker",
-      "html_url": "https://github.com/addsumtech/slides_maker",
-      "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
-      "stars": 512,
-      "forks": 49,
-      "language": "Python",
-      "pushed_at": "2026-09-15T13:13:49Z",
-      "updated_at": "2026-09-15T13:13:54Z"
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3273,
+      "forks": 232,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-15T19:31:36Z",
+      "updated_at": "2026-09-15T19:27:31Z"
     },
     {
-      "id": 1235467345,
-      "full_name": "ys-ll/uniterm",
-      "html_url": "https://github.com/ys-ll/uniterm",
-      "description": "A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands.",
-      "stars": 491,
-      "forks": 69,
-      "language": "Go",
-      "pushed_at": "2026-09-15T13:16:42Z",
-      "updated_at": "2026-09-15T13:16:46Z"
+      "id": 1179222510,
+      "full_name": "AgentiLoop/Agent",
+      "html_url": "https://github.com/AgentiLoop/Agent",
+      "description": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
+      "stars": 605,
+      "forks": 67,
+      "language": "Swift",
+      "pushed_at": "2026-09-15T19:23:11Z",
+      "updated_at": "2026-09-15T19:23:14Z"
+    },
+    {
+      "id": 1213491458,
+      "full_name": "1ay1/agentty",
+      "html_url": "https://github.com/1ay1/agentty",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "stars": 602,
+      "forks": 16,
+      "language": "C++",
+      "pushed_at": "2026-09-15T19:30:13Z",
+      "updated_at": "2026-09-15T19:30:27Z"
+    },
+    {
+      "id": 1302093382,
+      "full_name": "gakonst/nanocodex",
+      "html_url": "https://github.com/gakonst/nanocodex",
+      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
+      "stars": 494,
+      "forks": 58,
+      "language": "Rust",
+      "pushed_at": "2026-09-15T19:15:53Z",
+      "updated_at": "2026-09-15T19:13:05Z"
     },
     {
       "id": 1174812893,
@@ -147,30 +125,52 @@
       "stars": 430,
       "forks": 99,
       "language": "TypeScript",
-      "pushed_at": "2026-09-15T13:07:39Z",
-      "updated_at": "2026-09-15T13:07:42Z"
+      "pushed_at": "2026-09-15T19:32:48Z",
+      "updated_at": "2026-09-15T19:32:08Z"
     },
     {
-      "id": 1161723599,
-      "full_name": "AmrDab/clawdcursor",
-      "html_url": "https://github.com/AmrDab/clawdcursor",
-      "description": "clawdcursor compiles whatever's on screen into one UI map — accessibility tree and OCR fused into stable, addressable elements, with a screenshot only when needed — then drives apps through reusable scripts, verifying every action and routing it through a single safety gate.",
-      "stars": 402,
-      "forks": 58,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-15T13:15:20Z",
-      "updated_at": "2026-09-15T13:15:43Z"
-    },
-    {
-      "id": 809764991,
-      "full_name": "shibing624/agentica",
-      "html_url": "https://github.com/shibing624/agentica",
-      "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeChat/WeCom/Feishu gateway lets you call them back when you walk away. Async Python SDK, persistent memory, self-evolving skills.",
-      "stars": 352,
-      "forks": 50,
+      "id": 1348053574,
+      "full_name": "jzjzzzzzzz/agent-me",
+      "html_url": "https://github.com/jzjzzzzzzz/agent-me",
+      "description": "Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin.",
+      "stars": 366,
+      "forks": 42,
       "language": "Python",
-      "pushed_at": "2026-09-15T13:07:12Z",
-      "updated_at": "2026-09-15T13:07:17Z"
+      "pushed_at": "2026-09-15T19:34:57Z",
+      "updated_at": "2026-09-15T19:35:09Z"
+    },
+    {
+      "id": 1324170924,
+      "full_name": "no-human-ai/no_human",
+      "html_url": "https://github.com/no-human-ai/no_human",
+      "description": "From ticket to reviewed pull request. Free and open-source, on your machine.",
+      "stars": 314,
+      "forks": 27,
+      "language": "Python",
+      "pushed_at": "2026-09-15T19:34:19Z",
+      "updated_at": "2026-09-15T19:23:50Z"
+    },
+    {
+      "id": 1219291910,
+      "full_name": "oneshot-agent/oneshot-gtm",
+      "html_url": "https://github.com/oneshot-agent/oneshot-gtm",
+      "description": "GTM agent for technical founders. Pay-per-result. Signed receipts. Two surfaces: terminal CLI + local web dashboard.",
+      "stars": 292,
+      "forks": 5,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-15T19:24:13Z",
+      "updated_at": "2026-09-15T19:24:17Z"
+    },
+    {
+      "id": 1191392222,
+      "full_name": "gebruder/wirken",
+      "html_url": "https://github.com/gebruder/wirken",
+      "description": "The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.",
+      "stars": 172,
+      "forks": 5,
+      "language": "Rust",
+      "pushed_at": "2026-09-15T19:12:32Z",
+      "updated_at": "2026-09-15T19:12:38Z"
     }
   ]
 }
