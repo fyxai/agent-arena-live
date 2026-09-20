@@ -5,73 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1609,
+  "total_found": 1611,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 247147,
-      "forks": 51917,
+      "stars": 247203,
+      "forks": 51952,
       "language": "Python",
-      "pushed_at": "2026-09-19T22:03:23Z",
-      "updated_at": "2026-09-19T22:12:52Z"
+      "pushed_at": "2026-09-20T04:15:20Z",
+      "updated_at": "2026-09-20T04:15:30Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 37419,
-      "forks": 4645,
+      "id": 1165324947,
+      "full_name": "agentscope-ai/QwenPaw",
+      "html_url": "https://github.com/agentscope-ai/QwenPaw",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "stars": 35129,
+      "forks": 3118,
       "language": "TypeScript",
-      "pushed_at": "2026-09-19T22:07:50Z",
-      "updated_at": "2026-09-19T22:07:53Z"
+      "pushed_at": "2026-09-20T03:58:37Z",
+      "updated_at": "2026-09-20T03:58:41Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 10099,
-      "forks": 1600,
-      "language": "Python",
-      "pushed_at": "2026-09-19T22:04:15Z",
-      "updated_at": "2026-09-19T22:00:01Z"
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "Open-source AI research workbench for scientific research—local-first and model-agnostic.",
+      "stars": 4695,
+      "forks": 287,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T04:01:14Z",
+      "updated_at": "2026-09-20T04:01:17Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4024,
-      "forks": 626,
+      "stars": 4037,
+      "forks": 628,
       "language": "Python",
-      "pushed_at": "2026-09-19T22:14:45Z",
-      "updated_at": "2026-09-19T22:07:45Z"
+      "pushed_at": "2026-09-20T04:15:34Z",
+      "updated_at": "2026-09-20T04:12:36Z"
     },
     {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "stars": 2796,
-      "forks": 208,
-      "language": "Python",
-      "pushed_at": "2026-09-19T22:09:32Z",
-      "updated_at": "2026-09-19T22:08:16Z"
+      "id": 1281033762,
+      "full_name": "tianma-if/edgeever",
+      "html_url": "https://github.com/tianma-if/edgeever",
+      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
+      "stars": 1457,
+      "forks": 824,
+      "language": "HTML",
+      "pushed_at": "2026-09-20T04:10:13Z",
+      "updated_at": "2026-09-20T04:10:18Z"
     },
     {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Hundreds of airlines plus the major booking sites, with per-flight reliability history. Free-cancellation hotel rates: hold the room with a small upfront charge, then pay the balance later by link, up to the hotel's own deadline.",
-      "stars": 2043,
-      "forks": 137,
+      "id": 1181318933,
+      "full_name": "wuji-labs/nopua",
+      "html_url": "https://github.com/wuji-labs/nopua",
+      "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+      "stars": 1388,
+      "forks": 49,
       "language": "Python",
-      "pushed_at": "2026-09-19T22:13:59Z",
-      "updated_at": "2026-09-19T22:13:46Z"
+      "pushed_at": "2026-09-20T04:11:12Z",
+      "updated_at": "2026-09-20T04:11:15Z"
+    },
+    {
+      "id": 423101191,
+      "full_name": "i365dev/free4chat",
+      "html_url": "https://github.com/i365dev/free4chat",
+      "description": "Free4Chat provides the temporary boundary. Participants bring the capabilities.",
+      "stars": 1185,
+      "forks": 166,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T04:13:34Z",
+      "updated_at": "2026-09-20T04:13:38Z"
     },
     {
       "id": 1096175506,
@@ -81,8 +92,41 @@
       "stars": 1154,
       "forks": 71,
       "language": "TypeScript",
-      "pushed_at": "2026-09-19T22:11:21Z",
-      "updated_at": "2026-09-19T21:39:01Z"
+      "pushed_at": "2026-09-20T04:15:45Z",
+      "updated_at": "2026-09-20T04:09:35Z"
+    },
+    {
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
+      "stars": 935,
+      "forks": 82,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T04:12:22Z",
+      "updated_at": "2026-09-20T04:07:15Z"
+    },
+    {
+      "id": 1179222510,
+      "full_name": "AgentiLoop/Agent",
+      "html_url": "https://github.com/AgentiLoop/Agent",
+      "description": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
+      "stars": 616,
+      "forks": 67,
+      "language": "Swift",
+      "pushed_at": "2026-09-20T04:14:37Z",
+      "updated_at": "2026-09-20T04:14:41Z"
+    },
+    {
+      "id": 1343438200,
+      "full_name": "rome-os/rome",
+      "html_url": "https://github.com/rome-os/rome",
+      "description": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
+      "stars": 513,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T04:06:47Z",
+      "updated_at": "2026-09-20T04:05:55Z"
     },
     {
       "id": 1302093382,
@@ -92,85 +136,41 @@
       "stars": 511,
       "forks": 61,
       "language": "Rust",
-      "pushed_at": "2026-09-19T22:08:54Z",
-      "updated_at": "2026-09-19T22:08:58Z"
+      "pushed_at": "2026-09-20T04:14:34Z",
+      "updated_at": "2026-09-20T04:14:09Z"
     },
     {
-      "id": 1153949512,
-      "full_name": "chadbyte/clay",
-      "html_url": "https://github.com/chadbyte/clay",
-      "description": "A self-hosted workspace where people and coding agents work together across projects, sessions, and providers.",
-      "stars": 398,
-      "forks": 54,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-19T21:45:21Z",
-      "updated_at": "2026-09-19T21:45:22Z"
+      "id": 1162428497,
+      "full_name": "aayoawoyemi/Ori-Mnemos",
+      "html_url": "https://github.com/aayoawoyemi/Ori-Mnemos",
+      "description": "Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win.",
+      "stars": 324,
+      "forks": 31,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T04:07:13Z",
+      "updated_at": "2026-09-20T04:07:16Z"
     },
     {
-      "id": 1267202750,
-      "full_name": "devcxl/mattpocock-skills-zh",
-      "html_url": "https://github.com/devcxl/mattpocock-skills-zh",
-      "description": "Matt Pocock 技能集的中文翻译版 — 地道中文，原汁原味的技术术语。基于 mattpocock/skills 复刻。每日中午12点钟同步",
-      "stars": 371,
-      "forks": 33,
-      "language": "Shell",
-      "pushed_at": "2026-09-19T21:52:39Z",
-      "updated_at": "2026-09-19T21:52:30Z"
-    },
-    {
-      "id": 1283078615,
-      "full_name": "rootSunc/CNEquity",
-      "html_url": "https://github.com/rootSunc/CNEquity",
-      "description": "中国 A 股数据基础设施。42 个日更数据集：行情、基本面、资金面、公告事件、指数行业、宏观与风险。行级溯源、PIT 语义、复权与历史成分内置，MCP 原生。自托管，零注册、零 API Token",
-      "stars": 260,
-      "forks": 44,
+      "id": 1239699520,
+      "full_name": "410979729/scope-recall-hermes",
+      "html_url": "https://github.com/410979729/scope-recall-hermes",
+      "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+      "stars": 273,
+      "forks": 28,
       "language": "Python",
-      "pushed_at": "2026-09-19T22:08:08Z",
-      "updated_at": "2026-09-19T22:08:12Z"
+      "pushed_at": "2026-09-20T03:59:26Z",
+      "updated_at": "2026-09-20T03:59:30Z"
     },
     {
-      "id": 1183190247,
-      "full_name": "dimetron/pi-go",
-      "html_url": "https://github.com/dimetron/pi-go",
-      "description": "Go implementation of AI coding agent",
-      "stars": 172,
-      "forks": 25,
-      "language": "Go",
-      "pushed_at": "2026-09-19T21:42:36Z",
-      "updated_at": "2026-09-19T21:42:03Z"
-    },
-    {
-      "id": 1154198694,
-      "full_name": "prime-radiant-inc/evener",
-      "html_url": "https://github.com/prime-radiant-inc/evener",
-      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
-      "stars": 154,
-      "forks": 11,
-      "language": "Go",
-      "pushed_at": "2026-09-19T22:13:53Z",
-      "updated_at": "2026-09-19T22:08:36Z"
-    },
-    {
-      "id": 1189273325,
-      "full_name": "coddy-project/coddy-agent",
-      "html_url": "https://github.com/coddy-project/coddy-agent",
-      "description": "General-purpose agent in one static Go binary: console TUI, ACP server for editors, OpenAI-compatible API with embedded web UI, Telegram gateway, cron scheduler, swarm relay, remote mode. Rules, skills, subagents, hooks, MCP, background tasks, long-term memory, context compaction. Any OpenAI-compatible provider, distroless-ready.",
-      "stars": 146,
-      "forks": 15,
-      "language": "Go",
-      "pushed_at": "2026-09-19T21:37:01Z",
-      "updated_at": "2026-09-19T21:36:53Z"
-    },
-    {
-      "id": 1283323996,
-      "full_name": "ninouanis84-sudo/foxl-orchestrator",
-      "html_url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "description": "Personal AI Agent Hub 2026 — Build Your 24/7 Autonomous Assistant",
-      "stars": 118,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-09-19T22:02:44Z",
-      "updated_at": "2026-09-19T22:02:47Z"
+      "id": 1130667066,
+      "full_name": "nirholas/three.ws",
+      "html_url": "https://github.com/nirholas/three.ws",
+      "description": "Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server · x402 · Solana/EVM · Three.js. Embed anywhere as a web component. Character studio, animation gallery, OAuth 2.1. Browser-native.",
+      "stars": 198,
+      "forks": 47,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-20T04:07:29Z",
+      "updated_at": "2026-09-20T04:07:34Z"
     }
   ]
 }
