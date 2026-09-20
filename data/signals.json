@@ -5,139 +5,161 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1614,
+  "total_found": 1616,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 247344,
-      "forks": 52001,
+      "stars": 247430,
+      "forks": 52035,
       "language": "Python",
-      "pushed_at": "2026-09-20T12:46:48Z",
-      "updated_at": "2026-09-20T12:56:10Z"
+      "pushed_at": "2026-09-20T18:34:30Z",
+      "updated_at": "2026-09-20T18:32:44Z"
     },
     {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/hermes-studio",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-studio",
-      "description": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
-      "stars": 11142,
-      "forks": 1366,
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in",
+      "stars": 32100,
+      "forks": 3401,
       "language": "TypeScript",
-      "pushed_at": "2026-09-20T12:43:50Z",
-      "updated_at": "2026-09-20T12:43:55Z"
+      "pushed_at": "2026-09-20T18:27:48Z",
+      "updated_at": "2026-09-20T18:31:47Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4046,
-      "forks": 630,
+      "stars": 4049,
+      "forks": 632,
       "language": "Python",
-      "pushed_at": "2026-09-20T12:56:46Z",
-      "updated_at": "2026-09-20T12:44:27Z"
+      "pushed_at": "2026-09-20T18:31:59Z",
+      "updated_at": "2026-09-20T18:22:22Z"
     },
     {
-      "id": 1237174940,
-      "full_name": "simonlin1212/TradingAgents-astock",
-      "html_url": "https://github.com/simonlin1212/TradingAgents-astock",
-      "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
-      "stars": 3382,
-      "forks": 874,
-      "language": "Python",
-      "pushed_at": "2026-09-20T12:56:23Z",
-      "updated_at": "2026-09-20T12:56:35Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2769,
-      "forks": 408,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-20T12:55:41Z",
-      "updated_at": "2026-09-20T12:55:45Z"
-    },
-    {
-      "id": 861556786,
-      "full_name": "ForceInjection/AI-fundamentals",
-      "html_url": "https://github.com/ForceInjection/AI-fundamentals",
-      "description": "AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。",
-      "stars": 2746,
-      "forks": 413,
+      "id": 1343011496,
+      "full_name": "Vincentwei1021/video-talkcraft",
+      "html_url": "https://github.com/Vincentwei1021/video-talkcraft",
+      "description": "Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 109 motion recipe cards, an anti-slideshow camera system, Remotion rendering.",
+      "stars": 1160,
+      "forks": 108,
       "language": "HTML",
-      "pushed_at": "2026-09-20T12:41:34Z",
-      "updated_at": "2026-09-20T12:41:41Z"
+      "pushed_at": "2026-09-20T18:32:42Z",
+      "updated_at": "2026-09-20T18:32:46Z"
     },
     {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 2029,
-      "forks": 290,
-      "language": "Rust",
-      "pushed_at": "2026-09-20T12:49:56Z",
-      "updated_at": "2026-09-20T12:44:30Z"
-    },
-    {
-      "id": 1334373503,
-      "full_name": "DSH-EAC/DSH-Desktop-EAC",
-      "html_url": "https://github.com/DSH-EAC/DSH-Desktop-EAC",
-      "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
-      "stars": 1736,
-      "forks": 63,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-20T12:42:02Z",
-      "updated_at": "2026-09-20T12:52:56Z"
-    },
-    {
-      "id": 423101191,
-      "full_name": "i365dev/free4chat",
-      "html_url": "https://github.com/i365dev/free4chat",
-      "description": "Free4Chat provides the temporary boundary. Participants bring the capabilities.",
-      "stars": 1188,
-      "forks": 167,
+      "id": 960549454,
+      "full_name": "SylphxAI/pdf-reader-mcp",
+      "html_url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "description": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
+      "stars": 935,
+      "forks": 82,
       "language": "TypeScript",
-      "pushed_at": "2026-09-20T12:55:17Z",
-      "updated_at": "2026-09-20T12:55:19Z"
+      "pushed_at": "2026-09-20T18:33:17Z",
+      "updated_at": "2026-09-20T18:33:19Z"
     },
     {
-      "id": 1180642359,
-      "full_name": "xalgorix/xalgorix",
-      "html_url": "https://github.com/xalgorix/xalgorix",
-      "description": "Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
-      "stars": 1109,
-      "forks": 196,
-      "language": "Go",
-      "pushed_at": "2026-09-20T12:56:43Z",
-      "updated_at": "2026-09-20T12:51:55Z"
-    },
-    {
-      "id": 1227341286,
-      "full_name": "zenstory-ai/video-recap-skills",
-      "html_url": "https://github.com/zenstory-ai/video-recap-skills",
-      "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (视频解说): scene detection, ASR, VLM, script, TTS, ffmpeg assembly, optional editable JianYing / CapCut draft export (剪映草稿导出). Local ffmpeg + one MiMo key, no GPU. | 用 Claude Code skills 把视频做成中文解说成片，可选一键导出可编辑剪映草稿。",
-      "stars": 526,
-      "forks": 97,
+      "id": 1086124473,
+      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
+      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
+      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+      "stars": 644,
+      "forks": 106,
       "language": "Python",
-      "pushed_at": "2026-09-20T12:56:41Z",
-      "updated_at": "2026-09-20T12:56:22Z"
+      "pushed_at": "2026-09-20T18:27:32Z",
+      "updated_at": "2026-09-20T18:27:36Z"
     },
     {
-      "id": 1283117173,
-      "full_name": "blogminhquy/javis-os",
-      "html_url": "https://github.com/blogminhquy/javis-os",
+      "id": 1179222510,
+      "full_name": "AgentiLoop/Agent",
+      "html_url": "https://github.com/AgentiLoop/Agent",
+      "description": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
+      "stars": 617,
+      "forks": 67,
+      "language": "Swift",
+      "pushed_at": "2026-09-20T18:34:04Z",
+      "updated_at": "2026-09-20T18:34:08Z"
+    },
+    {
+      "id": 1302093382,
+      "full_name": "gakonst/nanocodex",
+      "html_url": "https://github.com/gakonst/nanocodex",
+      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
+      "stars": 514,
+      "forks": 61,
+      "language": "Rust",
+      "pushed_at": "2026-09-20T18:33:25Z",
+      "updated_at": "2026-09-20T18:33:30Z"
+    },
+    {
+      "id": 1257915692,
+      "full_name": "xevrion-v2/agent-playground",
+      "html_url": "https://github.com/xevrion-v2/agent-playground",
       "description": "",
-      "stars": 197,
-      "forks": 119,
+      "stars": 306,
+      "forks": 524,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T18:23:16Z",
+      "updated_at": "2026-09-20T18:23:20Z"
+    },
+    {
+      "id": 840302332,
+      "full_name": "goruck/home-generative-agent",
+      "html_url": "https://github.com/goruck/home-generative-agent",
+      "description": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+      "stars": 303,
+      "forks": 54,
       "language": "Python",
-      "pushed_at": "2026-09-20T12:50:26Z",
-      "updated_at": "2026-09-20T12:50:31Z"
+      "pushed_at": "2026-09-20T18:22:50Z",
+      "updated_at": "2026-09-20T18:22:25Z"
+    },
+    {
+      "id": 1239699520,
+      "full_name": "410979729/scope-recall-hermes",
+      "html_url": "https://github.com/410979729/scope-recall-hermes",
+      "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+      "stars": 273,
+      "forks": 29,
+      "language": "Python",
+      "pushed_at": "2026-09-20T18:24:11Z",
+      "updated_at": "2026-09-20T18:24:15Z"
+    },
+    {
+      "id": 1346337331,
+      "full_name": "acryldev/acryl",
+      "html_url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stars": 255,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T18:22:53Z",
+      "updated_at": "2026-09-20T18:22:58Z"
+    },
+    {
+      "id": 1168844155,
+      "full_name": "node9-ai/node9-proxy",
+      "html_url": "https://github.com/node9-ai/node9-proxy",
+      "description": "IAM for your AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky actions before they run, and keep every action on the record.",
+      "stars": 214,
+      "forks": 20,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-20T18:34:02Z",
+      "updated_at": "2026-09-20T18:33:57Z"
+    },
+    {
+      "id": 1130667066,
+      "full_name": "nirholas/three.ws",
+      "html_url": "https://github.com/nirholas/three.ws",
+      "description": "Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server · x402 · Solana/EVM · Three.js. Embed anywhere as a web component. Character studio, animation gallery, OAuth 2.1. Browser-native.",
+      "stars": 201,
+      "forks": 47,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-20T18:22:18Z",
+      "updated_at": "2026-09-20T18:22:21Z"
     },
     {
       "id": 1345151921,
@@ -147,30 +169,8 @@
       "stars": 184,
       "forks": 19,
       "language": "Python",
-      "pushed_at": "2026-09-20T12:54:02Z",
-      "updated_at": "2026-09-20T12:44:06Z"
-    },
-    {
-      "id": 1354503159,
-      "full_name": "Tcotl/AgentCapture",
-      "html_url": "https://github.com/Tcotl/AgentCapture",
-      "description": "针对 AI 自动化渗透 Agent 的新一代反制蜜罐，通过反向代理将API密饵载入真实业务、反向提示词注入等方式反制自动化渗透 Agent，实现多款主流通用Agent的反制上线控制。",
-      "stars": 114,
-      "forks": 17,
-      "language": "Python",
-      "pushed_at": "2026-09-20T12:50:29Z",
-      "updated_at": "2026-09-20T12:50:35Z"
-    },
-    {
-      "id": 1255169303,
-      "full_name": "gaixianggeng/mimi-remote",
-      "html_url": "https://github.com/gaixianggeng/mimi-remote",
-      "description": "Open-source native iPhone/iPad client for OpenAI Codex CLI and Claude Code — review diffs, approve actions, steer sessions, and manage Git remotely.",
-      "stars": 100,
-      "forks": 14,
-      "language": "Swift",
-      "pushed_at": "2026-09-20T12:52:35Z",
-      "updated_at": "2026-09-20T12:52:40Z"
+      "pushed_at": "2026-09-20T18:30:33Z",
+      "updated_at": "2026-09-20T18:30:38Z"
     }
   ]
 }
