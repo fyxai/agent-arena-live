@@ -5,117 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1632,
+  "total_found": 1633,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 248149,
-      "forks": 52381,
+      "stars": 248278,
+      "forks": 52438,
       "language": "Python",
-      "pushed_at": "2026-09-23T04:02:03Z",
-      "updated_at": "2026-09-23T04:02:15Z"
+      "pushed_at": "2026-09-23T13:27:33Z",
+      "updated_at": "2026-09-23T13:27:47Z"
     },
     {
-      "id": 522158088,
-      "full_name": "zhayujie/CowAgent",
-      "html_url": "https://github.com/zhayujie/CowAgent",
-      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
-      "stars": 47089,
-      "forks": 10371,
-      "language": "Python",
-      "pushed_at": "2026-09-23T03:54:07Z",
-      "updated_at": "2026-09-23T03:54:11Z"
+      "id": 1201476594,
+      "full_name": "career-ops-hq/career-ops",
+      "html_url": "https://github.com/career-ops-hq/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": 72487,
+      "forks": 13632,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-23T13:19:11Z",
+      "updated_at": "2026-09-23T13:27:05Z"
+    },
+    {
+      "id": 805155266,
+      "full_name": "CherryHQ/cherry-studio",
+      "html_url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 52109,
+      "forks": 5004,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-23T13:26:04Z",
+      "updated_at": "2026-09-23T13:26:10Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 35683,
+      "stars": 35688,
       "forks": 2417,
       "language": "Go",
-      "pushed_at": "2026-09-23T03:54:16Z",
-      "updated_at": "2026-09-23T03:54:22Z"
+      "pushed_at": "2026-09-23T13:24:26Z",
+      "updated_at": "2026-09-23T13:24:34Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in",
-      "stars": 32821,
-      "forks": 3463,
+      "stars": 32937,
+      "forks": 3487,
       "language": "TypeScript",
-      "pushed_at": "2026-09-23T04:01:51Z",
-      "updated_at": "2026-09-23T04:03:56Z"
+      "pushed_at": "2026-09-23T13:21:53Z",
+      "updated_at": "2026-09-23T13:24:39Z"
     },
     {
-      "id": 617502359,
-      "full_name": "vastsa/PI-Desktop",
-      "html_url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 5253,
-      "forks": 443,
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 28082,
+      "forks": 3088,
       "language": "TypeScript",
-      "pushed_at": "2026-09-23T04:01:45Z",
-      "updated_at": "2026-09-23T04:04:56Z"
+      "pushed_at": "2026-09-23T13:19:08Z",
+      "updated_at": "2026-09-23T13:25:47Z"
     },
     {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4091,
-      "forks": 653,
+      "id": 1266212515,
+      "full_name": "omnigent-ai/omnigent",
+      "html_url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 10180,
+      "forks": 1610,
       "language": "Python",
-      "pushed_at": "2026-09-23T04:06:13Z",
-      "updated_at": "2026-09-23T03:56:57Z"
+      "pushed_at": "2026-09-23T13:15:33Z",
+      "updated_at": "2026-09-23T13:27:47Z"
     },
     {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2797,
-      "forks": 417,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-23T03:52:21Z",
-      "updated_at": "2026-09-23T03:59:11Z"
-    },
-    {
-      "id": 1310758816,
-      "full_name": "Pinvou/pinvou-agent",
-      "html_url": "https://github.com/Pinvou/pinvou-agent",
-      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 2085,
-      "forks": 298,
-      "language": "Rust",
-      "pushed_at": "2026-09-23T04:01:15Z",
-      "updated_at": "2026-09-23T04:01:32Z"
-    },
-    {
-      "id": 1198829864,
-      "full_name": "he-yufeng/CoreCoder",
-      "html_url": "https://github.com/he-yufeng/CoreCoder",
-      "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
-      "stars": 1767,
-      "forks": 431,
+      "id": 1258301311,
+      "full_name": "rlaope/oh-my-hermes",
+      "html_url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "stars": 2882,
+      "forks": 218,
       "language": "Python",
-      "pushed_at": "2026-09-23T03:54:07Z",
-      "updated_at": "2026-09-23T03:54:13Z"
+      "pushed_at": "2026-09-23T13:20:29Z",
+      "updated_at": "2026-09-23T13:20:35Z"
     },
     {
       "id": 1310543401,
       "full_name": "agentconnect-md/agentconnect",
       "html_url": "https://github.com/agentconnect-md/agentconnect",
       "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1420,
-      "forks": 58,
+      "stars": 1422,
+      "forks": 59,
       "language": "TypeScript",
-      "pushed_at": "2026-09-23T04:05:32Z",
-      "updated_at": "2026-09-23T04:05:35Z"
+      "pushed_at": "2026-09-23T13:15:59Z",
+      "updated_at": "2026-09-23T13:16:05Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +114,63 @@
       "stars": 1154,
       "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-09-23T04:06:09Z",
-      "updated_at": "2026-09-23T04:00:04Z"
+      "pushed_at": "2026-09-23T13:27:16Z",
+      "updated_at": "2026-09-23T13:24:56Z"
     },
     {
-      "id": 1278071262,
-      "full_name": "deepagent-ltd/deepagent-code",
-      "html_url": "https://github.com/deepagent-ltd/deepagent-code",
-      "description": "DeepAgent Code: AI coding agent with persistent memory and control plane",
-      "stars": 434,
-      "forks": 3,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-23T04:03:02Z",
-      "updated_at": "2026-09-23T03:53:14Z"
-    },
-    {
-      "id": 776740009,
-      "full_name": "sorry510/go_binance_futures",
-      "html_url": "https://github.com/sorry510/go_binance_futures",
-      "description": "AI agent + 币安合约量化 + 模拟交易 + 历史回测",
-      "stars": 235,
+      "id": 1269050856,
+      "full_name": "addsumtech/slides_maker",
+      "html_url": "https://github.com/addsumtech/slides_maker",
+      "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
+      "stars": 527,
       "forks": 49,
-      "language": "Go",
-      "pushed_at": "2026-09-23T03:59:24Z",
-      "updated_at": "2026-09-23T03:59:28Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 233,
-      "forks": 53,
       "language": "Python",
-      "pushed_at": "2026-09-23T03:54:36Z",
-      "updated_at": "2026-09-23T03:54:40Z"
+      "pushed_at": "2026-09-23T13:25:55Z",
+      "updated_at": "2026-09-23T13:26:00Z"
     },
     {
-      "id": 1174756063,
-      "full_name": "bitrouter/bitrouter",
-      "html_url": "https://github.com/bitrouter/bitrouter",
-      "description": "The minimal interpretable model router that learns & adapts to your agent workflows",
-      "stars": 230,
-      "forks": 17,
-      "language": "Rust",
-      "pushed_at": "2026-09-23T03:57:02Z",
-      "updated_at": "2026-09-23T03:57:06Z"
+      "id": 1174812893,
+      "full_name": "code-yeongyu/senpi",
+      "html_url": "https://github.com/code-yeongyu/senpi",
+      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
+      "stars": 444,
+      "forks": 107,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-23T13:28:57Z",
+      "updated_at": "2026-09-23T13:29:01Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 396,
+      "forks": 92,
+      "language": "Python",
+      "pushed_at": "2026-09-23T13:27:32Z",
+      "updated_at": "2026-09-23T13:27:36Z"
+    },
+    {
+      "id": 1346337331,
+      "full_name": "acryldev/acryl",
+      "html_url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stars": 255,
+      "forks": 34,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-23T13:17:05Z",
+      "updated_at": "2026-09-23T13:17:14Z"
+    },
+    {
+      "id": 1297904369,
+      "full_name": "DLYZZT/pi-desktop",
+      "html_url": "https://github.com/DLYZZT/pi-desktop",
+      "description": "A local-first, cross-platform Electron desktop workspace for Pi Coding Agent, with sessions, project files, browser tools, skills, plugins, and messaging integrations.",
+      "stars": 231,
+      "forks": 28,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-23T13:25:14Z",
+      "updated_at": "2026-09-23T13:25:19Z"
     }
   ]
 }
