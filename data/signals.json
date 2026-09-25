@@ -5,161 +5,161 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1642,
+  "total_found": 1644,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 248707,
-      "forks": 52640,
+      "stars": 248766,
+      "forks": 52664,
       "language": "Python",
-      "pushed_at": "2026-09-24T22:57:27Z",
-      "updated_at": "2026-09-24T22:55:14Z"
+      "pushed_at": "2026-09-25T04:14:33Z",
+      "updated_at": "2026-09-25T04:15:42Z"
+    },
+    {
+      "id": 291438522,
+      "full_name": "siyuan-note/siyuan",
+      "html_url": "https://github.com/siyuan-note/siyuan",
+      "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+      "stars": 46493,
+      "forks": 3025,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-25T04:06:04Z",
+      "updated_at": "2026-09-25T04:14:25Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 35706,
+      "forks": 2420,
+      "language": "Go",
+      "pushed_at": "2026-09-25T03:46:54Z",
+      "updated_at": "2026-09-25T03:59:02Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 33183,
-      "forks": 3527,
+      "stars": 33208,
+      "forks": 3526,
       "language": "TypeScript",
-      "pushed_at": "2026-09-24T23:03:12Z",
-      "updated_at": "2026-09-24T23:03:19Z"
-    },
-    {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 26273,
-      "forks": 1822,
-      "language": "HTML",
-      "pushed_at": "2026-09-24T23:03:47Z",
-      "updated_at": "2026-09-24T23:05:34Z"
-    },
-    {
-      "id": 1128204614,
-      "full_name": "1jehuang/jcode",
-      "html_url": "https://github.com/1jehuang/jcode",
-      "description": "The most RAM efficient harness",
-      "stars": 20106,
-      "forks": 2330,
-      "language": "Rust",
-      "pushed_at": "2026-09-24T22:39:58Z",
-      "updated_at": "2026-09-24T22:40:19Z"
+      "pushed_at": "2026-09-25T03:51:00Z",
+      "updated_at": "2026-09-25T03:59:32Z"
     },
     {
       "id": 1118085970,
       "full_name": "opensandbox-group/OpenSandbox",
       "html_url": "https://github.com/opensandbox-group/OpenSandbox",
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 15504,
-      "forks": 1425,
+      "stars": 15503,
+      "forks": 1427,
       "language": "Python",
-      "pushed_at": "2026-09-24T22:42:57Z",
-      "updated_at": "2026-09-24T22:55:05Z"
+      "pushed_at": "2026-09-25T04:09:47Z",
+      "updated_at": "2026-09-25T04:09:53Z"
     },
     {
-      "id": 1293600453,
-      "full_name": "TencentCloud/Octop",
-      "html_url": "https://github.com/TencentCloud/Octop",
-      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "stars": 4861,
-      "forks": 575,
-      "language": "Python",
-      "pushed_at": "2026-09-24T22:44:25Z",
-      "updated_at": "2026-09-24T22:46:50Z"
-    },
-    {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4127,
-      "forks": 667,
-      "language": "Python",
-      "pushed_at": "2026-09-24T23:06:20Z",
-      "updated_at": "2026-09-24T22:51:23Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2813,
-      "forks": 426,
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+      "stars": 4922,
+      "forks": 295,
       "language": "TypeScript",
-      "pushed_at": "2026-09-24T22:51:50Z",
-      "updated_at": "2026-09-24T22:51:58Z"
+      "pushed_at": "2026-09-25T03:57:29Z",
+      "updated_at": "2026-09-25T04:07:12Z"
+    },
+    {
+      "id": 1288402762,
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stars": 3636,
+      "forks": 488,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-25T04:15:00Z",
+      "updated_at": "2026-09-25T03:56:48Z"
     },
     {
       "id": 1310543401,
       "full_name": "agentconnect-md/agentconnect",
       "html_url": "https://github.com/agentconnect-md/agentconnect",
       "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1427,
+      "stars": 1429,
       "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-09-24T22:56:16Z",
-      "updated_at": "2026-09-24T22:56:20Z"
+      "pushed_at": "2026-09-25T04:15:10Z",
+      "updated_at": "2026-09-25T04:04:42Z"
     },
     {
-      "id": 1219291910,
-      "full_name": "oneshot-agent/oneshot-gtm",
-      "html_url": "https://github.com/oneshot-agent/oneshot-gtm",
-      "description": "GTM agent for technical founders. Pay-per-result. Signed receipts. Two surfaces: terminal CLI + local web dashboard.",
-      "stars": 694,
-      "forks": 15,
+      "id": 1096175506,
+      "full_name": "okou-ai/okou",
+      "html_url": "https://github.com/okou-ai/okou",
+      "description": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
+      "stars": 1154,
+      "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-09-24T23:04:06Z",
-      "updated_at": "2026-09-24T23:04:10Z"
+      "pushed_at": "2026-09-25T04:14:47Z",
+      "updated_at": "2026-09-25T04:12:33Z"
     },
     {
-      "id": 1302093382,
-      "full_name": "gakonst/nanocodex",
-      "html_url": "https://github.com/gakonst/nanocodex",
-      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-      "stars": 522,
-      "forks": 64,
+      "id": 1327506365,
+      "full_name": "wangzhishou/OneBox",
+      "html_url": "https://github.com/wangzhishou/OneBox",
+      "description": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
+      "stars": 432,
+      "forks": 66,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-25T03:57:06Z",
+      "updated_at": "2026-09-25T03:57:11Z"
+    },
+    {
+      "id": 1156882085,
+      "full_name": "vivekchand/clawmetry",
+      "html_url": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.",
+      "stars": 420,
+      "forks": 70,
+      "language": "Python",
+      "pushed_at": "2026-09-25T04:06:05Z",
+      "updated_at": "2026-09-25T04:05:43Z"
+    },
+    {
+      "id": 1169648406,
+      "full_name": "agent-next/polymarket-paper-trader",
+      "html_url": "https://github.com/agent-next/polymarket-paper-trader",
+      "description": "Paper trading simulator for Polymarket — built for AI agents. MCP server, live order books, strategy backtesting. Install: npx clawhub install polymarket-paper-trader",
+      "stars": 398,
+      "forks": 59,
+      "language": "Python",
+      "pushed_at": "2026-09-25T04:12:05Z",
+      "updated_at": "2026-09-25T04:11:01Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 396,
+      "forks": 92,
+      "language": "Python",
+      "pushed_at": "2026-09-25T04:11:12Z",
+      "updated_at": "2026-09-25T04:11:14Z"
+    },
+    {
+      "id": 1315148422,
+      "full_name": "dondai44423/bladebro",
+      "html_url": "https://github.com/dondai44423/bladebro",
+      "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
+      "stars": 206,
+      "forks": 16,
       "language": "Rust",
-      "pushed_at": "2026-09-24T22:57:02Z",
-      "updated_at": "2026-09-24T22:57:07Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 445,
-      "forks": 108,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-24T23:03:01Z",
-      "updated_at": "2026-09-24T23:00:30Z"
-    },
-    {
-      "id": 1153949512,
-      "full_name": "chadbyte/clay",
-      "html_url": "https://github.com/chadbyte/clay",
-      "description": "A self-hosted workspace where people and coding agents work together across projects, sessions, and providers.",
-      "stars": 397,
-      "forks": 55,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-24T22:53:17Z",
-      "updated_at": "2026-09-24T22:53:22Z"
-    },
-    {
-      "id": 1186822753,
-      "full_name": "openwong2kim/wmux",
-      "html_url": "https://github.com/openwong2kim/wmux",
-      "description": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
-      "stars": 397,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-24T23:03:16Z",
-      "updated_at": "2026-09-24T22:45:13Z"
+      "pushed_at": "2026-09-25T04:00:05Z",
+      "updated_at": "2026-09-25T04:00:09Z"
     },
     {
       "id": 1154198694,
@@ -169,8 +169,8 @@
       "stars": 160,
       "forks": 11,
       "language": "Go",
-      "pushed_at": "2026-09-24T23:05:16Z",
-      "updated_at": "2026-09-24T23:03:22Z"
+      "pushed_at": "2026-09-25T04:14:20Z",
+      "updated_at": "2026-09-25T04:13:57Z"
     }
   ]
 }
