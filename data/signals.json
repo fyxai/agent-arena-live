@@ -5,117 +5,95 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1647,
+  "total_found": 1648,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 248940,
-      "forks": 52766,
+      "stars": 248968,
+      "forks": 52786,
       "language": "Python",
-      "pushed_at": "2026-09-25T19:34:50Z",
-      "updated_at": "2026-09-25T19:44:11Z"
+      "pushed_at": "2026-09-25T23:11:13Z",
+      "updated_at": "2026-09-25T23:09:41Z"
     },
     {
       "id": 1137711311,
       "full_name": "Hmbown/Codewhale",
       "html_url": "https://github.com/Hmbown/Codewhale",
       "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
-      "stars": 41037,
+      "stars": 41038,
       "forks": 3563,
       "language": "Rust",
-      "pushed_at": "2026-09-25T19:53:33Z",
-      "updated_at": "2026-09-25T19:46:40Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 37555,
-      "forks": 4663,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-25T19:13:04Z",
-      "updated_at": "2026-09-25T19:26:26Z"
+      "pushed_at": "2026-09-25T23:00:57Z",
+      "updated_at": "2026-09-25T22:32:39Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 33290,
-      "forks": 3538,
+      "stars": 33302,
+      "forks": 3540,
       "language": "TypeScript",
-      "pushed_at": "2026-09-25T19:32:44Z",
-      "updated_at": "2026-09-25T19:48:50Z"
+      "pushed_at": "2026-09-25T22:39:10Z",
+      "updated_at": "2026-09-25T23:04:11Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 26367,
-      "forks": 1828,
-      "language": "HTML",
-      "pushed_at": "2026-09-25T19:17:01Z",
-      "updated_at": "2026-09-25T19:53:52Z"
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 28136,
+      "forks": 3111,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-25T22:56:55Z",
+      "updated_at": "2026-09-25T22:56:59Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 10240,
-      "forks": 1625,
+      "stars": 10242,
+      "forks": 1624,
       "language": "Python",
-      "pushed_at": "2026-09-25T19:54:27Z",
-      "updated_at": "2026-09-25T19:52:54Z"
+      "pushed_at": "2026-09-25T23:00:24Z",
+      "updated_at": "2026-09-25T22:22:25Z"
     },
     {
-      "id": 617502359,
-      "full_name": "vastsa/PI-Desktop",
-      "html_url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 5721,
-      "forks": 496,
+      "id": 1202410617,
+      "full_name": "FailproofAI/failproofai",
+      "html_url": "https://github.com/FailproofAI/failproofai",
+      "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  ",
+      "stars": 5157,
+      "forks": 499,
       "language": "TypeScript",
-      "pushed_at": "2026-09-25T19:41:26Z",
-      "updated_at": "2026-09-25T19:41:31Z"
+      "pushed_at": "2026-09-25T22:19:06Z",
+      "updated_at": "2026-09-25T22:42:34Z"
+    },
+    {
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+      "stars": 4930,
+      "forks": 416,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-25T22:37:00Z",
+      "updated_at": "2026-09-25T22:24:07Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4142,
-      "forks": 680,
+      "stars": 4145,
+      "forks": 681,
       "language": "Python",
-      "pushed_at": "2026-09-25T19:55:07Z",
-      "updated_at": "2026-09-25T19:53:43Z"
-    },
-    {
-      "id": 220867748,
-      "full_name": "neomjs/neo",
-      "html_url": "https://github.com/neomjs/neo",
-      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3282,
-      "forks": 244,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-25T19:35:18Z",
-      "updated_at": "2026-09-25T19:35:18Z"
-    },
-    {
-      "id": 1169880696,
-      "full_name": "LetsFG/LetsFG",
-      "html_url": "https://github.com/LetsFG/LetsFG",
-      "description": "Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Hundreds of airlines plus the major booking sites, with per-flight reliability history. Free-cancellation hotel rates: hold the room with a small upfront charge, then pay the balance later by link, up to the hotel's own deadline.",
-      "stars": 2062,
-      "forks": 137,
-      "language": "Python",
-      "pushed_at": "2026-09-25T19:16:30Z",
-      "updated_at": "2026-09-25T19:16:36Z"
+      "pushed_at": "2026-09-25T23:11:14Z",
+      "updated_at": "2026-09-25T23:11:18Z"
     },
     {
       "id": 1096175506,
@@ -125,52 +103,74 @@
       "stars": 1154,
       "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-09-25T19:16:45Z",
-      "updated_at": "2026-09-25T19:10:55Z"
+      "pushed_at": "2026-09-25T23:05:02Z",
+      "updated_at": "2026-09-25T22:55:52Z"
     },
     {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 648,
-      "forks": 108,
+      "id": 1213491458,
+      "full_name": "1ay1/agentty",
+      "html_url": "https://github.com/1ay1/agentty",
+      "description": "AI pair programming in your terminal — one static binary, sub-ms startup, any model",
+      "stars": 610,
+      "forks": 22,
+      "language": "C++",
+      "pushed_at": "2026-09-25T22:56:15Z",
+      "updated_at": "2026-09-25T22:56:19Z"
+    },
+    {
+      "id": 1327506365,
+      "full_name": "wangzhishou/OneBox",
+      "html_url": "https://github.com/wangzhishou/OneBox",
+      "description": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
+      "stars": 437,
+      "forks": 67,
+      "language": "Kotlin",
+      "pushed_at": "2026-09-25T22:30:54Z",
+      "updated_at": "2026-09-25T22:30:59Z"
+    },
+    {
+      "id": 1346337331,
+      "full_name": "acryldev/acryl",
+      "html_url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stars": 256,
+      "forks": 33,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-25T23:11:02Z",
+      "updated_at": "2026-09-25T23:11:07Z"
+    },
+    {
+      "id": 1182535754,
+      "full_name": "Digital-Process-Tools/claude-remember",
+      "html_url": "https://github.com/Digital-Process-Tools/claude-remember",
+      "description": "Persistent memory for Claude Code — identity, context, and continuity across sessions",
+      "stars": 185,
+      "forks": 54,
       "language": "Python",
-      "pushed_at": "2026-09-25T19:21:23Z",
-      "updated_at": "2026-09-25T19:21:27Z"
+      "pushed_at": "2026-09-25T22:47:20Z",
+      "updated_at": "2026-09-25T22:47:15Z"
     },
     {
-      "id": 1228890794,
-      "full_name": "aqm857886159/Nomi",
-      "html_url": "https://github.com/aqm857886159/Nomi",
-      "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
-      "stars": 523,
-      "forks": 116,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-25T19:27:47Z",
-      "updated_at": "2026-09-25T19:27:51Z"
+      "id": 1154198694,
+      "full_name": "prime-radiant-inc/evener",
+      "html_url": "https://github.com/prime-radiant-inc/evener",
+      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "stars": 161,
+      "forks": 11,
+      "language": "Go",
+      "pushed_at": "2026-09-25T23:09:09Z",
+      "updated_at": "2026-09-25T23:09:14Z"
     },
     {
-      "id": 1130667066,
-      "full_name": "nirholas/three.ws",
-      "html_url": "https://github.com/nirholas/three.ws",
-      "description": "Open-source 3D AI agent framework — GLB/glTF avatars with LLM brains, memory, emotions, and autonomous payments. MCP server · x402 · Solana/EVM · Three.js. Embed anywhere as a web component. Character studio, animation gallery, OAuth 2.1. Browser-native.",
-      "stars": 213,
-      "forks": 49,
-      "language": "JavaScript",
-      "pushed_at": "2026-09-25T19:17:39Z",
-      "updated_at": "2026-09-25T19:14:20Z"
-    },
-    {
-      "id": 1224048424,
-      "full_name": "EthanChan050430/Saki-Panel",
-      "html_url": "https://github.com/EthanChan050430/Saki-Panel",
-      "description": "Next-gen AI-native server ops panel with an in-workspace SRE agent. Crash self-healing, safe rollbacks, Docker/game servers, and local Ollama support.",
-      "stars": 153,
-      "forks": 1,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-25T19:32:30Z",
-      "updated_at": "2026-09-25T19:32:36Z"
+      "id": 1187455604,
+      "full_name": "sesori-ai/sesori_apps_monorepo",
+      "html_url": "https://github.com/sesori-ai/sesori_apps_monorepo",
+      "description": "Sesori iOS/Android app and the Sesori Bridge CLI — drive Claude, Codex, OpenCode, Cursor, Pi, OMP, Hermes coding sessions from your phone",
+      "stars": 122,
+      "forks": 9,
+      "language": "Dart",
+      "pushed_at": "2026-09-25T23:07:10Z",
+      "updated_at": "2026-09-25T22:39:07Z"
     }
   ]
 }
