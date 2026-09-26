@@ -5,95 +5,84 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1655,
+  "total_found": 1656,
   "items": [
+    {
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 249194,
+      "forks": 52897,
+      "language": "Python",
+      "pushed_at": "2026-09-26T19:05:39Z",
+      "updated_at": "2026-09-26T19:05:55Z"
+    },
+    {
+      "id": 1137711311,
+      "full_name": "Hmbown/Codewhale",
+      "html_url": "https://github.com/Hmbown/Codewhale",
+      "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+      "stars": 41033,
+      "forks": 3564,
+      "language": "Rust",
+      "pushed_at": "2026-09-26T19:03:30Z",
+      "updated_at": "2026-09-26T19:03:33Z"
+    },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "stars": 35716,
-      "forks": 2418,
+      "stars": 35718,
+      "forks": 2420,
       "language": "Go",
-      "pushed_at": "2026-09-26T12:47:14Z",
-      "updated_at": "2026-09-26T12:35:50Z"
+      "pushed_at": "2026-09-26T19:06:51Z",
+      "updated_at": "2026-09-26T19:03:20Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "stars": 33395,
+      "forks": 3554,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-26T19:01:58Z",
+      "updated_at": "2026-09-26T19:04:13Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28138,
-      "forks": 3112,
+      "stars": 28142,
+      "forks": 3113,
       "language": "TypeScript",
-      "pushed_at": "2026-09-26T12:44:28Z",
-      "updated_at": "2026-09-26T12:37:18Z"
+      "pushed_at": "2026-09-26T19:06:26Z",
+      "updated_at": "2026-09-26T19:05:47Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 26507,
-      "forks": 1837,
+      "stars": 26547,
+      "forks": 1838,
       "language": "HTML",
-      "pushed_at": "2026-09-26T12:35:08Z",
-      "updated_at": "2026-09-26T12:40:09Z"
-    },
-    {
-      "id": 1118085970,
-      "full_name": "opensandbox-group/OpenSandbox",
-      "html_url": "https://github.com/opensandbox-group/OpenSandbox",
-      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-      "stars": 15517,
-      "forks": 1428,
-      "language": "Python",
-      "pushed_at": "2026-09-26T12:42:35Z",
-      "updated_at": "2026-09-26T12:42:39Z"
+      "pushed_at": "2026-09-26T18:56:50Z",
+      "updated_at": "2026-09-26T19:06:08Z"
     },
     {
       "id": 617502359,
       "full_name": "vastsa/PI-Desktop",
       "html_url": "https://github.com/vastsa/PI-Desktop",
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 5805,
-      "forks": 501,
+      "stars": 5830,
+      "forks": 502,
       "language": "TypeScript",
-      "pushed_at": "2026-09-26T12:44:51Z",
-      "updated_at": "2026-09-26T12:48:24Z"
-    },
-    {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "stars": 2972,
-      "forks": 233,
-      "language": "Python",
-      "pushed_at": "2026-09-26T12:49:25Z",
-      "updated_at": "2026-09-26T12:49:30Z"
-    },
-    {
-      "id": 1251086916,
-      "full_name": "yb2460/harness-anything",
-      "html_url": "https://github.com/yb2460/harness-anything",
-      "description": "Harness Anything - AI agent control hub: WPS, MS Office, Zotero, Photoshop, 47 CLI commands, 27 academic skills, SVG-to-PPTX",
-      "stars": 2071,
-      "forks": 139,
-      "language": "Python",
-      "pushed_at": "2026-09-26T12:41:25Z",
-      "updated_at": "2026-09-26T12:41:30Z"
-    },
-    {
-      "id": 1281033762,
-      "full_name": "tianma-if/edgeever",
-      "html_url": "https://github.com/tianma-if/edgeever",
-      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
-      "stars": 1522,
-      "forks": 865,
-      "language": "HTML",
-      "pushed_at": "2026-09-26T12:46:59Z",
-      "updated_at": "2026-09-26T12:47:04Z"
+      "pushed_at": "2026-09-26T19:05:49Z",
+      "updated_at": "2026-09-26T19:05:53Z"
     },
     {
       "id": 1310543401,
@@ -103,74 +92,85 @@
       "stars": 1436,
       "forks": 62,
       "language": "TypeScript",
-      "pushed_at": "2026-09-26T12:48:06Z",
-      "updated_at": "2026-09-26T12:41:43Z"
+      "pushed_at": "2026-09-26T18:57:03Z",
+      "updated_at": "2026-09-26T18:57:07Z"
     },
     {
-      "id": 1285857639,
-      "full_name": "xuzhougeng/wisp-science",
-      "html_url": "https://github.com/xuzhougeng/wisp-science",
-      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
-      "stars": 1171,
-      "forks": 122,
-      "language": "Rust",
-      "pushed_at": "2026-09-26T12:42:14Z",
-      "updated_at": "2026-09-26T12:32:13Z"
-    },
-    {
-      "id": 1161723599,
-      "full_name": "AmrDab/clawdcursor",
-      "html_url": "https://github.com/AmrDab/clawdcursor",
-      "description": "clawdcursor compiles whatever's on screen into one UI map — accessibility tree and OCR fused into stable, addressable elements, with a screenshot only when needed — then drives apps through reusable scripts, verifying every action and routing it through a single safety gate.",
-      "stars": 402,
-      "forks": 59,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-26T12:44:57Z",
-      "updated_at": "2026-09-26T12:45:01Z"
-    },
-    {
-      "id": 1154718152,
-      "full_name": "Peiiii/nextclaw",
-      "html_url": "https://github.com/Peiiii/nextclaw",
-      "description": "A human-centered long-term AI partner—not a task-centered assistant.",
-      "stars": 260,
-      "forks": 48,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-26T12:44:08Z",
-      "updated_at": "2026-09-26T12:44:12Z"
-    },
-    {
-      "id": 1346337331,
-      "full_name": "acryldev/acryl",
-      "html_url": "https://github.com/acryldev/acryl",
-      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
-      "stars": 257,
-      "forks": 33,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-26T12:33:55Z",
-      "updated_at": "2026-09-26T12:33:59Z"
-    },
-    {
-      "id": 1182535754,
-      "full_name": "Digital-Process-Tools/claude-remember",
-      "html_url": "https://github.com/Digital-Process-Tools/claude-remember",
-      "description": "Persistent memory for Claude Code — identity, context, and continuity across sessions",
-      "stars": 185,
-      "forks": 54,
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything in your repo, zero dependencies. Claude Code · Codex · Cursor · Droid.",
+      "stars": 701,
+      "forks": 57,
       "language": "Python",
-      "pushed_at": "2026-09-26T12:37:25Z",
-      "updated_at": "2026-09-26T12:36:52Z"
+      "pushed_at": "2026-09-26T19:01:31Z",
+      "updated_at": "2026-09-26T18:57:03Z"
     },
     {
-      "id": 1332399543,
-      "full_name": "JiangNanGenius/floe-agent",
-      "html_url": "https://github.com/JiangNanGenius/floe-agent",
-      "description": "Floe — a native iOS/iPadOS AI agent workspace for iPhone and iPad, built for private bring-your-own-key workflows.",
-      "stars": 145,
-      "forks": 24,
-      "language": "Swift",
-      "pushed_at": "2026-09-26T12:48:08Z",
-      "updated_at": "2026-09-26T12:47:54Z"
+      "id": 937106681,
+      "full_name": "cablate/mcp-google-map",
+      "html_url": "https://github.com/cablate/mcp-google-map",
+      "description": "A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities.",
+      "stars": 466,
+      "forks": 90,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-26T18:59:15Z",
+      "updated_at": "2026-09-26T18:59:18Z"
+    },
+    {
+      "id": 1278071262,
+      "full_name": "deepagent-ltd/deepagent-code",
+      "html_url": "https://github.com/deepagent-ltd/deepagent-code",
+      "description": "DeepAgent Code: AI coding agent with persistent memory and control plane",
+      "stars": 435,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-26T19:04:18Z",
+      "updated_at": "2026-09-26T19:04:23Z"
+    },
+    {
+      "id": 840302332,
+      "full_name": "goruck/home-generative-agent",
+      "html_url": "https://github.com/goruck/home-generative-agent",
+      "description": "AI agent for Home Assistant — talk to your home, create automations in plain language, analyze cameras with face recognition, and get proactive anomaly alerts. Cloud LLMs or fully local via Ollama.",
+      "stars": 309,
+      "forks": 55,
+      "language": "Python",
+      "pushed_at": "2026-09-26T18:57:39Z",
+      "updated_at": "2026-09-26T18:56:40Z"
+    },
+    {
+      "id": 1283117173,
+      "full_name": "blogminhquy/javis-os",
+      "html_url": "https://github.com/blogminhquy/javis-os",
+      "description": "",
+      "stars": 199,
+      "forks": 121,
+      "language": "Python",
+      "pushed_at": "2026-09-26T19:02:11Z",
+      "updated_at": "2026-09-26T19:02:12Z"
+    },
+    {
+      "id": 1154198694,
+      "full_name": "prime-radiant-inc/evener",
+      "html_url": "https://github.com/prime-radiant-inc/evener",
+      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "stars": 161,
+      "forks": 11,
+      "language": "Go",
+      "pushed_at": "2026-09-26T19:06:37Z",
+      "updated_at": "2026-09-26T19:00:22Z"
+    },
+    {
+      "id": 1226383350,
+      "full_name": "prasenjeet-symon/ogcode",
+      "html_url": "https://github.com/prasenjeet-symon/ogcode",
+      "description": "An open-source, local-first AI teammate and agent operating environment for turning intent into completed work—with tools, memory, permissions, and human oversight.",
+      "stars": 136,
+      "forks": 11,
+      "language": "Go",
+      "pushed_at": "2026-09-26T18:58:29Z",
+      "updated_at": "2026-09-26T18:58:30Z"
     }
   ]
 }
