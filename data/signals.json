@@ -5,139 +5,150 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1673,
+  "total_found": 1675,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 250064,
-      "forks": 53368,
+      "stars": 250119,
+      "forks": 53401,
       "language": "Python",
-      "pushed_at": "2026-09-29T23:32:33Z",
-      "updated_at": "2026-09-29T23:32:34Z"
-    },
-    {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 52249,
-      "forks": 5025,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:31:41Z",
-      "updated_at": "2026-09-29T23:24:42Z"
+      "pushed_at": "2026-09-30T04:46:34Z",
+      "updated_at": "2026-09-30T04:50:26Z"
     },
     {
       "id": 1137711311,
       "full_name": "Hmbown/Codewhale",
       "html_url": "https://github.com/Hmbown/Codewhale",
       "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
-      "stars": 41043,
+      "stars": 41041,
       "forks": 3565,
       "language": "Rust",
-      "pushed_at": "2026-09-29T23:25:42Z",
-      "updated_at": "2026-09-29T23:25:47Z"
+      "pushed_at": "2026-09-30T04:51:26Z",
+      "updated_at": "2026-09-30T04:45:28Z"
     },
     {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 37606,
-      "forks": 4668,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:30:04Z",
-      "updated_at": "2026-09-29T23:30:18Z"
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 35717,
+      "forks": 2430,
+      "language": "Go",
+      "pushed_at": "2026-09-30T04:48:01Z",
+      "updated_at": "2026-09-30T04:48:21Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28224,
-      "forks": 3131,
+      "stars": 28231,
+      "forks": 3132,
       "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:30:03Z",
-      "updated_at": "2026-09-29T23:26:43Z"
+      "pushed_at": "2026-09-30T04:49:00Z",
+      "updated_at": "2026-09-30T04:49:10Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 10349,
-      "forks": 1648,
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+      "stars": 5247,
+      "forks": 1033,
       "language": "Python",
-      "pushed_at": "2026-09-29T23:28:11Z",
-      "updated_at": "2026-09-29T23:28:25Z"
-    },
-    {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-      "stars": 5296,
-      "forks": 486,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:23:07Z",
-      "updated_at": "2026-09-29T23:29:45Z"
+      "pushed_at": "2026-09-30T04:43:47Z",
+      "updated_at": "2026-09-30T04:46:39Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4207,
-      "forks": 711,
+      "stars": 4211,
+      "forks": 712,
       "language": "Python",
-      "pushed_at": "2026-09-29T23:32:21Z",
-      "updated_at": "2026-09-29T23:30:38Z"
+      "pushed_at": "2026-09-30T04:52:45Z",
+      "updated_at": "2026-09-30T04:52:47Z"
     },
     {
-      "id": 1180642359,
-      "full_name": "xalgorix/xalgorix",
-      "html_url": "https://github.com/xalgorix/xalgorix",
-      "description": "Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
-      "stars": 1143,
-      "forks": 211,
-      "language": "Go",
-      "pushed_at": "2026-09-29T23:16:29Z",
-      "updated_at": "2026-09-29T23:16:34Z"
+      "id": 1310758816,
+      "full_name": "Pinvou/pinvou-agent",
+      "html_url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "stars": 2227,
+      "forks": 321,
+      "language": "Rust",
+      "pushed_at": "2026-09-30T04:52:11Z",
+      "updated_at": "2026-09-30T04:52:13Z"
+    },
+    {
+      "id": 1281033762,
+      "full_name": "tianma-if/edgeever",
+      "html_url": "https://github.com/tianma-if/edgeever",
+      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
+      "stars": 1778,
+      "forks": 961,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-30T04:52:05Z",
+      "updated_at": "2026-09-30T04:52:10Z"
+    },
+    {
+      "id": 1313497021,
+      "full_name": "fy-agent/fyagent",
+      "html_url": "https://github.com/fy-agent/fyagent",
+      "description": "For You Agent——AI 时代的个人随身数字人格。把你的模型、AI 账号、技能、提示词和工作方式，带到每一个 AI 工具里。",
+      "stars": 1384,
+      "forks": 135,
+      "language": "Rust",
+      "pushed_at": "2026-09-30T04:50:14Z",
+      "updated_at": "2026-09-30T04:50:13Z"
+    },
+    {
+      "id": 423101191,
+      "full_name": "i365dev/free4chat",
+      "html_url": "https://github.com/i365dev/free4chat",
+      "description": "Temporary rooms for Humans and AI Agents — run, supervise and steer Agent Tasks without a permanent workspace.",
+      "stars": 1202,
+      "forks": 168,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-30T04:52:04Z",
+      "updated_at": "2026-09-30T04:38:22Z"
+    },
+    {
+      "id": 1117896698,
+      "full_name": "tony1223/better-agent-terminal",
+      "html_url": "https://github.com/tony1223/better-agent-terminal",
+      "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+      "stars": 513,
+      "forks": 126,
+      "language": "TypeScript",
+      "pushed_at": "2026-09-30T04:46:42Z",
+      "updated_at": "2026-09-30T04:46:46Z"
     },
     {
       "id": 1186822753,
       "full_name": "openwong2kim/wmux",
       "html_url": "https://github.com/openwong2kim/wmux",
       "description": "Run Claude Code, Codex & Gemini in parallel on Windows & macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
-      "stars": 406,
+      "stars": 407,
       "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:15:51Z",
-      "updated_at": "2026-09-29T23:10:47Z"
+      "pushed_at": "2026-09-30T04:50:47Z",
+      "updated_at": "2026-09-30T04:42:41Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 397,
-      "forks": 96,
-      "language": "Python",
-      "pushed_at": "2026-09-29T23:25:58Z",
-      "updated_at": "2026-09-29T23:09:32Z"
-    },
-    {
-      "id": 1154718152,
-      "full_name": "Peiiii/nextclaw",
-      "html_url": "https://github.com/Peiiii/nextclaw",
-      "description": "A human-centered long-term AI partner—not a task-centered assistant.",
-      "stars": 260,
-      "forks": 48,
-      "language": "TypeScript",
-      "pushed_at": "2026-09-29T23:26:09Z",
-      "updated_at": "2026-09-29T23:26:16Z"
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "Floe — a native iOS/iPadOS AI agent workspace for iPhone and iPad, built for private bring-your-own-key workflows.",
+      "stars": 168,
+      "forks": 27,
+      "language": "Swift",
+      "pushed_at": "2026-09-30T04:46:14Z",
+      "updated_at": "2026-09-30T04:46:18Z"
     },
     {
       "id": 1154198694,
@@ -147,30 +158,19 @@
       "stars": 163,
       "forks": 13,
       "language": "Go",
-      "pushed_at": "2026-09-29T23:33:03Z",
-      "updated_at": "2026-09-29T23:33:09Z"
+      "pushed_at": "2026-09-30T04:48:26Z",
+      "updated_at": "2026-09-30T04:48:31Z"
     },
     {
-      "id": 1189273325,
-      "full_name": "coddy-project/coddy-agent",
-      "html_url": "https://github.com/coddy-project/coddy-agent",
-      "description": "General-purpose agent in one static Go binary: console TUI, ACP server for editors, OpenAI-compatible API with embedded web UI, Telegram gateway, cron scheduler, swarm relay, remote mode. Rules, skills, subagents, hooks, MCP, background tasks, long-term memory, context compaction. Any OpenAI-compatible provider, distroless-ready.",
-      "stars": 158,
-      "forks": 19,
-      "language": "Go",
-      "pushed_at": "2026-09-29T23:32:52Z",
-      "updated_at": "2026-09-29T23:14:35Z"
-    },
-    {
-      "id": 1308268969,
-      "full_name": "kaishi00/hermes-conduit",
-      "html_url": "https://github.com/kaishi00/hermes-conduit",
-      "description": "Conduit — native SwiftUI iOS client for Hermes Agent",
-      "stars": 154,
-      "forks": 30,
-      "language": "Swift",
-      "pushed_at": "2026-09-29T23:31:50Z",
-      "updated_at": "2026-09-29T23:24:18Z"
+      "id": 1332249222,
+      "full_name": "vaibhavarora14/job-application-agent",
+      "html_url": "https://github.com/vaibhavarora14/job-application-agent",
+      "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
+      "stars": 152,
+      "forks": 24,
+      "language": "JavaScript",
+      "pushed_at": "2026-09-30T04:44:03Z",
+      "updated_at": "2026-09-30T04:44:08Z"
     }
   ]
 }
