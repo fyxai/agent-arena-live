@@ -5,84 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1736,
+  "total_found": 1738,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 251749,
-      "forks": 54134,
+      "stars": 251845,
+      "forks": 54197,
       "language": "Python",
-      "pushed_at": "2026-10-07T05:12:21Z",
-      "updated_at": "2026-10-07T05:07:15Z"
+      "pushed_at": "2026-10-07T15:19:15Z",
+      "updated_at": "2026-10-07T15:18:50Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "A reliable coding agent for complex software engineering tasks.",
-      "stars": 35742,
-      "forks": 2438,
+      "stars": 35745,
+      "forks": 2440,
       "language": "Go",
-      "pushed_at": "2026-10-07T05:06:50Z",
-      "updated_at": "2026-10-07T05:01:03Z"
+      "pushed_at": "2026-10-07T15:20:32Z",
+      "updated_at": "2026-10-07T15:17:31Z"
     },
     {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 28506,
-      "forks": 2026,
-      "language": "Rust",
-      "pushed_at": "2026-10-07T04:58:08Z",
-      "updated_at": "2026-10-07T05:06:53Z"
-    },
-    {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28337,
-      "forks": 3166,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T05:07:51Z",
-      "updated_at": "2026-10-07T05:07:29Z"
-    },
-    {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "stars": 3198,
-      "forks": 244,
+      "id": 1142406715,
+      "full_name": "EvoScientist/EvoScientist",
+      "html_url": "https://github.com/EvoScientist/EvoScientist",
+      "description": "🔬 Harness Vibe Research with Self-evolving AI Scientists",
+      "stars": 4968,
+      "forks": 327,
       "language": "Python",
-      "pushed_at": "2026-10-07T05:05:01Z",
-      "updated_at": "2026-10-07T05:02:48Z"
+      "pushed_at": "2026-10-07T15:17:08Z",
+      "updated_at": "2026-10-07T15:20:44Z"
     },
     {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2896,
-      "forks": 441,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T05:10:27Z",
-      "updated_at": "2026-10-07T05:10:33Z"
-    },
-    {
-      "id": 1198829864,
-      "full_name": "he-yufeng/CoreCoder",
-      "html_url": "https://github.com/he-yufeng/CoreCoder",
-      "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
-      "stars": 1793,
-      "forks": 441,
+      "id": 1303258850,
+      "full_name": "kirodotdev/KiroCrew",
+      "html_url": "https://github.com/kirodotdev/KiroCrew",
+      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
+      "stars": 4312,
+      "forks": 756,
       "language": "Python",
-      "pushed_at": "2026-10-07T04:59:48Z",
-      "updated_at": "2026-10-07T04:59:53Z"
+      "pushed_at": "2026-10-07T15:20:32Z",
+      "updated_at": "2026-10-07T15:18:37Z"
+    },
+    {
+      "id": 1401476500,
+      "full_name": "QingYunA/answer-me-with-html",
+      "html_url": "https://github.com/QingYunA/answer-me-with-html",
+      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+      "stars": 1986,
+      "forks": 137,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-07T15:17:31Z",
+      "updated_at": "2026-10-07T15:20:21Z"
+    },
+    {
+      "id": 1214333415,
+      "full_name": "Core-Mate/OpenGUI",
+      "html_url": "https://github.com/Core-Mate/OpenGUI",
+      "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the GUI.",
+      "stars": 1815,
+      "forks": 114,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-07T15:15:30Z",
+      "updated_at": "2026-10-07T15:20:02Z"
     },
     {
       "id": 1057975087,
@@ -92,8 +81,19 @@
       "stars": 1230,
       "forks": 226,
       "language": "Go",
-      "pushed_at": "2026-10-07T05:11:38Z",
-      "updated_at": "2026-10-07T05:07:31Z"
+      "pushed_at": "2026-10-07T15:01:49Z",
+      "updated_at": "2026-10-07T15:01:52Z"
+    },
+    {
+      "id": 423101191,
+      "full_name": "i365dev/free4chat",
+      "html_url": "https://github.com/i365dev/free4chat",
+      "description": "Temporary rooms for Humans and AI Agents — run, supervise and steer Agent Tasks without a permanent workspace.",
+      "stars": 1209,
+      "forks": 168,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-07T15:04:44Z",
+      "updated_at": "2026-10-07T15:04:48Z"
     },
     {
       "id": 1096175506,
@@ -103,74 +103,74 @@
       "stars": 1153,
       "forks": 72,
       "language": "TypeScript",
-      "pushed_at": "2026-10-07T05:12:55Z",
-      "updated_at": "2026-10-07T05:00:15Z"
+      "pushed_at": "2026-10-07T15:17:52Z",
+      "updated_at": "2026-10-07T15:01:23Z"
     },
     {
-      "id": 945925446,
-      "full_name": "helixnow/deep-student",
-      "html_url": "https://github.com/helixnow/deep-student",
-      "description": "An open-source, local-first AI learning workbench",
-      "stars": 278,
-      "forks": 55,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T05:08:14Z",
-      "updated_at": "2026-10-07T05:06:42Z"
-    },
-    {
-      "id": 1154198694,
-      "full_name": "prime-radiant-inc/evener",
-      "html_url": "https://github.com/prime-radiant-inc/evener",
-      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
-      "stars": 170,
-      "forks": 15,
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 722,
+      "forks": 60,
       "language": "Go",
-      "pushed_at": "2026-10-07T05:12:39Z",
-      "updated_at": "2026-10-07T04:59:13Z"
+      "pushed_at": "2026-10-07T15:17:48Z",
+      "updated_at": "2026-10-07T15:21:15Z"
     },
     {
-      "id": 1160004652,
-      "full_name": "kstevica/captain-claw",
-      "html_url": "https://github.com/kstevica/captain-claw",
-      "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
-      "stars": 167,
-      "forks": 18,
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
+      "stars": 550,
+      "forks": 124,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-07T15:01:34Z",
+      "updated_at": "2026-10-07T15:01:02Z"
+    },
+    {
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 396,
+      "forks": 96,
       "language": "Python",
-      "pushed_at": "2026-10-07T05:00:05Z",
-      "updated_at": "2026-10-07T05:00:11Z"
+      "pushed_at": "2026-10-07T15:21:30Z",
+      "updated_at": "2026-10-07T15:04:02Z"
     },
     {
-      "id": 1232463639,
-      "full_name": "movieclaw/MovieClaw",
-      "html_url": "https://github.com/movieclaw/MovieClaw",
-      "description": "Next-gen AI media server. One container replaces Sonarr, Radarr, Prowlarr, Bazarr, Jellyseerr and Jellyfin, with a web app, a native iPhone app, and an AI agent that gets things done. Free for personal use.",
-      "stars": 132,
-      "forks": 34,
-      "language": "Python",
-      "pushed_at": "2026-10-07T05:06:57Z",
-      "updated_at": "2026-10-07T05:06:59Z"
+      "id": 1353408336,
+      "full_name": "dragonked2/alphacode",
+      "html_url": "https://github.com/dragonked2/alphacode",
+      "description": "Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 more. Swarm mode, 40+ tools, browser & desktop automation, built in Rust.",
+      "stars": 229,
+      "forks": 16,
+      "language": "Rust",
+      "pushed_at": "2026-10-07T15:03:02Z",
+      "updated_at": "2026-10-07T15:02:59Z"
     },
     {
-      "id": 1312627260,
-      "full_name": "seteliu/st-cute",
-      "html_url": "https://github.com/seteliu/st-cute",
-      "description": "Coding Agent | ReAct Loop | Web UI | Mobile Supported",
-      "stars": 113,
-      "forks": 2,
-      "language": "Java",
-      "pushed_at": "2026-10-07T05:02:01Z",
-      "updated_at": "2026-10-07T05:01:56Z"
+      "id": 1403307052,
+      "full_name": "jiwoochris/artex-ko",
+      "html_url": "https://github.com/jiwoochris/artex-ko",
+      "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "stars": 222,
+      "forks": 93,
+      "language": "Go",
+      "pushed_at": "2026-10-07T15:03:07Z",
+      "updated_at": "2026-10-07T15:03:11Z"
     },
     {
-      "id": 1255169303,
-      "full_name": "gaixianggeng/mimi-remote",
-      "html_url": "https://github.com/gaixianggeng/mimi-remote",
-      "description": "Open-source native iPhone/iPad client for OpenAI Codex CLI and Claude Code — review diffs, approve actions, steer sessions, and manage Git remotely.",
-      "stars": 103,
-      "forks": 15,
+      "id": 1382865521,
+      "full_name": "nano-muse/nanoMuse",
+      "html_url": "https://github.com/nano-muse/nanoMuse",
+      "description": "nanoMuse: an open-source personal agent for every device you own — one agent with a name and a face that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
+      "stars": 181,
+      "forks": 21,
       "language": "Swift",
-      "pushed_at": "2026-10-07T05:11:50Z",
-      "updated_at": "2026-10-07T05:04:33Z"
+      "pushed_at": "2026-10-07T15:17:45Z",
+      "updated_at": "2026-10-07T15:21:33Z"
     }
   ]
 }
