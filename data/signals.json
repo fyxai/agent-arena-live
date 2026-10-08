@@ -5,73 +5,117 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1741,
+  "total_found": 1742,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 251914,
-      "forks": 54238,
+      "stars": 251997,
+      "forks": 54267,
       "language": "Python",
-      "pushed_at": "2026-10-07T21:05:16Z",
-      "updated_at": "2026-10-07T21:05:27Z"
+      "pushed_at": "2026-10-08T05:17:09Z",
+      "updated_at": "2026-10-08T05:19:37Z"
     },
     {
-      "id": 1125856365,
-      "full_name": "can1357/oh-my-pi",
-      "html_url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 34543,
-      "forks": 3751,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T21:05:16Z",
-      "updated_at": "2026-10-07T21:05:23Z"
+      "id": 1201476594,
+      "full_name": "career-ops-hq/career-ops",
+      "html_url": "https://github.com/career-ops-hq/career-ops",
+      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
+      "stars": 73741,
+      "forks": 13850,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-08T05:20:33Z",
+      "updated_at": "2026-10-08T05:20:34Z"
     },
     {
-      "id": 837911756,
-      "full_name": "feder-cr/invisible_dots",
-      "html_url": "https://github.com/feder-cr/invisible_dots",
-      "description": "Open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and Claude Cowork. AI agents, each with a virtual machine on your PC with a desktop, a shell, files, memory and skills that stay, invisible to anti-bots. Any model on OpenRouter.",
-      "stars": 31798,
-      "forks": 4692,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T21:05:00Z",
-      "updated_at": "2026-10-07T21:05:17Z"
+      "id": 1137711311,
+      "full_name": "codewhale-hq/Codewhale",
+      "html_url": "https://github.com/codewhale-hq/Codewhale",
+      "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+      "stars": 41080,
+      "forks": 3569,
+      "language": "Rust",
+      "pushed_at": "2026-10-08T05:22:14Z",
+      "updated_at": "2026-10-08T05:20:56Z"
     },
     {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 5135,
-      "forks": 339,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T21:03:49Z",
-      "updated_at": "2026-10-07T21:03:55Z"
-    },
-    {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4315,
-      "forks": 756,
-      "language": "Python",
-      "pushed_at": "2026-10-07T21:06:38Z",
-      "updated_at": "2026-10-07T21:04:03Z"
-    },
-    {
-      "id": 1057975087,
-      "full_name": "modu-ai/moai-adk",
-      "html_url": "https://github.com/modu-ai/moai-adk",
-      "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
-      "stars": 1230,
-      "forks": 226,
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "A reliable coding agent for complex software engineering tasks.",
+      "stars": 35744,
+      "forks": 2438,
       "language": "Go",
-      "pushed_at": "2026-10-07T21:01:35Z",
-      "updated_at": "2026-10-07T20:57:39Z"
+      "pushed_at": "2026-10-08T05:11:31Z",
+      "updated_at": "2026-10-08T05:21:08Z"
+    },
+    {
+      "id": 1251460378,
+      "full_name": "apache/maka",
+      "html_url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "stars": 5694,
+      "forks": 541,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-08T05:16:07Z",
+      "updated_at": "2026-10-08T05:16:13Z"
+    },
+    {
+      "id": 1258301311,
+      "full_name": "rlaope/oh-my-hermes",
+      "html_url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "stars": 3207,
+      "forks": 244,
+      "language": "Python",
+      "pushed_at": "2026-10-08T05:22:48Z",
+      "updated_at": "2026-10-08T05:22:02Z"
+    },
+    {
+      "id": 1310758816,
+      "full_name": "Pinvou/pinvou-agent",
+      "html_url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "stars": 2379,
+      "forks": 342,
+      "language": "Rust",
+      "pushed_at": "2026-10-08T05:10:56Z",
+      "updated_at": "2026-10-08T05:16:05Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "okou-ai/okou",
+      "html_url": "https://github.com/okou-ai/okou",
+      "description": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
+      "stars": 1153,
+      "forks": 72,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-08T05:22:45Z",
+      "updated_at": "2026-10-08T05:19:18Z"
+    },
+    {
+      "id": 1184045765,
+      "full_name": "wzyn20051216/solidworks-automation-skill",
+      "html_url": "https://github.com/wzyn20051216/solidworks-automation-skill",
+      "description": "Reliable AI Skill + MCP toolkit for agent-driven desktop CAD automation.",
+      "stars": 1098,
+      "forks": 102,
+      "language": "Python",
+      "pushed_at": "2026-10-08T05:18:45Z",
+      "updated_at": "2026-10-08T05:18:52Z"
+    },
+    {
+      "id": 1285857639,
+      "full_name": "xuzhougeng/wisp-science",
+      "html_url": "https://github.com/xuzhougeng/wisp-science",
+      "description": "Open-source, local-first desktop AI research workbench for scientific computing with Python/R, MCP bioinformatics tools, SSH/WSL/GPU runtimes, and OpenAI/Anthropic models.",
+      "stars": 1017,
+      "forks": 104,
+      "language": "Rust",
+      "pushed_at": "2026-10-08T05:14:40Z",
+      "updated_at": "2026-10-08T05:14:46Z"
     },
     {
       "id": 1160289313,
@@ -81,63 +125,30 @@
       "stars": 868,
       "forks": 81,
       "language": "TypeScript",
-      "pushed_at": "2026-10-07T20:52:06Z",
-      "updated_at": "2026-10-07T20:52:11Z"
+      "pushed_at": "2026-10-08T05:15:27Z",
+      "updated_at": "2026-10-08T05:15:31Z"
     },
     {
-      "id": 1343438200,
-      "full_name": "rome-os/rome",
-      "html_url": "https://github.com/rome-os/rome",
-      "description": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
-      "stars": 721,
-      "forks": 59,
+      "id": 1154071796,
+      "full_name": "jin-bo/agentao",
+      "html_url": "https://github.com/jin-bo/agentao",
+      "description": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
+      "stars": 308,
+      "forks": 14,
+      "language": "Python",
+      "pushed_at": "2026-10-08T05:21:14Z",
+      "updated_at": "2026-10-08T05:21:04Z"
+    },
+    {
+      "id": 1346337331,
+      "full_name": "acryldev/acryl",
+      "html_url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stars": 256,
+      "forks": 35,
       "language": "TypeScript",
-      "pushed_at": "2026-10-07T21:04:20Z",
-      "updated_at": "2026-10-07T20:56:52Z"
-    },
-    {
-      "id": 1219291910,
-      "full_name": "oneshot-agent/oneshot-gtm",
-      "html_url": "https://github.com/oneshot-agent/oneshot-gtm",
-      "description": "GTM agent for technical founders. Pay-per-result. Two surfaces: terminal CLI + local web dashboard.",
-      "stars": 691,
-      "forks": 17,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T20:52:06Z",
-      "updated_at": "2026-10-07T20:52:09Z"
-    },
-    {
-      "id": 1302093382,
-      "full_name": "gakonst/nanocodex",
-      "html_url": "https://github.com/gakonst/nanocodex",
-      "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-      "stars": 556,
-      "forks": 76,
-      "language": "Rust",
-      "pushed_at": "2026-10-07T21:05:14Z",
-      "updated_at": "2026-10-07T21:05:19Z"
-    },
-    {
-      "id": 1267202750,
-      "full_name": "devcxl/mattpocock-skills-zh",
-      "html_url": "https://github.com/devcxl/mattpocock-skills-zh",
-      "description": "Matt Pocock 技能集的中文翻译版 — 地道中文，原汁原味的技术术语。基于 mattpocock/skills 复刻。每日中午12点钟同步",
-      "stars": 437,
-      "forks": 38,
-      "language": "Shell",
-      "pushed_at": "2026-10-07T20:53:29Z",
-      "updated_at": "2026-10-07T20:53:20Z"
-    },
-    {
-      "id": 1382865521,
-      "full_name": "nano-muse/nanoMuse",
-      "html_url": "https://github.com/nano-muse/nanoMuse",
-      "description": "nanoMuse: an open-source personal agent for every device you own — one agent with a name and a face that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
-      "stars": 214,
-      "forks": 26,
-      "language": "Swift",
-      "pushed_at": "2026-10-07T21:03:41Z",
-      "updated_at": "2026-10-07T21:00:23Z"
+      "pushed_at": "2026-10-08T05:15:53Z",
+      "updated_at": "2026-10-08T05:15:57Z"
     },
     {
       "id": 1182535754,
@@ -147,30 +158,19 @@
       "stars": 195,
       "forks": 58,
       "language": "Python",
-      "pushed_at": "2026-10-07T21:01:41Z",
-      "updated_at": "2026-10-07T21:01:47Z"
+      "pushed_at": "2026-10-08T05:19:02Z",
+      "updated_at": "2026-10-08T05:18:58Z"
     },
     {
-      "id": 955447940,
-      "full_name": "stabgan/openrouter-mcp-multimodal",
-      "html_url": "https://github.com/stabgan/openrouter-mcp-multimodal",
-      "description": "MCP server for OpenRouter — chat with 300+ LLMs (Claude, Gemini, GPT), analyze images / audio / video, generate images / speech / music / video (Veo 3.1, Sora, Seedance, Wan) from Claude Desktop, Cursor, Kiro, VS Code.",
-      "stars": 96,
-      "forks": 29,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-07T20:52:12Z",
-      "updated_at": "2026-10-07T20:51:18Z"
-    },
-    {
-      "id": 1188280950,
-      "full_name": "WingedGuardian/GENesis-AGI",
-      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
-      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
-      "stars": 96,
-      "forks": 38,
-      "language": "Python",
-      "pushed_at": "2026-10-07T20:53:32Z",
-      "updated_at": "2026-10-07T20:53:34Z"
+      "id": 1154198694,
+      "full_name": "prime-radiant-inc/evener",
+      "html_url": "https://github.com/prime-radiant-inc/evener",
+      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "stars": 170,
+      "forks": 15,
+      "language": "Go",
+      "pushed_at": "2026-10-08T05:18:44Z",
+      "updated_at": "2026-10-08T05:16:56Z"
     }
   ]
 }
