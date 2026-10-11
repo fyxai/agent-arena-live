@@ -5,106 +5,106 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1761,
+  "total_found": 1766,
   "items": [
-    {
-      "id": 1024554267,
-      "full_name": "NousResearch/hermes-agent",
-      "html_url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": 252592,
-      "forks": 54620,
-      "language": "Python",
-      "pushed_at": "2026-10-11T04:47:27Z",
-      "updated_at": "2026-10-11T04:49:26Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "A reliable coding agent for complex software engineering tasks.",
-      "stars": 35760,
-      "forks": 2438,
-      "language": "Go",
-      "pushed_at": "2026-10-11T04:59:45Z",
-      "updated_at": "2026-10-11T05:00:12Z"
-    },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 34959,
-      "forks": 3801,
+      "stars": 35012,
+      "forks": 3812,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:38:18Z",
-      "updated_at": "2026-10-11T04:56:20Z"
+      "pushed_at": "2026-10-11T14:40:45Z",
+      "updated_at": "2026-10-11T14:42:42Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28409,
-      "forks": 3186,
+      "stars": 28415,
+      "forks": 3187,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:55:27Z",
-      "updated_at": "2026-10-11T04:58:15Z"
-    },
-    {
-      "id": 306829688,
-      "full_name": "nocobase/nocobase",
-      "html_url": "https://github.com/nocobase/nocobase",
-      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 24520,
-      "forks": 2907,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-11T05:00:36Z",
-      "updated_at": "2026-10-11T04:50:03Z"
+      "pushed_at": "2026-10-11T14:46:52Z",
+      "updated_at": "2026-10-11T14:33:29Z"
     },
     {
       "id": 1199668171,
       "full_name": "fathah/hermes-desktop",
       "html_url": "https://github.com/fathah/hermes-desktop",
       "description": "Desktop Companion for Hermes Agent",
-      "stars": 14391,
-      "forks": 1628,
+      "stars": 14392,
+      "forks": 1631,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:58:14Z",
-      "updated_at": "2026-10-11T04:58:18Z"
+      "pushed_at": "2026-10-11T14:35:45Z",
+      "updated_at": "2026-10-11T14:35:51Z"
     },
     {
       "id": 617502359,
       "full_name": "vastsa/PI-Desktop",
       "html_url": "https://github.com/vastsa/PI-Desktop",
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 6641,
+      "stars": 6660,
       "forks": 617,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:46:31Z",
-      "updated_at": "2026-10-11T04:51:38Z"
+      "pushed_at": "2026-10-11T14:45:05Z",
+      "updated_at": "2026-10-11T14:47:02Z"
     },
     {
-      "id": 220867748,
-      "full_name": "neomjs/neo",
-      "html_url": "https://github.com/neomjs/neo",
-      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
-      "stars": 3289,
-      "forks": 248,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-11T04:38:25Z",
-      "updated_at": "2026-10-11T04:38:27Z"
+      "id": 1251460378,
+      "full_name": "apache/maka",
+      "html_url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
+      "stars": 5697,
+      "forks": 544,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:36:22Z",
+      "updated_at": "2026-10-11T14:36:27Z"
+    },
+    {
+      "id": 1287804060,
+      "full_name": "aipoch/open-science",
+      "html_url": "https://github.com/aipoch/open-science",
+      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
+      "stars": 5513,
+      "forks": 511,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:44:34Z",
+      "updated_at": "2026-10-11T14:31:06Z"
     },
     {
       "id": 1310758816,
       "full_name": "Pinvou/pinvou-agent",
       "html_url": "https://github.com/Pinvou/pinvou-agent",
       "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "stars": 2438,
-      "forks": 352,
+      "stars": 2448,
+      "forks": 353,
       "language": "Rust",
-      "pushed_at": "2026-10-11T04:51:04Z",
-      "updated_at": "2026-10-11T04:56:03Z"
+      "pushed_at": "2026-10-11T14:41:43Z",
+      "updated_at": "2026-10-11T14:44:58Z"
+    },
+    {
+      "id": 1140582982,
+      "full_name": "TNT-Likely/PanWatch",
+      "html_url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "PanWatch — AI stock monitoring for A-shares, HK & US markets, powered by TradingAgents. Portfolio insights, real-time alerts & automated reports.｜盯盘侠：覆盖 A股/港股/美股的 AI 盯盘、持仓分析、实时提醒与自动报告。",
+      "stars": 2066,
+      "forks": 366,
+      "language": "Python",
+      "pushed_at": "2026-10-11T14:42:28Z",
+      "updated_at": "2026-10-11T14:47:00Z"
+    },
+    {
+      "id": 1155099363,
+      "full_name": "aidanpark/openclaw-android",
+      "html_url": "https://github.com/aidanpark/openclaw-android",
+      "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
+      "stars": 1775,
+      "forks": 226,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-11T14:35:28Z",
+      "updated_at": "2026-10-11T14:35:35Z"
     },
     {
       "id": 1096175506,
@@ -114,63 +114,63 @@
       "stars": 1156,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:57:42Z",
-      "updated_at": "2026-10-11T04:57:05Z"
+      "pushed_at": "2026-10-11T14:47:00Z",
+      "updated_at": "2026-10-11T14:39:46Z"
     },
     {
-      "id": 1343438200,
-      "full_name": "rome-os/rome",
-      "html_url": "https://github.com/rome-os/rome",
-      "description": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
-      "stars": 748,
+      "id": 1207055628,
+      "full_name": "ConardLi/easy-agent",
+      "html_url": "https://github.com/ConardLi/easy-agent",
+      "description": "Production-ready open source terminal coding agent with readable, layered code: permission rules, OS sandboxing, MCP, skills, sub-agents, and Anthropic, OpenAI-compatible, Gemini, or local models.",
+      "stars": 1010,
+      "forks": 138,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T14:43:14Z",
+      "updated_at": "2026-10-11T14:41:05Z"
+    },
+    {
+      "id": 1142397834,
+      "full_name": "qf-studio/pilot",
+      "html_url": "https://github.com/qf-studio/pilot",
+      "description": "AI that ships your tickets.",
+      "stars": 722,
+      "forks": 60,
+      "language": "Go",
+      "pushed_at": "2026-10-11T14:35:39Z",
+      "updated_at": "2026-10-11T14:35:43Z"
+    },
+    {
+      "id": 1123446919,
+      "full_name": "gmickel/flow-next",
+      "html_url": "https://github.com/gmickel/flow-next",
+      "description": "Faster than your agent alone. And better. A workflow plugin that takes a bug, idea or ticket to a verified pull request: specs, cross-model review by risk, live QA, receipts in your repo. Claude Code · Codex · Cursor · Droid · Grok Build · OpenCode.",
+      "stars": 709,
       "forks": 59,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:59:23Z",
-      "updated_at": "2026-10-11T05:00:41Z"
-    },
-    {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 474,
-      "forks": 132,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:50:22Z",
-      "updated_at": "2026-10-11T04:50:24Z"
-    },
-    {
-      "id": 796089121,
-      "full_name": "SAILResearch/awesome-ai-leaderboard",
-      "html_url": "https://github.com/SAILResearch/awesome-ai-leaderboard",
-      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
-      "stars": 382,
-      "forks": 65,
-      "language": "Unknown",
-      "pushed_at": "2026-10-11T05:00:32Z",
-      "updated_at": "2026-10-11T05:00:37Z"
-    },
-    {
-      "id": 772408997,
-      "full_name": "DemonDamon/AgenticX",
-      "html_url": "https://github.com/DemonDamon/AgenticX",
-      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "stars": 361,
-      "forks": 56,
       "language": "Python",
-      "pushed_at": "2026-10-11T04:53:24Z",
-      "updated_at": "2026-10-11T04:53:28Z"
+      "pushed_at": "2026-10-11T14:35:13Z",
+      "updated_at": "2026-10-11T14:35:16Z"
     },
     {
-      "id": 719577983,
-      "full_name": "chmonitor/chmonitor",
-      "html_url": "https://github.com/chmonitor/chmonitor",
-      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations.",
-      "stars": 301,
-      "forks": 49,
+      "id": 1228890794,
+      "full_name": "aqm857886159/Nomi",
+      "html_url": "https://github.com/aqm857886159/Nomi",
+      "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
+      "stars": 559,
+      "forks": 126,
       "language": "TypeScript",
-      "pushed_at": "2026-10-11T04:53:33Z",
-      "updated_at": "2026-10-11T04:53:03Z"
+      "pushed_at": "2026-10-11T14:45:05Z",
+      "updated_at": "2026-10-11T14:37:29Z"
+    },
+    {
+      "id": 1166995215,
+      "full_name": "CodeAlta/CodeAlta",
+      "html_url": "https://github.com/CodeAlta/CodeAlta",
+      "description": "Agentic Development Environment",
+      "stars": 271,
+      "forks": 18,
+      "language": "C#",
+      "pushed_at": "2026-10-11T14:42:59Z",
+      "updated_at": "2026-10-11T14:43:07Z"
     }
   ]
 }
