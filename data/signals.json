@@ -5,73 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1763,
+  "total_found": 1761,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 252539,
-      "forks": 54597,
+      "stars": 252592,
+      "forks": 54620,
       "language": "Python",
-      "pushed_at": "2026-10-10T23:15:49Z",
-      "updated_at": "2026-10-10T23:15:58Z"
+      "pushed_at": "2026-10-11T04:47:27Z",
+      "updated_at": "2026-10-11T04:49:26Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 52526,
-      "forks": 5059,
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "A reliable coding agent for complex software engineering tasks.",
+      "stars": 35760,
+      "forks": 2438,
+      "language": "Go",
+      "pushed_at": "2026-10-11T04:59:45Z",
+      "updated_at": "2026-10-11T05:00:12Z"
+    },
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "stars": 34959,
+      "forks": 3801,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T23:10:47Z",
-      "updated_at": "2026-10-10T23:11:05Z"
+      "pushed_at": "2026-10-11T04:38:18Z",
+      "updated_at": "2026-10-11T04:56:20Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28407,
-      "forks": 3183,
+      "stars": 28409,
+      "forks": 3186,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T23:16:37Z",
-      "updated_at": "2026-10-10T23:08:18Z"
+      "pushed_at": "2026-10-11T04:55:27Z",
+      "updated_at": "2026-10-11T04:58:15Z"
     },
     {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-      "stars": 5502,
-      "forks": 511,
+      "id": 306829688,
+      "full_name": "nocobase/nocobase",
+      "html_url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 24520,
+      "forks": 2907,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T23:17:56Z",
-      "updated_at": "2026-10-10T23:19:46Z"
+      "pushed_at": "2026-10-11T05:00:36Z",
+      "updated_at": "2026-10-11T04:50:03Z"
     },
     {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4362,
-      "forks": 784,
-      "language": "Python",
-      "pushed_at": "2026-10-10T23:19:30Z",
-      "updated_at": "2026-10-10T23:15:43Z"
+      "id": 1199668171,
+      "full_name": "fathah/hermes-desktop",
+      "html_url": "https://github.com/fathah/hermes-desktop",
+      "description": "Desktop Companion for Hermes Agent",
+      "stars": 14391,
+      "forks": 1628,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T04:58:14Z",
+      "updated_at": "2026-10-11T04:58:18Z"
+    },
+    {
+      "id": 617502359,
+      "full_name": "vastsa/PI-Desktop",
+      "html_url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": 6641,
+      "forks": 617,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T04:46:31Z",
+      "updated_at": "2026-10-11T04:51:38Z"
+    },
+    {
+      "id": 220867748,
+      "full_name": "neomjs/neo",
+      "html_url": "https://github.com/neomjs/neo",
+      "description": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
+      "stars": 3289,
+      "forks": 248,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-11T04:38:25Z",
+      "updated_at": "2026-10-11T04:38:27Z"
+    },
+    {
+      "id": 1310758816,
+      "full_name": "Pinvou/pinvou-agent",
+      "html_url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "stars": 2438,
+      "forks": 352,
+      "language": "Rust",
+      "pushed_at": "2026-10-11T04:51:04Z",
+      "updated_at": "2026-10-11T04:56:03Z"
+    },
+    {
+      "id": 1096175506,
+      "full_name": "okou-ai/okou",
+      "html_url": "https://github.com/okou-ai/okou",
+      "description": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
+      "stars": 1156,
+      "forks": 74,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-11T04:57:42Z",
+      "updated_at": "2026-10-11T04:57:05Z"
     },
     {
       "id": 1343438200,
       "full_name": "rome-os/rome",
       "html_url": "https://github.com/rome-os/rome",
       "description": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
-      "stars": 747,
+      "stars": 748,
       "forks": 59,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T23:18:35Z",
-      "updated_at": "2026-10-10T23:18:38Z"
+      "pushed_at": "2026-10-11T04:59:23Z",
+      "updated_at": "2026-10-11T05:00:41Z"
     },
     {
       "id": 1174812893,
@@ -81,96 +136,41 @@
       "stars": 474,
       "forks": 132,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T23:19:35Z",
-      "updated_at": "2026-10-10T23:08:13Z"
+      "pushed_at": "2026-10-11T04:50:22Z",
+      "updated_at": "2026-10-11T04:50:24Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 396,
-      "forks": 96,
+      "id": 796089121,
+      "full_name": "SAILResearch/awesome-ai-leaderboard",
+      "html_url": "https://github.com/SAILResearch/awesome-ai-leaderboard",
+      "description": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "stars": 382,
+      "forks": 65,
+      "language": "Unknown",
+      "pushed_at": "2026-10-11T05:00:32Z",
+      "updated_at": "2026-10-11T05:00:37Z"
+    },
+    {
+      "id": 772408997,
+      "full_name": "DemonDamon/AgenticX",
+      "html_url": "https://github.com/DemonDamon/AgenticX",
+      "description": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "stars": 361,
+      "forks": 56,
       "language": "Python",
-      "pushed_at": "2026-10-10T23:16:26Z",
-      "updated_at": "2026-10-10T23:12:47Z"
+      "pushed_at": "2026-10-11T04:53:24Z",
+      "updated_at": "2026-10-11T04:53:28Z"
     },
     {
-      "id": 1168120544,
-      "full_name": "Xquik-dev/x-twitter-scraper",
-      "html_url": "https://github.com/Xquik-dev/x-twitter-scraper",
-      "description": "X (Twitter) scraper API & X API alternative with REST, MCP, SDKs & webhooks. Not affiliated with X Corp.",
-      "stars": 211,
-      "forks": 21,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-10T23:20:28Z",
-      "updated_at": "2026-10-10T23:20:30Z"
-    },
-    {
-      "id": 1271800796,
-      "full_name": "Kentucky-ai/opentakeoff",
-      "html_url": "https://github.com/Kentucky-ai/opentakeoff",
-      "description": "Open-source (Apache-2.0) PDF takeoff for construction & flooring — the first engine an AI agent drives natively over MCP, not bolted on. Rooms measured on the wall faces, symbol sweeps, materials + quantities with full provenance, built for preconstruction. Runs entirely in your browser.",
-      "stars": 195,
-      "forks": 76,
+      "id": 719577983,
+      "full_name": "chmonitor/chmonitor",
+      "html_url": "https://github.com/chmonitor/chmonitor",
+      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations.",
+      "stars": 301,
+      "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-10-10T23:18:36Z",
-      "updated_at": "2026-10-10T23:18:38Z"
-    },
-    {
-      "id": 1191392222,
-      "full_name": "gebruder/wirken",
-      "html_url": "https://github.com/gebruder/wirken",
-      "description": "The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.",
-      "stars": 190,
-      "forks": 9,
-      "language": "Rust",
-      "pushed_at": "2026-10-10T23:15:59Z",
-      "updated_at": "2026-10-10T23:15:14Z"
-    },
-    {
-      "id": 1283015427,
-      "full_name": "israriqbal/agent-ecologies",
-      "html_url": "https://github.com/israriqbal/agent-ecologies",
-      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
-      "stars": 121,
-      "forks": 1,
-      "language": "HTML",
-      "pushed_at": "2026-10-10T23:10:15Z",
-      "updated_at": "2026-10-10T23:10:18Z"
-    },
-    {
-      "id": 1188280950,
-      "full_name": "WingedGuardian/GENesis-AGI",
-      "html_url": "https://github.com/WingedGuardian/GENesis-AGI",
-      "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
-      "stars": 96,
-      "forks": 37,
-      "language": "Python",
-      "pushed_at": "2026-10-10T23:04:33Z",
-      "updated_at": "2026-10-10T23:04:36Z"
-    },
-    {
-      "id": 1307467681,
-      "full_name": "xiaofang142/hivemtk",
-      "html_url": "https://github.com/xiaofang142/hivemtk",
-      "description": "开源私域 AI 营销 SCRM 系统，Martech 获客引流利器！全渠道聚合（抖音/小红书/快手/微信/WhatsApp/TikTok/Telegram）统一收件箱与 CDP 客户管理。🤖核心功能：1. ReAct 自主 AI 智能体（41原子工具/销冠 SOP 自动化编排）；2. 本地知识库 RAG（混合检索/混合粗排）；3. 独家 GEO 模块（生成式大模型引擎优化/AI 搜索占位/内容创作），让 ChatGPT/Perplexity/DeepSeek 优先推荐你的品牌！🔒数据安全：支持 100% 私域自托管部署，数据零出域",
-      "stars": 95,
-      "forks": 32,
-      "language": "Go",
-      "pushed_at": "2026-10-10T23:10:24Z",
-      "updated_at": "2026-10-10T23:10:27Z"
-    },
-    {
-      "id": 1390373702,
-      "full_name": "ufo-ai/ufo-core",
-      "html_url": "https://github.com/ufo-ai/ufo-core",
-      "description": "Agent operating system",
-      "stars": 94,
-      "forks": 12,
-      "language": "Python",
-      "pushed_at": "2026-10-10T23:15:34Z",
-      "updated_at": "2026-10-10T23:15:37Z"
+      "pushed_at": "2026-10-11T04:53:33Z",
+      "updated_at": "2026-10-11T04:53:03Z"
     }
   ]
 }
