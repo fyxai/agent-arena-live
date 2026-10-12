@@ -5,117 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1768,
+  "total_found": 1772,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 52550,
-      "forks": 5066,
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 253052,
+      "forks": 54825,
+      "language": "Python",
+      "pushed_at": "2026-10-12T17:31:46Z",
+      "updated_at": "2026-10-12T17:31:48Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 37964,
+      "forks": 4720,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:12:22Z",
-      "updated_at": "2026-10-12T05:08:15Z"
+      "pushed_at": "2026-10-12T17:28:38Z",
+      "updated_at": "2026-10-12T17:20:59Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "A reliable coding agent for complex software engineering tasks.",
-      "stars": 35766,
-      "forks": 2444,
+      "stars": 35770,
+      "forks": 2445,
       "language": "Go",
-      "pushed_at": "2026-10-12T05:13:13Z",
-      "updated_at": "2026-10-12T05:13:17Z"
+      "pushed_at": "2026-10-12T17:34:41Z",
+      "updated_at": "2026-10-12T17:34:46Z"
     },
     {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28433,
-      "forks": 3192,
+      "id": 573661753,
+      "full_name": "activepieces/activepieces",
+      "html_url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+      "stars": 25022,
+      "forks": 4327,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:05:53Z",
-      "updated_at": "2026-10-12T05:02:39Z"
+      "pushed_at": "2026-10-12T17:22:03Z",
+      "updated_at": "2026-10-12T17:31:33Z"
     },
     {
-      "id": 1199668171,
-      "full_name": "fathah/hermes-desktop",
-      "html_url": "https://github.com/fathah/hermes-desktop",
-      "description": "Desktop Companion for Hermes Agent",
-      "stars": 14393,
-      "forks": 1632,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:05:14Z",
-      "updated_at": "2026-10-12T05:05:18Z"
-    },
-    {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-      "stars": 5517,
-      "forks": 512,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:10:20Z",
-      "updated_at": "2026-10-12T05:05:19Z"
+      "id": 609539715,
+      "full_name": "e2b-dev/E2B",
+      "html_url": "https://github.com/e2b-dev/E2B",
+      "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+      "stars": 14299,
+      "forks": 1103,
+      "language": "Python",
+      "pushed_at": "2026-10-12T17:32:54Z",
+      "updated_at": "2026-10-12T17:33:05Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4370,
-      "forks": 786,
+      "stars": 4380,
+      "forks": 789,
       "language": "Python",
-      "pushed_at": "2026-10-12T05:12:50Z",
-      "updated_at": "2026-10-12T05:05:28Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 2997,
-      "forks": 460,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:13:35Z",
-      "updated_at": "2026-10-12T04:59:02Z"
-    },
-    {
-      "id": 1401476500,
-      "full_name": "QingYunA/answer-me-with-html",
-      "html_url": "https://github.com/QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": 2928,
-      "forks": 197,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-12T05:02:39Z",
-      "updated_at": "2026-10-12T05:05:39Z"
-    },
-    {
-      "id": 1281033762,
-      "full_name": "tianma-if/edgeever",
-      "html_url": "https://github.com/tianma-if/edgeever",
-      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
-      "stars": 2206,
-      "forks": 1159,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:13:31Z",
-      "updated_at": "2026-10-12T05:13:46Z"
-    },
-    {
-      "id": 1310543401,
-      "full_name": "agentconnect-md/agentconnect",
-      "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1461,
-      "forks": 66,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:14:26Z",
-      "updated_at": "2026-10-12T05:12:42Z"
+      "pushed_at": "2026-10-12T17:34:44Z",
+      "updated_at": "2026-10-12T17:30:31Z"
     },
     {
       "id": 1096175506,
@@ -125,41 +81,52 @@
       "stars": 1157,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:14:52Z",
-      "updated_at": "2026-10-12T05:14:12Z"
+      "pushed_at": "2026-10-12T17:35:25Z",
+      "updated_at": "2026-10-12T17:33:19Z"
     },
     {
-      "id": 1174812893,
-      "full_name": "code-yeongyu/senpi",
-      "html_url": "https://github.com/code-yeongyu/senpi",
-      "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
-      "stars": 477,
-      "forks": 134,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-12T05:04:42Z",
-      "updated_at": "2026-10-12T05:06:48Z"
-    },
-    {
-      "id": 1332399543,
-      "full_name": "JiangNanGenius/floe-agent",
-      "html_url": "https://github.com/JiangNanGenius/floe-agent",
-      "description": "Floe — a native iOS/iPadOS AI agent workspace for iPhone and iPad, built for private bring-your-own-key workflows.",
-      "stars": 254,
-      "forks": 33,
+      "id": 1382865521,
+      "full_name": "nano-muse/nanoMuse",
+      "html_url": "https://github.com/nano-muse/nanoMuse",
+      "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
+      "stars": 961,
+      "forks": 102,
       "language": "Swift",
-      "pushed_at": "2026-10-12T05:05:15Z",
-      "updated_at": "2026-10-12T05:05:20Z"
+      "pushed_at": "2026-10-12T17:29:52Z",
+      "updated_at": "2026-10-12T17:21:57Z"
     },
     {
-      "id": 1401123204,
-      "full_name": "Harvil1/codeAgent",
-      "html_url": "https://github.com/Harvil1/codeAgent",
-      "description": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the task is done — all with a transparent, extensible tool loop.",
-      "stars": 226,
-      "forks": 19,
+      "id": 1194576770,
+      "full_name": "sonichi/sutando",
+      "html_url": "https://github.com/sonichi/sutando",
+      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
+      "stars": 396,
+      "forks": 95,
       "language": "Python",
-      "pushed_at": "2026-10-12T04:55:12Z",
-      "updated_at": "2026-10-12T05:06:15Z"
+      "pushed_at": "2026-10-12T17:34:41Z",
+      "updated_at": "2026-10-12T17:34:43Z"
+    },
+    {
+      "id": 1374412145,
+      "full_name": "z91772524-ai/pojia-next",
+      "html_url": "https://github.com/z91772524-ai/pojia-next",
+      "description": "一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、可自证、改前备份、一键还原。另附【免装 Python 的单文件 exe】；DSH 自动区分官方桌面版 / 社区桌面版。附 bandit/semgrep 扫描与 SHA256 校验。",
+      "stars": 316,
+      "forks": 45,
+      "language": "Python",
+      "pushed_at": "2026-10-12T17:32:25Z",
+      "updated_at": "2026-10-12T17:32:29Z"
+    },
+    {
+      "id": 1346337331,
+      "full_name": "acryldev/acryl",
+      "html_url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stars": 255,
+      "forks": 35,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-12T17:30:54Z",
+      "updated_at": "2026-10-12T17:30:59Z"
     },
     {
       "id": 1154198694,
@@ -169,8 +136,41 @@
       "stars": 171,
       "forks": 15,
       "language": "Go",
-      "pushed_at": "2026-10-12T05:14:22Z",
-      "updated_at": "2026-10-12T05:02:56Z"
+      "pushed_at": "2026-10-12T17:32:38Z",
+      "updated_at": "2026-10-12T17:32:43Z"
+    },
+    {
+      "id": 1189273325,
+      "full_name": "coddy-project/coddy-agent",
+      "html_url": "https://github.com/coddy-project/coddy-agent",
+      "description": "General-purpose agent in one static Go binary: console TUI, ACP server for editors, OpenAI-compatible API with embedded web UI, Telegram gateway, cron scheduler, swarm relay, remote mode. Rules, skills, subagents, hooks, MCP, background tasks, long-term memory, context compaction. Any OpenAI-compatible provider, distroless-ready.",
+      "stars": 170,
+      "forks": 23,
+      "language": "Go",
+      "pushed_at": "2026-10-12T17:25:09Z",
+      "updated_at": "2026-10-12T17:25:05Z"
+    },
+    {
+      "id": 1408587744,
+      "full_name": "xcisxc29/dsh-wechat",
+      "html_url": "https://github.com/xcisxc29/dsh-wechat",
+      "description": "WeChat channel for DeepSeek Harness",
+      "stars": 136,
+      "forks": 8,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-12T17:23:47Z",
+      "updated_at": "2026-10-12T17:23:46Z"
+    },
+    {
+      "id": 1235464336,
+      "full_name": "jianshuo/claude-skills",
+      "html_url": "https://github.com/jianshuo/claude-skills",
+      "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publishing. Compatible with Claude Code, OpenAI Codex CLI, Cursor, Gemini.",
+      "stars": 131,
+      "forks": 23,
+      "language": "Python",
+      "pushed_at": "2026-10-12T17:21:34Z",
+      "updated_at": "2026-10-12T17:21:37Z"
     }
   ]
 }
