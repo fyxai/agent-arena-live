@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1780,
+  "total_found": 1772,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 253309,
-      "forks": 54916,
+      "stars": 253425,
+      "forks": 54952,
       "language": "Python",
-      "pushed_at": "2026-10-13T11:29:21Z",
-      "updated_at": "2026-10-13T11:29:15Z"
+      "pushed_at": "2026-10-13T19:04:37Z",
+      "updated_at": "2026-10-13T19:04:50Z"
+    },
+    {
+      "id": 655515393,
+      "full_name": "CopilotKit/CopilotKit",
+      "html_url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+      "stars": 37997,
+      "forks": 4728,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-13T19:00:15Z",
+      "updated_at": "2026-10-13T18:52:50Z"
     },
     {
       "id": 1216785679,
       "full_name": "esengine/DeepSeek-Reasonix",
       "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
       "description": "A reliable coding agent for complex software engineering tasks.",
-      "stars": 35774,
+      "stars": 35777,
       "forks": 2449,
       "language": "Go",
-      "pushed_at": "2026-10-13T11:33:18Z",
-      "updated_at": "2026-10-13T11:33:25Z"
-    },
-    {
-      "id": 1198306812,
-      "full_name": "HKUDS/Vibe-Trading",
-      "html_url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "stars": 35376,
-      "forks": 5742,
-      "language": "Python",
-      "pushed_at": "2026-10-13T11:29:50Z",
-      "updated_at": "2026-10-13T11:30:19Z"
+      "pushed_at": "2026-10-13T19:01:05Z",
+      "updated_at": "2026-10-13T19:02:13Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 35270,
-      "forks": 3844,
+      "stars": 35311,
+      "forks": 3849,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:17:11Z",
-      "updated_at": "2026-10-13T11:26:49Z"
-    },
-    {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28461,
-      "forks": 3197,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:32:17Z",
-      "updated_at": "2026-10-13T11:28:53Z"
+      "pushed_at": "2026-10-13T19:01:24Z",
+      "updated_at": "2026-10-13T19:01:30Z"
     },
     {
       "id": 306829688,
       "full_name": "nocobase/nocobase",
       "html_url": "https://github.com/nocobase/nocobase",
       "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-      "stars": 24567,
-      "forks": 2909,
+      "stars": 24570,
+      "forks": 2910,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:17:06Z",
-      "updated_at": "2026-10-13T11:27:04Z"
+      "pushed_at": "2026-10-13T18:53:13Z",
+      "updated_at": "2026-10-13T19:00:36Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 10778,
-      "forks": 1736,
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+      "stars": 6213,
+      "forks": 627,
       "language": "Python",
-      "pushed_at": "2026-10-13T11:30:45Z",
-      "updated_at": "2026-10-13T11:30:48Z"
+      "pushed_at": "2026-10-13T18:54:59Z",
+      "updated_at": "2026-10-13T18:55:05Z"
     },
     {
-      "id": 1015815983,
-      "full_name": "zhouxiaoka/autoclip",
-      "html_url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "stars": 9379,
-      "forks": 1695,
+      "id": 1152014383,
+      "full_name": "ArcReel/ArcReel",
+      "html_url": "https://github.com/ArcReel/ArcReel",
+      "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+      "stars": 5477,
+      "forks": 1072,
       "language": "Python",
-      "pushed_at": "2026-10-13T11:28:42Z",
-      "updated_at": "2026-10-13T11:28:50Z"
+      "pushed_at": "2026-10-13T19:01:47Z",
+      "updated_at": "2026-10-13T18:56:34Z"
     },
     {
-      "id": 645381450,
-      "full_name": "Anil-matcha/open-dots",
-      "html_url": "https://github.com/Anil-matcha/open-dots",
-      "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.",
-      "stars": 5743,
-      "forks": 691,
+      "id": 1175278883,
+      "full_name": "whiteguo233/OpenBiliClaw",
+      "html_url": "https://github.com/whiteguo233/OpenBiliClaw",
+      "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
+      "stars": 3426,
+      "forks": 184,
       "language": "Python",
-      "pushed_at": "2026-10-13T11:30:54Z",
-      "updated_at": "2026-10-13T11:31:02Z"
+      "pushed_at": "2026-10-13T18:47:28Z",
+      "updated_at": "2026-10-13T18:47:34Z"
     },
     {
       "id": 1258301311,
       "full_name": "rlaope/oh-my-hermes",
       "html_url": "https://github.com/rlaope/oh-my-hermes",
       "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "stars": 3355,
-      "forks": 249,
+      "stars": 3361,
+      "forks": 250,
       "language": "Python",
-      "pushed_at": "2026-10-13T11:31:02Z",
-      "updated_at": "2026-10-13T11:29:20Z"
-    },
-    {
-      "id": 1281033762,
-      "full_name": "tianma-if/edgeever",
-      "html_url": "https://github.com/tianma-if/edgeever",
-      "description": "Open-source, AI-native knowledge base & Evernote alternative with native MCP. Zero-cost on Cloudflare or Docker.",
-      "stars": 2231,
-      "forks": 1170,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:27:26Z",
-      "updated_at": "2026-10-13T11:27:31Z"
-    },
-    {
-      "id": 1122859216,
-      "full_name": "the-open-engine/zeroshot",
-      "html_url": "https://github.com/the-open-engine/zeroshot",
-      "description": "Enforced QA for Claude Code, Codex and Copilot. Draw the graph: code review, your own reviewers and test agents, any model per node. Slop goes back to repair, and the agent that wrote the code can't skip it.",
-      "stars": 1960,
-      "forks": 184,
-      "language": "Rust",
-      "pushed_at": "2026-10-13T11:31:57Z",
-      "updated_at": "2026-10-13T11:26:11Z"
+      "pushed_at": "2026-10-13T19:04:32Z",
+      "updated_at": "2026-10-13T18:47:21Z"
     },
     {
       "id": 1096175506,
       "full_name": "okou-ai/okou",
       "html_url": "https://github.com/okou-ai/okou",
       "description": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
-      "stars": 1157,
+      "stars": 1156,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:32:47Z",
-      "updated_at": "2026-10-13T11:25:10Z"
+      "pushed_at": "2026-10-13T19:03:59Z",
+      "updated_at": "2026-10-13T19:04:01Z"
     },
     {
       "id": 1142397834,
       "full_name": "qf-studio/pilot",
       "html_url": "https://github.com/qf-studio/pilot",
       "description": "AI that ships your tickets.",
-      "stars": 722,
+      "stars": 723,
       "forks": 60,
       "language": "Go",
-      "pushed_at": "2026-10-13T11:32:15Z",
-      "updated_at": "2026-10-13T11:32:18Z"
+      "pushed_at": "2026-10-13T18:58:33Z",
+      "updated_at": "2026-10-13T18:53:57Z"
     },
     {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 474,
-      "forks": 37,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-13T11:28:21Z",
-      "updated_at": "2026-10-13T11:28:28Z"
+      "id": 1182162835,
+      "full_name": "physiclaw/PhysiClaw",
+      "html_url": "https://github.com/physiclaw/PhysiClaw",
+      "description": "The AI agent that physically operates a phone — the way you do.",
+      "stars": 389,
+      "forks": 42,
+      "language": "Python",
+      "pushed_at": "2026-10-13T19:03:33Z",
+      "updated_at": "2026-10-13T19:03:39Z"
+    },
+    {
+      "id": 1179388779,
+      "full_name": "ethanplusai/harvey",
+      "html_url": "https://github.com/ethanplusai/harvey",
+      "description": "Autonomous AI sales agent powered by Claude Code. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude Max subscription.",
+      "stars": 318,
+      "forks": 55,
+      "language": "Python",
+      "pushed_at": "2026-10-13T18:54:33Z",
+      "updated_at": "2026-10-13T19:02:43Z"
+    },
+    {
+      "id": 1308268969,
+      "full_name": "kaishi00/hermes-conduit",
+      "html_url": "https://github.com/kaishi00/hermes-conduit",
+      "description": "Conduit — native SwiftUI iOS client for Hermes Agent",
+      "stars": 286,
+      "forks": 41,
+      "language": "Swift",
+      "pushed_at": "2026-10-13T18:58:17Z",
+      "updated_at": "2026-10-13T18:58:23Z"
+    },
+    {
+      "id": 1255092568,
+      "full_name": "Dodaios/Dodaios",
+      "html_url": "https://github.com/Dodaios/Dodaios",
+      "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and your apps. Windows, macOS, Linux.",
+      "stars": 199,
+      "forks": 73,
+      "language": "Python",
+      "pushed_at": "2026-10-13T18:53:58Z",
+      "updated_at": "2026-10-13T18:54:03Z"
     }
   ]
 }
