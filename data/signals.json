@@ -5,161 +5,128 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1779,
+  "total_found": 1778,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 52647,
-      "forks": 5074,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:51:40Z",
-      "updated_at": "2026-10-15T03:51:14Z"
+      "id": 1201476594,
+      "full_name": "career-ops-hq/career-ops",
+      "html_url": "https://github.com/career-ops-hq/career-ops",
+      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
+      "stars": 74752,
+      "forks": 13991,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-15T09:03:04Z",
+      "updated_at": "2026-10-15T09:02:48Z"
     },
     {
       "id": 1147094660,
       "full_name": "HKUDS/nanobot",
       "html_url": "https://github.com/HKUDS/nanobot",
       "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-      "stars": 49041,
-      "forks": 8630,
+      "stars": 49045,
+      "forks": 8631,
       "language": "Python",
-      "pushed_at": "2026-10-15T03:50:23Z",
-      "updated_at": "2026-10-15T03:57:15Z"
+      "pushed_at": "2026-10-15T08:58:39Z",
+      "updated_at": "2026-10-15T08:58:46Z"
     },
     {
-      "id": 1137711311,
-      "full_name": "codewhale-hq/Codewhale",
-      "html_url": "https://github.com/codewhale-hq/Codewhale",
-      "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
-      "stars": 41090,
-      "forks": 3569,
-      "language": "Rust",
-      "pushed_at": "2026-10-15T03:49:36Z",
-      "updated_at": "2026-10-15T03:49:48Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "A reliable coding agent for complex software engineering tasks.",
-      "stars": 35802,
-      "forks": 2454,
-      "language": "Go",
-      "pushed_at": "2026-10-15T03:50:19Z",
-      "updated_at": "2026-10-15T03:49:07Z"
-    },
-    {
-      "id": 925270205,
-      "full_name": "trycua/cua",
-      "html_url": "https://github.com/trycua/cua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "stars": 29770,
-      "forks": 2132,
-      "language": "Rust",
-      "pushed_at": "2026-10-15T03:58:25Z",
-      "updated_at": "2026-10-15T03:58:25Z"
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "stars": 35489,
+      "forks": 3878,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T08:59:27Z",
+      "updated_at": "2026-10-15T09:04:11Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28486,
-      "forks": 3208,
+      "stars": 28492,
+      "forks": 3209,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:56:29Z",
-      "updated_at": "2026-10-15T03:56:35Z"
+      "pushed_at": "2026-10-15T09:03:53Z",
+      "updated_at": "2026-10-15T09:00:58Z"
+    },
+    {
+      "id": 1212503250,
+      "full_name": "citrolabs/ego-lite",
+      "html_url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 17419,
+      "forks": 942,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-15T09:00:35Z",
+      "updated_at": "2026-10-15T09:00:56Z"
+    },
+    {
+      "id": 1197569406,
+      "full_name": "NanmiCoder/cc-haha",
+      "html_url": "https://github.com/NanmiCoder/cc-haha",
+      "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
+      "stars": 15020,
+      "forks": 8608,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T09:02:12Z",
+      "updated_at": "2026-10-15T09:03:07Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 10816,
-      "forks": 1752,
+      "stars": 10820,
+      "forks": 1753,
       "language": "Python",
-      "pushed_at": "2026-10-15T03:58:23Z",
-      "updated_at": "2026-10-15T03:57:48Z"
+      "pushed_at": "2026-10-15T09:03:44Z",
+      "updated_at": "2026-10-15T09:01:09Z"
     },
     {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-      "stars": 4870,
-      "forks": 480,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:51:41Z",
-      "updated_at": "2026-10-15T03:50:52Z"
+      "id": 1293600453,
+      "full_name": "TencentCloud/Octop",
+      "html_url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 9440,
+      "forks": 1175,
+      "language": "Python",
+      "pushed_at": "2026-10-15T08:57:54Z",
+      "updated_at": "2026-10-15T08:59:10Z"
     },
     {
-      "id": 1008177062,
-      "full_name": "chaitin/MonkeyCode",
-      "html_url": "https://github.com/chaitin/MonkeyCode",
-      "description": "AI coding platform for teams",
-      "stars": 4830,
-      "forks": 740,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:56:18Z",
-      "updated_at": "2026-10-15T03:56:22Z"
+      "id": 645381450,
+      "full_name": "Anil-matcha/open-dots",
+      "html_url": "https://github.com/Anil-matcha/open-dots",
+      "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.",
+      "stars": 5802,
+      "forks": 700,
+      "language": "Python",
+      "pushed_at": "2026-10-15T09:01:18Z",
+      "updated_at": "2026-10-15T09:01:26Z"
+    },
+    {
+      "id": 1200204014,
+      "full_name": "brycewang-stanford/Auto-Empirical-Research-Skills",
+      "html_url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
+      "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+      "stars": 4634,
+      "forks": 550,
+      "language": "Stata",
+      "pushed_at": "2026-10-15T09:02:35Z",
+      "updated_at": "2026-10-15T09:02:41Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4425,
-      "forks": 809,
+      "stars": 4428,
+      "forks": 810,
       "language": "Python",
-      "pushed_at": "2026-10-15T03:58:12Z",
-      "updated_at": "2026-10-15T03:51:55Z"
-    },
-    {
-      "id": 1401476500,
-      "full_name": "QingYunA/answer-me-with-html",
-      "html_url": "https://github.com/QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stars": 3387,
-      "forks": 235,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-15T03:48:07Z",
-      "updated_at": "2026-10-15T03:48:37Z"
-    },
-    {
-      "id": 1309102418,
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 3078,
-      "forks": 467,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:53:38Z",
-      "updated_at": "2026-10-15T03:55:32Z"
-    },
-    {
-      "id": 1310543401,
-      "full_name": "agentconnect-md/agentconnect",
-      "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1465,
-      "forks": 67,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:57:35Z",
-      "updated_at": "2026-10-15T03:57:37Z"
-    },
-    {
-      "id": 1382865521,
-      "full_name": "nano-muse/nanoMuse",
-      "html_url": "https://github.com/nano-muse/nanoMuse",
-      "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
-      "stars": 1215,
-      "forks": 135,
-      "language": "Swift",
-      "pushed_at": "2026-10-15T03:55:54Z",
-      "updated_at": "2026-10-15T03:56:25Z"
+      "pushed_at": "2026-10-15T09:03:42Z",
+      "updated_at": "2026-10-15T09:03:45Z"
     },
     {
       "id": 1096175506,
@@ -169,8 +136,41 @@
       "stars": 1157,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T03:58:24Z",
-      "updated_at": "2026-10-15T03:58:27Z"
+      "pushed_at": "2026-10-15T09:03:40Z",
+      "updated_at": "2026-10-15T09:03:42Z"
+    },
+    {
+      "id": 945671748,
+      "full_name": "openops-cloud/openops",
+      "html_url": "https://github.com/openops-cloud/openops",
+      "description": "The batteries-included, No-Code FinOps automation platform, with the AI you trust.",
+      "stars": 1077,
+      "forks": 183,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T09:03:58Z",
+      "updated_at": "2026-10-15T09:03:01Z"
+    },
+    {
+      "id": 1203556545,
+      "full_name": "velobase/velobase-harness",
+      "html_url": "https://github.com/velobase/velobase-harness",
+      "description": "All AI developers deserve to get paid.  Turn your AI prototype into a paid SaaS with open-source infrastructure for usage billing, payments, attribution, affiliates, anti-abuse, and deployment.",
+      "stars": 613,
+      "forks": 81,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-15T09:00:59Z",
+      "updated_at": "2026-10-15T09:01:05Z"
+    },
+    {
+      "id": 1313497021,
+      "full_name": "fy-agent/fyagent",
+      "html_url": "https://github.com/fy-agent/fyagent",
+      "description": "For You Agent——AI 时代的个人随身数字人格。把你的模型、AI 账号、技能、提示词和工作方式，带到每一个 AI 工具里。",
+      "stars": 594,
+      "forks": 24,
+      "language": "Rust",
+      "pushed_at": "2026-10-15T08:59:27Z",
+      "updated_at": "2026-10-15T09:02:34Z"
     }
   ]
 }
