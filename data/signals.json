@@ -5,128 +5,62 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1797,
+  "total_found": 1799,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 254515,
-      "forks": 55302,
+      "stars": 254591,
+      "forks": 55343,
       "language": "Python",
-      "pushed_at": "2026-10-17T08:10:54Z",
-      "updated_at": "2026-10-17T08:23:40Z"
+      "pushed_at": "2026-10-17T15:16:16Z",
+      "updated_at": "2026-10-17T15:12:37Z"
     },
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 52701,
-      "forks": 5076,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:23:11Z",
-      "updated_at": "2026-10-17T08:10:28Z"
-    },
-    {
-      "id": 1216785679,
-      "full_name": "esengine/DeepSeek-Reasonix",
-      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "A reliable coding agent for complex software engineering tasks.",
-      "stars": 35823,
-      "forks": 2456,
-      "language": "Go",
-      "pushed_at": "2026-10-17T08:23:03Z",
-      "updated_at": "2026-10-17T08:23:01Z"
-    },
-    {
-      "id": 1008713177,
-      "full_name": "QwenLM/qwen-code",
-      "html_url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28533,
-      "forks": 3216,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:20:17Z",
-      "updated_at": "2026-10-17T08:07:01Z"
-    },
-    {
-      "id": 1015815983,
-      "full_name": "zhouxiaoka/autoclip",
-      "html_url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "stars": 9472,
-      "forks": 1705,
+      "id": 1133901637,
+      "full_name": "Q00/ouroboros",
+      "html_url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+      "stars": 6236,
+      "forks": 628,
       "language": "Python",
-      "pushed_at": "2026-10-17T08:22:37Z",
-      "updated_at": "2026-10-17T08:19:18Z"
-    },
-    {
-      "id": 617502359,
-      "full_name": "vastsa/PI-Desktop",
-      "html_url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "stars": 6943,
-      "forks": 665,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:18:11Z",
-      "updated_at": "2026-10-17T08:17:15Z"
+      "pushed_at": "2026-10-17T15:12:54Z",
+      "updated_at": "2026-10-17T15:10:39Z"
     },
     {
       "id": 645381450,
       "full_name": "Anil-matcha/open-dots",
       "html_url": "https://github.com/Anil-matcha/open-dots",
       "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.",
-      "stars": 5842,
-      "forks": 709,
+      "stars": 5848,
+      "forks": 710,
       "language": "Python",
-      "pushed_at": "2026-10-17T08:22:53Z",
-      "updated_at": "2026-10-17T08:22:59Z"
-    },
-    {
-      "id": 1142800652,
-      "full_name": "TabularisDB/tabularis",
-      "html_url": "https://github.com/TabularisDB/tabularis",
-      "description": "Open-source desktop SQL workspace with 3 built-in database drivers and 16 shipped plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
-      "stars": 5224,
-      "forks": 380,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:08:29Z",
-      "updated_at": "2026-10-17T08:08:33Z"
-    },
-    {
-      "id": 1287804060,
-      "full_name": "aipoch/open-science",
-      "html_url": "https://github.com/aipoch/open-science",
-      "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and traceable artifacts for reproducible research on macOS, Windows and Linux.",
-      "stars": 5110,
-      "forks": 508,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:08:58Z",
-      "updated_at": "2026-10-17T08:20:13Z"
+      "pushed_at": "2026-10-17T15:06:01Z",
+      "updated_at": "2026-10-17T15:06:05Z"
     },
     {
       "id": 1281033762,
       "full_name": "tianma-if/edgeever",
       "html_url": "https://github.com/tianma-if/edgeever",
       "description": "AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.",
-      "stars": 2312,
-      "forks": 1206,
+      "stars": 2317,
+      "forks": 1208,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:11:31Z",
-      "updated_at": "2026-10-17T08:11:45Z"
+      "pushed_at": "2026-10-17T15:05:12Z",
+      "updated_at": "2026-10-17T15:05:27Z"
     },
     {
       "id": 1310543401,
       "full_name": "agentconnect-md/agentconnect",
       "html_url": "https://github.com/agentconnect-md/agentconnect",
       "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1468,
-      "forks": 67,
+      "stars": 1471,
+      "forks": 68,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:21:38Z",
-      "updated_at": "2026-10-17T08:12:53Z"
+      "pushed_at": "2026-10-17T15:12:12Z",
+      "updated_at": "2026-10-17T15:12:14Z"
     },
     {
       "id": 1096175506,
@@ -136,41 +70,107 @@
       "stars": 1158,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:16:03Z",
-      "updated_at": "2026-10-17T08:13:50Z"
+      "pushed_at": "2026-10-17T15:13:15Z",
+      "updated_at": "2026-10-17T15:11:58Z"
     },
     {
-      "id": 1345838715,
-      "full_name": "Derpyu520/qq-bridge",
-      "html_url": "https://github.com/Derpyu520/qq-bridge",
-      "description": "Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.",
-      "stars": 1115,
-      "forks": 36,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-17T08:11:29Z",
-      "updated_at": "2026-10-17T08:16:08Z"
+      "id": 1109341946,
+      "full_name": "asheshgoplani/agent-deck",
+      "html_url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1102,
+      "forks": 199,
+      "language": "Go",
+      "pushed_at": "2026-10-17T15:15:05Z",
+      "updated_at": "2026-10-17T15:11:17Z"
     },
     {
       "id": 1340676550,
       "full_name": "wangmiaozero/pi-harness",
       "html_url": "https://github.com/wangmiaozero/pi-harness",
       "description": "The operational superset of Pi Coding Agent — everything Pi, plus observability, governance, recovery, evaluation and multi-agent orchestration. Pi Coding Agent 的运维超集——完整继承 Pi 的核心能力，并进一步扩展可观测性、治理、故障恢复、评估和多 Agent 编排。",
-      "stars": 1036,
+      "stars": 1037,
       "forks": 24,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:08:35Z",
-      "updated_at": "2026-10-17T08:14:08Z"
+      "pushed_at": "2026-10-17T15:06:34Z",
+      "updated_at": "2026-10-17T15:06:38Z"
     },
     {
-      "id": 1374682325,
-      "full_name": "MichaelKinsy/PiG",
-      "html_url": "https://github.com/MichaelKinsy/PiG",
-      "description": "PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding agent. It is a parity-bound translation, not a rewrite: upstream behavior is the contract, and Go is the implementation language.",
-      "stars": 619,
-      "forks": 48,
-      "language": "Go",
-      "pushed_at": "2026-10-17T08:16:39Z",
-      "updated_at": "2026-10-17T08:20:29Z"
+      "id": 1207055628,
+      "full_name": "ConardLi/easy-agent",
+      "html_url": "https://github.com/ConardLi/easy-agent",
+      "description": "Production-ready open source terminal coding agent with readable, layered code: permission rules, OS sandboxing, MCP, skills, sub-agents, and Anthropic, OpenAI-compatible, Gemini, or local models.",
+      "stars": 1015,
+      "forks": 140,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-17T15:13:25Z",
+      "updated_at": "2026-10-17T15:13:30Z"
+    },
+    {
+      "id": 1207844328,
+      "full_name": "Lifecycle-Innovations-Limited/claude-ops",
+      "html_url": "https://github.com/Lifecycle-Innovations-Limited/claude-ops",
+      "description": "Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode.",
+      "stars": 546,
+      "forks": 64,
+      "language": "Shell",
+      "pushed_at": "2026-10-17T15:06:40Z",
+      "updated_at": "2026-10-17T15:05:53Z"
+    },
+    {
+      "id": 1311664525,
+      "full_name": "KitionAI/kition",
+      "html_url": "https://github.com/KitionAI/kition",
+      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
+      "stars": 506,
+      "forks": 40,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-17T15:12:47Z",
+      "updated_at": "2026-10-17T15:12:51Z"
+    },
+    {
+      "id": 1347366175,
+      "full_name": "Soodok/Deepseek-Harness-Local-Android",
+      "html_url": "https://github.com/Soodok/Deepseek-Harness-Local-Android",
+      "description": "Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termux",
+      "stars": 272,
+      "forks": 19,
+      "language": "Kotlin",
+      "pushed_at": "2026-10-17T15:09:34Z",
+      "updated_at": "2026-10-17T15:09:38Z"
+    },
+    {
+      "id": 1346337331,
+      "full_name": "acryldev/acryl",
+      "html_url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stars": 257,
+      "forks": 36,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-17T15:07:52Z",
+      "updated_at": "2026-10-17T15:07:54Z"
+    },
+    {
+      "id": 1333528857,
+      "full_name": "WSL043/dsh-codex-subscription",
+      "html_url": "https://github.com/WSL043/dsh-codex-subscription",
+      "description": "Use your ChatGPT Plus / Pro (Codex) subscription in DeepSeek Harness (DSH): GPT-6 & Codex models, images, web search and quota via ChatGPT sign-in — no OpenAI API key. Beta: control DSH from the ChatGPT mobile app. 在 DSH 中使用 ChatGPT 订阅，并可用 ChatGPT 手机 App 远程控制。",
+      "stars": 190,
+      "forks": 22,
+      "language": "JavaScript",
+      "pushed_at": "2026-10-17T15:08:00Z",
+      "updated_at": "2026-10-17T15:08:04Z"
+    },
+    {
+      "id": 1229754331,
+      "full_name": "ansvisor/ansvisor",
+      "html_url": "https://github.com/ansvisor/ansvisor",
+      "description": "Open-source AI Search Intelligence Platform — track, analyze, and improve AI visibility, citations, prompts, competitors, and content opportunities across ChatGPT, Claude, Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, and Microsoft Copilot.",
+      "stars": 146,
+      "forks": 90,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-17T15:07:03Z",
+      "updated_at": "2026-10-17T15:07:08Z"
     }
   ]
 }
