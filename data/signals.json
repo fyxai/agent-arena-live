@@ -8,70 +8,59 @@
   "total_found": 1809,
   "items": [
     {
-      "id": 1201476594,
-      "full_name": "career-ops-hq/career-ops",
-      "html_url": "https://github.com/career-ops-hq/career-ops",
-      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
-      "stars": 75439,
-      "forks": 14056,
-      "language": "JavaScript",
-      "pushed_at": "2026-10-18T15:29:00Z",
-      "updated_at": "2026-10-18T15:34:03Z"
+      "id": 1024554267,
+      "full_name": "NousResearch/hermes-agent",
+      "html_url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 254898,
+      "forks": 55436,
+      "language": "Python",
+      "pushed_at": "2026-10-18T18:27:25Z",
+      "updated_at": "2026-10-18T18:28:24Z"
+    },
+    {
+      "id": 1137711311,
+      "full_name": "codewhale-hq/Codewhale",
+      "html_url": "https://github.com/codewhale-hq/Codewhale",
+      "description": "Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.",
+      "stars": 41102,
+      "forks": 3567,
+      "language": "Rust",
+      "pushed_at": "2026-10-18T18:22:14Z",
+      "updated_at": "2026-10-18T18:22:18Z"
     },
     {
       "id": 1125856365,
       "full_name": "can1357/oh-my-pi",
       "html_url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-      "stars": 35831,
+      "stars": 35839,
       "forks": 3936,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T15:27:16Z",
-      "updated_at": "2026-10-18T15:31:15Z"
+      "pushed_at": "2026-10-18T18:21:49Z",
+      "updated_at": "2026-10-18T18:19:29Z"
     },
     {
-      "id": 1203777920,
-      "full_name": "xbtlin/ai-berkshire",
-      "html_url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "stars": 16779,
-      "forks": 2590,
-      "language": "HTML",
-      "pushed_at": "2026-10-18T15:31:28Z",
-      "updated_at": "2026-10-18T15:31:43Z"
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 28563,
+      "forks": 3220,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-18T18:28:11Z",
+      "updated_at": "2026-10-18T18:25:39Z"
     },
     {
-      "id": 1266212515,
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 10871,
-      "forks": 1760,
-      "language": "Python",
-      "pushed_at": "2026-10-18T15:37:14Z",
-      "updated_at": "2026-10-18T15:33:05Z"
-    },
-    {
-      "id": 116590428,
-      "full_name": "spider-rs/spider",
-      "html_url": "https://github.com/spider-rs/spider",
-      "description": "Foundational low latency web data collecting in Rust",
-      "stars": 2786,
-      "forks": 317,
-      "language": "Rust",
-      "pushed_at": "2026-10-18T15:34:08Z",
-      "updated_at": "2026-10-18T15:34:12Z"
-    },
-    {
-      "id": 1214333415,
-      "full_name": "Core-Mate/OpenGUI",
-      "html_url": "https://github.com/Core-Mate/OpenGUI",
-      "description": "OpenGUI is an Android GUI agent framework for phone-use AI that can see, plan, and operate real mobile apps through the GUI.",
-      "stars": 1819,
-      "forks": 114,
-      "language": "HTML",
-      "pushed_at": "2026-10-18T15:30:14Z",
-      "updated_at": "2026-10-18T15:30:19Z"
+      "id": 1102195393,
+      "full_name": "tradecatlabs/vibe-coding-cn",
+      "html_url": "https://github.com/tradecatlabs/vibe-coding-cn",
+      "description": "Vibe Coding 非严肃开发的从入门到精通的工具箱",
+      "stars": 17673,
+      "forks": 1842,
+      "language": "Makefile",
+      "pushed_at": "2026-10-18T18:21:09Z",
+      "updated_at": "2026-10-18T18:21:18Z"
     },
     {
       "id": 1096175506,
@@ -81,19 +70,8 @@
       "stars": 1160,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T15:37:06Z",
-      "updated_at": "2026-10-18T15:37:09Z"
-    },
-    {
-      "id": 1175442678,
-      "full_name": "zqiren/Orbital",
-      "html_url": "https://github.com/zqiren/Orbital",
-      "description": "Context is yours. Agents are replaceable.",
-      "stars": 927,
-      "forks": 61,
-      "language": "Python",
-      "pushed_at": "2026-10-18T15:28:26Z",
-      "updated_at": "2026-10-18T15:37:26Z"
+      "pushed_at": "2026-10-18T18:25:11Z",
+      "updated_at": "2026-10-18T18:24:00Z"
     },
     {
       "id": 1291242597,
@@ -103,19 +81,8 @@
       "stars": 734,
       "forks": 82,
       "language": "JavaScript",
-      "pushed_at": "2026-10-18T15:33:54Z",
-      "updated_at": "2026-10-18T15:33:03Z"
-    },
-    {
-      "id": 1086124473,
-      "full_name": "TeleAI-UAGI/Awesome-Agent-Memory",
-      "html_url": "https://github.com/TeleAI-UAGI/Awesome-Agent-Memory",
-      "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-      "stars": 682,
-      "forks": 134,
-      "language": "Python",
-      "pushed_at": "2026-10-18T15:27:17Z",
-      "updated_at": "2026-10-18T15:27:22Z"
+      "pushed_at": "2026-10-18T18:10:43Z",
+      "updated_at": "2026-10-18T18:10:48Z"
     },
     {
       "id": 1174812893,
@@ -125,41 +92,19 @@
       "stars": 484,
       "forks": 144,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T15:37:11Z",
-      "updated_at": "2026-10-18T15:37:15Z"
+      "pushed_at": "2026-10-18T18:25:14Z",
+      "updated_at": "2026-10-18T18:19:21Z"
     },
     {
-      "id": 1213667879,
-      "full_name": "patriceckhart/zot",
-      "html_url": "https://github.com/patriceckhart/zot",
-      "description": "Yet another coding agent harness, lightweight and written in go.",
-      "stars": 350,
-      "forks": 43,
-      "language": "Go",
-      "pushed_at": "2026-10-18T15:36:37Z",
-      "updated_at": "2026-10-18T15:29:01Z"
-    },
-    {
-      "id": 1308268969,
-      "full_name": "kaishi00/hermes-conduit",
-      "html_url": "https://github.com/kaishi00/hermes-conduit",
-      "description": "Conduit — native SwiftUI iOS client for Hermes Agent",
-      "stars": 316,
-      "forks": 45,
-      "language": "Swift",
-      "pushed_at": "2026-10-18T15:35:53Z",
-      "updated_at": "2026-10-18T15:27:47Z"
-    },
-    {
-      "id": 1154071796,
-      "full_name": "jin-bo/agentao",
-      "html_url": "https://github.com/jin-bo/agentao",
-      "description": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and audit replay built in.",
-      "stars": 309,
-      "forks": 13,
+      "id": 1239699520,
+      "full_name": "410979729/scope-recall-hermes",
+      "html_url": "https://github.com/410979729/scope-recall-hermes",
+      "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, and tools to inspect, correct or delete what is remembered.",
+      "stars": 404,
+      "forks": 40,
       "language": "Python",
-      "pushed_at": "2026-10-18T15:36:00Z",
-      "updated_at": "2026-10-18T15:27:02Z"
+      "pushed_at": "2026-10-18T18:27:54Z",
+      "updated_at": "2026-10-18T18:19:00Z"
     },
     {
       "id": 719577983,
@@ -169,8 +114,63 @@
       "stars": 303,
       "forks": 48,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T15:35:12Z",
-      "updated_at": "2026-10-18T15:35:16Z"
+      "pushed_at": "2026-10-18T18:26:41Z",
+      "updated_at": "2026-10-18T18:25:45Z"
+    },
+    {
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "Floe — a native iOS/iPadOS AI agent workspace for iPhone and iPad, built for private bring-your-own-key workflows.",
+      "stars": 278,
+      "forks": 37,
+      "language": "Swift",
+      "pushed_at": "2026-10-18T18:14:57Z",
+      "updated_at": "2026-10-18T18:15:01Z"
+    },
+    {
+      "id": 1333482618,
+      "full_name": "PerryLink/dsh-auto-review",
+      "html_url": "https://github.com/PerryLink/dsh-auto-review",
+      "description": "Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the session log (approval/asked -> autoReview/verdict -> approval/decided).",
+      "stars": 234,
+      "forks": 3,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-18T18:10:24Z",
+      "updated_at": "2026-10-18T18:10:27Z"
+    },
+    {
+      "id": 1339669759,
+      "full_name": "PerryLink/dsh-industry-research",
+      "html_url": "https://github.com/PerryLink/dsh-industry-research",
+      "description": "Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.",
+      "stars": 214,
+      "forks": 1,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-18T18:22:00Z",
+      "updated_at": "2026-10-18T18:22:03Z"
+    },
+    {
+      "id": 1189273325,
+      "full_name": "coddy-project/coddy-agent",
+      "html_url": "https://github.com/coddy-project/coddy-agent",
+      "description": "General-purpose agent in one static Go binary: console TUI, ACP server for editors, OpenAI-compatible API with embedded web UI, Telegram gateway, cron scheduler, swarm relay, remote mode. Rules, skills, subagents, hooks, MCP, background tasks, long-term memory, context compaction. Any OpenAI-compatible provider, distroless-ready.",
+      "stars": 179,
+      "forks": 27,
+      "language": "Go",
+      "pushed_at": "2026-10-18T18:23:55Z",
+      "updated_at": "2026-10-18T18:23:12Z"
+    },
+    {
+      "id": 1160004652,
+      "full_name": "kstevica/captain-claw",
+      "html_url": "https://github.com/kstevica/captain-claw",
+      "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
+      "stars": 172,
+      "forks": 21,
+      "language": "Python",
+      "pushed_at": "2026-10-18T18:28:18Z",
+      "updated_at": "2026-10-18T18:28:23Z"
     }
   ]
 }
