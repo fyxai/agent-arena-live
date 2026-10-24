@@ -5,73 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1850,
+  "total_found": 1853,
   "items": [
     {
-      "id": 805155266,
-      "full_name": "CherryHQ/cherry-studio",
-      "html_url": "https://github.com/CherryHQ/cherry-studio",
-      "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-      "stars": 52926,
-      "forks": 5115,
+      "id": 1197990888,
+      "full_name": "Twigpine/openclaude",
+      "html_url": "https://github.com/Twigpine/openclaude",
+      "description": "runs anywhere. uses anything",
+      "stars": 34127,
+      "forks": 9130,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:58:57Z",
-      "updated_at": "2026-10-24T03:50:54Z"
-    },
-    {
-      "id": 655515393,
-      "full_name": "CopilotKit/CopilotKit",
-      "html_url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 38196,
-      "forks": 4765,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:51:47Z",
-      "updated_at": "2026-10-24T03:51:50Z"
+      "pushed_at": "2026-10-24T08:44:48Z",
+      "updated_at": "2026-10-24T08:44:53Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "stars": 30818,
+      "stars": 30829,
       "forks": 2245,
       "language": "Rust",
-      "pushed_at": "2026-10-24T03:58:23Z",
-      "updated_at": "2026-10-24T03:46:18Z"
+      "pushed_at": "2026-10-24T08:43:58Z",
+      "updated_at": "2026-10-24T08:40:46Z"
     },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28680,
-      "forks": 3252,
+      "stars": 28685,
+      "forks": 3253,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:56:05Z",
-      "updated_at": "2026-10-24T03:56:18Z"
+      "pushed_at": "2026-10-24T08:47:13Z",
+      "updated_at": "2026-10-24T08:47:19Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 3593,
-      "forks": 542,
+      "stars": 3684,
+      "forks": 552,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:56:53Z",
-      "updated_at": "2026-10-24T03:54:02Z"
+      "pushed_at": "2026-10-24T08:48:30Z",
+      "updated_at": "2026-10-24T08:48:08Z"
     },
     {
-      "id": 1310543401,
-      "full_name": "agentconnect-md/agentconnect",
-      "html_url": "https://github.com/agentconnect-md/agentconnect",
-      "description": "The open-source, multi-agent alternative to Claude Tag.  @ any agent, wherever work happens, they work alongside your team, learning as they go.",
-      "stars": 1486,
-      "forks": 72,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:57:30Z",
-      "updated_at": "2026-10-24T03:50:02Z"
+      "id": 1310758816,
+      "full_name": "Pinvou/pinvou-agent",
+      "html_url": "https://github.com/Pinvou/pinvou-agent",
+      "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+      "stars": 2604,
+      "forks": 382,
+      "language": "Rust",
+      "pushed_at": "2026-10-24T08:48:27Z",
+      "updated_at": "2026-10-24T08:48:29Z"
+    },
+    {
+      "id": 1179388779,
+      "full_name": "ethanplusai/harvey",
+      "html_url": "https://github.com/ethanplusai/harvey",
+      "description": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.",
+      "stars": 2376,
+      "forks": 490,
+      "language": "Python",
+      "pushed_at": "2026-10-24T08:46:27Z",
+      "updated_at": "2026-10-24T08:45:43Z"
     },
     {
       "id": 1096175506,
@@ -81,52 +81,30 @@
       "stars": 1161,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:56:54Z",
-      "updated_at": "2026-10-24T03:54:32Z"
+      "pushed_at": "2026-10-24T08:47:39Z",
+      "updated_at": "2026-10-24T08:41:29Z"
     },
     {
-      "id": 1109341946,
-      "full_name": "asheshgoplani/agent-deck",
-      "html_url": "https://github.com/asheshgoplani/agent-deck",
-      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
-      "stars": 1153,
-      "forks": 208,
+      "id": 1235467345,
+      "full_name": "ys-ll/uniterm",
+      "html_url": "https://github.com/ys-ll/uniterm",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
+      "stars": 911,
+      "forks": 136,
       "language": "Go",
-      "pushed_at": "2026-10-24T03:48:17Z",
-      "updated_at": "2026-10-24T03:50:27Z"
+      "pushed_at": "2026-10-24T08:47:03Z",
+      "updated_at": "2026-10-24T08:47:03Z"
     },
     {
-      "id": 1176557412,
-      "full_name": "LvcidPsyche/auto-browser",
-      "html_url": "https://github.com/LvcidPsyche/auto-browser",
-      "description": "Give your AI agent a real browser — with a human in the loop. Open-source MCP-native browser agent.",
-      "stars": 916,
-      "forks": 155,
+      "id": 1274452075,
+      "full_name": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+      "html_url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+      "description": "Learn harness engineering by building Claude Code from scratch. Free, open-source course: 8 articles, 6 videos, 1 codebase.",
+      "stars": 683,
+      "forks": 180,
       "language": "Python",
-      "pushed_at": "2026-10-24T03:53:57Z",
-      "updated_at": "2026-10-24T03:44:37Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 881,
-      "forks": 85,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:49:00Z",
-      "updated_at": "2026-10-24T03:49:03Z"
-    },
-    {
-      "id": 1311664525,
-      "full_name": "KitionAI/kition",
-      "html_url": "https://github.com/KitionAI/kition",
-      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
-      "stars": 514,
-      "forks": 39,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:57:40Z",
-      "updated_at": "2026-10-24T03:57:43Z"
+      "pushed_at": "2026-10-24T08:43:07Z",
+      "updated_at": "2026-10-24T08:43:11Z"
     },
     {
       "id": 1174812893,
@@ -136,41 +114,63 @@
       "stars": 488,
       "forks": 150,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:58:39Z",
-      "updated_at": "2026-10-24T03:44:25Z"
+      "pushed_at": "2026-10-24T08:47:27Z",
+      "updated_at": "2026-10-24T08:45:19Z"
     },
     {
-      "id": 1293344456,
-      "full_name": "adongwanai/learn-workbuddy",
-      "html_url": "https://github.com/adongwanai/learn-workbuddy",
-      "description": "从 0 复刻 WorkBuddy-style 桌面 AI 助手 Harness：24 章 Python 教程，覆盖 Agent Loop、工具调用、记忆系统、Sidecar、沙盒审计、DeepSeek/OpenAI 评测轨迹",
-      "stars": 468,
-      "forks": 78,
-      "language": "Python",
-      "pushed_at": "2026-10-24T03:56:38Z",
-      "updated_at": "2026-10-24T03:56:42Z"
+      "id": 1332399543,
+      "full_name": "JiangNanGenius/floe-agent",
+      "html_url": "https://github.com/JiangNanGenius/floe-agent",
+      "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-first. 开源设备端 AI 智能体与本地运行环境。",
+      "stars": 309,
+      "forks": 43,
+      "language": "Swift",
+      "pushed_at": "2026-10-24T08:41:49Z",
+      "updated_at": "2026-10-24T08:37:53Z"
     },
     {
-      "id": 1161723599,
-      "full_name": "AmrDab/clawdcursor",
-      "html_url": "https://github.com/AmrDab/clawdcursor",
-      "description": "Local MCP server that gives any AI agent safe desktop control on Windows, macOS and Linux. Reads the screen as text and structure (accessibility + OCR) and acts by element name, with screenshots as the last resort. Multi-monitor aware, verifies every action, one safety gate.",
-      "stars": 406,
-      "forks": 59,
+      "id": 719577983,
+      "full_name": "chmonitor/chmonitor",
+      "html_url": "https://github.com/chmonitor/chmonitor",
+      "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations.",
+      "stars": 305,
+      "forks": 49,
       "language": "TypeScript",
-      "pushed_at": "2026-10-24T03:56:43Z",
-      "updated_at": "2026-10-24T03:56:46Z"
+      "pushed_at": "2026-10-24T08:45:13Z",
+      "updated_at": "2026-10-24T08:44:15Z"
     },
     {
-      "id": 809764991,
-      "full_name": "shibing624/agentica",
-      "html_url": "https://github.com/shibing624/agentica",
-      "description": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and self-evolving skills. 一个人，一支 Agent 团队：支持多终端协作、持久记忆与技能自进化的 AI Agent 框架。",
-      "stars": 357,
-      "forks": 48,
+      "id": 1373676024,
+      "full_name": "BotHarness/DeepSeekBot",
+      "html_url": "https://github.com/BotHarness/DeepSeekBot",
+      "description": "Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.",
+      "stars": 273,
+      "forks": 18,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-24T08:47:09Z",
+      "updated_at": "2026-10-24T08:47:14Z"
+    },
+    {
+      "id": 1241773613,
+      "full_name": "dzianisv/opencode-mobile",
+      "html_url": "https://github.com/dzianisv/opencode-mobile",
+      "description": "OpenCode Mobile — open-source Android client for the OpenCode AI coding agent. Run AI coding sessions from your phone against your self-hosted server over Tailscale. Available on F-Droid.",
+      "stars": 248,
+      "forks": 68,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-24T08:41:41Z",
+      "updated_at": "2026-10-24T08:41:46Z"
+    },
+    {
+      "id": 1345151921,
+      "full_name": "orbi-build/orbi",
+      "html_url": "https://github.com/orbi-build/orbi",
+      "description": "Open-source (AGPL-3.0), self-hostable lights-out software factory for the agent era: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.",
+      "stars": 226,
+      "forks": 28,
       "language": "Python",
-      "pushed_at": "2026-10-24T03:50:37Z",
-      "updated_at": "2026-10-24T03:50:41Z"
+      "pushed_at": "2026-10-24T08:40:45Z",
+      "updated_at": "2026-10-24T08:40:48Z"
     }
   ]
 }
