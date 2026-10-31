@@ -5,84 +5,73 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 1920,
+  "total_found": 1926,
   "items": [
+    {
+      "id": 1125856365,
+      "full_name": "can1357/oh-my-pi",
+      "html_url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "stars": 37300,
+      "forks": 4192,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T14:22:52Z",
+      "updated_at": "2026-10-31T14:22:56Z"
+    },
     {
       "id": 1008713177,
       "full_name": "QwenLM/qwen-code",
       "html_url": "https://github.com/QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28842,
-      "forks": 3290,
+      "stars": 28848,
+      "forks": 3294,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:49:02Z",
-      "updated_at": "2026-10-31T04:42:25Z"
-    },
-    {
-      "id": 1207639951,
-      "full_name": "EKKOLearnAI/ekko-studio",
-      "html_url": "https://github.com/EKKOLearnAI/ekko-studio",
-      "description": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
-      "stars": 11617,
-      "forks": 1442,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:51:35Z",
-      "updated_at": "2026-10-31T04:51:44Z"
-    },
-    {
-      "id": 1015815983,
-      "full_name": "zhouxiaoka/autoclip",
-      "html_url": "https://github.com/zhouxiaoka/autoclip",
-      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-      "stars": 9877,
-      "forks": 1754,
-      "language": "Python",
-      "pushed_at": "2026-10-31T04:32:54Z",
-      "updated_at": "2026-10-31T04:40:23Z"
+      "pushed_at": "2026-10-31T14:24:01Z",
+      "updated_at": "2026-10-31T14:15:30Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 8728,
-      "forks": 1038,
+      "stars": 8794,
+      "forks": 1047,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:48:12Z",
-      "updated_at": "2026-10-31T04:43:06Z"
+      "pushed_at": "2026-10-31T14:24:04Z",
+      "updated_at": "2026-10-31T14:24:18Z"
     },
     {
-      "id": 1258301311,
-      "full_name": "rlaope/oh-my-hermes",
-      "html_url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "⚚ The coding harness with Hermes Agent wired into IDE.",
-      "stars": 4940,
-      "forks": 394,
+      "id": 1431851693,
+      "full_name": "rddmwmddr/android-ad-cleaner",
+      "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "stars": 5294,
+      "forks": 475,
       "language": "Python",
-      "pushed_at": "2026-10-31T04:50:13Z",
-      "updated_at": "2026-10-31T04:37:01Z"
+      "pushed_at": "2026-10-31T14:19:54Z",
+      "updated_at": "2026-10-31T14:22:36Z"
     },
     {
       "id": 1303258850,
       "full_name": "kirodotdev/KiroCrew",
       "html_url": "https://github.com/kirodotdev/KiroCrew",
       "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4674,
-      "forks": 914,
+      "stars": 4689,
+      "forks": 918,
       "language": "Python",
-      "pushed_at": "2026-10-31T04:51:20Z",
-      "updated_at": "2026-10-31T04:40:47Z"
+      "pushed_at": "2026-10-31T14:24:28Z",
+      "updated_at": "2026-10-31T14:13:41Z"
     },
     {
-      "id": 1438540053,
-      "full_name": "wangzan101/Mika",
-      "html_url": "https://github.com/wangzan101/Mika",
-      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stars": 1665,
-      "forks": 261,
-      "language": "Kotlin",
-      "pushed_at": "2026-10-31T04:51:15Z",
-      "updated_at": "2026-10-31T04:51:30Z"
+      "id": 1213220459,
+      "full_name": "iFurySt/open-computer-use",
+      "html_url": "https://github.com/iFurySt/open-computer-use",
+      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+      "stars": 2790,
+      "forks": 253,
+      "language": "Swift",
+      "pushed_at": "2026-10-31T14:20:04Z",
+      "updated_at": "2026-10-31T14:20:09Z"
     },
     {
       "id": 1096175506,
@@ -92,19 +81,30 @@
       "stars": 1162,
       "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:50:10Z",
-      "updated_at": "2026-10-31T04:50:13Z"
+      "pushed_at": "2026-10-31T14:18:08Z",
+      "updated_at": "2026-10-31T14:15:26Z"
     },
     {
-      "id": 1146091496,
-      "full_name": "Enderfga/claw-orchestrator",
-      "html_url": "https://github.com/Enderfga/claw-orchestrator",
-      "description": "Run Claude Code, Codex, Antigravity, Grok Build and OpenCode behind one runtime, and a run only counts as done when checks it didn't write pass. Cross-engine fan-out, councils, session handoff, spend caps, MCP server, ACP agent.",
-      "stars": 602,
-      "forks": 102,
+      "id": 1280115203,
+      "full_name": "zhoushoujianwork/easyeda-agent",
+      "html_url": "https://github.com/zhoushoujianwork/easyeda-agent",
+      "description": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "stars": 898,
+      "forks": 112,
+      "language": "Go",
+      "pushed_at": "2026-10-31T14:13:00Z",
+      "updated_at": "2026-10-31T14:13:04Z"
+    },
+    {
+      "id": 1311664525,
+      "full_name": "KitionAI/kition",
+      "html_url": "https://github.com/KitionAI/kition",
+      "description": "Kition brings Markdown, DataTable, WhiteBoard, a tool-using AI agent, browser research, and visual workflows into one desktop workspace. ",
+      "stars": 557,
+      "forks": 41,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:34:42Z",
-      "updated_at": "2026-10-31T04:34:47Z"
+      "pushed_at": "2026-10-31T14:20:05Z",
+      "updated_at": "2026-10-31T14:20:09Z"
     },
     {
       "id": 1174812893,
@@ -112,65 +112,65 @@
       "html_url": "https://github.com/code-yeongyu/senpi",
       "description": "pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first additions. ganbare ganbare senpi 頑張れ頑張れ先輩",
       "stars": 503,
-      "forks": 155,
+      "forks": 156,
       "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:51:38Z",
-      "updated_at": "2026-10-31T04:46:36Z"
+      "pushed_at": "2026-10-31T14:23:29Z",
+      "updated_at": "2026-10-31T14:23:31Z"
     },
     {
-      "id": 1194576770,
-      "full_name": "sonichi/sutando",
-      "html_url": "https://github.com/sonichi/sutando",
-      "description": "My AI Stand. Realtime by day, rewriting itself by night. Summon my AI superpower.",
-      "stars": 401,
-      "forks": 99,
-      "language": "Python",
-      "pushed_at": "2026-10-31T04:32:38Z",
-      "updated_at": "2026-10-31T04:32:40Z"
-    },
-    {
-      "id": 1332399543,
-      "full_name": "JiangNanGenius/floe-agent",
-      "html_url": "https://github.com/JiangNanGenius/floe-agent",
-      "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Python/Node.js, Git and web previews; BYOK AI, Notes, Office, Canvas, CAD/3D, voice, Skill Hub and supported local models on iOS. 开源设备端 AI 智能体工作台。",
-      "stars": 387,
-      "forks": 55,
+      "id": 1308268969,
+      "full_name": "kaishi00/hermes-conduit",
+      "html_url": "https://github.com/kaishi00/hermes-conduit",
+      "description": "Conduit — native SwiftUI iOS client for Hermes Agent",
+      "stars": 496,
+      "forks": 65,
       "language": "Swift",
-      "pushed_at": "2026-10-31T04:50:00Z",
-      "updated_at": "2026-10-31T04:50:05Z"
+      "pushed_at": "2026-10-31T14:22:36Z",
+      "updated_at": "2026-10-31T14:17:35Z"
     },
     {
-      "id": 1345151921,
-      "full_name": "orbi-build/orbi",
-      "html_url": "https://github.com/orbi-build/orbi",
-      "description": "Open-source (AGPL-3.0), self-hostable lights-out software factory for the agent era: label a GitHub Issue, get an independently reviewed, merged PR and a tagged release.",
-      "stars": 240,
+      "id": 1340676550,
+      "full_name": "wangmiaozero/pi-harness",
+      "html_url": "https://github.com/wangmiaozero/pi-harness",
+      "description": "The operational superset of Pi Coding Agent — everything Pi, plus observability, governance, recovery, evaluation and multi-agent orchestration. Pi Coding Agent 的运维超集——完整继承 Pi 的核心能力，并进一步扩展可观测性、治理、故障恢复、评估和多 Agent 编排。",
+      "stars": 190,
+      "forks": 17,
+      "language": "TypeScript",
+      "pushed_at": "2026-10-31T14:17:15Z",
+      "updated_at": "2026-10-31T14:17:18Z"
+    },
+    {
+      "id": 1334894476,
+      "full_name": "bigfish1913/pi-rust",
+      "html_url": "https://github.com/bigfish1913/pi-rust",
+      "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ABI",
+      "stars": 177,
+      "forks": 35,
+      "language": "Rust",
+      "pushed_at": "2026-10-31T14:22:53Z",
+      "updated_at": "2026-10-31T14:22:58Z"
+    },
+    {
+      "id": 1255527274,
+      "full_name": "oaslananka/kicad-mcp-pro",
+      "html_url": "https://github.com/oaslananka/kicad-mcp-pro",
+      "description": "MCP server for KiCad, connecting AI agents to schematic and PCB workflows, ERC/DRC validation, DFM checks, BOM analysis, and manufacturing preparation—with controlled edits and human-gated release workflows.",
+      "stars": 167,
       "forks": 31,
       "language": "Python",
-      "pushed_at": "2026-10-31T04:39:52Z",
-      "updated_at": "2026-10-31T04:39:54Z"
+      "pushed_at": "2026-10-31T14:19:57Z",
+      "updated_at": "2026-10-31T14:19:59Z"
     },
     {
-      "id": 1210011300,
-      "full_name": "Astro-Han/pawwork",
-      "html_url": "https://github.com/Astro-Han/pawwork",
-      "description": "PawWork — free, open-source desktop AI agent for macOS and Windows, built on DeepSeek Harness (DSH). Free models included, no API key or terminal. Office files, web search, and scheduled automations out of the box. An open alternative to Codex App and Claude Cowork.",
-      "stars": 204,
-      "forks": 24,
-      "language": "TypeScript",
-      "pushed_at": "2026-10-31T04:36:34Z",
-      "updated_at": "2026-10-31T04:36:03Z"
-    },
-    {
-      "id": 1187455604,
-      "full_name": "sesori-ai/sesori_apps_monorepo",
-      "html_url": "https://github.com/sesori-ai/sesori_apps_monorepo",
-      "description": "Sesori iOS/Android app and the Sesori Bridge CLI — drive Claude, Codex, OpenCode, Cursor, Pi, OMP, Hermes coding sessions from your phone",
-      "stars": 139,
-      "forks": 11,
-      "language": "Dart",
-      "pushed_at": "2026-10-31T04:46:03Z",
-      "updated_at": "2026-10-31T04:46:05Z"
+      "id": 1283015427,
+      "full_name": "israriqbal/agent-ecologies",
+      "html_url": "https://github.com/israriqbal/agent-ecologies",
+      "description": "Ultimate Multi-Agent OS for Autonomous AI NPCs 2026",
+      "stars": 121,
+      "forks": 1,
+      "language": "HTML",
+      "pushed_at": "2026-10-31T14:21:15Z",
+      "updated_at": "2026-10-31T14:21:19Z"
     }
   ]
 }
