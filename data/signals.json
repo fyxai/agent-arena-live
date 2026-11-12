@@ -5,172 +5,172 @@
     "type": "github-search",
     "query": "topic:ai-agent stars:>50 pushed:>=2024-01-01"
   },
-  "total_found": 2043,
+  "total_found": 2047,
   "items": [
     {
       "id": 1024554267,
       "full_name": "NousResearch/hermes-agent",
       "html_url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 262730,
-      "forks": 59050,
+      "stars": 262798,
+      "forks": 59096,
       "language": "Python",
-      "pushed_at": "2026-11-11T22:30:24Z",
-      "updated_at": "2026-11-11T22:34:44Z"
+      "pushed_at": "2026-11-12T06:33:49Z",
+      "updated_at": "2026-11-12T06:32:53Z"
+    },
+    {
+      "id": 1147094660,
+      "full_name": "HKUDS/nanobot",
+      "html_url": "https://github.com/HKUDS/nanobot",
+      "description": "Your lightweight open-source personal agent.",
+      "stars": 50029,
+      "forks": 8731,
+      "language": "Python",
+      "pushed_at": "2026-11-12T06:34:47Z",
+      "updated_at": "2026-11-12T06:30:01Z"
     },
     {
       "id": 655515393,
       "full_name": "CopilotKit/CopilotKit",
       "html_url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-      "stars": 38641,
-      "forks": 4815,
+      "stars": 38650,
+      "forks": 4819,
       "language": "TypeScript",
-      "pushed_at": "2026-11-11T22:30:54Z",
-      "updated_at": "2026-11-11T22:16:30Z"
+      "pushed_at": "2026-11-12T06:16:16Z",
+      "updated_at": "2026-11-12T06:22:35Z"
+    },
+    {
+      "id": 1216785679,
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "html_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "A reliable coding agent for complex software engineering tasks.",
+      "stars": 36162,
+      "forks": 2501,
+      "language": "Go",
+      "pushed_at": "2026-11-12T06:14:39Z",
+      "updated_at": "2026-11-12T06:23:52Z"
     },
     {
       "id": 925270205,
       "full_name": "trycua/cua",
       "html_url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
-      "stars": 32199,
-      "forks": 2415,
+      "stars": 32223,
+      "forks": 2419,
       "language": "Rust",
-      "pushed_at": "2026-11-11T22:22:42Z",
-      "updated_at": "2026-11-11T22:18:33Z"
+      "pushed_at": "2026-11-12T06:34:54Z",
+      "updated_at": "2026-11-12T06:24:41Z"
+    },
+    {
+      "id": 1008713177,
+      "full_name": "QwenLM/qwen-code",
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 29494,
+      "forks": 3371,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-12T06:33:54Z",
+      "updated_at": "2026-11-12T06:25:47Z"
+    },
+    {
+      "id": 560299175,
+      "full_name": "teableio/teable",
+      "html_url": "https://github.com/teableio/teable",
+      "description": "✨ AI Spreadsheet for Business",
+      "stars": 21976,
+      "forks": 1362,
+      "language": "TypeScript",
+      "pushed_at": "2026-11-12T06:25:42Z",
+      "updated_at": "2026-11-12T06:25:44Z"
     },
     {
       "id": 1432967563,
       "full_name": "ccch1mneyyy/dsh-Go",
       "html_url": "https://github.com/ccch1mneyyy/dsh-Go",
       "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "stars": 19679,
-      "forks": 876,
+      "stars": 20044,
+      "forks": 898,
       "language": "Dart",
-      "pushed_at": "2026-11-11T22:34:27Z",
-      "updated_at": "2026-11-11T22:34:01Z"
+      "pushed_at": "2026-11-12T06:33:44Z",
+      "updated_at": "2026-11-12T06:33:23Z"
     },
     {
       "id": 1266212515,
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "stars": 11339,
+      "stars": 11344,
       "forks": 1879,
       "language": "Python",
-      "pushed_at": "2026-11-11T22:33:43Z",
-      "updated_at": "2026-11-11T22:31:37Z"
+      "pushed_at": "2026-11-12T06:34:54Z",
+      "updated_at": "2026-11-12T06:21:09Z"
     },
     {
       "id": 1309102418,
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stars": 9833,
-      "forks": 1226,
+      "stars": 9891,
+      "forks": 1231,
       "language": "TypeScript",
-      "pushed_at": "2026-11-11T22:29:35Z",
-      "updated_at": "2026-11-11T22:18:33Z"
+      "pushed_at": "2026-11-12T06:19:38Z",
+      "updated_at": "2026-11-12T06:20:07Z"
+    },
+    {
+      "id": 1431851693,
+      "full_name": "rddmwmddr/android-ad-cleaner",
+      "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "stars": 7635,
+      "forks": 680,
+      "language": "Python",
+      "pushed_at": "2026-11-12T06:33:34Z",
+      "updated_at": "2026-11-12T06:33:48Z"
     },
     {
       "id": 1258301311,
       "full_name": "rlaope/oh-my-hermes",
       "html_url": "https://github.com/rlaope/oh-my-hermes",
       "description": "⚚ The ultrawork agent with AI coworkers wired into you",
-      "stars": 5483,
-      "forks": 439,
+      "stars": 5517,
+      "forks": 445,
       "language": "Python",
-      "pushed_at": "2026-11-11T22:25:50Z",
-      "updated_at": "2026-11-11T22:32:31Z"
+      "pushed_at": "2026-11-12T06:33:26Z",
+      "updated_at": "2026-11-12T06:20:14Z"
     },
     {
-      "id": 1303258850,
-      "full_name": "kirodotdev/KiroCrew",
-      "html_url": "https://github.com/kirodotdev/KiroCrew",
-      "description": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "stars": 4899,
-      "forks": 1018,
-      "language": "Python",
-      "pushed_at": "2026-11-11T22:35:40Z",
-      "updated_at": "2026-11-11T22:19:06Z"
-    },
-    {
-      "id": 1187014628,
-      "full_name": "can4hou6joeng4/boss-agent-cli",
-      "html_url": "https://github.com/can4hou6joeng4/boss-agent-cli",
-      "description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk & compliant by default.",
-      "stars": 2212,
-      "forks": 189,
-      "language": "Python",
-      "pushed_at": "2026-11-11T22:35:09Z",
-      "updated_at": "2026-11-11T22:06:58Z"
-    },
-    {
-      "id": 1343438200,
-      "full_name": "rome-os/rome",
-      "html_url": "https://github.com/rome-os/rome",
-      "description": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
-      "stars": 897,
-      "forks": 68,
+      "id": 1096175506,
+      "full_name": "okou-ai/okou",
+      "html_url": "https://github.com/okou-ai/okou",
+      "description": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
+      "stars": 1162,
+      "forks": 74,
       "language": "TypeScript",
-      "pushed_at": "2026-11-11T22:32:22Z",
-      "updated_at": "2026-11-11T22:21:51Z"
-    },
-    {
-      "id": 1160289313,
-      "full_name": "rcarmo/piclaw",
-      "html_url": "https://github.com/rcarmo/piclaw",
-      "description": "pi coding agent in a technicolor web trenchcoat ",
-      "stars": 890,
-      "forks": 87,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-11T22:27:15Z",
-      "updated_at": "2026-11-11T22:30:05Z"
-    },
-    {
-      "id": 1373676024,
-      "full_name": "BotHarness/DeepSeekBot",
-      "html_url": "https://github.com/BotHarness/DeepSeekBot",
-      "description": "Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.",
-      "stars": 807,
-      "forks": 58,
-      "language": "TypeScript",
-      "pushed_at": "2026-11-11T22:19:45Z",
-      "updated_at": "2026-11-11T22:17:00Z"
+      "pushed_at": "2026-11-12T06:34:37Z",
+      "updated_at": "2026-11-12T06:20:35Z"
     },
     {
       "id": 1302376968,
       "full_name": "leo1oel/lattice",
       "html_url": "https://github.com/leo1oel/lattice",
       "description": "A local-first, agent-first LaTeX writing app for macOS: live PDF, annotations, papers and Overleaf sync",
-      "stars": 464,
-      "forks": 41,
+      "stars": 474,
+      "forks": 42,
       "language": "TypeScript",
-      "pushed_at": "2026-11-11T22:24:18Z",
-      "updated_at": "2026-11-11T22:15:30Z"
+      "pushed_at": "2026-11-12T06:15:13Z",
+      "updated_at": "2026-11-12T06:15:18Z"
     },
     {
-      "id": 1406324573,
-      "full_name": "guregodevo/memdoor",
-      "html_url": "https://github.com/guregodevo/memdoor",
-      "description": "The CLI coding agent with Team Mode: cheap models, frontier results.",
-      "stars": 389,
-      "forks": 46,
+      "id": 1213667879,
+      "full_name": "patriceckhart/zot",
+      "html_url": "https://github.com/patriceckhart/zot",
+      "description": "Yet another coding agent harness, lightweight and written in go.",
+      "stars": 368,
+      "forks": 50,
       "language": "Go",
-      "pushed_at": "2026-11-11T22:15:30Z",
-      "updated_at": "2026-11-11T22:27:58Z"
-    },
-    {
-      "id": 1191392222,
-      "full_name": "gebruder/wirken",
-      "html_url": "https://github.com/gebruder/wirken",
-      "description": "The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log.",
-      "stars": 212,
-      "forks": 15,
-      "language": "Rust",
-      "pushed_at": "2026-11-11T22:26:47Z",
-      "updated_at": "2026-11-11T22:30:12Z"
+      "pushed_at": "2026-11-12T06:32:32Z",
+      "updated_at": "2026-11-11T18:49:33Z"
     }
   ]
 }
